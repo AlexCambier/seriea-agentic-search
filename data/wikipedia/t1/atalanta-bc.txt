@@ -1,0 +1,309 @@
+page: Atalanta BC
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=Atalanta_BC&oldid=1356017445
+extracted: 2026-09-23
+chunks: 51
+
+=== chunk 1 · Introduction ===
+Full name: Atalanta Bergamasca Calcio S.p.A.
+Nicknames: La Dea (The Goddess ) Gli Orobici (The Orobics ) I Nerazzurri (The Black and Blues)
+Founded: 17 October 1907 ; 118 years ago ( 1907-10-17 ) as SBG Atalanta 30 March 1920 ; 106 years ago ( 1920-03-30 ) as Atalanta Bergamasca Calcio
+Ground: Stadio di Bergamo
+Capacity: 23,439
+Owner(s): La Dea S.r.l. (86%) ( Stephen Pagliuca and others 55%; Antonio Percassi 45%) Others (14%)
+President: Antonio Percassi
+Head coach: Raffaele Palladino
+League: Serie A
+Website: www .atalanta .it
+Atalanta Bergamasca Calcio ( Italian: [ ataˈlanta berɡaˈmaska ˈkaltʃo ] ), commonly referred to as Atalanta , is an Italian professional football club based in Bergamo , Lombardy , Italy, who compete in Serie A , the top tier of the Italian league system . Founded in 1907, Atalanta holds the record for having played the most Serie A seasons (64) without being based in a regional capital and without having won the league title. Furthermore, the club holds the record for most promotions to the Serie A, and also that for the joint-most Serie B titles, alongside Genoa .
+
+=== chunk 2 · Introduction ===
+Atalanta won the Coppa Italia in 1963 and the UEFA Europa League in 2024 . The club qualified for the UEFA Champions League five times, reaching the quarter-finals in 2020 , and participated in six seasons of the UEFA Europa League (previously known as the UEFA Cup). Atalanta also reached the semi-finals of the Cup Winners' Cup in 1988 , when it was competing in Serie B. This is still the joint-best performance ever by a non-first division club in a major UEFA competition.
+The club plays its home games at the New Balance Arena and its main kit colors are black and blue. Atalanta had a long-standing rivalry with nearby club Brescia Calcio until that team's dissolution in 2025; the rivalry continues with Brescia 's phoenix club , Union Brescia . The club is also famed for its youth academy , which has produced several notable talents who have played in the top leagues of Europe.
+
+=== chunk 3 · Founding and establishment in Serie A (1907–1959) ===
+Atalanta was founded on 17 October 1907 by students of the Liceo Classico Paolo Sarpi and was named after the female athlete of the same name from Greek mythology . Though it immediately established a football sector, it was not the first football association based in Bergamo: Football Club Bergamo was founded by Swiss emigrants in 1904 and was absorbed into another club, Bergamasca , in 1911. The Italian Football Federation did not recognize Atalanta until 1914, and in 1919 announced that it would only allow one club from Bergamo to compete in the highest national league (then called the Prima Categoria ). As Atalanta and Bergamasca were rivals and did not come to an agreement, admission to the Prima Categoria was decided by a playoff match; Atalanta won this match 2–0. A merger between the two clubs nevertheless occurred in 1920, forming the new club Atalanta Bergamasca di Ginnastica e Scherma 1907 (shortened to Atalanta Bergamasca Calcio ) and establishing its black and blue ( nerazzurri ) colors.
+
+=== chunk 4 · Founding and establishment in Serie A (1907–1959) ===
+Atalanta competed in the Seconda Divisione , the second tier, during the early 1920s. In the 1927–28 season, the club won its group and subsequently defeated Pistoiese in the playoffs to win promotion and its first second division league triumph. The club inaugurated its current home stadium in the Borgo Santa Caterina neighborhood in 1928, and was admitted to Serie B , the second tier of the restructured Italian league, in 1929. After almost a decade in Serie B, Atalanta achieved its first promotion to Serie A in 1937 under coach Ottavio Barbieri , though was relegated at the end of the season. The club returned to Serie A in 1940 as champion of Serie B .
+
+=== chunk 5 · Founding and establishment in Serie A (1907–1959) ===
+During the 1940s, Atalanta performed consistently in the top flight, though the national league was halted between 1943 and 1945 due to World War II . Atalanta achieved a fifth-place finish in the 1947–48 Serie A under coach Ivo Fiorentini, its highest league finish until 2017. The club earned a reputation as the provinciale terribile (terrible provincial team) during this time as a result of its successes against well-known metropolitan teams such as the Grande Torino , who won Serie A five times during the 1940s. Atalanta achieved mid-table finishes during much of the 1950s and remained in Serie A until 1958, when it was relegated due to accusations of match fixing . These accusations were found to be false a year later, after the club returned to Serie A by winning its second Serie B title.
+
+=== chunk 6 · Coppa Italia victory, decline, and reemergence in Europe (1959–1994) ===
+Atalanta won the Coppa Italia in 1963 , defeating Torino 3–1 in the final thanks to a hat-trick by striker Angelo Domenghini . This was the senior team's first major trophy. During the early 1960s, the club made its debut in European competitions, among them the 1961–62 Mitropa Cup , the Coppa dell'Amicizia, and the Coppa delle Alpi. As domestic cup winners, the club qualified for the 1963–64 European Cup Winners' Cup , its first major UEFA competition, though was eliminated by Portuguese club Sporting CP in the first round. The club made a few more appearances in international (though not UEFA) cups during the 1960s, though was relegated in 1969 after a decade in the top flight.
+
+=== chunk 7 · Coppa Italia victory, decline, and reemergence in Europe (1959–1994) ===
+During the 1970s, Atalanta experienced several movements between Serie A and Serie B, and was in the second tier for four consecutive seasons between 1973 and 1977. Despite playing in Serie B at the time, the club developed several young players who moved on to historically bigger clubs and won the 1982 FIFA World Cup with Italy . Several difficult seasons then saw Atalanta fall into Serie B in 1980 and Serie C1 in 1981, when for the first time in its history, the club would play outside the top two tiers. This was a blow that revitalized the club, from which many changes in management followed.
+
+=== chunk 8 · Coppa Italia victory, decline, and reemergence in Europe (1959–1994) ===
+Under new management, Atalanta comfortably won Group A of Serie C1 in 1982, returning to Serie B the next season and then to Serie A in 1984, where it would remain until 1987. Atalanta reached its second Coppa Italia final in 1987 , though lost 4–0 to Napoli over two legs . As Napoli also won Serie A that season and therefore qualified for the European Cup , Atalanta qualified for its second European Cup Winners' Cup . This was a turning point for the club; Emiliano Mondonico was appointed as coach and the club would achieve promotion after only one season in Serie B. In the Cup Winners' Cup, Atalanta lost its first match against Welsh club Merthyr Tydfil , but won the return fixture and went on to reach the semi-finals, where it would be eliminated 4–2 on aggregate by Belgian club K.V. Mechelen , who would eventually win the tournament. In doing so, Atalanta achieved the best finish in a UEFA competition of a club playing outside its country's top flight league. With a sixth-place finish in the 1988–89 Serie A , Atalanta qualified for its first UEFA Cup , though was eliminated by Russian club Spartak Moscow in the first round. Atalanta then finished seventh in the 1989–90 Serie A and reached the quarterfinals of the 1990–91 UEFA Cup , losing to local rival and eventual winner Internazionale .
+
+=== chunk 9 · Fluctuating performances (1994–2016) ===
+After several upper mid-table finishes and a narrowly missed UEFA cup qualification in 1993, the club was relegated in 1994 after several investments to raise the club's goals failed, though would return to Serie A in 1995. In the 1995–96 season , Atalanta reached the Coppa Italia final again, losing against Fiorentina . In 1996–97 season , striker Filippo Inzaghi scored 24 league goals and became the first (and so far only) Atalanta player to be named capocannoniere (Serie A top scorer). The club then sold several key players, causing it to struggle and return to Serie B in 1998; it would remain there until 2000, when coach Giovanni Vavassori revitalized the team with youth academy players in a successful promotion campaign.
+
+=== chunk 10 · Fluctuating performances (1994–2016) ===
+In the 2000s, Atalanta experienced more divisional movements: it was relegated in 2002–03 (despite finishing seventh two years prior) and 2004–05 , but achieved promotion to Serie A after only one season in Serie B both times, winning the 2005–06 edition . After a tumultuous 2009–10 season, which saw the club change coach three times, the club was once again relegated; after this relegation, entrepreneur Antonio Percassi became the club's new president. and Stefano Colantuono returned as coach. The club won Serie B in 2011 and thus immediately returned to Serie A. Despite this success, club captain Cristiano Doni was named among the suspects in a match-fixing scandal (also known as Calcioscommesse ); Doni was handed a three-and-a-half-year ban from football and the club was docked six points in the 2011–12 league table and two points in the 2012–13 league table. Throughout the early and mid-2010s, Atalanta generally lingered in lower-midtable in Serie A.
+
+=== chunk 11 · Gasperini era and European success (2016–2025) ===
+Former Genoa coach Gian Piero Gasperini was appointed as manager before the 2016–17 season . Despite initial difficulties, the club's results steadily improved throughout the season. Gasperini integrated players from the club's youth sector and led the club to a fourth-place league finish with 72 points, besting its previous records and qualifying for the 2017–18 UEFA Europa League after a 26-year absence from UEFA competitions. In the Europa League, the club reached the round of 32, losing 4–3 on aggregate to Borussia Dortmund . In 2017–18 , Atalanta finished seventh in the league, entering the qualifying rounds for 2018–19 UEFA Europa League , though was eliminated in a penalty shootout by Danish club Copenhagen . Despite a difficult start to the 2018–19 season , Atalanta achieved many positive results and finished third in Serie A , its best ever league finish; with this result, the club qualified for the UEFA Champions League group stage for the first time in its history. Atalanta also reached the Coppa Italia final , though lost 2–0 to Lazio .
+
+=== chunk 12 · Gasperini era and European success (2016–2025) ===
+In the 2019–20 season , Atalanta lost its first three Champions League matches, but went on to qualify for the round of 16. Atalanta then defeated Spanish club Valencia in both legs of the round of 16, reaching the quarterfinals, where it would be eliminated by French champion Paris Saint-Germain . The club also repeated its third-place finish in Serie A and achieved a second consecutive Champions League qualification, breaking several club records. In the 2020–21 season , Atalanta reached the round of 16 in the Champions League for the second time, following an away victory over Ajax . They would later secure Champions League qualification by finishing in third place in Serie A for the third consecutive time, and reached the Coppa Italia final for the second time in three years, though they lost 2–1 to Juventus .
+
+=== chunk 13 · Gasperini era and European success (2016–2025) ===
+On 19 February 2022, a US-based consortium led by Stephen Pagliuca acquired a 55% stake of La Dea srl, the controlling company of Atalanta, previously wholly owned by the Percassi family. Under the new agreement, Pagliuca was named co-chairman, with Antonio Percassi staying on as chairman. Atalanta finished eighth in Serie A in 2022, failing to qualify for European competitions, though rebounded the next season with a fifth-place finish in Serie A and qualification to the Europa League . On 4 August 2023, Atalanta established a reserve team in Serie C, becoming the second Italian club to do so. In the 2023–24 season , Atalanta reached the 2024 Coppa Italia final , losing to Juventus 1–0, and made its debut appearance in a European final, the UEFA Europa League final . In that match, the team defeated Bayer Leverkusen 3–0, thanks to a hat-trick by Ademola Lookman , to claim its first trophy since 1963; this was the first time an Italian club won the competition since it changed the name and format. In addition, Atalanta qualified for the 2024–25 UEFA Champions League after a three-year absence from the competition. Ahead of the 2025–26 season , Ivan Jurić was appointed as the new manager. But in November of the same year, he was dismissed and Raffaele Palladino took over.
+
+=== chunk 14 · Colours and kits ===
+The first kits adopted by Atalanta after its founding featured thin black and white vertical stripes. These were Atalanta's colours until 1920, when the club merged with local rival Bergamasca (which had blue and white kits) in order to compete in the Italian league. Following the merger, the common colour white was eliminated, leaving black and blue ( nerazzurri ) as the colours of the newly formed Atalanta Bergamasca Calcio. In the first years following this merger, the club's kits featured black and blue quarters. Atalanta adopted its classic black and blue vertical stripes several years later.
+Atalanta's home kits have characteristically had black and blue vertical stripes since their adoption in the 1920s. Slight variations in thickness of the stripes have existed over the years, though the club never strayed far from the classic design for its home kits. Atalanta's away kits have traditionally been mostly white, with various touches of black and blue and other details. The club's third kits and goalkeeper kits have not historically adhered to any strict pattern; many colours (among them green, red, light blue, and black) have been used for these over the years.
+
+=== chunk 15 · Colours and kits ===
+Since 2010, Atalanta plays its final home match of the calendar year, a " Christmas Match", in specially designed kits. The kits are then auctioned to raise money for charity.
+Period: 1980–81 · Kit manufacturer: Le Coq Sportif
+Period: 1981–82 · Kit manufacturer: Puma
+Period: 1982–84 · Kit manufacturer: Puma · Shirt sponsor Front: Sit-In
+Period: 1984–86 · Kit manufacturer: NR · Shirt sponsor Front: Sit-In
+Period: 1986–87 · Kit manufacturer: N2 · Shirt sponsor Front: Sit-In
+Period: 1987–89 · Kit manufacturer: Latas · Shirt sponsor Front: Sit-In
+Period: 1989–91 · Kit manufacturer: NR · Shirt sponsor Front: Tamoil
+Period: 1991–94 · Kit manufacturer: Lotto · Shirt sponsor Front: Tamoil
+Period: 1994–95 · Kit manufacturer: Asics · Shirt sponsor Front: Tamoil
+Period: 1995–00 · Kit manufacturer: Asics · Shirt sponsor Front: Somet
+Period: 2000–02 · Kit manufacturer: Asics · Shirt sponsor Front: Ortobell
+Period: 2002–05 · Kit manufacturer: Asics · Shirt sponsor Front: Promatech
+Period: 2005–06 · Kit manufacturer: Asics · Shirt sponsor Front: Sit-In Sport / Elesite (secondary)
+Period: 2006–07 · Kit manufacturer: Asics · Shirt sponsor Front: Sit-In Sport / Daihatsu (secondary)
+
+=== chunk 16 · Colours and kits ===
+Period: 2007–10 · Kit manufacturer: Erreà · Shirt sponsor Front: Sit-In Sport / Daihatsu (secondary)
+Period: 2010–11 · Kit manufacturer: Erreà · Shirt sponsor Front: AXA / Daihatsu (secondary)
+Period: 2011–14 · Kit manufacturer: Erreà · Shirt sponsor Front: AXA / Konica Minolta (secondary)
+Period: 2014–15 · Kit manufacturer: Nike · Shirt sponsor Front: SuisseGas / Konica Minolta (secondary) · Shirt sponsor Back: Various
+Period: 2015– February 2017 · Kit manufacturer: Nike · Shirt sponsor Front: SuisseGas / STONE CITY (secondary) · Shirt sponsor Back: Elettrocanali
+Period: February– June 2017 · Kit manufacturer: Nike · Shirt sponsor Front: TWS / Modus FM (secondary) · Shirt sponsor Back: Elettrocanali
+Period: 2017–18 · Kit manufacturer: Joma · Shirt sponsor Front: Veratour / Modus FM (secondary) / Radici Group (Europa League) · Shirt sponsor Back: Elettrocanali
+Period: 2018–20 · Kit manufacturer: Joma · Shirt sponsor Front: Radici Group / U-Power (secondary) · Shirt sponsor Back: Elettrocanali · Shirt sponsor Sleeve: Automha
+
+=== chunk 17 · Colours and kits ===
+Period: 2018–20 · Kit manufacturer: Joma · Shirt sponsor Front: Radici Group / U-Power (secondary) · Shirt sponsor Back: Gewiss [it] · Shirt sponsor Sleeve: Automha
+Period: 2020–23 · Kit manufacturer: Joma · Shirt sponsor Front: Plus500 / Radici Group(secondary) · Shirt sponsor Back: Gewiss [it] · Shirt sponsor Sleeve: Automha
+Period: 2023–24 · Kit manufacturer: Joma · Shirt sponsor Front: Paramount+ (Europa League final / Coppa Italia final) / Radici Group (secondary) · Shirt sponsor Back: Gewiss [it] · Shirt sponsor Sleeve: Radici Group (Europa League)
+Period: 2024–25 · Kit manufacturer: Joma · Shirt sponsor Front: Lete / Radici Group (secondary) · Shirt sponsor Back: Gewiss [it] · Shirt sponsor Sleeve: Radici Group (Europa League)
+Period: 2025–26 · Kit manufacturer: New Balance · Shirt sponsor Front: Lete / Snai Fun (secondary) · Shirt sponsor Back: Gewiss [it] · Shirt sponsor Sleeve: Zondacrypto
+
+=== chunk 18 · Crest ===
+Atalanta has had five crests since its foundation, all of which depict some combination of the team's name (except between 1984 and 1993), colours, and (since 1963) the Greek mythological athlete Atalanta , from whom the club derives its name as well as its nickname La Dea .
+The club's first three crests were shields featuring the name Atalanta on top, coloured stripes on the left, and another symbolic representation on the right. The original crest dates back to 1907 and had the club's original black and white stripes alongside a blue patch. In 1963, after the club won the Coppa Italia, the crest was redesigned to feature black and blue stripes alongside a running girl representing Atalanta. The crest's colours and representation of Atalanta changed again in the 1970s, though followed the same basic shape as the 1963 version.
+
+=== chunk 19 · Crest ===
+In 1984, the crest underwent a major redesign: the club's name and the running girl's body were removed from the crest and its shape was changed from a shield to a circle. This "classic" crest featured a white silhouette of Atalanta's head on a black and blue background, enclosed in three concentric white, black, and golden yellow circles. Black, blue, and white were retained—as the club's colours—while yellow was added to represent the golden apples , which according to mythology, Hippomenes tossed to Atalanta to distract her and defeat her in a footrace .
+The club's modern crest was designed in 1993. It incorporates the 1984 crest into its design, though tilts Atalanta's head and lacks the yellow circle. The name Atalanta and founding year 1907 were added respectively above and below the circle, which is enclosed in an ellipse featuring the same split black and blue background as the 1984 design.
+
+=== chunk 20 · Stadium ===
+Atalanta has played at its current stadium, the 24,950-seater Gewiss Stadium in the Borgo Santa Caterina neighborhood of Bergamo, since 1928. Prior to its opening, Atalanta played at several other grounds in Bergamo. Between its founding in 1907 and recognition by the FIGC in 1914, the club did not have a dedicated playing field and only played friendly matches in public spaces—the Piazza d'Armi and the Campo di Marte in Bergamo. In 1914, Atalanta's first playing field was established on the Via Maglio del Lotto, near the Bergamo–Milan railway . It measured 90 by 45 metres (295 by 148 ft ) and had a seated capacity of 1,000 spectators. Due to financial hardship during World War I , though, Atalanta was forced to sell the land containing its field, leaving it without a home ground. As a solution, entrepreneur and philanthropist Betty Ambiveri sold the Clementina field, an older venue in Seriate that hosted sporting events such as cycling, to the club. The new field was inaugurated as the Atalanta Stadium and it hosted 14,000 spectators in its first match against La Dominante of Genoa .
+
+=== chunk 21 · Stadium ===
+With the growth of football in the 1920s, Atalanta needed a new stadium. The new stadium was constructed on Viale Margherita (now Viale Giulio Cesare), replacing a hippodrome that once occupied the site. Construction of the new stadium took one year; it opened in 1928 and cost 3.5 million lire . The stadium was named after fascist Mario Brumana; this was common naming practice in fascist Italy . The Brumana stadium was much larger than the Clementina field, having a seated capacity of 12,000 spectators in two tribune (side stands) and a larger field measuring 110 by 70 metres (360 by 230 ft) ; it also featured a running track , as it was planned to form part of a larger complex. On 1 November 1928, Atalanta played its first unofficial match at the stadium (a 4–2 victory against Triestina ); the stadium was then officially inaugurated on 23 December 1928, when Atalanta defeated La Dominante Genova 2–0 in front of over 14,000 spectators.
+
+=== chunk 22 · Stadium ===
+After World War II , the stadium was renamed the Stadio Comunale ("Municipal Stadium"), as fascism no longer existed in Italy . Expansion of the stadium began in the years following the war: the construction of a south stand (the Curva Sud ) began in 1949, and a second stand at the north end (the Curva Nord ) followed during the 1960s, opening in 1971. Later, in 1984, the running track was removed in order to expand the stadium's capacity upon Atalanta's return to Serie A after five years. The club's first match in the 1984–85 Serie A , a 1–1 draw against Inter, had an attendance of over 43,000 spectators, a record attendance for the Stadio Comunale.
+
+=== chunk 23 · Stadium ===
+The Tribuna Giulio Cesare underwent modernization during the early 1990s, and the stadium was renamed the Stadio Atleti Azzurri d'Italia ("Blue Athletes of Italy") in 1994. In 1997, following the death of 22-year-old forward Federico Pisani in a car accident, the Curva Nord was nicknamed the Curva Pisani in his honor. Similarly, the Curva Sud was nicknamed the Curva Morosini in 2012 to posthumously honor 25-year-old youth academy player Piermario Morosini , who died following collapse on the field during a Serie B match between Pescara and Livorno . In 2015, the stadium also expanded its side stands to offer pitchside views only several meters (feet) from the benches, a revolutionary feature of Italian stadiums at the time.
+
+=== chunk 24 · Stadium ===
+On 10 May 2017, Atalanta announced the acquisition of the stadium from the comune for 8.6 million euros , becoming one of only four Serie A clubs to own its home stadium. This acquisition allowed the club to authorize a renovation project for the stadium, for like many Italian stadiums, much of its structure and facilities were considered outdated. This renovation project was also necessary to upgrade the stadium to meet UEFA standards for hosting matches in UEFA competitions. Because the stadium was not ready at the time, Atalanta had to play its Europa League home matches at the Mapei Stadium in Reggio Emilia and its Champions League home matches in its debut season at San Siro in Milan .
+
+=== chunk 25 · Stadium ===
+Following a sponsorship agreement with electronics company Gewiss lasting at least until 2025, the stadium was renamed the Gewiss Stadium on 1 July 2019. On 6 October 2019, the renovated Curva Nord was inaugurated for Atalanta's home match against Lecce ; it has covered seating for over 9,000 spectators. A year later, both side stands underwent modernization and the Curva Sud had temporary seats installed on the concrete . These upgrades allowed Atalanta to play its Champions League matches in Bergamo starting in the 2020–21 season. The final phase will feature a rebuilt Curva Sud (mirroring the rebuilt Curva Nord ), which will increase the stadium's capacity to about 25,000, as well as construction of a new underground parking garage and other improvements to the stadium's surroundings. It was originally expected to be completed in 2021, though following several delays, the start of construction its completion is expected by August 2024, with demolition of the Curva Sud beginning in June 2023. Atalanta will still be able to play its home matches at the Gewiss Stadium during construction, though the stadium will have a capacity of 3,500 fewer spectators.
+
+=== chunk 26 · Stadium ===
+The stadium in Bergamo has been used as a home ground by local Serie C club AlbinoLeffe from 2003 to 2019 (when it moved to Gorgonzola ), a period during which AlbinoLeffe spent nine years in Serie B and met Atalanta on several occasions . On occasion, Atalanta's youth team also plays competitive matches at the Gewiss Stadium, most recently the Supercoppa Primavera in 2021.
+
+=== chunk 27 · Training ground ===
+Atalanta trains at the Centro Sportivo Bortolotti in Zingonia [ it ] , a complex first constructed during the community's development in the 1960s, before being acquired for Atalanta by president Achille Bortolotti and inaugurated in 1977. The complex is used by the senior team for training and some friendlies, and the youth teams for training and home matches in youth competitions such as the Campionato Primavera 1 . Atalanta's renowned youth academy ( Scuola di Calcio ; see below) is also based in Zingonia, and has been a continuous point of investment for the club since its establishment.
+
+=== chunk 28 · Supporters ===
+"Being a fan of Atalanta is part of the identity of Bergamo."
+According to a 2022 survey [ update ] , Atalanta is the 9th-most supported club in Italy, with an estimated 314,000 supporters. Although Atalanta supporters are vastly outnumbered in Italy by fans of more titled clubs, the club's performances in recent years have drawn additional support, especially among younger generations. An increase of 43% was reported since 2019, peaking at about 350,000 in 2021, and decreasing by 10% after the club failed to qualify for European competitions in 2022. The club has also worked to grow its fanbase with the Neonati Atalantini initiative, implemented in 2010 by president Percassi, which gifts a free Atalanta replica shirt to all newborns born within the city limits of Bergamo. As of 2020 [ update ] , over 36,000 shirts have been distributed; similar programs have been more recently adopted by other Italian clubs as well.
+
+=== chunk 29 · Supporters ===
+Most of the club's fans reside within the Province of Bergamo ; conversely, there are very strong ties between Atalanta and Bergamo's residents, who often gather together in close-knit groups in support of the club. Atalanta supporters ( tifosi ) are considered to be among the most passionate and loyal fans in Italy. Atalanta's Ultras gather mostly in the Curva Nord as the unified group Curva Nord 1907, formed from members of various Ultras groups under the leadership of Claudio "Il Bocia" Galimberti during the early 2000s. The Curva Nord Ultras were historically leftist but are now apolitical . A separate Ultras group, Forever Atalanta, gathers in the Curva Sud , and is believed to still be leftist. Atalanta Ultras have a reputation as one of the most violent Ultras groups in Italy, self-describing as "we hate everybody", and indeed having few friends and many strong rivalries. The club and its Ultras have been punished on multiple occasions by the Italian Football League for violent or racist conduct.
+
+=== chunk 30 · Supporters ===
+On match days, the Curva Nord often features flares, fireworks , and choreography , and sometimes is covered by a large black-and-blue striped flag (see image). During the 2018–19 season, Atalanta matches had an average home attendance of 18,248, of whom an estimated 15,676 were season ticket holders.
+Since 2002, Atalanta supporters have organized La Festa della Dea (the Festival of the Goddess), a multi-day festival to celebrate the club, almost every summer. The celebration features music, local cuisine, and reverence for the club's history, management, and players (both former and current players). Some contemporary players and coaches also have appeared at the celebration, most recently in 2018.
+
+=== chunk 31 · Friendships and rivalries ===
+Atalanta supporters have a long-standing friendship ( gemellaggio ; twinning) with supporters of Ternana . The friendship between the two clubs' supporters is one of the oldest and strongest in Italy, persevering since the 1980s. Historically, both clubs' Ultras were brought together by shared political views, and they frequently visit the other club's Curva . Supporters of the club also have a historical twinning with supporters of German club Eintracht Frankfurt , a friendship similarly rooted in shared political views. There are also friendly relations between fans of Atalanta and fans of Spezia (since Atalanta's run in the European Cup Winners' Cup in 1988), Cosenza , Cavese , and Austrian club Wacker Innsbruck .
+
+=== chunk 32 · Friendships and rivalries ===
+Atalanta supporters share their most intense rivalry [ it ] with supporters of nearby club Brescia . Meetings between the two clubs are sometimes known as the Derby Lombardo (Lombard Derby). This rivalry has its roots in a historical feud between Bergamo and Brescia dating back to the Middle Ages , beginning in 1126 when Bergamo expanded its territory by acquiring land put up for sale by Brescia; this led to a series of territorial disputes and armed conflicts between the two cities, among them the Battle of Cortenuova in 1237. Although armed conflict eventually ended and both cities were unified under the Kingdom of Italy in 1861, the cities' historical rivalry has defined the atmosphere of matches between Atalanta and Brescia for the entirety of the clubs' history. In 1993, tension between the clubs' supporters escalated further following a match (won 2–0 by Brescia) that was suspended three times due to violence in the stands, which resulted in over 20 spectators being hospitalized.
+
+=== chunk 33 · Friendships and rivalries ===
+Since at least 1977, a heartfelt rivalry has existed between fans of Atalanta and Torino . There have been various altercations between the clubs' Ultras during matches between the clubs, although some fans share a mutual respect or consider each other "respected enemies". The Atalanta–Torino rivalry also gave rise to a short-lived friendship (lasting until the early 1980s) between supporters of Atalanta and Juventus —Torino's city rival —although Atalanta supporters now also consider Juventus a hated rival. In addition to Juventus, there are strong rivalries between Atalanta and Italy's other well-supported clubs: Roma , Milan , Inter , Napoli , Lazio , and Fiorentina . The rivalry between Atalanta and Roma emerged in 1984 after once-friendly relations between the two clubs' Ultras deteriorated. Milan and Atalanta have had a long-standing rivalry fueled by the friendship between fans of Brescia and Milan, as well as a controversial episode during a Coppa Italia match in 1990 that infuriated the Atalanta fans. Matches between Inter and Atalanta have seen violence among Ultras since the early 1970s, fueled by political differences as well as the clubs' shared black and blue colors. Atalanta's rivalry with Lazio has been historically characterized by opposing political views —respectively far left against far right —although greatly intensified following Lazio's Coppa Italia triumph over Atalanta in 2019. The rivalry between Atalanta and Fiorentina has intensified during Gian Piero Gasperini's tenure as Atalanta manager (also corresponding to Atalanta's qualification to European competitions); multiple tense episodes have occurred during and after matches between the two clubs. There are also strong rivalries between supporters of Atalanta and supporters of Bologna , Como (a regional rivalry since the 1980s), Genoa , Hellas Verona , Pisa , and Vicenza , as well as Croatian club Dinamo Zagreb .
+
+=== chunk 34 · Atalanta U23 and Youth sector ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 40 DF  SLO Relja Obrić 41 FW  GUI Henry Camara · 1: No. Pos. Nation Player 43 DF  ITA Pietro Comi
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 40 · 1: DF · 2: SLO · 3: Relja Obrić
+0: 41 · 1: FW · 2: GUI · 3: Henry Camara
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 43 · 1: DF · 2: ITA · 3: Pietro Comi
+
+=== chunk 35 · Retired numbers ===
+12 – Dedication to fans , in particular for Curva Pisani ones 14 – Federico Pisani , forward (1991–97) – posthumous honor 80 – Elio Corbani , radio journalist.
+
+=== chunk 36 · Managers ===
+Atalanta's current manager (head coach) is Raffaele Palladino , who assumed the role on 11 November 2025. The club has had a total of 61 managers (including player-managers , assistants acting as head coach, and caretaker managers ) since the club hired its first professional coach, Cesare Lovati , in 1925. Gian Piero Gasperini, who led the club to its highest league finishes and UEFA Champions League qualification between 2019 and 2021, as well as a UEFA Europa League title in 2024 , has the most appearances as manager in the club's history (438 matches across all competitions) and the longest uninterrupted tenure as Atalanta manager (seven consecutive seasons). The club's second-longest-serving manager is Emiliano Mondonico , who oversaw 299 matches in all competitions—including a European Cup Winners' Cup and a UEFA Cup —in two spells (1987–90 and 1994–98). Stefano Colantuono , who also was manager on two different occasions (2005–07 and 2010–15), is the club's third-longest serving manager, with 281 appearances in total. [ citation needed ]
+
+=== chunk 37 · Managerial history ===
+1: Name Nationality Years Cesare Lovati 1925–1927 Imre Payer 1927–1929 Luigi Cevenini 1929–1930 József Viola 1930–1933 Imre Payer 1933 Angelo Mattea 1933–1935 Imre Payer 1935–1936 Ottavio Barbieri 1936–1938 Géza Kertész 1938–1939 Ivo Fiorentini 1939–1941 János Nehadoma 1941–1945 Giuseppe Meazza 1945–1946 Luis Monti 1946 Ivo Fiorentini 1946–1949 Alberto Citterio 1949 Carlo Carcano 1949 Giovanni Varglien 1949–1950 Denis Charles Neville 1951 Carlo Ceresoli 1951–1952 Luigi Ferrero 1952–1954 Francesco Simonetti, Luigi Tentorio 1954 Luigi Bonizzoni 1954–1957 Carlo Rigotti 1957 Giuseppe Bonomi 1957 · 3: Name Nationality Years Karl Adamek 1957–1959 Ferruccio Valcareggi 1959–1962 Paolo Tabanelli 1962–1963 Carlo Alberto Quario 1963–1964 Carlo Ceresoli 1964 Ferruccio Valcareggi 1964–1965 Héctor Puricelli 1965 Stefano Angeleri 1965–1967 Paolo Tabanelli 1967–1968 Stefano Angeleri 1968–1969 Silvano Moro 1969 Carlo Ceresoli 1969 Corrado Viciani 1969 Renato Gei 1969–1970 Battista Rota 1970 Giulio Corsini 1970–1973 Heriberto Herrera 1973–1974 Angelo Piccioli 1974–1975 Giancarlo Cadé 1975–1976 Gianfranco Leoncini 1976 Battista Rota 1976–1980 Bruno Bolchi 1980–1981 Giulio Corsini 1981 Ottavio Bianchi 1981–1983 · 5: Name Nationality Years Nedo Sonetti 1983–1987 Emiliano Mondonico 1987–1990 Pierluigi Frosio 1990–1991 Bruno Giorgi 1991–1992 Marcello Lippi 1992–1993 Francesco Guidolin 1993 Andrea Valdinoci, Cesare Prandelli 1993–1994 Emiliano Mondonico 1994–1998 Bortolo Mutti 1998–1999 Giovanni Vavassori 1999–2003 Giancarlo Finardi 2003 Andrea Mandorlini 2003–2004 Delio Rossi 2004–2005 Stefano Colantuono 2005–2007 Luigi Delneri 2007–2009 Angelo Gregucci 2009 Antonio Conte 2009–2010 Valter Bonacina 2010 Bortolo Mutti 2010 Stefano Colantuono 2010–2015 Edoardo Reja 2015–2016 Gian Piero Gasperini 2016–2025 Ivan Jurić 2025 Raffaele Palladino 2025–
+
+=== chunk 38 · Managerial history ===
+0: Name · 1: Nationality · 2: Years
+0: Cesare Lovati · 2: 1925–1927
+0: Imre Payer · 2: 1927–1929
+0: Luigi Cevenini · 2: 1929–1930
+0: József Viola · 2: 1930–1933
+0: Imre Payer · 2: 1933
+0: Angelo Mattea · 2: 1933–1935
+0: Imre Payer · 2: 1935–1936
+0: Ottavio Barbieri · 2: 1936–1938
+0: Géza Kertész · 2: 1938–1939
+0: Ivo Fiorentini · 2: 1939–1941
+0: János Nehadoma · 2: 1941–1945
+0: Giuseppe Meazza · 2: 1945–1946
+0: Luis Monti · 2: 1946
+0: Ivo Fiorentini · 2: 1946–1949
+0: Alberto Citterio · 2: 1949
+0: Carlo Carcano · 2: 1949
+0: Giovanni Varglien · 2: 1949–1950
+0: Denis Charles Neville · 2: 1951
+0: Carlo Ceresoli · 2: 1951–1952
+0: Luigi Ferrero · 2: 1952–1954
+0: Francesco Simonetti, Luigi Tentorio · 2: 1954
+0: Luigi Bonizzoni · 2: 1954–1957
+0: Carlo Rigotti · 2: 1957
+0: Giuseppe Bonomi · 2: 1957
+0: Name · 1: Nationality · 2: Years
+0: Karl Adamek · 2: 1957–1959
+0: Ferruccio Valcareggi · 2: 1959–1962
+0: Paolo Tabanelli · 2: 1962–1963
+0: Carlo Alberto Quario · 2: 1963–1964
+0: Carlo Ceresoli · 2: 1964
+0: Ferruccio Valcareggi · 2: 1964–1965
+0: Héctor Puricelli · 2: 1965
+0: Stefano Angeleri · 2: 1965–1967
+0: Paolo Tabanelli · 2: 1967–1968
+0: Stefano Angeleri · 2: 1968–1969
+
+=== chunk 39 · Managerial history ===
+0: Silvano Moro · 2: 1969
+0: Carlo Ceresoli · 2: 1969
+0: Corrado Viciani · 2: 1969
+0: Renato Gei · 2: 1969–1970
+0: Battista Rota · 2: 1970
+0: Giulio Corsini · 2: 1970–1973
+0: Heriberto Herrera · 2: 1973–1974
+0: Angelo Piccioli · 2: 1974–1975
+0: Giancarlo Cadé · 2: 1975–1976
+0: Gianfranco Leoncini · 2: 1976
+0: Battista Rota · 2: 1976–1980
+0: Bruno Bolchi · 2: 1980–1981
+0: Giulio Corsini · 2: 1981
+0: Ottavio Bianchi · 2: 1981–1983
+0: Name · 1: Nationality · 2: Years
+0: Nedo Sonetti · 2: 1983–1987
+0: Emiliano Mondonico · 2: 1987–1990
+0: Pierluigi Frosio · 2: 1990–1991
+0: Bruno Giorgi · 2: 1991–1992
+0: Marcello Lippi · 2: 1992–1993
+0: Francesco Guidolin · 2: 1993
+0: Andrea Valdinoci, Cesare Prandelli · 2: 1993–1994
+0: Emiliano Mondonico · 2: 1994–1998
+0: Bortolo Mutti · 2: 1998–1999
+0: Giovanni Vavassori · 2: 1999–2003
+0: Giancarlo Finardi · 2: 2003
+0: Andrea Mandorlini · 2: 2003–2004
+0: Delio Rossi · 2: 2004–2005
+0: Stefano Colantuono · 2: 2005–2007
+0: Luigi Delneri · 2: 2007–2009
+0: Angelo Gregucci · 2: 2009
+0: Antonio Conte · 2: 2009–2010
+0: Valter Bonacina · 2: 2010
+0: Bortolo Mutti · 2: 2010
+0: Stefano Colantuono · 2: 2010–2015
+0: Edoardo Reja · 2: 2015–2016
+
+=== chunk 40 · Managerial history ===
+0: Gian Piero Gasperini · 2: 2016–2025
+0: Ivan Jurić · 2: 2025
+0: Raffaele Palladino · 2: 2025–
+
+=== chunk 41 · Presidential history ===
+Atalanta have had several presidents (chairmen) ( Italian : presidenti , lit. ' presidents ' or Italian : presidenti del consiglio di amministrazione , lit. ' chairmen of the board of directors ' ) over the course of their history. Some of them have been the main shareholder of the club. The longest-serving chairman is Ivan Ruggeri, who was relieved of his duties after he suffered a stroke in January 2008, being replaced by his son Alessandro who was named chairman of Atalanta in September 2008. Alessandro's father was unable to manage the team due to the consequences of the stroke. In June 2010, after another relegation to Serie B, Alessandro Ruggeri sold his share of the club to Antonio Percassi , who became the new chairman of Atalanta.
+
+=== chunk 42 · Presidential history ===
+1: Name Years Enrico Luchsinger 1920–1921 Antonio Gambirasi 1926–1928 Pietro Capoferri 1928–1930 Antonio Pesenti 1930–1932 Emilio Santi 1932–1935 Lamberto Sala 1935–1938 Nardo Bertoncini 1938–1944 Guerino Oprandi 1944–1945 Daniele Turani 1945–1964 Attilio Vicentini 1964–1969 · 3: Name Years Giacomo "Mino" Baracchi 1969–1970 Achille Bortolotti 1970–1974 Enzo Sensi 1974–1975 Achille Bortolotti 1975–1980 Cesare Bortolotti 1980–1990 Achille Bortolotti 1990 Antonio Percassi 1990–1994 Ivan Ruggeri 1994–2008 Alessandro Ruggeri 2008–2010 Antonio Percassi 2010–
+0: Name · 1: Years
+0: Enrico Luchsinger · 1: 1920–1921
+0: Antonio Gambirasi · 1: 1926–1928
+0: Pietro Capoferri · 1: 1928–1930
+0: Antonio Pesenti · 1: 1930–1932
+0: Emilio Santi · 1: 1932–1935
+0: Lamberto Sala · 1: 1935–1938
+0: Nardo Bertoncini · 1: 1938–1944
+0: Guerino Oprandi · 1: 1944–1945
+0: Daniele Turani · 1: 1945–1964
+0: Attilio Vicentini · 1: 1964–1969
+0: Name · 1: Years
+0: Giacomo "Mino" Baracchi · 1: 1969–1970
+0: Achille Bortolotti · 1: 1970–1974
+0: Enzo Sensi · 1: 1974–1975
+0: Achille Bortolotti · 1: 1975–1980
+0: Cesare Bortolotti · 1: 1980–1990
+0: Achille Bortolotti · 1: 1990
+0: Antonio Percassi · 1: 1990–1994
+
+=== chunk 43 · Presidential history ===
+0: Ivan Ruggeri · 1: 1994–2008
+0: Alessandro Ruggeri · 1: 2008–2010
+0: Antonio Percassi · 1: 2010–
+
+=== chunk 44 · National titles ===
+Coppa Italia Winners (1) : 1962–63 Runners-up (5): 1986–87 , 1995–96 , 2018–19 , 2020–21 , 2023–24
+
+=== chunk 45 · European titles ===
+UEFA Europa League Winners (1) : 2023–24
+UEFA Super Cup Runners-up (1): 2024
+
+=== chunk 46 · Other titles ===
+Serie B Winners (6) : 1927–28 , 1939–40 , 1958–59 , 1983–84 , 2005–06 , 2010–11
+Serie C Winners (1) : 1981–82 (Group A)
+
+=== chunk 47 · Divisional movements ===
+Series: A · Years: 65 · Last: 2025–26 · Promotions: — · Relegations: 12 (1929, 1938, 1958, 1969, 1973, 1979, 1987, 1994, 1998, 2003, 2005, 2010)
+Series: B · Years: 28 · Last: 2010–11 · Promotions: 13 (1928, 1937, 1940, 1959, 1971, 1977, 1984, 1988, 1995, 2000, 2004, 2006, 2011) · Relegations: 1 (1981)
+Series: C · Years: 1 · Last: 1981–82 · Promotions: 1 (1982) · Relegations: —
+Series: 94 years of professional football in Italy since 1929 · Years: 94 years of professional football in Italy since 1929 · Last: 94 years of professional football in Italy since 1929 · Promotions: 94 years of professional football in Italy since 1929 · Relegations: 94 years of professional football in Italy since 1929
+
+=== chunk 48 · UEFA club coefficient ranking ===
+The UEFA coefficient ranking:
+Rank: 15 · Team: Benfica · Points: 90.0
+Rank: 16 · Team: Frankfurt · Points: 83.0
+Rank: 17 · Team: Atalanta · Points: 82.5
+Rank: 18 · Team: Spurs · Points: 80.0
+Rank: 19 · Team: Sporting · Points: 79.5
+
+=== chunk 49 · Youth system ===
+The Atalanta youth system consists of four men's teams that participate in separate national leagues ( Primavera , Allievi Nazionali A and B, and Giovanissimi Nazionali) and two that participate at a regional level (Giovanissimi Regionali A and B). The first person who was committed to set up the Atalanta youth teams was Giuseppe Ciatto. Every organisational aspect was dealt with and resolved by him, and he also took care to train the various teams. In 1949 Atalanta won the Campionato Ragazzi . In the late 1950s former Atalanta player Luigi Tentorio (then Special Commissioner of the club) felt the need to start investing more systematically in youth: he decided to create a real youth sector, with its own independent structure from the first team. The youth sector was entrusted to Giuseppe Brolis, who created a partnership with various clubs in the Veneto and Friuli regions, building a network of scouts and young coaches.
+
+=== chunk 50 · Youth system ===
+A crucial step in the history of the Bergamo youth sector took place in the early 1990s when the president Antonio Percassi implemented a new investment policy, especially at the youth level. He managed to convince Fermo Favini to leave Como and entrusted him with the responsibility of the youth sector. The Atalanta youth system not only continued to increase the production of players for the first team, but began to win several honours in the most important national leagues. From 1991 to 2014, the various youth teams have won 17 national titles.
+
+=== chunk 51 · Youth system ===
+Apart from successes at youth level, the Atalanta youth system is also one of the most highly regarded in Europe: according to a ranking by the study centre in Coverciano, Atalanta have the top youth system in Italy and the sixth in Europe, behind Real Madrid , Barcelona and three French teams. The parameters used were the number of first division players produced by the club. In the 2007–08 season, 22 players from Atalanta's youth played in Serie A , 32 in Serie B and 3 abroad. In 2014, a global study of the "CIES Football Observatory", placed the Atalanta youth system eighth place in the world, with 25 former youth players who play in the top 5 European leagues. On 4 August 2023, Atalanta established a reserve team in Serie C, becoming the second Italian club to do so.

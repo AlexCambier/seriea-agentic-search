@@ -1,0 +1,53 @@
+# Wikipedia pages of the benchmark, one permanent link per page and date.
+# Open a link in a browser to see the page exactly as it was on that date.
+# Download a page at t0 and t1 with:  python data/wikipedia/extract.py Atalanta   (or "2025-26 Serie A")
+
+number  	date  	page                  	link
+
+# t0 = 1 September 2025 (start of the season)
+1       	t0    	2025–26 Serie A       	https://en.wikipedia.org/w/index.php?title=2025–26_Serie_A&oldid=1308844143
+2       	t0    	Atalanta BC           	https://en.wikipedia.org/w/index.php?title=Atalanta_BC&oldid=1309019278
+3       	t0    	Bologna FC 1909       	https://en.wikipedia.org/w/index.php?title=Bologna_FC_1909&oldid=1309022502
+4       	t0    	Cagliari Calcio       	https://en.wikipedia.org/w/index.php?title=Cagliari_Calcio&oldid=1309028630
+5       	t0    	Como 1907             	https://en.wikipedia.org/w/index.php?title=Como_1907&oldid=1309062934
+6       	t0    	US Cremonese          	https://en.wikipedia.org/w/index.php?title=US_Cremonese&oldid=1309066792
+7       	t0    	ACF Fiorentina        	https://en.wikipedia.org/w/index.php?title=ACF_Fiorentina&oldid=1309050315
+8       	t0    	Genoa CFC             	https://en.wikipedia.org/w/index.php?title=Genoa_CFC&oldid=1309067371
+9       	t0    	Hellas Verona FC      	https://en.wikipedia.org/w/index.php?title=Hellas_Verona_FC&oldid=1309029808
+10      	t0    	Inter Milan           	https://en.wikipedia.org/w/index.php?title=Inter_Milan&oldid=1309067655
+11      	t0    	Juventus FC           	https://en.wikipedia.org/w/index.php?title=Juventus_FC&oldid=1309065837
+12      	t0    	SS Lazio              	https://en.wikipedia.org/w/index.php?title=SS_Lazio&oldid=1306944807
+13      	t0    	US Lecce              	https://en.wikipedia.org/w/index.php?title=US_Lecce&oldid=1308632356
+14      	t0    	AC Milan              	https://en.wikipedia.org/w/index.php?title=AC_Milan&oldid=1309061731
+15      	t0    	SSC Napoli            	https://en.wikipedia.org/w/index.php?title=SSC_Napoli&oldid=1309035455
+16      	t0    	Parma Calcio 1913     	https://en.wikipedia.org/w/index.php?title=Parma_Calcio_1913&oldid=1308804165
+17      	t0    	Pisa SC               	https://en.wikipedia.org/w/index.php?title=Pisa_SC&oldid=1308945830
+18      	t0    	AS Roma               	https://en.wikipedia.org/w/index.php?title=AS_Roma&oldid=1308975711
+19      	t0    	US Sassuolo Calcio    	https://en.wikipedia.org/w/index.php?title=US_Sassuolo_Calcio&oldid=1309021242
+20      	t0    	Torino FC             	https://en.wikipedia.org/w/index.php?title=Torino_FC&oldid=1308981084
+21      	t0    	Udinese Calcio        	https://en.wikipedia.org/w/index.php?title=Udinese_Calcio&oldid=1309022809
+22      	t0    	2024–25 Serie A       	https://en.wikipedia.org/w/index.php?title=2024–25_Serie_A&oldid=1308828186
+
+# t1 = 25 May 2026 (end of the season)
+23      	t1    	2025–26 Serie A       	https://en.wikipedia.org/w/index.php?title=2025–26_Serie_A&oldid=1355956895
+24      	t1    	Atalanta BC           	https://en.wikipedia.org/w/index.php?title=Atalanta_BC&oldid=1356017445
+25      	t1    	Bologna FC 1909       	https://en.wikipedia.org/w/index.php?title=Bologna_FC_1909&oldid=1356017384
+26      	t1    	Cagliari Calcio       	https://en.wikipedia.org/w/index.php?title=Cagliari_Calcio&oldid=1356015161
+27      	t1    	Como 1907             	https://en.wikipedia.org/w/index.php?title=Como_1907&oldid=1356064364
+28      	t1    	US Cremonese          	https://en.wikipedia.org/w/index.php?title=US_Cremonese&oldid=1351913460
+29      	t1    	ACF Fiorentina        	https://en.wikipedia.org/w/index.php?title=ACF_Fiorentina&oldid=1356015859
+30      	t1    	Genoa CFC             	https://en.wikipedia.org/w/index.php?title=Genoa_CFC&oldid=1356015901
+31      	t1    	Hellas Verona FC      	https://en.wikipedia.org/w/index.php?title=Hellas_Verona_FC&oldid=1356061902
+32      	t1    	Inter Milan           	https://en.wikipedia.org/w/index.php?title=Inter_Milan&oldid=1356017515
+33      	t1    	Juventus FC           	https://en.wikipedia.org/w/index.php?title=Juventus_FC&oldid=1356017223
+34      	t1    	SS Lazio              	https://en.wikipedia.org/w/index.php?title=SS_Lazio&oldid=1356088785
+35      	t1    	US Lecce              	https://en.wikipedia.org/w/index.php?title=US_Lecce&oldid=1352345291
+36      	t1    	AC Milan              	https://en.wikipedia.org/w/index.php?title=AC_Milan&oldid=1356107489
+37      	t1    	SSC Napoli            	https://en.wikipedia.org/w/index.php?title=SSC_Napoli&oldid=1356016830
+38      	t1    	Parma Calcio 1913     	https://en.wikipedia.org/w/index.php?title=Parma_Calcio_1913&oldid=1356016309
+39      	t1    	Pisa SC               	https://en.wikipedia.org/w/index.php?title=Pisa_SC&oldid=1353708787
+40      	t1    	AS Roma               	https://en.wikipedia.org/w/index.php?title=AS_Roma&oldid=1356138291
+41      	t1    	US Sassuolo Calcio    	https://en.wikipedia.org/w/index.php?title=US_Sassuolo_Calcio&oldid=1350169667
+42      	t1    	Torino FC             	https://en.wikipedia.org/w/index.php?title=Torino_FC&oldid=1356016503
+43      	t1    	Udinese Calcio        	https://en.wikipedia.org/w/index.php?title=Udinese_Calcio&oldid=1354801863
+44      	t1    	2024–25 Serie A       	https://en.wikipedia.org/w/index.php?title=2024–25_Serie_A&oldid=1355018321

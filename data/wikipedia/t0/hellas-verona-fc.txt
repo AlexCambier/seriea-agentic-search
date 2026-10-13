@@ -1,0 +1,331 @@
+page: Hellas Verona FC
+season: 2025-26
+date: t0 (Wikipedia as it was on 2025-09-01)
+link: https://en.wikipedia.org/w/index.php?title=Hellas_Verona_FC&oldid=1309029808
+extracted: 2026-09-23
+chunks: 45
+
+=== chunk 1 · Introduction ===
+Full name: Hellas Verona Football Club S.p.A.
+Nicknames: I Gialloblù (The Yellow and Blues) I Mastini (The Mastiffs) Gli Scaligeri (The Scaligers ) I Butei ("The Boys", in Venetian )
+Founded: 1903 ; 123 years ago ( 1903 ) , as Associazione Calcio Hellas 1991 ; 35 years ago ( 1991 ) , as Verona Football Club
+Ground: Stadio Marcantonio Bentegodi
+Capacity: 39,211
+Owner: Presidio Investors
+President: Italo Zanzi
+Head coach: Paolo Zanetti
+League: Serie B
+Website: hellasverona.it
+Hellas Verona Football Club , commonly referred to as simply Hellas Verona ( Italian: [ ˈɛllas veˈɾoːna ] ), is an Italian professional football club based in Verona , Veneto , that currently plays in Serie A . The team won the Serie A championship in the 1984–85 season .
+In January 2025, it was announced that the club had been acquired by American private equity Presidio Investors.
+
+=== chunk 2 · Origins and early history ===
+Founded in 1903 by a group of students at Liceo "Scipione Maffei", the club was named Hellas (the Greek word for Greece), at the request of a professor of classics . At a time in which football was played seriously only in the larger cities of northwestern Italy, most of Verona was indifferent to the growing sport. However, when in 1906 two city teams chose the city's Roman amphitheatre as a venue to showcase the game, crowd enthusiasm and media interest began to rise.
+During these first few years, Hellas was one of three or four area teams playing at a municipal level while fighting against city rivals Bentegodi to become the city's premier football outfit. By the 1907–08 season, Hellas was playing against regional teams, and an intense rivalry with Vicenza that has lasted to this day was born.
+
+=== chunk 3 · Origins and early history ===
+From 1898 to 1926, Italian football was organised into regional groups. In this period, Hellas was one of the founding teams of the early league and often among its top final contenders. In 1911, the city helped Hellas replace the early, gritty football fields with a proper venue. This allowed the team to take part in its first regional tournament, which until 1926, was the qualifying stage for the national title.
+In 1919, following a return to activity after a four-year suspension of all football competition in Italy during World War I, the team merged with city rival Verona and changed its name to Hellas Verona. Between 1926 and 1929, the elite " Campionato Nazionale " assimilated the top sides from the various regional groups. Hellas Verona joined the privileged teams, yet struggled to remain competitive.
+
+=== chunk 4 · Origins and early history ===
+Serie A , as it is structured today, began in 1929, when the Campionato Nazionale turned into a professional league. Still an amateur team, Hellas merged with two city rivals, Bentegodi and Scaligera, to form AC Verona. Hoping to build a first class contender for future years, the new team debuted in Serie B in 1929. It would take the gialloblu 28 years to finally achieve their goal. After first being promoted to Serie A for one season in 1957–58, in 1959, the team merged with another city rival (called Hellas) and commemorated its beginnings by changing its name to Hellas Verona AC.
+
+=== chunk 5 · Success in the 1970s and 1980s ===
+Coached by Nils Liedholm , the team returned to Serie A in 1968 and remained in the elite league almost without interruption until 1990. Along the way, it scored a famous 5–3 win in the 1972–73 season that cost Milan the scudetto (the Serie A title). The fact that the result came late during the last matchday of the season makes the sudden and unexpected end to the rossoneri' s title ambitions all the more memorable.
+In 1973–74, Hellas finished the season in fourth-last, just narrowly avoiding relegation, but were nonetheless sent down to Serie B during the summer months as a result of a scandal involving team president Saverio Garonzi. After a year in Serie B, Hellas returned to Serie A.
+In the 1975–76 season, the team had a successful run in the Coppa Italia , eliminating highly rated teams such as Torino , Cagliari and Internazionale from the tournament. However, in their first ever final in the competition, Hellas were trounced 4–0 by Napoli .
+
+=== chunk 6 · Success in the 1970s and 1980s ===
+Under the leadership of coach Osvaldo Bagnoli , in 1982–83 the team secured a fourth-place in Serie A (its highest finish at the time) and even led the Serie A standings for a few weeks. The same season Hellas again reached the Coppa Italia final. After a 2–0 home victory, Hellas then travelled to Turin to play Juventus but were defeated 3–0 after extra time.
+Further disappointment followed in the 1983–84 season when the team again reached the Coppa Italia final, only to lose the Cup in the final minutes of the return match against defending Serie A champions Roma .
+The team made its first European appearance in the 1983–84 UEFA Cup and were knocked out in the second round of the tournament by Sturm Graz . Hellas were eliminated from the 1985–86 European Cup in the second round by defending champions and fellow Serie A side Juventus after a contested game, the result of a scandalous arbitrage by the French Wurtz, having beaten PAOK of Greece in the first round.
+In 1988, the team had their best international result when they reached the UEFA Cup quarterfinals with four victories and three draws. The decisive defeat came from German side Werder Bremen .
+
+=== chunk 7 · 1984–1985 Scudetto ===
+Although the 1984–85 season squad was made up of a mix of emerging players and mature stars, at the beginning of the season no one would have regarded the team as having the necessary ingredients to make it to the end. Certainly, the additions of Hans-Peter Briegel in midfield and of Danish striker Preben Elkjær to an attack that already featured the wing play of Pietro Fanna , the creative abilities of Antonio Di Gennaro and the scoring touch of Giuseppe Galderisi were to prove crucial.
+To mention a few of the memorable milestones on the road to the scudetto : a decisive win against Juventus (2–0), with a goal scored by Elkjær after having lost a boot in a tackle just outside the box, set the stage early in the championship; an away win over Udinese (5–3) ended any speculation that the team was losing energy at the midway point; three straight wins (including a hard-fought 1–0 victory against a strong Roma side) served notice that the team had kept its polish and focus intact during their rival's final surge; and a 1–1 draw in Bergamo against Atalanta secured the title with a game in hand.
+
+=== chunk 8 · 1984–1985 Scudetto ===
+Hellas finished the year with a 15–13–2 record and 43 points, four points ahead of Torino with Internazionale and Sampdoria rounding out the top four spots. This unusual final table of the Serie A (with the most successful Italian teams of the time, Juventus and Roma, ending up much lower than expected) has led to many speculations. The 1984–85 season was the only season when referees were assigned to matches by way of a random draw. Before then each referee had always been assigned to a specific match by a special commission of referees ( designatori arbitrali ). After the betting scandal of the early 1980 (the Calcio Scommesse scandal ), it was decided to clean up the image of Italian football by assigning referees randomly instead of picking them, to clear up all the suspicions and accusations always accompanying Italy's football life. This resulted in a quieter championship and in a completely unexpected final table.
+
+=== chunk 9 · 1984–1985 Scudetto ===
+In the following season, won again by Juventus, the choice of the referees went back in the hands of the designatori arbitrali . In 2006, a major scandal in Italian football revealed that certain clubs had been illegally influencing the referee selection process in an attempt to ensure that certain referees were assigned to their matches.
+
+=== chunk 10 · Between Serie A and Serie B ===
+These were more than mere modest achievements for a mid-size city with a limited appeal to fans across the nation. But soon enough financial difficulties caught up with team managers. In 1991 the team folded and was reborn as Verona, regularly moving to and fro between Serie A and Serie B for several seasons. In 1995 the name was officially returned to Hellas Verona.
+After a three-year stay, their last stint in Serie A ended in grief in 2002. That season emerging international talents such as Adrian Mutu , Mauro Camoranesi , Alberto Gilardino , Martin Laursen , Massimo Oddo , Marco Cassetti and coach Alberto Malesani failed to capitalise on an excellent start and eventually dropped into fourth-to-last place for the first time all season on the final match day, enforcing relegation into Serie B.
+
+=== chunk 11 · Decline and Serie C (2002–2011) ===
+Following the 2002 relegation to Serie B, team fortunes continued to slip throughout the decade. In the 2003–04 season Hellas Verona struggled in Serie B and spent most of the season fighting off an unthinkable relegation to Serie C1 . Undeterred, the fans supported their team and a string of late season wins eventually warded off the danger. Over 5,000 of them followed Hellas to Como on the final day of the season to celebrate.
+In 2004–05, things looked much brighter for the team. After a rocky start, Hellas put together a string of results and climbed to third spot. The gialloblù held on to the position until January 2005, when transfers weakened the team, yet they managed to take the battle for Serie A to the last day of the season.
+
+=== chunk 12 · Decline and Serie C (2002–2011) ===
+The 2006–07 Serie B seemed to start well, due to the club takeover by Pietro Arvedi D'Emilei , which ended nine years of controversial leadership under chairman Gianbattista Pastorello , heavily contested by the supporters in his later years at Verona. However, Verona was immediately involved in the relegation battle, and Massimo Ficcadenti was replaced in December 2006 by Giampiero Ventura . Despite a recovery in the results, Verona ended in an 18th place, thus being forced to play a two-legged playoff against 19th-placed Spezia to avert relegation. A 2–1 away loss in the first leg at La Spezia was followed by a 0–0 home tie, and Verona were relegated to Serie C1 after 64 years of play in the two highest divisions.
+
+=== chunk 13 · Decline and Serie C (2002–2011) ===
+Verona appointed experienced coach Franco Colomba for the new season with the aim to return to Serie B as soon as possible. However, despite being widely considered the division favourite, the gialloblù spent almost the entire season in last place. After seven matches, club management sacked Colomba in early October and replaced him with youth team coach (and former Verona player) Davide Pellegrini . A new owner acquired the club in late 2007, appointing Giovanni Galli in December as new director of football and Maurizio Sarri as new head coach. Halfway through the 2007–08 season, the team remained at the bottom of Serie C1, on the brink of relegation to the fourth level ( Serie C2 ). In response, club management sacked Sarri and brought back Pellegrini. Thanks to a late-season surge the scaligeri avoided direct relegation by qualifying for the relegation play-off, and narrowly averted dropping to Lega Pro Seconda Divisione in the final game, beating Pro Patria 2–1 on aggregate. However, despite the decline in results, attendance and season ticket sales remained at 15,000 on average.
+
+=== chunk 14 · Decline and Serie C (2002–2011) ===
+For the 2008–09 season, Verona appointed former Sassuolo and Piacenza manager Gian Marco Remondina with the aim to win promotion to Serie B. However, the season did not start impressively, with Verona being out of the playoff zone by mid-season, and club chairman Pietro Arvedi D'Emilei entering into a coma after being involved in a car crash on his way back from a league match in December 2008. Arvedi died in March 2009, two months after the club was bought by new chairman Giovanni Martinelli.
+
+=== chunk 15 · Decline and Serie C (2002–2011) ===
+The following season looked promising, as new transfer players were brought aboard, and fans enthusiastically embraced the new campaign. Season ticket figures climbed to over 10,000, placing Verona ahead of several Serie A teams and all but Torino in Serie B attendance. The team led the standings for much of the season, accumulating a seven-point lead by early in the spring. However, the advantage was gradually squandered, and the team dropped to second place on the second-last day of the season, with a chance to regain first place in the final regular season match against Portogruaro on home soil. Verona, however, disappointed a crowd of over 25,000 fans and, with the loss, dropped to third place and headed towards the play-offs. A managerial change for the post-season saw the firing of Remondina and the arrival of Giovanni Vavassori . After eliminating Rimini in the semi-finals (1–0; 0–0) Verona lost the final to Pescara (2–2 on home soil and 0–1 in the return match) and were condemned to a fourth-straight year of third division football.
+
+=== chunk 16 · Rising again and Serie A comeback (2012–present) ===
+Former 1990 World Cup star Giuseppe Giannini (a famous captain of Roma for many years) signed as manager for the 2010–11 campaign. Once again, the team was almost entirely revamped during the transfer season. The squad struggled in the early months and Giannini was eventually sacked and replaced by former Internazionale defender Andrea Mandorlini , who succeeded in reorganising the team's play and bringing discipline both on and off the pitch. In the second half of the season, Verona climbed back from the bottom of the division to clinch a play-off berth (fifth place) on the last day of the regular season. The team advanced to the play-off final after eliminating Sorrento in the semi-finals 3–1 on aggregate. Following the play-off final, after four years of Lega Pro football, Verona were promoted back to Serie B after a 2–1 aggregate win over Salernitana on 19 June 2011.
+
+=== chunk 17 · Rising again and Serie A comeback (2012–present) ===
+On 18 May 2013, Verona finished second in Serie B and were promoted to Serie A after an eleven-year absence. Their return to the top flight began against title contenders Milan and Roma, beating the former 2–1 and losing to the latter 3–0. The team continued at a steady pace, finishing the first half of the season with 32 points and sitting in sixth place, eleven points behind the closest UEFA Champions League spot—and tied with Internazionale for the final UEFA Europa League spot. Verona, however, ultimately finished the year in tenth.
+During the 2015–16 season , Verona had not won a single match since the beginning of the campaign until the club edged Atalanta 2–1 on 3 February 2016 in a win at home; coming twenty-three games into the season. Consequently, Verona were relegated from Serie A.
+
+=== chunk 18 · Rising again and Serie A comeback (2012–present) ===
+In the 2016–17 Serie B season , Hellas Verona finished second on the table and were automatically promoted back to Serie A. Hellas lasted one season back in the top division after finishing second last during the 2017–18 Serie A season and were relegated back to Serie B. At the end of the 2018–19 season , Hellas finished in fifth position and achieved promotion back to Serie A after defeating Cittadella 3–0 in the second leg of their promotion play-off to win 3–2 on aggregate.
+
+=== chunk 19 · Rising again and Serie A comeback (2012–present) ===
+The club's return to the top flight in the 2019–20 Serie A season , in which it was considered a strong relegation candidate at the beginning of the campaign, was a successful one, with a ninth-placed finish. Heavily reliant on the defensive solidity of 20-year-old centre-back Marash Kumbulla , Amir Rrahmani and goalkeeper Marco Silvestri , along with the consistent performances of midfielder Sofyan Amrabat , Verona was a surprise contender for Europa League qualification but fell out of the race after a downturn in form after the coronavirus break which temporarily halted the season. A 2–1 win at home against eventual title winners Juventus in February was a highlight of a season in which the club achieved 10 clean sheets and punched towards the higher end of the table despite its modest budget.
+
+=== chunk 20 · Rising again and Serie A comeback (2012–present) ===
+Ahead of Verona's second consecutive year in Serie A , key players Amrabat, Rrahmani and Kumbulla were poached by Fiorentina , Napoli and Roma respectively, and loanee Matteo Pessina returned to Atalanta. This left the club with a heavily weakened squad and it was once again expected to struggle in the league prior to the season-opening match. Despite these losses in the transfer window, Verona again finished in the top half of the league table, ending the season in 10th place with 45 points. Successful breakout seasons for attacking midfielder Mattia Zaccagni , who was eventually called up to the Italy national team as a reward for his performances, as well as wing-backs Federico Dimarco and Davide Faraoni , were partly the reason for this achievement. At the end of the season, coach Ivan Jurić was appointed by Torino following his two impressive Serie A seasons with Verona, with the Gialloblu replacing him with Eusebio Di Francesco .
+
+=== chunk 21 · Rising again and Serie A comeback (2012–present) ===
+Following another summer transfer window in which several of the club's star players were sold to Serie A rivals, namely Zaccagni transferring to Lazio , Marco Silvestri to Udinese and Dimarco returning to Inter , the beginning of the 2021-22 season proved to be much more difficult for Verona, as Di Francesco was fired and replaced with Igor Tudor after just three matches, all of which were defeats. This poor early-season form had left the club at the bottom of the table. Under the guidance of Tudor, the team regains competitiveness obtaining in the next eight matches three wins – including victories with Lazio and Juventus – four draws and only one defeat.
+
+=== chunk 22 · Colours and badge ===
+The team's colours are yellow and blue. As a result, the clubs most widely used nickname is gialloblù literally "yellow-blue" in Italian. The colours represent the city itself and Verona's emblem (a yellow cross on a blue shield) appears on most team apparel. Home kits are traditionally blue, sometimes of a navy shade, combined with yellow details and trim, although the club has used a blue and yellow striped design on occasion. Two more team nicknames are Mastini (the mastiffs ) and Scaligeri , both references to Mastino I della Scala of the Della Scala princes that ruled the city during the 13th and 14th centuries.
+The Scala family coat of arms is depicted on the team's jersey and on its trademark logo as a stylised image of two large, powerful mastiffs facing opposite directions, introduced in 1995. In essence, the term " scaligeri " is synonymous with Veronese, and therefore can describe anything or anyone from Verona (e.g., Chievo Verona , a different team that also links itself to the Scala family – specifically to Cangrande I della Scala ).
+
+=== chunk 23 · Stadium ===
+Since 1963, the club have played at the Stadio Marc'Antonio Bentegodi , which has a capacity of 39,211. It is the eighth-largest stadium in Italy by capacity. The stadium is named after the historic benefactor of Veronese sport, Marcantonio Bentegodi .
+The ground was shared with Hellas's rivals, Chievo Verona until 2021. It was used as a venue for some matches of the 1990 FIFA World Cup and renovations prior to the tournament included an extra tier and a roof to cover all sections, improved visibility, public transport connections, an urban motorway connecting the city centre with the stadium and the Verona Nord motorway exit and services.
+
+=== chunk 24 · Derby with Chievo Verona ===
+The intercity fixtures against Chievo Verona are known as the " Derby della Scala ". The name refers to the Scaligeri or della Scala aristocratic family, who were rulers of Verona during the Middle Ages and early Renaissance .
+
+=== chunk 25 · Derby with Chievo Verona ===
+Hellas, founded in 1903, were traditionally the main club in Verona. Chievo, founded in 1929, historically represented the small Verona suburb of the same name, using a small parish field as their home ground, and did not become a professional side until 1986. At that time, Chievo became tenants of Hellas at the Bentegodi, and began rising up the league ladder. By the mid-1990s, Chievo had joined Hellas in Serie B, creating the derby. During the teams' early Serie B meetings, Hellas supporters taunted Chievo with the chant Quando i mussi volara, faremo el derby in Serie A – "Donkeys will fly before we’ll have a derby in Serie A." Once Chievo earned promotion to Serie A at the end of the 2000–01 season, their fans started calling the team i Mussi Volanti (The Flying Donkeys). A 2014 story in the British football magazine Late Tackle remarked that "Hellas fans didn’t so much have their words rammed down their throat as forced through every orifice with a barge pole."
+
+=== chunk 26 · Derby with Chievo Verona ===
+In the season 2001–02 , both Hellas Verona and the city rivals of Chievo Verona were playing in the Serie A . The first ever derby of Verona in Serie A took place on 18 November 2001, while both teams were ranked among the top four. The match was won by Hellas, 3–2. Chievo got revenge in the return match in spring 2002, winning 2–1. Verona thus became the fifth city in Italy, after Milan , Rome , Turin and Genoa to host a cross-town derby in Serie A.
+
+=== chunk 27 · Honours ===
+Serie A Winners (1): 1984–85
+Serie B Winners (3): 1956–57 , 1981–82 , 1998–99
+
+=== chunk 28 · European cups all-time statistics ===
+Competition: European Cup · S: 1.0 · Pld: 4.0 · W: 2.0 · D: 1.0 · L: 1.0 · GF: 5.0 · GA: 4.0 · GD: 1.0
+Competition: UEFA Cup · S: 2.0 · Pld: 12.0 · W: 6.0 · D: 5.0 · L: 1.0 · GF: 18.0 · GA: 11.0 · GD: 7.0
+Competition: Total · S: 3.0 · Pld: 16.0 · W: 8.0 · D: 6.0 · L: 2.0 · GF: 23.0 · GA: 15.0 · GD: 8.0
+
+=== chunk 29 · European Cup ===
+Season: 1985–86 · Round: First round · Opposition: PAOK · Home: 3–1 · Away: 2–1 · Aggregate: 5–2
+Season: 1985–86 · Round: Second round · Opposition: Juventus · Home: 0–0 · Away: 0–2 · Aggregate: 0–2
+
+=== chunk 30 · UEFA Cup ===
+Season: 1983–84 · Round: First round · Opposition: Red Star Belgrade · Home: 1–0 · Away: 3–2 · Aggregate: 4–2
+Season: 1983–84 · Round: Second round · Opposition: Sturm Graz · Home: 2–2 · Away: 0–0 · Aggregate: 2–2 (a)
+Season: 1987–88 · Round: First round · Opposition: Pogoń Szczecin · Home: 3–1 · Away: 1–1 · Aggregate: 4–2
+Season: 1987–88 · Round: Second round · Opposition: Utrecht · Home: 2–1 · Away: 1–1 · Aggregate: 3–2
+Season: 1987–88 · Round: Third round · Opposition: Sportul Studenţesc · Home: 3–1 · Away: 1–0 · Aggregate: 4–1
+Season: 1987–88 · Round: Quarter-finals · Opposition: Werder Bremen · Home: 0–1 · Away: 1–1 · Aggregate: 1–2
+
+=== chunk 31 · Player records ===
+#: 1 · Name: Luigi Bernardi · Years: 1927–1939 · Matches: 337
+#: 2 · Name: Emiliano Mascetti · Years: 1967–1973, 1975–1980 · Matches: 328
+#: 3 · Name: Roberto Tricella · Years: 1979–1984 · Matches: 324
+#: 4 · Name: Rafael · Years: 2007–2016 · Matches: 314
+#: 5 · Name: Pio Gorretta · Years: 1929–1933, 1934–1940 · Matches: 262
+#: 1 · Name: Arnaldo Porta · Years: 1914–1930 · Goals: 74
+#: 2 · Name: Sergio Sega · Years: 1946–1952, 1954–1955 · Goals: 73
+#: 3 · Name: Guido Tavellin · Years: 1939–1946, 1949–1950 · Goals: 58
+#: 4 · Name: Adaílton · Years: 1999–2006 · Goals: 52
+#: 5 · Name: Egidio Chiecchi · Years: 1921–1927 · Goals: 51
+#: 5 · Name: Luca Toni · Years: 2013–2016 · Goals: 51
+
+=== chunk 32 · Divisional movements ===
+Series: A · Years: 31 · Last: 2023–24 · Promotions: – · Relegations: 10 (1929, 1958, 1974, 1979, 1990, 1992, 1997, 2002, 2016, 2018)
+Series: B · Years: 53 · Last: 2018–19 · Promotions: 10 (1957, 1968, 1975, 1982, 1991, 1996, 1999, 2013, 2017, 2019) · Relegations: 2 (1941, 2007)
+Series: C · Years: 6 · Last: 2010–11 · Promotions: 2 (1943, 2011) · Relegations: never
+Series: 90 years of professional football in Italy since 1929 · Years: 90 years of professional football in Italy since 1929 · Last: 90 years of professional football in Italy since 1929 · Promotions: 90 years of professional football in Italy since 1929 · Relegations: 90 years of professional football in Italy since 1929
+Series: Founding member of the Football League’s First Division in 1921 · Years: Founding member of the Football League’s First Division in 1921 · Last: Founding member of the Football League’s First Division in 1921 · Promotions: Founding member of the Football League’s First Division in 1921 · Relegations: Founding member of the Football League’s First Division in 1921
+
+=== chunk 33 · Sponsors ===
+Period: 1903–1979 · Kit manufacturer: In-house
+Period: 1979–1981 · Kit manufacturer: Ennerre
+Period: 1981–1986 · Kit manufacturer: Adidas · Shirt sponsor (main): Canon
+Period: 1986–1987 · Kit manufacturer: Adidas · Shirt sponsor (main): Ricoh
+Period: 1987–1989 · Kit manufacturer: Hummel · Shirt sponsor (main): Ricoh
+Period: 1989–1990 · Kit manufacturer: Hummel / Adidas · Shirt sponsor (main): Pastificio Rana
+Period: 1990–1991 · Kit manufacturer: Adidas · Shirt sponsor (main): Pastificio Rana
+Period: 1991–1995 · Kit manufacturer: Uhlsport · Shirt sponsor (main): Pastificio Rana
+Period: 1995–1996 · Kit manufacturer: Erreà · Shirt sponsor (main): Pastificio Rana
+Period: 1996–1997 · Kit manufacturer: Erreà · Shirt sponsor (main): Ferroli
+Period: 1997–1998 · Kit manufacturer: Erreà · Shirt sponsor (main): ZG Camini Inox
+Period: 1998–1999 · Kit manufacturer: Erreà · Shirt sponsor (main): Atreyu Immobiliare
+Period: 1999–2000 · Kit manufacturer: Erreà · Shirt sponsor (main): Salumi Marsili
+Period: 2000–2001 · Kit manufacturer: Lotto · Shirt sponsor (main): Net Business
+Period: 2001–2002 · Kit manufacturer: Lotto · Shirt sponsor (main): Amica Chips
+
+=== chunk 34 · Sponsors ===
+Period: 2002–2003 · Kit manufacturer: Lotto · Shirt sponsor (main): Clerman Costruzioni
+Period: 2003–2006 · Kit manufacturer: Legea · Shirt sponsor (main): Clerman Costruzioni
+Period: 2006–2007 · Kit manufacturer: Asics · Shirt sponsor (main): Unika Logistica Industriale
+Period: 2007–2008 · Kit manufacturer: Asics
+Period: 2008–2010 · Kit manufacturer: Asics · Shirt sponsor (main): Giallo Sistemi d'Ombra · Shirt sponsor (secondary): Orizzonti
+Period: 2010–2011 · Kit manufacturer: Asics · Shirt sponsor (main): Banca di Verona BCC (Home) & Sicurint Group (Away) · Shirt sponsor (secondary): Protec Iniziative Immobiliari (Home) & Consorzio Asimov (Away)
+Period: 2011–2012 · Kit manufacturer: Asics · Shirt sponsor (main): AGSM (Home) & Sicurint Group (Away) · Shirt sponsor (secondary): Protec Iniziative Immobiliari (Home) & Leaderform (Away)
+Period: 2012–2013 · Kit manufacturer: Asics · Shirt sponsor (main): AGSM & Leaderform · Shirt sponsor (secondary): Various
+Period: 2013–2014 · Kit manufacturer: Nike · Shirt sponsor (main): Manila Grace (Matchday 1-13) / Franklin & Marshall (13-38) · Shirt sponsor (secondary): AGSM & Leaderform
+
+=== chunk 35 · Sponsors ===
+Period: 2014–2015 · Kit manufacturer: Nike · Shirt sponsor (main): Franklin & Marshall · Shirt sponsor (secondary): AGSM & Leaderform · Shirt sponsor (back): Manila Grace
+Period: 2015–2016 · Kit manufacturer: Nike · Shirt sponsor (main): Metano Nord · Shirt sponsor (secondary): Leaderform & SEC Ponteggi · Shirt sponsor (back): Manila Grace (Matchday 1-13) / Jetcoin (13-38)
+Period: 2016–2017 · Kit manufacturer: Nike · Shirt sponsor (main): Metano Nord · Shirt sponsor (secondary): Extreme Printing & SEC Ponteggi · Shirt sponsor (back): ChanceBet · Shorts sponsor: Consorzio San Zeno
+Period: 2017–2018 · Kit manufacturer: Nike · Shirt sponsor (main): Metano Nord · Shirt sponsor (secondary): SEC Events (Home), Maticmind (Away) & Sartori Vini (Third) · Shirt sponsor (back): ChanceBet
+Period: 2018–2019 · Kit manufacturer: Macron · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): Air Dolomiti (Home & Away) & Sartori Vini (Third) · Shirt sponsor (back): Unibet · Shirt sponsor (sleeve): Facile Ristrutturare · Shorts sponsor: SEC Events
+
+=== chunk 36 · Sponsors ===
+Period: 2019–2020 · Kit manufacturer: Macron · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): Air Dolomiti (Home & Away) & Sartori Vini (Third) · Shirt sponsor (back): Various · Shirt sponsor (sleeve): Mercedes-Benz Trivellato Industriali
+Period: 2020–2021 · Kit manufacturer: Macron · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): Winelivery · Shirt sponsor (back): Various · Shirt sponsor (sleeve): Mercedes-Benz Trivellato Industriali
+Period: 2021–2022 · Kit manufacturer: Macron · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): Manila Grace (Matchday 4-23 / Omega Group (24-38) · Shirt sponsor (back): VetroCar · Shirt sponsor (sleeve): Restructure 5.0
+Period: 2022–2023 · Kit manufacturer: Macron · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): DR Automobiles · Shirt sponsor (back): VetroCar · Shirt sponsor (sleeve): Leasys Rent / Drivalia
+Period: 2023–2024 · Kit manufacturer: Joma · Shirt sponsor (main): Synergy Luce e Gas · Shirt sponsor (secondary): Conforama · Shirt sponsor (back): VetroCar · Shirt sponsor (sleeve): Drivalia
+
+=== chunk 37 · Sponsors ===
+Period: 2024–2025 · Kit manufacturer: Joma · Shirt sponsor (main): 958 Santero · Shirt sponsor (secondary): Conforama · Shirt sponsor (back): VetroCar · Shirt sponsor (sleeve): Drivalia
+Period: 2025– · Kit manufacturer: Joma · Shirt sponsor (main): Aircash · Shirt sponsor (back): VetroCar · Shirt sponsor (sleeve): Drivalia
+
+=== chunk 38 · Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 22 DF  ALB Adi Kurti 30 MF  ROU Luca Szimionaș · 1: No. Pos. Nation Player 90 FW  ROU Ioan Vermeșan — MF  TUR Veis Yıldız
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 22 · 1: DF · 2: ALB · 3: Adi Kurti
+0: 30 · 1: MF · 2: ROU · 3: Luca Szimionaș
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 90 · 1: FW · 2: ROU · 3: Ioan Vermeșan
+0: — · 1: MF · 2: TUR · 3: Veis Yıldız
+
+=== chunk 39 · Club officials ===
+0: Board of directors Role Name Owner  Presidio Investors Executive President  Italo Zanzi Honorary President  Osvaldo Bagnoli Board Members  Cristian Pușcașiu Dirk Swaneveld Thomas Hitzlsperger Donata Hopfen Isabella Thun General Director  Simona Gioè Sporting Director  Sean Sogliano General Secretary  Mirco Zardini Administrative Secretary's Office  Valentina Comparini Commercial Area  Sean Foley Federico Fornaris Communications Department  Dino Guerrini Digital Department  Federico Montresor Marketing Director  Carlotta Robotti Head Scout  Rocco Ottati Acting Auditor  Massimo Santini Stefano Fiocchi Nicola Catenacci Substitute Auditor  Lorenza Catenacci Grazia Cocchi Supervisory board Chairman & Member  Gabriele Tarantini Margherita Catenacci Youth Center Manager  Massimo Margiotta Team Manager  Alessandro Mazzola Last updated: 19 February 2025 Source: · 1: Current technical staff Role Name Head coach  Paolo Zanetti Assistant coach  Alberto Bertolini Technical coach  Nicola Beati Fitness coaches  Fabio Trentin Alessandro Scaia Goalkeeping coaches  Massimo Cataldi Matthias Castiglioni Match analysts  Alberto Nabiuzzi Nicolò Guberti Head of medical  Pietro Gatto Rehab coach  Giorgio Panzarasa Nutritionist  Filippo Gori Physiotherapists  Alfonso Casano Philipp Gerold Sandro Martini Osteopath/Physiotherapist  Marco Pittoli Storemen  Tomas Bodini Davide Cacciatori Antonio Salomoni Last updated: 18 October 2024 Source:
+
+=== chunk 40 · Club officials ===
+0: Role · 1: Name
+0: Owner · 1: Presidio Investors
+0: Executive President · 1: Italo Zanzi
+0: Honorary President · 1: Osvaldo Bagnoli
+0: Board Members · 1: Cristian Pușcașiu Dirk Swaneveld Thomas Hitzlsperger Donata Hopfen Isabella Thun
+0: General Director · 1: Simona Gioè
+0: Sporting Director · 1: Sean Sogliano
+0: General Secretary · 1: Mirco Zardini
+0: Administrative Secretary's Office · 1: Valentina Comparini
+0: Commercial Area · 1: Sean Foley Federico Fornaris
+0: Communications Department · 1: Dino Guerrini
+0: Digital Department · 1: Federico Montresor
+0: Marketing Director · 1: Carlotta Robotti
+0: Head Scout · 1: Rocco Ottati
+0: Acting Auditor · 1: Massimo Santini Stefano Fiocchi Nicola Catenacci
+0: Substitute Auditor · 1: Lorenza Catenacci Grazia Cocchi
+0: Supervisory board Chairman & Member · 1: Gabriele Tarantini Margherita Catenacci
+0: Youth Center Manager · 1: Massimo Margiotta
+0: Team Manager · 1: Alessandro Mazzola
+0: Role · 1: Name
+0: Head coach · 1: Paolo Zanetti
+0: Assistant coach · 1: Alberto Bertolini
+0: Technical coach · 1: Nicola Beati
+0: Fitness coaches · 1: Fabio Trentin Alessandro Scaia
+0: Goalkeeping coaches · 1: Massimo Cataldi Matthias Castiglioni
+
+=== chunk 41 · Club officials ===
+0: Match analysts · 1: Alberto Nabiuzzi Nicolò Guberti
+0: Head of medical · 1: Pietro Gatto
+0: Rehab coach · 1: Giorgio Panzarasa
+0: Nutritionist · 1: Filippo Gori
+0: Physiotherapists · 1: Alfonso Casano Philipp Gerold Sandro Martini
+0: Osteopath/Physiotherapist · 1: Marco Pittoli
+0: Storemen · 1: Tomas Bodini Davide Cacciatori Antonio Salomoni
+
+=== chunk 42 · Managers ===
+Ferenc Molnár (1 July 1924 – 30 June 1925)
+Imre Schöffer (1 July 1925 – 30 June 1926)
+Aldo Fagiuoli (1 July 1926 – 26 December 1927)
+Imre János Bekey (27 December 1927 – 30 June 1928)
+Alessandro Bascheni (1 July 1928 – 30 June 1929)
+András Kuttik (1 July 1929 – 30 June 1932)
+Rudolf Stanzel (1 July 1932 – 30 June 1933)
+Imre János Bekey (1 July 1933 – 30 June 1934)
+Sándor Peics (1939)
+Karl Stürmer (1941–1942)
+Bruno Biagini (1 July 1948 – 6 November 1949)
+László Székely (8 November 1949 – 16 January 1950)
+Angelo Piccioli (17 January 1950 – 23 March 1953)
+Gyula Lelovics (23 March 1953 – 30 June 1953)
+Luigi Rossetto (1 July 1953 – 31 January 1954)
+Luigi Ferrero (4 February 1954 – 11 October 1954)
+Angelo Piccioli (11 October 1954 – 1 February 1955)
+Federico Allasio (6 February 1955 – 11 December 1955)
+Angelo Piccioli (25 December 1955 – 5 May 1958)
+Luigi Bonizzoni (6 May 1958 – 30 June 1958)
+Vinicio Viani (1 July 1958 – 18 January 1959)
+Guido Tavellin (25 January 1959 – 5 November 1959)
+Aldo Olivieri (5 November 1959 – 26 September 1960)
+Romolo Bizzotto (2 October 1960 – 30 June 1961)
+Bruno Biagini (1 July 1961 – 30 June 1962)
+Guido Tavellin (1 July 1962 – 25 November 1962)
+
+=== chunk 43 · Managers ===
+Carlo Facchini (2 December 1962 – 17 May 1964)
+Bruno Biagini (24 May 1964 – 30 June 1964)
+Giancarlo Cadé (1 July 1964 – 30 June 1965)
+Omero Tognon (1 July 1965 – 20 November 1966)
+Ugo Pozzan (20 November 1966 – 15 January 1967)
+Nils Liedholm (23 January 1967– 30 June 1968)
+Ugo Pozzan (1 July 1967 – 30 June 1968)
+Giancarlo Cadé (1 July 1968 – 30 June 1969)
+Renato Lucchi (1 July 1969 – 30 November 1970)
+Ugo Pozzan (1 July 1971 – 30 June 1972)
+Giancarlo Cadé (1 July 1972 – 10 March 1975)
+Luigi Mascalaito (10 March 1975 – 30 June 1975)
+Ferruccio Valcareggi (1 July 1975 – 30 June 1978)
+Luigi Mascalaito (1 July 1978 – 13 November 1978)
+Giuseppe Chiappella (13 November 1978 – 30 June 1979)
+Fernando Veneranda (1 July 1979 – 30 June 1980)
+Giancarlo Cadé (1 July 1980 – 30 June 1981)
+Osvaldo Bagnoli (1 July 1981 – 30 June 1990)
+Eugenio Fascetti (1 July 1990 – 28 March 1992)
+Nils Liedholm (29 March 1992 – 30 June 1992)
+Edoardo Reja (1 July 1992 – 30 June 1993)
+Franco Fontana (1 July 1993 – 30 June 1994)
+Bortolo Mutti (1 July 1994 – 30 June 1995)
+Attilio Perotti (1 July 1995 – 30 June 1996)
+Luigi Cagni (1 July 1996 – 4 April 1998)
+Sergio Maddè (4 April 1998 – 30 June 1998)
+
+=== chunk 44 · Managers ===
+Cesare Prandelli (1 July 1998 – 30 June 2000)
+Attilio Perotti (1 July 2000 – 30 June 2001)
+Alberto Malesani (4 July 2001 – 10 June 2003)
+Sandro Salvioni (1 July 2003 – 23 December 2003)
+Sergio Maddè (24 December 2003 – 30 June 2004)
+Massimo Ficcadenti (20 July 2004 – 24 December 2006)
+Giampiero Ventura (24 December 2006 – 30 June 2007)
+Franco Colomba (1 July 2007 – 8 October 2007)
+Davide Pellegrini (9 October 2007 – 30 December 2007)
+Maurizio Sarri (31 December 2007 – 27 February 2008)
+Davide Pellegrini (28 February 2008 – 11 June 2008)
+Gian Marco Remondina (12 June 2008 – 10 May 2010)
+Giovanni Vavassori (10 May 2010 – 21 June 2010)
+Giuseppe Giannini (22 June 2010 – 8 November 2010)
+Andrea Mandorlini (9 November 2010 – 30 November 2015)
+Luigi Delneri (1 December 2015 – 23 May 2016)
+Fabio Pecchia (1 June 2016 – 21 June 2018)
+Fabio Grosso (21 June 2018 – 1 May 2019)
+Alfredo Aglietti (2 May 2019 – 14 June 2019)
+Ivan Jurić (14 June 2019 – 28 May 2021)
+Eusebio Di Francesco (7 June 2021 – 14 September 2021)
+Igor Tudor (14 September 2021 – 28 May 2022)
+Gabriele Cioffi (1 June 2022 – 11 October 2022)
+Salvatore Bocchetti (13 October 2022 – 2 December 2022)
+
+=== chunk 45 · Managers ===
+Marco Zaffaroni (3 December 2022 – 30 June 2023)
+Marco Baroni (1 July 2023 – 10 June 2024)
+Paolo Zanetti (1 July 2024 - present )

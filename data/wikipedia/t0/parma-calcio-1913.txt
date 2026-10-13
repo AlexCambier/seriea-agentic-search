@@ -1,0 +1,346 @@
+page: Parma Calcio 1913
+season: 2025-26
+date: t0 (Wikipedia as it was on 2025-09-01)
+link: https://en.wikipedia.org/w/index.php?title=Parma_Calcio_1913&oldid=1308804165
+extracted: 2026-09-23
+chunks: 46
+
+=== chunk 1 · Introduction ===
+Full name: Parma Calcio 1913 S.r.l.
+Nicknames: I Crociati (The Crusaders) I Gialloblu (The Yellow and Blues) I Ducali (The Duchy Men) Gli Emiliani (The Emilians)
+Founded: 27 July 1913 ; 113 years ago ( 27 July 1913 ) as Verdi Foot Ball Club 27 July 2015 ; 11 years ago ( 27 July 2015 ) as Parma Calcio 1913
+Stadium: Stadio Ennio Tardini
+Capacity: 27,906
+Owner: Krause Group CSR
+President: Kyle Krause
+Head coach: Carlos Cuesta
+League: Serie A
+Website: parmacalcio1913.com
+Parma Calcio 1913 ( Italian pronunciation: [ ˈparma ] ) is an Italian professional football club based in Parma , Emilia-Romagna , which competes in the Serie A , the top tier of Italian league system , following promotion from Serie B in the 2023–24 season.
+Parma Football Club was originally founded in December 1913, while the current society dates back to 2015. The team has been playing its home matches at the 27,906-seat Stadio Ennio Tardini , often referred to as simply Il Tardini , since 1923.
+
+=== chunk 2 · Introduction ===
+Financed by Calisto Tanzi , the club won eight trophies between 1992 and 2002, a period in which it achieved its best ever league finish as runners-up in the 1996–97 season . The club has won three Coppa Italia , one Supercoppa Italiana , two UEFA Cups , one European Super Cup and one UEFA Cup Winners' Cup .
+Financial troubles were brought about in late 2003 by the Parmalat scandal which caused the parent company to collapse and resulted in the club operating in controlled administration until January 2007. The club was declared bankrupt in 2015 and refounded in the Serie D , but secured a record three straight promotions to return to the top flight in 2018.
+
+=== chunk 3 · Early years (1913–1968) ===
+The club was founded in July 1913 as Verdi Foot Ball Club in honour of the centenary of famous opera composer Giuseppe Verdi , who was born in the province of Parma . It adopted yellow and blue as its colours.
+In December of the same year, Parma Foot Ball Club was formed from many of the original club's players and began wearing white shirts emblazoned with a black cross. Parma began playing league football during the 1919–20 season after the end of World War I . Construction of a stadium, the Stadio Ennio Tardini , began two years later. Parma became a founder member of Serie B after finishing as runners-up in the Prima Divisione in the 1928–29 season . The club would remain in Serie B for three years before being relegated and changing its name to Associazione Sportiva Parma in 1930. In the 1935–36 season , Parma became a founding member of Serie C , where the club stayed until winning promotion back to Serie B in 1943 . Italian football was then brought to a halt as the Second World War intensified, although the team did make an appearance in the Campionato Alta Italia in 1944.
+
+=== chunk 4 · Early years (1913–1968) ===
+Following the restart of organised football, Parma spent three years in Serie B, then split into two regional divisions, before again being relegated in 1948–49 to Serie C. The side would spend another five seasons in Serie C before an eleven-year spell in Serie B that included the achievement of ninth position in 1954–55 , a club record at that time. This was an era in which the club's players generally held down other jobs or were still in education and when the town's amateur rugby union and volleyball sides, Rugby Parma F.C. 1931 and Ferrovieri Parma , proved more popular among the more privileged. Parma made its debut in European competition during the 1960–61 season, defeating Swiss side AC Bellinzona in the Coppa delle Alpi , but relegation to Serie C followed in 1964–65 season . Parma spent just one season in Serie C before a second successive relegation, this time to Serie D , in 1966.
+
+=== chunk 5 · Rebirth and improvement (1968–1989) ===
+The club was in turmoil and was ordered into liquidation by the Court of Parma in 1968, changing its name to Parma Football Club that year. In 1969, another local team, Associazione Calcio Parmense, won promotion to Serie D . On 1 January 1970, A.C. Parmense adopted the sporting licence of the liquidated club which had been formed in 1913. This meant that it had the right to use the Crociata shirts, the badge and the city's name. This brought about a change of luck in both financial and sporting terms, as the side was crowned Serie D champions and spent three years in Serie C before promotion to Serie B ; however, it was a short stay. The team was relegated back to Serie C in its second season in the division. A return to Serie B did not materialise until the end of the 1970s and the club again lasted only one season in the second division of Italian football.
+
+=== chunk 6 · Rebirth and improvement (1968–1989) ===
+Under the management of Cesare Maldini , Parma once again returned to Serie B after winning its division in 1984 with victory on the final day over Sanremo ; Juventus -bound Stefano Pioli scored the only goal of the game. The Ducali again only spent a year in Serie B, finishing third from bottom and succumbing to relegation as a consequence. Arrigo Sacchi did, however, manage to return the club to Serie B in 1986 after a single season in the third tier. The side enjoyed good success that season in missing out on promotion to Italy's top tier by just three points and eliminating A.C. Milan from the Coppa Italia , a result that convinced owner Silvio Berlusconi to hire Sacchi as the new manager of the Rossoneri . Sacchi's replacement, Zdeněk Zeman , was fired after just seven matches and replaced by Giampieri Vitali, who secured two consecutive mid-table finishes.
+
+=== chunk 7 · Success and insolvency (1989–2004) ===
+Nevio Scala was appointed as head coach in 1989. Scala's Parma secured a historic promotion in 1990 to Serie A with a 2–0 Derby dell'Enza win over Reggiana . Investment from parent company Parmalat helped to improve the team's fortunes and the club made its debut in UEFA competition in 1991. Scala led the club to its first four major honours. The first of these was the Coppa Italia in 1991–92 , beating Juventus 2–1 over two legs. The following year came the first international triumph in a 3–1 victory in the Cup Winners' Cup over Belgian side Antwerp at Wembley . The next season, the side was successful in the European Super Cup , overcoming Milan 2–1 on aggregate, but lost the Cup Winners' Cup final 1–0 to Arsenal . Scala's final success with Parma was in another two-legged final against Juventus: Dino Baggio scored twice to give Parma a 2–1 aggregate win , but Juventus exacted revenge in the Coppa Italia final. Replaced by Carlo Ancelotti , Scala departed in 1996 and was a popular coach for the trophies he won and because the team played attractive football in the tradition of the club.
+
+=== chunk 8 · Success and insolvency (1989–2004) ===
+Ancelotti overhauled the team and guided it to a record second place in 1997 . Parma consequently made its debut in the UEFA Champions League the following year. Alberto Malesani was installed as coach in 1998 and the club completed a rare cup double in his first season, winning the Coppa Italia final against Fiorentina on the away goals rule and the UEFA Cup against Marseille at the Luzhniki Stadium in Moscow with a 3–0 victory before 1999 Supercoppa Italiana victory over league champions Milan followed in August 1999. In 2000, Hernán Crespo was sold to Lazio for a world record transfer fee and Malesani departed.
+Under replacement Renzo Ulivieri , the club lost the Coppa Italia final to Fiorentina. Under Pietro Carmignani in 2002, Parma won the third Coppa Italia trophy against Juventus (but would slip to defeat in the 2002 Supercoppa Italiana ) and finished outside the top six for the first time since promotion in 1990. This success earned it a tag as one of the "Seven Sisters". In April 2004, the club was declared insolvent following the financial meltdown of Parmalat and the club remained in special administration for three years.
+
+=== chunk 9 · Rebirth and another bankruptcy (2004–2015) ===
+The club re-formed as Parma Football Club SpA in June 2004 (as a subsidiary of being liquidated Parma AC SpA) and the 2004–05 season saw Parma plummet to its lowest finish in Serie A – despite a second consecutive 23-goal haul from Gilardino, who was then sold for €25 million – as managers came and went. Parma ended the following season , its first without European competition since 1991, in tenth, but returned in 2006 after the Calciopoli scandal .
+On 24 January 2007, Tommaso Ghirardi bought the club out of administration and became the owner and president of the club. Manager Claudio Ranieri helped the team avoid relegation to Serie B on the final day of the 2006–07 season following his February appointment. However, under a succession of managers, Parma's battle with relegation the following year was not successful, consigning the club to Serie B after 18 years in the top flight.
+
+=== chunk 10 · Rebirth and another bankruptcy (2004–2015) ===
+Francesco Guidolin won promotion back to Serie A at the first attempt with a second-place finish and led the side to eighth on its return to Serie A in 2009–10 , narrowly missing out on qualification for the UEFA Europa League before leaving for Udinese . In May 2010, Guidolin swapped jobs with Pasquale Marino , who was sacked by Ghirardi in April 2011 when Parma was caught in another relegation dogfight. Under Marino's replacement, Franco Colomba , Parma escaped the threat of relegation with two games to spare. In January 2012, Colomba was replaced by Roberto Donadoni following a winless run that culminated in a 5–0 loss to Inter Milan and the new coach led the team to eighth position in a Serie A club record seven-match winning run.
+
+=== chunk 11 · Rebirth and another bankruptcy (2004–2015) ===
+In 2014, Donadoni guided Parma to sixth in Serie A and a third consecutive top ten finish, but a return to Europe in the Europa League for the first time since 2007 was barred due to the late payment of income tax on salaries, not qualifying for a UEFA license, for which the club would also be docked points during the 2014–15 Serie A season. Financial troubles precipitated a succession of ownership changes and the club's eventual bankruptcy in March 2015 with total liabilities of €218 million, including €63m unpaid salaries. The club was allowed to finish the season but finished bottom of the league in 20th place. Administrators Angelo Anedda and Alberto Guiotto were forced to put some trophies to sell in an auction in a desperate attempt to raise money to cover the debt. These included: three Coppa Italia won in 1992, 1999 and 2002, the UEFA Cup Winners' Cup from 1993, the 1994 UEFA Super Cup, two UEFA Cup of 1995 and 1999 and the 1999 Supercoppa Italiana.
+
+=== chunk 12 · Another rebirth (2015–present) ===
+The re-founded club, S.S.D. Parma Calcio 1913 , was formed in July 2015, taking its name from the year of foundation of the predecessor club and securing a place in the 2015–16 Serie D under article 52 of N.O.I.F. as the representative of Parma. Ex-head coach Nevio Scala was appointed as president and former player Luigi Apolloni was chosen as head coach. In the club's first season, it sold over 9,000 season tickets, more than doubling the Serie D record. Parma achieved promotion from Serie D into professional football league Lega Pro with three games to spare following a 2–1 win against Delta Rovigo , ending the season in first place with 94 points from 38 games, and an unbeaten run of 28 victories and 10 draws.
+Parma ended the 2016–17 Lega Pro season in second place of Group B, but were promoted to Serie B after a 2–0 win over Alessandria in the promotion play-off final.
+
+=== chunk 13 · Another rebirth (2015–present) ===
+On 18 May 2018, Parma achieved a third promotion in three seasons, becoming the first Italian football club to achieve this, having finished the 2017–18 Serie B season second behind champions Empoli and level on points with Frosinone , but achieving automatic promotion due to a better head-to-head record, thus making a comeback to the top flight for the next season in 2018–19 Serie A just three seasons after their bankruptcy relegation to Serie D.
+On 23 July 2018, Parma were handed a 5 point deduction for the 2018–19 Serie A season, following text messages from Parma player Emanuele Calaio "eliciting a reduced effort" from two players of Spezia ( Filippo De Col and Claudio Terzi ) during the 2017–18 season, a match Parma won 2–0 to secure promotion. On 9 August, Parma had the 5-point deduction expunged. In the club's first season back in Serie A , they managed to achieve a 14th placed finish on the table, three points above the relegation zone.
+For the 2019–20 Serie A season, Parma finished in 11th place with 49 points. Dejan Kulusevski , playing for Parma on loan from Atalanta, won the Best Young Player in Serie A award.
+
+=== chunk 14 · Another rebirth (2015–present) ===
+Ahead of the 2020–21 Serie A season, manager Roberto D'Aversa was sacked on 23 August 2020 and replaced by Fabio Liverani . Liverani would only last until 7 January 2021, himself being replaced by his predecessor D'Aversa. Parma finished the season in bottom place, managing just three wins from 38 games and were relegated to Serie B. In September 2020, Parma was purchased by American Kyle Krause.
+Enzo Maresca was appointed as the new head coach for the 2021–22 Serie B season. Maresca was sacked on 23 November 2021 and replaced by Giuseppe Iachini the same day. Parma finished the season in 12th place. Argentinian attached Franco Vázquez was the joint second highest scorer in the league with 14 goals. Fabio Pecchia took over as coach for the 2022–23 Serie B season. Parma was promoted to Serie A in the following season.In the 2024-2025 Seria A season they sacked their manager Fabio Pecchia who manage to promote Parma from Serie B back to Seria A and Cristian Chivu was put in his place. Parma managed to finish 16th in this season.
+
+=== chunk 15 · Colours and badge ===
+Originally, the club wore blue and yellow chequered shirts in honour of the city's traditional colours, which date back to 1545 when the Duchy of Parma was established, but white shirts with a black cross on the chest were introduced after the First World War , drawing inspiration from Juventus ' colours, following a name change. White continued to be worn as the main colour of the home kits for much of the remainder of the century, although often complemented with yellow, blue or both, rather than black. The club did, however, experiment in the 1950s with blue shirts and blue and yellow striped shirts. The cross shirts were restored and worn until bankruptcy in 1968, when white shirts with off-centre blue and yellow vertical bands were worn, but the cross returned from 1970 until 1983 when a yellow and blue-sleeved white shirt was introduced and used for 8 years.
+
+=== chunk 16 · Colours and badge ===
+After decades in the lower divisions, Parma was promoted to Serie A in 1990, where the side immediately became a major force in the battle for major trophies, on many notable occasions in direct opposition to Juventus, who would become fierce rivals of Parma's. This rivalry and the influence of Parmalat led to the demotion of the white shirts to the away kit, so the side wore yellow and blue hooped shirts at home for six seasons between 1998 and 2004, and navy blue shirts often worn as third choice in this period. This was a time of great success for the club, thus the shirts became synonymous with Parma, often still called the Gialloblù (Yellow and Blues) today, despite a recent reversion to the traditional white shirts emblazoned with a cross caused by parent company Parmalat's collapse and the clubs subsequent re-foundation as Parma Football Club. Yellow and blue were Parma's traditional change colours, used in various combinations from 2004 to 2015, such as vertical stripes, hoops, crosses or as solid colour designs.
+
+=== chunk 17 · Colours and badge ===
+Parma's logo changed in 2005 to reflect the name change from Parma A.C. to Parma F.C., but the logo otherwise remained the same, encompassing the city colours of yellow and blue and the club's traditional black cross set on a white background, and has not changed much in years, although it was dramatically overhauled to feature a prancing bull for one season in 2000–01 before it was criticised and discontinued in favour of the old badge. A new badge with broadly similar features was introduced for the 2014–15 season following the use of a commemorative centenary badge for the 2013–14 campaign. The newly formed club in 2015 adopted a new logo before acquiring the rights to a number of legacy items for €250,000 a year later.
+Parma F.C.'s crest until 2012
+Parma F.C. logo, 2014–15
+S.S.D. Parma Calcio 1913 badge, 2015–16
+
+=== chunk 18 · Kit manufacturers and sponsors ===
+Period: 1913–1974 · Kit manufacturer: In-house
+Period: 1974–1981 · Kit manufacturer: Umbro
+Period: 1981–1982 · Kit manufacturer: Umbro · Shirt sponsor (main): Prosciutto di Parma
+Period: 1982–1983 · Kit manufacturer: Ennerre · Shirt sponsor (main): Prosciutto di Parma
+Period: 1983–1987 · Kit manufacturer: Umbro · Shirt sponsor (main): Prosciutto di Parma
+Period: 1987–1995 · Kit manufacturer: Umbro · Shirt sponsor (main): Parmalat
+Period: 1995–1998 · Kit manufacturer: Puma · Shirt sponsor (main): Parmalat
+Period: 1998–1999 · Kit manufacturer: Lotto · Shirt sponsor (main): Parmalat
+Period: 1999–2003 · Kit manufacturer: Champion · Shirt sponsor (main): Parmalat
+Period: 2003–2004 · Kit manufacturer: Champion · Shirt sponsor (main): Parmalat (Matchday 1-19) / Cariparma (20-38)
+Period: 2004–2005 · Kit manufacturer: Champion
+Period: 2005–2006 · Kit manufacturer: Champion / Erreà · Shirt sponsor (main): Tecnocasa
+Period: 2006–2007 · Kit manufacturer: Erreà · Shirt sponsor (main): Gimoka / Play Radio (Europa League) · Shirt sponsor (secondary): Play Radio
+
+=== chunk 19 · Kit manufacturers and sponsors ===
+Period: 2007–2008 · Kit manufacturer: Erreà · Shirt sponsor (main): Kome · Shirt sponsor (secondary): Kome (Matchday 2-3) / Il Granchio (13-38)
+Period: 2008–2009 · Kit manufacturer: Erreà · Shirt sponsor (main): Banca Monte Parma · Shirt sponsor (secondary): Metella Trasporti e Logistica
+Period: 2009–2012 · Kit manufacturer: Erreà · Shirt sponsor (main): Navigare · Shirt sponsor (secondary): Banca Monte Parma
+Period: 2012–2014 · Kit manufacturer: Erreà · Shirt sponsor (main): Folletto · Shirt sponsor (secondary): Navigare
+Period: 2014–2015 · Kit manufacturer: Erreà · Shirt sponsor (main): Folletto · Shirt sponsor (secondary): Energy T.I. Group (Matchday 1-28) / SanThè Sant'Anna (29-38) · Shirt sponsor (back): Various
+Period: 2015–2016 · Kit manufacturer: Erreà · Shirt sponsor (main): Navigare · Shirt sponsor (secondary): Folletto · Shirt sponsor (back): Sky Sport HD · Shorts sponsor: COLSER Servizi
+Period: 2016–2017 · Kit manufacturer: Erreà · Shirt sponsor (main): Aon · Shirt sponsor (secondary): Folletto · Shirt sponsor (back): Viva La Mamma Beretta · Shorts sponsor: COLSER Servizi
+
+=== chunk 20 · Kit manufacturers and sponsors ===
+Period: 2017–2018 · Kit manufacturer: Erreà · Shirt sponsor (main): Cetilar · Shirt sponsor (secondary): Aon · Shirt sponsor (back): Viva La Mamma Beretta · Shorts sponsor: COLSER Servizi
+Period: 2018–2019 · Kit manufacturer: Erreà · Shirt sponsor (main): Cetilar · Shirt sponsor (secondary): Aon · Shirt sponsor (back): Viva La Mamma Beretta · Shirt sponsor (sleeve): Il Valutatore
+Period: 2019–2020 · Kit manufacturer: Erreà · Shirt sponsor (main): Cetilar · Shirt sponsor (secondary): Lewer · Shirt sponsor (back): Viva La Mamma Beretta · Shirt sponsor (sleeve): Canovi Coperture
+Period: 2020–2021 · Kit manufacturer: Erreà · Shirt sponsor (main): Cetilar · Shirt sponsor (secondary): Old Wild West · Shirt sponsor (back): Viva La Mamma Beretta · Shirt sponsor (sleeve): Canovi Coperture
+Period: 2021–2022 · Kit manufacturer: Erreà · Shirt sponsor (main): Cetilar · Shirt sponsor (secondary): Gravity Sport · Shirt sponsor (back): EGO Airways · Shirt sponsor (sleeve): Canovi Coperture · Shorts sponsor: COLSER Servizi
+
+=== chunk 21 · Kit manufacturers and sponsors ===
+Period: 2022–2023 · Kit manufacturer: Erreà · Shirt sponsor (main): Prometeon · Shirt sponsor (secondary): Classic Football Shirts · Shirt sponsor (back): ITCompany · Shirt sponsor (sleeve): Fontana Viaggi · Shorts sponsor: OARO
+Period: 2023–2024 · Kit manufacturer: Puma · Shirt sponsor (main): Prometeon · Shirt sponsor (secondary): Classic Football Shirts · Shirt sponsor (back): inX.aero · Shorts sponsor: CAD Euro Pool
+Period: 2024– · Kit manufacturer: Puma · Shirt sponsor (main): Prometeon · Shirt sponsor (secondary): AdmiralBet.news · Shirt sponsor (back): inX.aero · Shirt sponsor (sleeve): Crédit Agricole Italia
+
+=== chunk 22 · Grounds ===
+Parma initially had no permanent home and used the Piazza d'Armi , where two wooden posts constituted the frame of each goal. In December 1914, the club began to use land between the Via Emilia , the Eridania refinery and the Ferraguti factory, but it was sold, so the club returned to the Piazza d'Armi before transferring to the Tre Pioppi , the first fenced-off pitch in the city. Parma moved into the Stadio Ennio Tardini in 1923 and remains there today, although the stadium saw drastic change from the vision of Ennio Tardini , under whose auspices the stadium was to be built, but who died before completion of the venue. Much of the renovation took place after the club's first promotion to Serie A at the start of the 1990s.
+
+=== chunk 23 · Grounds ===
+Since 1996, the first team has trained and played friendly matches at the Centro Sportivo di Collecchio in Collecchio , which is located 15 kilometres to the south-west of the stadium. Parma's youth teams also play their home matches in the same complex. Until 2015, younger youth teams trained at Campi Stuard but now train at Collechio. In 2018, the refounded Parma Calcio 1913 acquired the centre from the administrator of Eventi Sportivi S.p.A., the parent company of Parma F.C., and the former owner of the centre, for about €3 million.
+
+=== chunk 24 · Support ===
+The supporters of Parma are seen as placid fans. Traditionally, they have been seen as fans who enjoy the spectacle of football and are less partisan, although they have been more characterised by impatience of late. The supporters were praised for their loyalty after the club sold more season tickets in 2015 when playing in Serie D than the previous year in Serie A following bankruptcy. In Northeast Italy , the team is the fifth best supported, behind Inter Milan , Juventus , Milan and Bologna , the first three of which are not based in that region. They are represented by three main groups: il Centro di Coordinamento dei Parma Club (which represents most of the fanbase), l'Associazione Petitot and the club's ultras , Boys Parma , which was established on 3 August 1977 by young fans wanting to split from the Centro di Coordinamento and to encourage meetings with opposition fans. The Boys Parma occupy the northern end of the home stadium, La Curva Nord , directly opposite to where the away fans sit in the south stand. In 2008, the Curva Nord was renamed in honour of Boys Parma 1977 member Matteo Bagnaresi, who died when he was run over on the way to the Tardini by a coach which was carrying the opposition Juventus fans. In a not uncommon practice, the number 12 shirt has been reserved for the Parma fans, meaning no player is registered to play with that number on his kit for the club. The implication is that the supporters, particularly those of the famous Curva Nord, are the twelfth man . The last player to be registered with the number was Gabriele Giroli for the 2002–03 season. Parma's club anthem is Il grido di battaglia , which means "The Battle Cry".
+
+=== chunk 25 · Rivalries ===
+Parma maintains rivalries with regional and national clubs; some of these are keenly fought local derbies . Derby dell'Enza opponents Reggiana are the club's bitterest rivals. The ill-feeling with Reggiana comes from a traditional city rivalry between Parma and Reggio Emilia . Parma contests the Derby dell'Emilia with Bologna . Bologna and Parma are Emilia-Romagna 's two most decorated clubs, winning the region's only domestic titles: 7 Serie A titles and 5 Coppe Italia . Two other local derbies are the Derby dei Ducati , which is contested with neighbours Modena , and the Derby del Ducato , which is played against Piacenza . Despite their relative obscurity, Lombardian side Cremonese and Tuscan outfit Carrarese , to Parma's north and south, respectively, are both seen as rivals too.
+
+=== chunk 26 · Rivalries ===
+Juventus is considered a great rival of Parma largely due to their recent duels, which include Parma's 1995 UEFA Cup victory , its first and third Coppa Italia triumphs, Supercoppa Italiana defeats in 1995 and 2002 , and its 1995 domestic cup final defeat to The Old Lady . These six matches comprise nearly half of the fourteen major finals Parma has participated in. Ironically, Parma's colours have their origins in those Juventus wears, and the switch from white and black to a yellow and blue home kit in the late 1990s took place in order to distance and distinguish Parma from Juventus. Parma maintain keenly fought rivalries with Vicenza and Genoa .
+In Italy, it is common for clubs to be twinned in an arrangement called gemellaggi . This is a practice uncommon elsewhere. Parma enjoy amicable relations with Empoli in an arrangement that dates back to a game played in foggy conditions in 1984 that ended in the Parma fans congratulating those of Empoli on its win when the full-time whistle was blown without the Azzurri fans' knowledge. Perhaps a more current bond is felt towards the fans of Sampdoria .
+
+=== chunk 27 · Ownership and finances ===
+In 1991, the club was bought by multinational Italian dairy and food corporation Parmalat . This was the platform for success on the pitch but the club eventually succumbed to administration in 2004 due to Parmalat's massive bankruptcy with debts of $20 billion and fraudulent activity at Parmalat worth over €10 billion and a €167 million net loss by the club in 2003. On 24 January 2007, engineering entrepreneur Tommaso Ghirardi bought the club after three years of administration for $39 million and incorporated Eventi Sportivi as a holding company owning 100% of the club's shares of €20 million nominal value. Eventi Sportivi Srl (later S.p.A.), at first had a share capital of just €3 million, with Banca Monte Parma , owned 10% of the shares as minority. By 21 January 2009, Ghirardi's ownership of Eventi Sportivi was 75% with Banca Monte Parma holding 10% and Marco Ferrari, former vice-president Diego Penocchio and Penocchio's company Brixia Incipit each owning 5%. In July 2011, Ghirardi sold to both Alberto Rossi and Alberto Volpi 5% each of Eventi Sportivi. On 29 February 2014, Energy T.I. Group bought 10% of the shares in the club from Eventi Sportivi.
+
+=== chunk 28 · Ownership and finances ===
+On 19 December 2014 and as a result of a ruling which barred the club from a first European campaign under Tommaso Ghirardi , Ghirardi sold his 66.55% controlling stake in Eventi Sportivi to Dastraso Holding Ltd, a company based in Cyprus and controlled by Rezart Taçi for €1, at which point the club was $200 million in debt. The club became the third Serie A club to become foreign-owned as a result and Albanian Emir Kodra was installed as president.
+In February 2015, Taci sold his stake to Giampietro Manenti for the price he bought it, €1, less than two months after buying it, at which point salaries at the financially stricken club had not been paid since the previous summer. With Parma bottom of Serie A, Manenti was arrested in March 2015 on allegations of money laundering and his involvement in a credit card fraud ring, imperilling the already precarious situation as the club was plunged further into debt.
+
+=== chunk 29 · Ownership and finances ===
+On 19 March 2015, the club was declared bankrupt with a total liabilities of €218 million (including unpaid wages of €63 million). On 22 April 2015, the intermediate holding company of Parma, Eventi Sportivi SpA, was also declared bankruptcy by the Tribunal of Parma. The club was then declared legally bankrupt on 22 June 2015 after no new investors willing to refurbish €22.6 million debt in order to trigger Comma 3 of Article 52 of N.O.I.F. to allow the club to remain in Serie B. Other debts of the club were either waived by the footballers or settled by the administrator. New investor was not required to repay the subordinated debt and bank debt of the old company. The medals of Parma, which was owned by the company, as well as Centro Sportivo di Collecchio which was owned by its holding company Eventi Sportivi, were under auction after the bankruptcy.
+
+=== chunk 30 · Ownership and finances ===
+The phoenix club S.S.D. Parma Calcio 1913 S.r.L. was incorporated in 2015 under the ownership of Nuovo Inizio SrL with share capital of €250,000. Nuovo Inizio was owned by a number of backers including representatives of Parmalat and local businessmen Guido Barilla (co-owner of Barilla Group ), Paolo Pizzarotti (president of Impresa Pizzarotti ), Mauro Del Rio and Giampaolo Dallara . The new owners sought to overhaul the core philosophy of Italian club ownership and formed Parma Partecipazioni Calcistiche SrL to act as a vehicle for fan ownership, so issued a further €89,286 of shares to that company. Fans therefore own approximately 25% of the club at a cost of €500 per share .
+
+=== chunk 31 · Ownership and finances ===
+In June 2017, Chinese businessman Jiang Lizhang 's Desports group acquired a 60% majority stake in the club. The seven local businessman who launched the club in 2015 retained 30% of the club, while the remaining 10% remained in the hands of fans through Parma Partecipazione Calcistiche. At the end of October 2018 the local Nuovo Inizio group regained control of the club reacquiring 60% of the shares, with the Chinese partners forced to downsize to 30% in light of alleged lack of diligence in meeting their obligations, while 10% remained unchanged in the public company Partecipazioni Calcistiche. On 9 November Parma Calcio held a shareholders' Meeting to appoint a new board of directors, at the end of which Pietro Pizzarotti, at the time vice-president, was appointed the new president of the club.
+In 2020, Parma were purchased by the Krause Group, owners of American-based convenience store chain Kum & Go .
+Since 2013 the main sponsor is Cetilar by Pharmanutra .
+
+=== chunk 32 · Retired numbers ===
+6 – The club announced the retirement of the shirt number worn by club's captain Alessandro Lucarelli after his retirement announcement. Lucarelli holds the record for league appearances for the club and stayed with the club from its 2015 relegation from Serie A to Serie D following bankruptcy and through its three straight promotions back to Serie A between 2015 and 2018.
+12 – From the 2002–03 season until the present (with the exception of the 2015–16 season in Serie D , where league rules required that the number be assigned to a substitute), Curva Nord of the Stadio Ennio Tardini , as a sign of recognition towards the fans who sit in the Curva Nord, considered the 12th man on the pitch.
+
+=== chunk 33 · Club officials ===
+Owner
+Kyle Krause
+President: Kyle Krause
+
+=== chunk 34 · Chairmen history ===
+Parma has had numerous chairmen over the course of its history; here is a complete list of them:
+
+=== chunk 35 · Chairmen history ===
+1: Name Years Violi, Porcelli and Spaggiari 1913–14 Carlo Melli and Alberto Poletti 1914–15 Ing. Tedeschi 1919–20 Conte L. Lusignani 1920–21 Ennio Tardini 1921–23 Gabbi 1923–24 Giuseppe Muggia and Amoretti 1924–25 Aldo Ortali 1925–26 Giovanni Canali 1926–28 Emilio Grossi 1928–29 Giuseppe Amoretti 1929–30 Cesare Minelli 1930–35 Emilio Grossi 1935–36 Filippo Bonati 1936–37 Nino Medioli 1937–38 Medardo Ghini 1938–40 Giuseppe Scotti 1940–43 Giorgio Zanichelli 1945–46 Raimondo Bortesi 1946–47 Amerigo Ghirardi 1947–48 Bruno Avanzini 1948–51 Bonifazio Lupi di Soragna 1951–53 Umberto Agnetti, Del Frate, Campanini and Viani 1953–54 Fabrizio Cartolari 1954–58 · 3: Name Years Giuseppe Agnetti 1958–65 Walter Molinari 1965–66 Gino Camorali 1966–67 Vittorio Blarzino 1967–68 Zanichelli and Pizzighoni 1968–69 Ermes Foglia 1969–73 Arnaldo Musini 1973–76 Ernesto Ceresini 1976–90 Fulvio Ceresini 1990 Giorgio Pedraneschi 1990–96 Stefano Tanzi 1996–04 Enrico Bondi 2004 Guido Angiolini 2004–06 Enrico Bondi 2006–07 Tommaso Ghirardi 2007–2014 Pietro Doca 2014 Fabio Giordano 2014–15 Ermir Kodra 2015 Giampietro Manenti 2015 Nevio Scala 2015–2016 Jiang Lizhang 2017–2018 Pietro Pizzarotti 2018–2020 Kyle J.Krause 2020–present
+
+=== chunk 36 · Chairmen history ===
+0: Name · 1: Years
+0: Violi, Porcelli and Spaggiari · 1: 1913–14
+0: Carlo Melli and Alberto Poletti · 1: 1914–15
+0: Ing. Tedeschi · 1: 1919–20
+0: Conte L. Lusignani · 1: 1920–21
+0: Ennio Tardini · 1: 1921–23
+0: Gabbi · 1: 1923–24
+0: Giuseppe Muggia and Amoretti · 1: 1924–25
+0: Aldo Ortali · 1: 1925–26
+0: Giovanni Canali · 1: 1926–28
+0: Emilio Grossi · 1: 1928–29
+0: Giuseppe Amoretti · 1: 1929–30
+0: Cesare Minelli · 1: 1930–35
+0: Emilio Grossi · 1: 1935–36
+0: Filippo Bonati · 1: 1936–37
+0: Nino Medioli · 1: 1937–38
+0: Medardo Ghini · 1: 1938–40
+0: Giuseppe Scotti · 1: 1940–43
+0: Giorgio Zanichelli · 1: 1945–46
+0: Raimondo Bortesi · 1: 1946–47
+0: Amerigo Ghirardi · 1: 1947–48
+0: Bruno Avanzini · 1: 1948–51
+0: Bonifazio Lupi di Soragna · 1: 1951–53
+0: Umberto Agnetti, Del Frate, Campanini and Viani · 1: 1953–54
+0: Fabrizio Cartolari · 1: 1954–58
+0: Name · 1: Years
+0: Giuseppe Agnetti · 1: 1958–65
+0: Walter Molinari · 1: 1965–66
+0: Gino Camorali · 1: 1966–67
+0: Vittorio Blarzino · 1: 1967–68
+0: Zanichelli and Pizzighoni · 1: 1968–69
+0: Ermes Foglia · 1: 1969–73
+0: Arnaldo Musini · 1: 1973–76
+0: Ernesto Ceresini · 1: 1976–90
+0: Fulvio Ceresini · 1: 1990
+
+=== chunk 37 · Chairmen history ===
+0: Giorgio Pedraneschi · 1: 1990–96
+0: Stefano Tanzi · 1: 1996–04
+0: Enrico Bondi · 1: 2004
+0: Guido Angiolini · 1: 2004–06
+0: Enrico Bondi · 1: 2006–07
+0: Tommaso Ghirardi · 1: 2007–2014
+0: Pietro Doca · 1: 2014
+0: Fabio Giordano · 1: 2014–15
+0: Ermir Kodra · 1: 2015
+0: Giampietro Manenti · 1: 2015
+0: Nevio Scala · 1: 2015–2016
+0: Jiang Lizhang · 1: 2017–2018
+0: Pietro Pizzarotti · 1: 2018–2020
+0: Kyle J.Krause · 1: 2020–present
+
+=== chunk 38 · Managerial history ===
+Below is a list of Parma managers since the end of the First World War until the present day.
+
+=== chunk 39 · Managerial history ===
+1: Name Nationality Years Violi, Porcelli, Spaggiari 1919–20 Percy Humphrey 1920–21 Adolf Riebe 1921–23 Guido Ara 1923–24 Gabbi, Forlivesi 1924–25 Carlo Achatzi 1925–26 Ghini, Stuardt 1926–27 Emilio Grossi 1927–28 Raoul Violi 1928–29 Emilio Grossi 1929–30 Armand Halmos 1930–31 Emilio Grossi 1931–32 Crotti 1932–33 Tito Mistrali 1933–36 Alfredo Mattioli 1936–37 Elvio Banchero 1937–38 Pál Szalaj 1938–39 József Wereb 1939–40 Sam Trevors 1940–42 Italo Defendi 1942–43 Giuseppe Carlo Ferrari 1945–46 Renato Cattaneo, Lombatti, Frione,  Mistrali 1946–47 Bruno Dentelli, Giovanni Mazzoni, Dietrich, Tagliani 1947–48 Renato Cattaneo,  Giuberti,  Mistrali, Giuseppe Carlo Ferrari, Lombatti, Carlo Rigotti 1948–49 · 2: Name Nationality Years Carlo Rigotti 1949–50 Giovanni Mazzoni, Boni, Mattioli 1950–51 Paolo Tabanelli 1951–53 Carlo Alberto Quario 1953–54 Ivo Fiorentini 1954–56 Oliveri, Giuberti 1956–57 Čestmír Vycpálek 1956–58 Guido Mazetti 1958–60 Mario Genta 1960–62 Canforini 1962–63 Diotallevi, Arnaldo Sentimenti 1963–64 Oliveri, Giuberti 1956–57 Bruno Arcari 1964–65 Ivano Corghi 1965–66 Dante Boni 1965–67 Giancarlo Vitali 1967–68 Dante Boni 1968–69 Giancarlo Vitali 1969–70 Stefano Angeleri 1970–72 Antonio Soncini 1972 Giorgio Sereni 1973–74 Renato Gei 1974–75 Giovanni Meregalli 1975–76 Tito Corsi 1976–77 Bruno Mora 1977 Gianni Corelli, Giorgio Visconti 1977–78 Graziano Landoni 1978 Cesare Maldini 1978–80 Domenico Rosati 1980–81 Giorgio Sereni 1981 Giancarlo Danova 1981–83 · 3: Name Nationality Years Bruno Mora 1983 Marino Perani 1983–85 Silvano Flaborea 1985 Pietro Carmignani 1985 Arrigo Sacchi 1985–87 Zdeněk Zeman 1987 Giampiero Vitali 1987–89 Nevio Scala 1989–96 Carlo Ancelotti 1996–98 Alberto Malesani 1998–01 Arrigo Sacchi 2001 Renzo Ulivieri 2001 Daniel Passarella 2001 Pietro Carmignani 2001–02 Cesare Prandelli 2002–04 Silvio Baldini 2004–05 Pietro Carmignani 2005 Mario Beretta 2005–06 Stefano Pioli 2006–07 Claudio Ranieri 2007 Domenico Di Carlo 2007–08 Héctor Cúper 2008 Andrea Manzo 2008 Luigi Cagni 2008 Francesco Guidolin 2008–10 Pasquale Marino 2010–11 Franco Colomba 2011–12 Roberto Donadoni 2012–15 Luigi Apolloni 2015–16 Roberto D'Aversa 2016–20 Fabio Liverani 2020–21 Roberto D'Aversa 2021 Enzo Maresca 2021 Giuseppe Iachini 2021–22 Fabio Pecchia 2022–25 Cristian Chivu 2025
+
+=== chunk 40 · Managerial history ===
+0: Name · 1: Nationality · 2: Years
+0: Violi, Porcelli, Spaggiari · 2: 1919–20
+0: Percy Humphrey · 2: 1920–21
+0: Adolf Riebe · 2: 1921–23
+0: Guido Ara · 2: 1923–24
+0: Gabbi, Forlivesi · 2: 1924–25
+0: Carlo Achatzi · 2: 1925–26
+0: Ghini, Stuardt · 2: 1926–27
+0: Emilio Grossi · 2: 1927–28
+0: Raoul Violi · 2: 1928–29
+0: Emilio Grossi · 2: 1929–30
+0: Armand Halmos · 2: 1930–31
+0: Emilio Grossi · 2: 1931–32
+0: Crotti · 2: 1932–33
+0: Tito Mistrali · 2: 1933–36
+0: Alfredo Mattioli · 2: 1936–37
+0: Elvio Banchero · 2: 1937–38
+0: Pál Szalaj · 2: 1938–39
+0: József Wereb · 2: 1939–40
+0: Sam Trevors · 2: 1940–42
+0: Italo Defendi · 2: 1942–43
+0: Giuseppe Carlo Ferrari · 2: 1945–46
+0: Renato Cattaneo, Lombatti, Frione,  Mistrali · 2: 1946–47
+0: Bruno Dentelli, Giovanni Mazzoni, Dietrich, Tagliani · 2: 1947–48
+0: Renato Cattaneo,  Giuberti,  Mistrali, Giuseppe Carlo Ferrari, Lombatti, Carlo Rigotti · 2: 1948–49
+0: Name · 1: Nationality · 2: Years
+0: Carlo Rigotti · 2: 1949–50
+0: Giovanni Mazzoni, Boni, Mattioli · 2: 1950–51
+0: Paolo Tabanelli · 2: 1951–53
+0: Carlo Alberto Quario · 2: 1953–54
+0: Ivo Fiorentini · 2: 1954–56
+0: Oliveri, Giuberti · 2: 1956–57
+0: Čestmír Vycpálek · 2: 1956–58
+
+=== chunk 41 · Managerial history ===
+0: Guido Mazetti · 2: 1958–60
+0: Mario Genta · 2: 1960–62
+0: Canforini · 2: 1962–63
+0: Diotallevi, Arnaldo Sentimenti · 2: 1963–64
+0: Oliveri, Giuberti · 2: 1956–57
+0: Bruno Arcari · 2: 1964–65
+0: Ivano Corghi · 2: 1965–66
+0: Dante Boni · 2: 1965–67
+0: Giancarlo Vitali · 2: 1967–68
+0: Dante Boni · 2: 1968–69
+0: Giancarlo Vitali · 2: 1969–70
+0: Stefano Angeleri · 2: 1970–72
+0: Antonio Soncini · 2: 1972
+0: Giorgio Sereni · 2: 1973–74
+0: Renato Gei · 2: 1974–75
+0: Giovanni Meregalli · 2: 1975–76
+0: Tito Corsi · 2: 1976–77
+0: Bruno Mora · 2: 1977
+0: Gianni Corelli, Giorgio Visconti · 2: 1977–78
+0: Graziano Landoni · 2: 1978
+0: Cesare Maldini · 2: 1978–80
+0: Domenico Rosati · 2: 1980–81
+0: Giorgio Sereni · 2: 1981
+0: Giancarlo Danova · 2: 1981–83
+0: Name · 1: Nationality · 2: Years
+0: Bruno Mora · 2: 1983
+0: Marino Perani · 2: 1983–85
+0: Silvano Flaborea · 2: 1985
+0: Pietro Carmignani · 2: 1985
+0: Arrigo Sacchi · 2: 1985–87
+0: Zdeněk Zeman · 2: 1987
+0: Giampiero Vitali · 2: 1987–89
+0: Nevio Scala · 2: 1989–96
+0: Carlo Ancelotti · 2: 1996–98
+0: Alberto Malesani · 2: 1998–01
+0: Arrigo Sacchi · 2: 2001
+0: Renzo Ulivieri · 2: 2001
+0: Daniel Passarella · 2: 2001
+
+=== chunk 42 · Managerial history ===
+0: Pietro Carmignani · 2: 2001–02
+0: Cesare Prandelli · 2: 2002–04
+0: Silvio Baldini · 2: 2004–05
+0: Pietro Carmignani · 2: 2005
+0: Mario Beretta · 2: 2005–06
+0: Stefano Pioli · 2: 2006–07
+0: Claudio Ranieri · 2: 2007
+0: Domenico Di Carlo · 2: 2007–08
+0: Héctor Cúper · 2: 2008
+0: Andrea Manzo · 2: 2008
+0: Luigi Cagni · 2: 2008
+0: Francesco Guidolin · 2: 2008–10
+0: Pasquale Marino · 2: 2010–11
+0: Franco Colomba · 2: 2011–12
+0: Roberto Donadoni · 2: 2012–15
+0: Luigi Apolloni · 2: 2015–16
+0: Roberto D'Aversa · 2: 2016–20
+0: Fabio Liverani · 2: 2020–21
+0: Roberto D'Aversa · 2: 2021
+0: Enzo Maresca · 2: 2021
+0: Giuseppe Iachini · 2: 2021–22
+0: Fabio Pecchia · 2: 2022–25
+0: Cristian Chivu · 2: 2025
+
+=== chunk 43 · Honours ===
+Parma has won eight major titles in its history, all coming in a period of ten years between 1992 and 2002. These honours make it the eleventh most successful team in Italian football history in terms of the number of major trophies won , the fourth most successful Italian team in European competitions (after AC Milan , Juventus and Inter Milan ), and one of thirteen Italian clubs to have won multiple major titles.
+
+=== chunk 44 · National ===
+Serie A Runners-up: 1996–97
+Serie B Winners : 2023–24 Runners-up: 2008–09 , 2017–18
+Serie C Winners : 1953–54 , 1972–73 , 1983–84 , 1985–86
+Serie D Winners : 1969–70 , 2015–16
+Coppa Italia Winners : 1991–92 , 1998–99 , 2001–02 Runners-up: 1994–95 , 2000–01
+Supercoppa Italiana Winners : 1999 Runners-up: 1992 , 1995 , 2002
+
+=== chunk 45 · European ===
+UEFA Cup Winners : 1994–95 , 1998–99
+European Cup Winners' Cup Winners : 1992–93 Runners-up: 1993–94
+European Super Cup Winners : 1993
+
+=== chunk 46 · Divisional movements ===
+Series: A · Years: 29 · Last: 2025–26 · Promotions: - · Relegations: 4 (1926, 2008, 2015✟, 2021)
+Series: B · Years: 30 · Last: 2023–24 · Promotions: 5 (1925, 1990, 2009, 2018, 2024) · Relegations: 6 (1932, 1949, 1965, 1975, 1980, 1985)
+Series: C · Years: 30 · Last: 2016–17 · Promotions: 7 (1946, 1954, 1973, 1979, 1984, 1986, 2017) · Relegations: 1 (1966)
+Series: 89 out of 94 years of professional football in Italy since 1929 · Years: 89 out of 94 years of professional football in Italy since 1929 · Last: 89 out of 94 years of professional football in Italy since 1929 · Promotions: 89 out of 94 years of professional football in Italy since 1929 · Relegations: 89 out of 94 years of professional football in Italy since 1929
+Series: D · Years: 5 · Last: 2015–16 · Promotions: 2 (1970, 2016) · Relegations: never

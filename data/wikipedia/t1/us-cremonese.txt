@@ -1,0 +1,74 @@
+page: US Cremonese
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=US_Cremonese&oldid=1351913460
+extracted: 2026-09-23
+chunks: 13
+
+=== chunk 1 · Introduction ===
+Full name: Unione Sportiva Cremonese S.p.A.
+Nicknames: La Cremo I Grigiorossi (The Gray and Reds) Le Tigri (The Tigers) I Violini (The Violins )
+Founded: 24 March 1903 ; 123 years ago ( 1903-03-24 )
+Ground: Stadio Giovanni Zini
+Capacity: 15,191
+Owner: Giovanni Arvedi
+President: Francesco Dini
+Head coach: Marco Giampaolo
+League: Serie B
+Website: uscremonese .it
+Unione Sportiva Cremonese , commonly referred to as Cremonese , is an Italian professional football club based in Cremona , Lombardy , which plays in Serie A following their promotion from Serie B in the 2024–25 season via the playoffs.
+
+=== chunk 2 · History ===
+Founded on March 24, 1903, at l'osteria Varesina, the club's constitution defined its purpose as promoting physical education, sportsmanship, discipline, and unity for the benefit of both individuals and the nation. The club was named Unione Sportiva Cremonese. [ citation needed ]
+In 1913, the club marked its tenth anniversary with a significant year in its history. U.S. Cremonese officially affiliated with the Italian Football Federation (FIGC) , having introduced football to Cremona. It also launched its inaugural "Città di Cremona" Tournament, featuring both the first team and reserves, as well as teams from Crema , Lodi , Brescia , Palazzolo , and Fanfulla . The tournament was the club's first major football competition, and in the following year, Cremonese won the Lombardy Championship, earning promotion to the First Division in 1914. The team's original home ground was located on Via San Rocco, and the club's first colors were white and lilac. On December 7, Guido Costa scored the club's first-ever goal in an official match against Varese .
+
+=== chunk 3 · History ===
+In 1914, Cremonese ascended to the First Category and were placed in Group E. It was during a friendly against Vicenza on 20 September that the club made a significant change, adopting their now-iconic grigiorossi (gray and red) colours, a move that would go on to define the team's identity.
+Although Cremonese finished a respectable fifth in their group, the outbreak of World War I saw the league suspended, leaving the championship unfinished. The team's regular starting lineup that season featured Giovanni Zini [ it ] , De Vecchi, Mainardi, Secondo Talamazzini [ it ] , Attilio Tornetti [ it ] , Cighetti, Curtabili, Brusati, Alberto Albertoni [ it ] , Piero Lombardi [ it ] , and Italo Defendi [ it ] , a group of players that helped solidify the club's early place in Italian football history.
+
+=== chunk 4 · History ===
+In 1919, following the devastation of World War I, Cremonese faced a significant setback when their original pitch on Via San Rocco was no longer available. Undeterred, the club relocated and set about constructing a new home. Campo Cremonese opened its doors on November 2, 1919, with a high-profile match against Juventus . In 1925, the stadium was renamed Giovanni Zini in a tribute to the club's first goalkeeper, who lost his life during the war.
+Cremonese enjoyed one of their most glorious campaigns in the 1926 season, spending much of the year at the top of the league. However, they ultimately finished second to Juventus, who clinched Group B with 37 points to win the Italian championship. Cremonese's tally of 29 points remains the club's best-ever league finish, a testament to their rise as a competitive force in Italian football.
+
+=== chunk 5 · History ===
+The club marked its 25th anniversary in 1928 with a banquet, where Emilio Faia, the first president of U.S. Cremonese, addressed an audience of dedicated members. Reflecting on the club's journey, Faia expressed his deep gratitude, noting the struggles they overcame to bring football to the masses. "We fought against certain mindsets that viewed sport as a luxury," he remarked, "while we practiced it after long days of work, giving everything we had to open the path to progress for sport."
+Cremonese entered Serie A in 1929–30 , marking the beginning of their football journey at the highest level of Italian football. However, this early success was followed by a long and challenging period of decline, as the club struggled to maintain its place in the top tier and spent much of the following decades in the lower leagues.
+
+=== chunk 6 · History ===
+In 1932, the city of Cremona embarked on a significant urban transformation project, modernizing and redeveloping the historic center. This shift was not just limited to the city's infrastructure; in the realm of sports, the ambitious plans included the creation of a large gallery in the heart of the city. A new multi-purpose field was also envisioned on Via Cardinal Massaia, dedicated to Roberto Farinacci . [ citation needed ]
+In the aftermath of World War II, Cremonese faced immense challenges, but the club's resilience shone through. The stadium was re-dedicated to Giovanni Zini, marking a new chapter for the club. By 1951, Cremonese was on the brink of disaster. Financial struggles nearly saw the club wiped from the national Serie C Championship. However, the team's spirit and the leadership of its president allowed them to pull off a victory, winning 2–0 against Edera Trieste [ it ] in a game that saved their season and ensured the club's survival. This moment became a symbol of the club's relentless determination.
+In 1953, Cremonese, still in financial turmoil, saw the election of a Special Commissioner.
+
+=== chunk 7 · History ===
+By 1967, Cremonese had returned to Serie C but faced a significant setback when they lost the provincial derby to Leoncelli in a stunning upset at the Zini stadium. Despite this, the club began to regroup under the leadership of Domenico Luzzara , with many local talents coming through the ranks. Among these was Emiliano Mondonico , who scored 17 goals in 26 appearances, becoming the club's top scorer that season .
+The 1970s marked the beginning of a new era for Cremonese. After securing promotion to Serie C, the team began its climb toward higher echelons of Italian football. During this period, the club unearthed one of Italy's greatest footballing talents: Antonio Cabrini . The young full-back would go on to become a household name, but it was the signing of Cremonese's very own Aristide Guarneri , already a World Cup winner with Inter Milan , that made headlines. Guarneri, at 32 years old, donned the grigiorosso jersey for the first time, providing both experience and leadership to the squad.
+
+=== chunk 8 · History ===
+After 26 years, Cremonese returned to Serie B in 1977, a monumental achievement for the club. Under the guidance of coach Angeleri, the team finished with 55 points, 42 goals scored, and only 18 goals conceded. Nicolini emerged as the club's star striker, netting 15 goals and ensuring the team's successful promotion to Italy's second division.
+The 1980s were a rollercoaster for Cremonese, with both emotional highs and tense moments. On May 10, 1981, Gianluca Vialli made his debut for the first team, marking the beginning of what would be a glittering career. However, it was on May 31, 1981, that the season truly came to a head. Cremonese had almost squandered their promotion to Serie B, but a 2–0 victory over Fano was ultimately confirmed by a legal ruling, ensuring their place in Italy's second division.
+For the first time in 54 years, Cremonese secured a historic promotion to Serie A in 1984. Led by Mondonico, the team achieved promotion after a 3–3 draw with Palermo on June 3, 1984. The historic achievement ended decades of struggle and placed Cremonese back among Italy's elite.
+
+=== chunk 9 · History ===
+In 1990, Cremonese made yet another historic return to Serie A. The journey to promotion was dramatic, with only 300 fans making the journey to Pescara. After 120 minutes of intense football, the match ended in a penalty shootout. Michelangelo Rampulla saved the first penalty, and Attilio Lombardo scored the decisive penalty, sending Cremonese back to Serie A after a 5-year absence.
+Cremonese had a successful run in the 1992–93 Anglo-Italian Cup , beating Bari 4–1 in the semi-final, and Derby County 3–1 in the final at the old Wembley Stadium , Cremonese's scorers were Corrado Verdelli , Riccardo Maspero and Andrea Tentoni , with Derby's goal scored by Marco Gabbiadini .
+Under Luigi Simoni , Cremonese returned to Serie A in the 1993–94 season. With a side containing quality in the form of defenders Luigi Gualco and Corrado Verdelli , midfield playmaker Riccardo Maspero and forwards Andrea Tentoni and Matjaž Florijančič , Cremonese held their own in Serie A with a 10th-place finish in 1993–94, but would be relegated in the 1995–96 season.
+
+=== chunk 10 · History ===
+Relegation resulted in the decline of the club, plummeting to Serie C2 by 2000, before achieving successive promotions back to Serie B by 2005. Giovanni Dall'Igna , another defender from the Serie A years, returned to the club. However, Cremonese were relegated to Serie C1 in the 2005–06 season. Cremonese have tried to return to Serie B since: they had a good attempt in the 2009–10 season, when they were beaten by Varese in the promotion play-off final (2–1 on aggregate). Eventually they succeeded in 2017. In the 2021–22 Serie B , Cremonese finished second to earn promotion to the 2022–23 Serie A . Despite achieving promotion, coach Fabio Pecchia resigned from his post.
+In 2025, Cremonese was once again promoted to the top flight after two seasons in Serie B. This happened via victory in the playoff final round against Spezia 3–2 on aggregate.
+
+=== chunk 11 · History ===
+The season started extraordinarily well for the Grigiorossi as they beat AC Milan in a historic 2–1 victory at the San Siro , with Federico Bonazzoli scoring a splendid bicycle kick. This combined with a 3–2 victory against Sassuolo the following week saw Cremonese temporarily reach pole position in Serie A. The club gained further international recognition when Leicester City legend Jamie Vardy penned a 1-year contract with the Grigiorossi.
+
+=== chunk 12 · Honours ===
+Type: Domestic · Competition: Serie C · Titles: 3 · Seasons/Years: 1935–36 (Girone B), 1941–42 (Girone B), 1976–77 (Girone A)
+Type: Domestic · Competition: Serie C1 · Titles: 1 · Seasons/Years: 2004–05 (Girone A)
+Type: Domestic · Competition: Serie D · Titles: 1 · Seasons/Years: 1953–54 (Girone C), 1970–71 (Girone B), 1967–68 (Girone B)
+Type: Worldwide · Competition: Anglo-Italian Cup · Titles: 1 · Seasons/Years: 1992–93
+
+=== chunk 13 · Divisional movements ===
+Series: A · Years: 9 · Last: 2025–26 · Promotions: – · Relegations: 6 (1930, 1985, 1990, 1992, 1996, 2023)
+Series: B · Years: 33 · Last: 2024–25 · Promotions: 5 (1984, 1989, 1991, 1993, 2022, 2025) · Relegations: 7 (1935, 1938, 1951, 1978, 1997, 1999, 2006)
+Series: C +C2 · Years: 43 +4 · Last: 2016–17 · Promotions: 7 (1936, 1942, 1977, 1981, 1998, 2005, 2017)  1 (2004 C2) · Relegations: 1 (2000 C1)  3 (1952, 1967, 1969)
+Series: 89 out of 94 years of professional football in Italy since 1929 · Years: 89 out of 94 years of professional football in Italy since 1929 · Last: 89 out of 94 years of professional football in Italy since 1929 · Promotions: 89 out of 94 years of professional football in Italy since 1929 · Relegations: 89 out of 94 years of professional football in Italy since 1929
+Series: D · Years: 5 · Last: 1970–71 · Promotions: 3 (1954, 1968, 1971) · Relegations: Never

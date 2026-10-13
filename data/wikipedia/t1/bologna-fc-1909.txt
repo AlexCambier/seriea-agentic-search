@@ -1,0 +1,313 @@
+page: Bologna FC 1909
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=Bologna_FC_1909&oldid=1356017384
+extracted: 2026-09-23
+chunks: 32
+
+=== chunk 1 · Introduction ===
+Full name: Bologna Football Club 1909 S.p.A.
+Nicknames: I Rossoblù (The Red and Blues) I Veltri (The Greyhounds) I Felsinei (The Felsinians ) I Petroniani (The Petronians )
+Founded: 3 October 1909 ; 116 years ago ( 1909-10-03 )
+Ground: Stadio Renato Dall'Ara
+Capacity: 36,532
+Owner: BFC 1909 Lux SPV S.A. (99.93%)
+Chairman: Joey Saputo
+Head coach: Vincenzo  Italiano
+League: Serie A
+Website: www .bolognafc .it
+Bologna Football Club 1909 , commonly referred to as Bologna ( Italian pronunciation: [ boˈloɲɲa ] ), is an Italian professional football club based in Bologna , Emilia-Romagna that plays in Serie A , the top flight of Italian football . The club have won seven top-flight titles, three Coppa Italia titles, and one UEFA Intertoto Cup .
+
+=== chunk 2 · Introduction ===
+Founded in 1909, Bologna were founding members of Serie A, and won many of their league championships during the late 1930s. The club ceded any league dominance by 1964, when it won its last league title to date. They won two Coppa Italia titles in the 1970s, before battling relegation throughout the latter part of the 20th century. Bologna changed ownership multiple times during the early 2000s and 2010s, due to financial mismanagement, and later stabilized under the guise of a Canadian consortium led by Joey Saputo .
+Bologna have participated in 79 Serie A seasons, which is the ninth-most in Italian football history. The club have played in the Stadio Renato Dall'Ara since 1927, which is the tenth-largest stadium by capacity in Serie A.
+
+=== chunk 3 · History ===
+Bologna Football Club' s formation was orchestrated by Emilio Arnstein, an Austrian who became interested in football at university in Vienna and Prague . He and his brother had previously founded another football club, Black Star, in Austria.
+The club was founded on 3 October 1909, in the Northern Italian city of Bologna . Upon its formation, Carlo Sandoni was the club's sponsor and general manager, Swiss Louis Rauch became president, nobleman Guido Della Valle was the vice-president, Enrico Penaglia secretary, Sergio Lampronti cashier , while Emilio Arnstein and Leone Vincenzi were appointed councilmen.
+On 20 March 1910, Bologna played their first ever game, against Virtus , who wore white shirts. Bologna outclassed their opponents, winning 9–1. The first football squad featured; Koch, Chiara, Pessarelli, Bragaglia, Guido Della Valle, Nanni, Donati, Rauch, Bernabeu, Mezzano, and Gradi.
+
+=== chunk 4 · History ===
+Their formative season was spent in the regional league under Arrigo Gradi as captain, Bologna won their league gaining promotion to a league named Group Veneto-Emiliano . They spent four seasons in this league, never finishing lower than fifth. Bologna were entered into the Northern League before all football leagues were postponed for World War I.
+
+=== chunk 5 · Champions: 1920s and 1930s ===
+After the first war , Bologna began to become more successful. First reaching the semi-finals of the Northern Italian competition in 1919–20, they went one better the following season by reaching the Northern League finals, going out 2–1 to Pro Vercelli . They would equal this again in 1923–24, coming runner up to eventual national champions Genoa .
+Bologna became Northern and National League champions for the first time during 1924–25, beating Genoa CFC after five hard-fought final matches to take the championship. The finals against the Ligurian giants were marred by heavy crowd troubles. A few seasons later Bologna became champions of Italy for the second time in 1928–29 giving them a foothold in Italian football, building up a legacy, this was the last time the league was competed in the old system, Serie A was instated the following year.
+Bologna won the Scudetto three more times before World War II, in 1935–36, 1936–37 and 1938–39 , and once during the war ( 1940–41 ).
+
+=== chunk 6 · Post-World War II ===
+After World War II , the club was less successful. Throughout the 1950s and 1960s, the club generally floated between fourth, fifth and sixth position in the league, until they took the league title back in 1963–64 . To date this remains their last Serie A championship, bringing the club's total to seven. This qualified Bologna to the 1964–65 European Cup (today UEFA Champions League), but they were eliminated in the preliminary round against Anderlecht .
+It was not all doom and gloom for the club, however; in the 1970s, they won the Italian Cup twice, the second final of which was against Palermo . The game was tense and finished 1–1 before going to a penalty shootout , where Bologna won 4–3.
+
+=== chunk 7 · Climbing down and back up the Leagues ===
+Beginning in the 1981–82 season, the club began to slide. First, they were relegated from Serie A after battling it out for survival with Cagliari and Genoa . They were relegated twice in succession and slid into Serie C1 . They won their way out of C1 the next year, and returned to Serie A for the 1988–89 season after four years of fighting it out in Serie B .
+They did not remain long, however, being relegated in 1991 and returning to Serie C1 in 1993. The club returned to Serie A for 1996. Two years later, Bologna tasted a slice of success on the European stage, winning the UEFA Intertoto Cup and playing in the UEFA Cup . The club remained in Serie A until the 2004–05 campaign, losing to Parma in the playoffs.
+Despite losing some key players, Bologna expected to be challenging strongly for promotion from Serie B in the 2005–06 campaign . Despite its ambition, however, Bologna had a poor start to the season, causing the sacking of experienced coach Renzo Ulivieri , replaced by former Internazionale defender Andrea Mandorlini .
+
+=== chunk 8 · Climbing down and back up the Leagues ===
+During this time, the team was sold by Giuseppe Gazzoni Frascara to Alfredo Cazzola, a local entrepreneur. Mandorlini, however, was not either able to bring Bologna up the Serie B table, and was fired on 5 March 2006; Ulivieri was then appointed back as team coach, after having been sacked a few months before. Bologna ended the 2005–06 Serie B campaign in eighth place. In the 2006–07 season , Bologna ended with the seventh place: there were several clashes between chairman Cazzola and head coach Ulivieri, who was ultimately fired on 14 April 2007 and replaced by caretaker and former assistant coach Luca Cecconi . For the 2007–08 season , Bologna was led by Daniele Arrigoni , who helped the rossoblù achieve automatic promotion back to the top flight after finishing second in Serie B.
+
+=== chunk 9 · Climbing down and back up the Leagues ===
+During the summer of 2008, a club takeover was agreed between Cazzola and an American-based consortium; this was, however, cancelled in the end, following disagreements between the parties, and the club was successively sold to a local group led by new chairman Francesca Menarini, who thus became the second female chairman in the whole Serie A. Arrigoni was confirmed as head coach by the new group, and the start appeared to be particularly impressive, with a surprising 2–1 win at San Siro against Milan thanks to a winning goal scored by Francesco Valiani . The next weeks saw Bologna struggling in the league, however, with eight losses in nine matches. A disappointing 5–1 loss to Cagliari ultimately led the club management to sack Daniele Arrigoni on 3 November 2008 and appoint Siniša Mihajlović as new rossoblù boss.
+On 14 April 2009, Giuseppe Papadopulo was appointed as the new manager, and successfully managed to raise the team spirit avoiding relegation to Serie B only in the last match of the season. In the 2009–10 season , Bologna played in Serie A for the 65th time, and escaped relegation again despite financial issues under new head coach Franco Colomba .
+
+=== chunk 10 · Climbing down and back up the Leagues ===
+In June 2010, a club takeover was completed, with the club being sold by the Menarini family to Sardinian entrepreneur Sergio Porcedda. Franco Colomba was sacked right before the 2010–11 season opener on 29 August 2010, despite surviving relegation with the team in the 2009–10 season. The president of the club, Sergio Porcedda, said that the decision was made mostly "because he [Colomba] was skeptical of the team."
+
+=== chunk 11 · The consortium "Bologna 2010" ===
+On 23 December 2010, the consortium Bologna 2010 led by banker Giovanni Consorte and coffee businessman Massimo Zanetti acquired the club from Sergio Porcedda, after the latter failed to pay wages for the club during his short-tenured ownership and put Bologna in threat of bankruptcy. The company also owed agent fee to Leonardo Corsi in the Andrea Raggi 's transfer. Zanetti also became the new club chairman, with popular Italian musician and long-time Bologna supporter Gianni Morandi appointed as honorary president.
+On 21 January 2011, chairman Massimo Zanetti and CEO Luca Baraldi, after only 28 days, resigned because of irreconcilable differences with the other personal and financial partners. Stefano Pedrelli became the new director general. For 76 days, the chairman was Marco Pavignani.
+From 7 April 2011, after the resignation of Pavignani and having paid €2.5m of capital increase, the new chairman was Albano Guaraldi, the second largest shareholder of the consortium "Bologna 2010" with the 17% of the quotas, behind the outgoing Zanetti.
+
+=== chunk 12 · The consortium "Bologna 2010" ===
+The 2013–14 season saw Bologna once again relegated to the Serie B, and also gave light to a number of financial problems involving the club and its ownership of Albino Guaraldi, who was considerably criticized by the team supporters also for a number of controversial decisions, including the sale of star player Alessandro Diamanti to Chinese club Guangzhou Evergrande . A new head coach was then found in former Cagliari boss Diego López for the new season, whereas Guaraldi clearly stated his intention to hand over his Bologna stakes to a new owner. A North American group headed by Joe Tacopina and Joey Saputo (owner of CF Montréal , also the team of former Bologna hero Marco Di Vaio ) then stated its interest in acquiring the club; this was followed by another offer coming from former chairman Massimo Zanetti . On 15 October 2014, the board of directors ratified the sale of the club to BFC 1909 Lux SPV, and Tacopina became the new club chairman.
+
+=== chunk 13 · The Saputo era ===
+Under the new ownership of which BFC 1909 Lux Spv S.A. of Luxemburg is an intermediate holding company, Bologna was promoted back to Serie A in 2015. Saputo also succeeded Tacopina as the new chairman of the board of directors of Bologna on 17 November 2014.
+In their first season back in Serie A , Bologna finished 14th avoiding relegation. In the following two seasons, Bologna finished in 15th place on the table. In the 2018–19 Serie A season, Bologna finished in a creditable 10th position on the table. Over the next three seasons, Bologna continued to finish mid table in Serie A coming 12th two campaigns in a row followed by a 13th-placed finish in the 2021–22 season.
+On 12 September 2022, Thiago Motta was named as head coach of Bologna. Subsequently, the club concluded in 9th place in the 2022–23 season, accruing 54 points, setting a new record for the team. Under Motta's full-season leadership in the following 2023–24 season, the club secured a UEFA Champions League berth for the first time since 1964–65 , ensuring a top-five finish in Serie A, and eventually establishing a new record of 68 points.
+
+=== chunk 14 · The Saputo era ===
+Motta was succeeded by Vincenzo Italiano ahead of the 2024–25 season. Bologna had one win, three draws and four losses in their Champions League campaign, ultimately finishing 28th out of 36 in the league phase . On 14 May 2025, Bologna won their third Coppa Italia —their first since 1974—after defeating Milan 1–0 in the final .
+
+=== chunk 15 · Stadium ===
+The official stadium of Bologna is the Stadio Renato Dall'Ara . Dall'Ara is the biggest sports building of Bologna and its name is taken from an ex-chairman of the club, Renato Dall'Ara , who died three days before the final for Serie A's Scudetto . Its capacity is 38,500. The curva Bulgarelli (in English, Bulgarelli stand), the stand of Bologna's ultras, is dedicated to player Giacomo Bulgarelli , who died on 21 February 2009. The other stand, part of which is reserved for the away fans, is dedicated to Árpád Weisz , coach of Bologna's winning pre-war team, and killed by the Nazis in a concentration camp during WWII.
+
+=== chunk 16 · Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 15 DF  MNE Bodin Tomašević 70 DF  ITA Davide Baroncioni 71 MF  ITA Luca Lai 72 GK  FIN Ukko Happonen · 1: No. Pos. Nation Player 73 FW  ITA Francesco Castaldo 74 FW  ITA Simone Negri 75 DF  AUT Petar Marković 82 GK  ITA Matteo Franceschelli
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 15 · 1: DF · 2: MNE · 3: Bodin Tomašević
+0: 70 · 1: DF · 2: ITA · 3: Davide Baroncioni
+0: 71 · 1: MF · 2: ITA · 3: Luca Lai
+0: 72 · 1: GK · 2: FIN · 3: Ukko Happonen
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 73 · 1: FW · 2: ITA · 3: Francesco Castaldo
+0: 74 · 1: FW · 2: ITA · 3: Simone Negri
+0: 75 · 1: DF · 2: AUT · 3: Petar Marković
+0: 82 · 1: GK · 2: ITA · 3: Matteo Franceschelli
+
+=== chunk 17 · Chairmen history ===
+Bologna have had numerous chairmen over the course of their history, some of which have been the owners of the club, others have been honorary chairmen. Here is a complete list of Bologna chairmen from 1909 until the present day.
+Name: Louis Rauch · Years: 1909–10
+Name: Pio Borghesani · Years: 1910
+Name: Emilio Arnstein · Years: 1910
+Name: Domenico Gori · Years: 1910–12
+Name: Rodolfo Minelli · Years: 1912–15
+Name: Arturo Gazzoni (Honorary chairman) · Years: 1916–18
+Name: Rodolfo Minelli · Years: 1918–19
+Name: Cesare Medica · Years: 1919–21
+Name: Angelo Sbarberi · Years: 1921–22
+Name: Antonio Turri · Years: 1922
+Name: Ruggero Murè (Honorary chairman) · Years: 1923
+Name: Enrico Masetti · Years: 1923–25
+Name: Paolo Graziani · Years: 1925–28
+Name: Gianni Bonaveri · Years: 1928–34
+Name: Renato Dall'Ara · Years: 1934–64
+Name: Luigi Goldoni · Years: 1964–68
+Name: Raimondo Venturi · Years: 1968–70
+Name: Filippo Montanari · Years: 1970–72
+Name: Luciano Conti · Years: 1972–79
+Name: Tommaso Fabbretti · Years: 1979–83
+Name: Giuseppe Brizzi · Years: 1983–85
+Name: Luigi "Gino" Corioni · Years: 1985–91
+Name: Piero Gnudi · Years: 1991–93
+
+=== chunk 18 · Chairmen history ===
+Name: Giuseppe Gazzoni Frascara [it] · Years: 1993–2002 (Honorary chairman)
+Name: Renato Cipollini · Years: 2002–05
+Name: Alfredo Cazzola · Years: 2005–08
+Name: Francesca Menarini · Years: 2008–10
+Name: Sergio Porcedda · Years: 2010
+Name: Massimo Zanetti · Years: 2010–11
+Name: Marco Pavignani · Years: 2011
+Name: Albano Guaraldi · Years: 2011–14
+Name: Joe Tacopina · Years: 2014–2015
+Name: Joey Saputo · Years: 2014–Present
+
+=== chunk 19 · Managerial history ===
+Bologna have had many managers and trainers, some seasons they have had co-managers running the team. Here is a chronological list of them from 1920 onwards.
+Name: Hermann Felsner · Years: 1920–31
+Name: Gyula Lelovics · Years: 1931–32
+Name: József Nagy · Years: 1932
+Name: Achille Gama · Years: 1932–33
+Name: Technical Commission Pietro Genovesi Bernardo Perin Angelo Schiavio · Years: 1933–34
+Name: Lajos Kovács · Years: 1934
+Name: Árpád Weisz · Years: 1934–38
+Name: Hermann Felsner · Years: 1938–42
+Name: Mario Montesanto · Years: 1942–43
+Name: Alexander Popovic · Years: 1945–46
+Name: Technical Commission Pietro Genovesi Angelo Schiavio · Years: 1946
+Name: József Viola · Years: 1946–47
+Name: Gyula Lelovics · Years: 1947–48
+Name: Tony Cargnelli · Years: 1948–49
+Name: Edmund Crawford · Years: 1950–51
+Name: Raffaele Sansone · Years: 1951
+Name: Giuseppe Galluzzi · Years: 1951–52
+Name: Gyula Lelovics · Years: 1952
+Name: Giuseppe Viani · Years: 1952–56
+Name: Aldo Campatelli · Years: 1956–57
+Name: Ljubo Benčić · Years: 1957
+Name: György Sárosi · Years: 1957–58
+Name: Alfredo Foni · Years: 1958–59
+Name: Federico Allasio · Years: 1959–61
+Name: Fulvio Bernardini · Years: 1961–65
+
+=== chunk 20 · Managerial history ===
+Name: Manlio Scopigno · Years: 1965
+Name: Luis Carniglia · Years: 1965–68
+Name: Giuseppe Viani · Years: 1968
+Name: Cesarino Cervellati · Years: 1968–69
+Name: Oronzo Pugliese · Years: 1969
+Name: Edmondo Fabbri · Years: 1969–72
+Name: Oronzo Pugliese Cesarino Cervellati · Years: 1972
+Name: Bruno Pesaola · Years: 1972–76
+Name: Gustavo Giagnoni · Years: 1976–77
+Name: Cesarino Cervellati · Years: 1977
+Name: Bruno Pesaola · Years: 1977–79
+Name: Marino Perani · Years: 1979
+Name: Cesarino Cervellati · Years: 1979
+Name: Marino Perani · Years: 1979–80
+Name: Luigi Radice · Years: 1980–81
+Name: Tarcisio Burgnich · Years: 1981–82
+Name: Francesco Liguori · Years: 1982
+Name: Alfredo Magni · Years: 1982
+Name: Paolo Carosi · Years: 1982–83
+Name: Cesarino Cervellati · Years: 1983
+Name: Giancarlo Cadé · Years: 1983–84
+Name: Nello Santin · Years: 1984
+Name: Bruno Pace · Years: 1984–85
+Name: Carlo Mazzone · Years: 1985–86
+Name: Vincenzo Guerini · Years: 1 July 1986 – 4 May 1987
+Name: Giovan Battista Fabbri · Years: 1987
+Name: Luigi Maifredi · Years: 1 July 1987 – 30 June 1990
+Name: Francesco Scoglio · Years: 1990
+Name: Luigi Radice · Years: 1990–91
+Name: Luigi Maifredi · Years: 1991
+
+=== chunk 21 · Managerial history ===
+Name: Nedo Sonetti · Years: 1991–92
+Name: Eugenio Bersellini · Years: 1992–93
+Name: Aldo Cerantola · Years: 1993
+Name: Romano Fogli · Years: 1993
+Name: Alberto Zaccheroni · Years: 1993
+Name: Edoardo Reja · Years: 8 December 1993 – 30 June 1994
+Name: Renzo Ulivieri · Years: 1994–98
+Name: Carlo Mazzone · Years: 1 July 1998 – 30 June 1999
+Name: Sergio Buso · Years: 1999
+Name: Francesco Guidolin · Years: 1 July 1999 – 30 June 2003
+Name: Carlo Mazzone · Years: 1 July 2003 – 30 June 2005
+Name: Renzo Ulivieri · Years: 2005
+Name: Andrea Mandorlini · Years: 9 November 2005 – 5 March 2006
+Name: Renzo Ulivieri · Years: 2006–07
+Name: Luca Cecconi · Years: 2007 – 30 June 2007
+Name: Daniele Arrigoni · Years: 1 July 2007 – 3 November 2008
+Name: Siniša Mihajlović · Years: 3 November 2008 – 14 April 2009
+Name: Giuseppe Papadopulo · Years: 14 April 2009 – 20 October 2009
+Name: Franco Colomba · Years: 21 October 2009 – 29 August 2010
+Name: Paolo Magnani (interim) · Years: 29–31 Aug 2010
+Name: Alberto Malesani · Years: 1 September 2010 – 26 May 2011
+Name: Pierpaolo Bisoli · Years: 26 May 2011 – 4 October 2011
+Name: Stefano Pioli · Years: 4 October 2011 – 8 January 2014
+
+=== chunk 22 · Managerial history ===
+Name: Davide Ballardini · Years: 8 January 2014 – 30 June 2014
+Name: Diego López · Years: 1 July 2014 – 4 May 2015
+Name: Delio Rossi · Years: 4 May 2015 – 28 October 2015
+Name: Roberto Donadoni · Years: 28 October 2015 – 24 May 2018
+Name: Filippo Inzaghi · Years: 1 July 2018 – 28 January 2019
+Name: Siniša Mihajlović · Years: 28 January 2019 – 6 September 2022
+Name: Luca Vigiani (interim) · Years: 6–12 September 2022
+Name: Thiago Motta · Years: 12 September 2022 – 23 May 2024
+Name: Vincenzo Italiano · Years: 1 July 2024 –
+
+=== chunk 23 · Sponsors ===
+Period: 1978–1979 · Kit Manufacturer: Admiral
+Period: 1979–1981 · Kit Manufacturer: Tepa Sport
+Period: 1981–1982 · Kit Manufacturer: Tepa Sport · Shirt sponsor (main): Cucine Febal
+Period: 1982–1983 · Kit Manufacturer: Ennerre · Shirt sponsor (main): Bertagni
+Period: 1983–1984 · Kit Manufacturer: Ennerre · Shirt sponsor (main): Pasta Corticella
+Period: 1984–1985 · Kit Manufacturer: Ennerre · Shirt sponsor (main): Deisa Ebano
+Period: 1985–1986 · Kit Manufacturer: Ennerre · Shirt sponsor (main): Idrolitina
+Period: 1986–1988 · Kit Manufacturer: Ennerre · Shirt sponsor (main): Segafredo Zanetti
+Period: 1988–1989 · Kit Manufacturer: Uhlsport · Shirt sponsor (main): Segafredo Zanetti
+Period: 1989–1991 · Kit Manufacturer: Uhlsport · Shirt sponsor (main): Mercatone Uno
+Period: 1991–1993 · Kit Manufacturer: Uhlsport · Shirt sponsor (main): Sinudyne
+Period: 1993–1994 · Kit Manufacturer: Erreà · Shirt sponsor (main): Buona Natura
+Period: 1994–1996 · Kit Manufacturer: Erreà · Shirt sponsor (main): Carisbo
+Period: 1996–1997 · Kit Manufacturer: Diadora · Shirt sponsor (main): Carisbo
+Period: 1997–2000 · Kit Manufacturer: Diadora · Shirt sponsor (main): Granarolo
+
+=== chunk 24 · Sponsors ===
+Period: 2000–2001 · Kit Manufacturer: Umbro · Shirt sponsor (main): Granarolo
+Period: 2001–2004 · Kit Manufacturer: Macron · Shirt sponsor (main): Area Banca
+Period: 2004–2005 · Kit Manufacturer: Macron · Shirt sponsor (main): Amica Chips
+Period: 2005–2006 · Kit Manufacturer: Macron · Shirt sponsor (main): Europonteggi
+Period: 2006–2007 · Kit Manufacturer: Macron · Shirt sponsor (main): Various · Shirt sponsor (secondary): Officine Ortopediche Rizzoli
+Period: 2007–2008 · Kit Manufacturer: Macron · Shirt sponsor (main): Joe Marmellata (Matchday 18-34) / Carisbo (35-42) · Shirt sponsor (secondary): Cogei
+Period: 2008–2009 · Kit Manufacturer: Macron · Shirt sponsor (main): Unipol · Shirt sponsor (secondary): Cogei
+Period: 2009–2010 · Kit Manufacturer: Macron · Shirt sponsor (main): BIGPoker.it · Shirt sponsor (secondary): Cogei (Matchday 1-2) / Ceramica Serenissima (Home) (3-38) & Cerasarda (Away) (3-38)
+Period: 2010–2011 · Kit Manufacturer: Macron · Shirt sponsor (main): Cerasarda (Matchday 1-5) / Ceramica Serenissima (Home) (5-38) & Cerasarda (Away) (5-38) · Shirt sponsor (secondary): Ceramica Serenissima (Matchday 1-5) / Manila Grace (25-38)
+
+=== chunk 25 · Sponsors ===
+Period: 2011–2012 · Kit Manufacturer: Macron · Shirt sponsor (main): New Generation Mobile · Shirt sponsor (secondary): Ceramica Serenissima (Home) & Cir Manifatture Ceramiche (Away)
+Period: 2012–2013 · Kit Manufacturer: Macron · Shirt sponsor (main): New Generation Mobile · Shirt sponsor (secondary): Ceramica Serenissima
+Period: 2013–2014 · Kit Manufacturer: Macron · Shirt sponsor (main): New Generation Mobile
+Period: 2014–2015 · Kit Manufacturer: Macron · Shirt sponsor (main): New Generation Mobile · Shirt sponsor (secondary): +energia · Shirt sponsor (back): New Generation Mobile · Shorts sponsor: CAME Cancelli Automatici
+Period: 2015–2018 · Kit Manufacturer: Macron · Shirt sponsor (main): FAAC · Shirt sponsor (back): Illumia
+Period: 2018–2019 · Kit Manufacturer: Macron · Shirt sponsor (main): Liu Jo · Shirt sponsor (back): Illumia
+Period: 2019–2020 · Kit Manufacturer: Macron · Shirt sponsor (main): Liu Jo · Shirt sponsor (back): Illumia · Shirt sponsor (sleeve): Lavoropiù
+Period: 2020–2022 · Kit Manufacturer: Macron · Shirt sponsor (main): Facile Ristrutturare · Shirt sponsor (secondary): Selenella · Shirt sponsor (back): Illumia · Shirt sponsor (sleeve): Detersivi Scala
+
+=== chunk 26 · Sponsors ===
+Period: 2022–2023 · Kit Manufacturer: Macron · Shirt sponsor (main): Cazoo · Shirt sponsor (back): Selenella · Shirt sponsor (sleeve): Lavoropiù
+Period: 2023– · Kit Manufacturer: Macron · Shirt sponsor (main): Saputo · Shirt sponsor (back): Selenella · Shirt sponsor (sleeve): Lavoropiù
+
+=== chunk 27 · Statistics ===
+0: Most appearances Rank Player Apps 1 Giacomo Bulgarelli 488 2 Tazio Roversi 459 3 Carlo Reguzzoni 417 Carlo Nervo 417 5 Marino Perani 415 6 Felice Gasperi 405 7 Franco Cresci 404 8 Franco Janich 376 9 Angelo Schiavio 364 10 Mario Gianni 363 · 1: Most goals Rank Player Goals 1 Angelo Schiavio 251 2 Carlo Reguzzoni 168 3 Ezio Pascutti 142 4 Giuseppe Savoldi 140 5 Gino Cappello 122 6 Gino Pivatelli 109 7 Giuseppe Della Valle 104 Harald Nielsen 104 9 Bruno Maini 101 10 Ettore Puricelli 96
+0: Rank · 1: Player · 2: Apps
+0: 1 · 1: Giacomo Bulgarelli · 2: 488
+0: 2 · 1: Tazio Roversi · 2: 459
+0: 3 · 1: Carlo Reguzzoni · 2: 417
+0: 3 · 1: Carlo Nervo · 2: 417
+0: 5 · 1: Marino Perani · 2: 415
+0: 6 · 1: Felice Gasperi · 2: 405
+0: 7 · 1: Franco Cresci · 2: 404
+0: 8 · 1: Franco Janich · 2: 376
+0: 9 · 1: Angelo Schiavio · 2: 364
+0: 10 · 1: Mario Gianni · 2: 363
+0: Rank · 1: Player · 2: Goals
+0: 1 · 1: Angelo Schiavio · 2: 251
+0: 2 · 1: Carlo Reguzzoni · 2: 168
+0: 3 · 1: Ezio Pascutti · 2: 142
+0: 4 · 1: Giuseppe Savoldi · 2: 140
+0: 5 · 1: Gino Cappello · 2: 122
+0: 6 · 1: Gino Pivatelli · 2: 109
+0: 7 · 1: Giuseppe Della Valle · 2: 104
+0: 7 · 1: Harald Nielsen · 2: 104
+0: 9 · 1: Bruno Maini · 2: 101
+
+=== chunk 28 · Statistics ===
+0: 10 · 1: Ettore Puricelli · 2: 96
+
+=== chunk 29 · Honours ===
+Type: Domestic · Competition: Serie A · Titles: 7 · Seasons: 1924–25, 1928–29, 1935–36, 1936–37, 1938–39, 1940–41, 1963–64
+Type: Domestic · Competition: Coppa Italia · Titles: 3 · Seasons: 1969–70, 1973–74, 2024–25
+Type: Domestic · Competition: Serie B · Titles: 2 · Seasons: 1987–88, 1995–96
+Type: Domestic · Competition: Serie C · Titles: 1 · Seasons: 1994–95
+
+=== chunk 30 · Other Titles ===
+Mitropa Cup Winners (3): 1932 , 1934 , 1961
+UEFA Intertoto Cup Winners (1): 1998
+Anglo-Italian League Cup Winners (1): 1970
+Tournoi de Paris Winners (1): 1937
+
+=== chunk 31 · Friendly tournaments ===
+Nova Supersports Cup Winners (1): 2001
+
+=== chunk 32 · Divisional movements ===
+Series: A · Years: 79 · Last: 2025–26 · Promotions: — · Relegations: 4 (1982, 1991, 2005, 2014)
+Series: B · Years: 12 · Last: 2014–15 · Promotions: 4 (1988, 1996, 2008, 2015) · Relegations: 2 (1983, 1993)
+Series: C · Years: 3 · Last: 1994–95 · Promotions: 2 (1984, 1995) · Relegations: never
+Series: 94 years of professional football in Italy since 1929 · Years: 94 years of professional football in Italy since 1929 · Last: 94 years of professional football in Italy since 1929 · Promotions: 94 years of professional football in Italy since 1929 · Relegations: 94 years of professional football in Italy since 1929
+Series: Founding member of the Football League’s First Division in 1921 · Years: Founding member of the Football League’s First Division in 1921 · Last: Founding member of the Football League’s First Division in 1921 · Promotions: Founding member of the Football League’s First Division in 1921 · Relegations: Founding member of the Football League’s First Division in 1921

@@ -1,0 +1,196 @@
+page: 2025–26 Serie A
+season: 2025-26
+date: t0 (Wikipedia as it was on 2025-09-01)
+link: https://en.wikipedia.org/w/index.php?title=2025–26_Serie_A&oldid=1308844143
+extracted: 2026-09-23
+chunks: 22
+
+=== chunk 1 · Introduction ===
+Season: 2025–26
+Dates: 23 August 2025 – 24 May 2026
+Matches: 20
+Goals: 41 (2.05 per match)
+Top goalscorer: Marcus Thuram Dušan Vlahović (2 goals)
+Biggest home win: Inter Milan 5–0 Torino (25 August 2025)
+Biggest away win: Sassuolo 0–2 Napoli (23 August 2025)
+Highest scoring: Inter Milan 5–0 Torino (25 August 2025) Cremonese 3–2 Sassuolo (29 August 2025)
+Highest attendance: 75,011 AC Milan 1–2 Cremonese (23 August 2025)
+Lowest attendance: 12,055 Como 2–0 Lazio (24 August 2025)
+Total attendance: 374,676
+Average attendance: 37,468
+The 2025–26 Serie A (known as the Serie A Enilive and Serie A Made in Italy for sponsorship reasons domestically and abroad, respectively) is the 124th season of top-tier Italian football , the 94th in a round-robin tournament , and the 16th since its organization under an own league committee, the Lega Serie A .
+The season began on 23 August 2025 and is scheduled to conclude on 24 May 2026. Napoli are the defending champions, having won their fourth Serie A title in the previous season.
+
+=== chunk 2 · Teams ===
+20 teams will compete: the top 17 teams from the previous season, and three promoted teams from Serie B . The promoted teams include the two top teams from the Serie B table, and the winner of the promotion play-offs.
+Sassuolo returned to Serie A after one year away, becoming the first team to secure promotion, following their 1–3 victory over Modena and Spezia 's 2–2 draw with Mantova . Pisa made their return to Italy's top league after a 34 year absence, their longest in club history, after defeating Bari 1–0, combined with Spezia's 2–1 loss to Reggiana . The final team to earn promotion was Cremonese , who returned to the top flight after a two-year absence, following a 0–0 draw at home and a 2–3 away victory over Spezia in the second leg of the play-off final on 1 June.
+
+=== chunk 3 · Teams ===
+On the other end of the table, Monza were the first team to be relegated to Serie B , following a 0–4 loss to Atalanta , bringing an end to their three-year stint in Serie A. The remaining two relegation spots were decided on the final matchday, 25 May 2025, with Venezia and Empoli going down after their respective 2–3 and 1–2 losses to Juventus and Hellas Verona , ending their one and four-years spell in the league.
+
+=== chunk 4 · Team changes ===
+Promoted from 2024–25 Serie B: Sassuolo · Relegated from 2024–25 Serie A: Empoli
+Promoted from 2024–25 Serie B: Pisa · Relegated from 2024–25 Serie A: Venezia
+Promoted from 2024–25 Serie B: Cremonese · Relegated from 2024–25 Serie A: Monza
+
+=== chunk 5 · Stadiums and locations ===
+Team: Atalanta · Location: Bergamo · Stadium: Stadio Atleti Azzurri d'Italia · Capacity: 24950.0
+Team: Bologna · Location: Bologna · Stadium: Stadio Renato Dall'Ara · Capacity: 38279.0
+Team: Cagliari · Location: Cagliari · Stadium: Unipol Domus · Capacity: 16416.0
+Team: Como · Location: Como · Stadium: Stadio Giuseppe Sinigaglia · Capacity: 13602.0
+Team: Cremonese · Location: Cremona · Stadium: Stadio Giovanni Zini · Capacity: 20641.0
+Team: Fiorentina · Location: Florence · Stadium: Stadio Artemio Franchi · Capacity: 43118.0
+Team: Genoa · Location: Genoa · Stadium: Stadio Luigi Ferraris · Capacity: 33205.0
+Team: Hellas Verona · Location: Verona · Stadium: Stadio Marcantonio Bentegodi · Capacity: 31713.0
+Team: Inter Milan · Location: Milan · Stadium: San Siro · Capacity: 75710.0
+Team: Juventus · Location: Turin · Stadium: Juventus Stadium · Capacity: 41507.0
+Team: Lazio · Location: Rome · Stadium: Stadio Olimpico · Capacity: 67585.0
+Team: Lecce · Location: Lecce · Stadium: Stadio Via del mare · Capacity: 30354.0
+Team: AC Milan · Location: Milan · Stadium: San Siro · Capacity: 75710.0
+Team: Napoli · Location: Naples · Stadium: Stadio Diego Armando Maradona · Capacity: 54732.0
+
+=== chunk 6 · Stadiums and locations ===
+Team: Parma · Location: Parma · Stadium: Stadio Ennio Tardini · Capacity: 22352.0
+Team: Pisa · Location: Pisa · Stadium: Arena Garibaldi – Stadio Romeo Anconetani · Capacity: 12508.0
+Team: Roma · Location: Rome · Stadium: Stadio Olimpico · Capacity: 67585.0
+Team: Sassuolo · Location: Sassuolo · Stadium: Mapei Stadium – Città del Tricolore · Capacity: 21515.0
+Team: Torino · Location: Turin · Stadium: Stadio Olimpico Grande Torino · Capacity: 28177.0
+Team: Udinese · Location: Udine · Stadium: Stadio Friuli · Capacity: 25132.0
+
+=== chunk 7 · Number of teams by regions ===
+No. of teams: 5.0 · Region: Lombardy · Team(s): Atalanta, Como, Cremonese, Inter Milan and AC Milan
+No. of teams: 3.0 · Region: Emilia-Romagna · Team(s): Bologna, Parma and Sassuolo
+No. of teams: 2.0 · Region: Lazio · Team(s): Roma and Lazio
+No. of teams: 2.0 · Region: Piedmont · Team(s): Juventus and Torino
+No. of teams: 2.0 · Region: Tuscany · Team(s): Fiorentina and Pisa
+No. of teams: 1.0 · Region: Apulia · Team(s): Lecce
+No. of teams: 1.0 · Region: Campania · Team(s): Napoli
+No. of teams: 1.0 · Region: Friuli-Venezia Giulia · Team(s): Udinese
+No. of teams: 1.0 · Region: Liguria · Team(s): Genoa
+No. of teams: 1.0 · Region: Sardinia · Team(s): Cagliari
+No. of teams: 1.0 · Region: Veneto · Team(s): Hellas Verona
+
+=== chunk 8 · Personnel and kits ===
+Team: Atalanta · Chairman: Antonio Percassi · Manager: Ivan Jurić · Captain: Marten de Roon · Kit maker: New Balance · Shirt sponsor(s) Main: Lete · Shirt sponsor(s) Other(s)0: List Front: None Back: Gewiss Sleeves: zondacrypto
+Team: Bologna · Chairman: Joey Saputo · Manager: Vincenzo Italiano · Captain: Lorenzo De Silvestri · Kit maker: Macron · Shirt sponsor(s) Main: Saputo · Shirt sponsor(s) Other(s)0: List Front: None Back: Selenella Sleeves: Lavoropiù
+Team: Cagliari · Chairman: Tommaso Giulini [it] · Manager: Fabio Pisacane · Captain: Leonardo Pavoletti · Kit maker: EYE Sport · Shirt sponsor(s) Main: Sardegna · Shirt sponsor(s) Other(s)0: List Front: Doppio Malto Back: Banco di Sardegna Sleeves: Bet365 Scores
+Team: Como · Chairman: Mirwan Suwarso [id] · Manager: Cesc Fàbregas · Captain: Alessandro Gabrielloni · Kit maker: Adidas · Shirt sponsor(s) Main: Uber · Shirt sponsor(s) Other(s)0: List Front: None Back: Neuberger Berman Sleeves: None
+
+=== chunk 9 · Personnel and kits ===
+Team: Cremonese · Chairman: Giovanni Arvedi [it] · Manager: Davide Nicola · Captain: Matteo Bianchetti · Kit maker: Acerbis · Shirt sponsor(s) Main: Ilta Inox (Home) / Arinox (Away) · Shirt sponsor(s) Other(s)0: List Front: Acciaieria Arvedi Back: None Sleeves: Arvedi Tubi Acciaio
+Team: Fiorentina · Chairman: Rocco B. Commisso · Manager: Stefano Pioli · Captain: Luca Ranieri · Kit maker: Kappa · Shirt sponsor(s) Main: Mediacom · Shirt sponsor(s) Other(s)0: List Front: None Back: Lamioni Holding Sleeves: Betway Scores
+Team: Genoa · Chairman: Dan Șucu [ro] · Manager: Patrick Vieira · Captain: Johan Vásquez · Kit maker: Kappa · Shirt sponsor(s) Main: Pulsee Luce e Gas · Shirt sponsor(s) Other(s)0: List Front: None Back: None Sleeves: Ceres
+Team: Hellas Verona · Chairman: Italo Zanzi · Manager: Paolo Zanetti · Captain: Suat Serdar · Kit maker: Joma · Shirt sponsor(s) Main: Aircash · Shirt sponsor(s) Other(s)0: List Front: None Back: VetroCar Sleeves: Drivalia
+
+=== chunk 10 · Personnel and kits ===
+Team: Inter Milan · Chairman: Giuseppe Marotta · Manager: Cristian Chivu · Captain: Lautaro Martínez · Kit maker: Nike · Shirt sponsor(s) Main: Betsson.sport · Shirt sponsor(s) Other(s)0: List Front: None Back: U-Power Sleeves: GATE.io
+Team: Juventus · Chairman: Gianluca Ferrero · Manager: Igor Tudor · Captain: Manuel Locatelli · Kit maker: Adidas · Shirt sponsor(s) Main: Jeep · Shirt sponsor(s) Other(s)0: List Front: Visit Detroit Back: Cygames Sleeves: WhiteBIT
+Team: Lazio · Chairman: Claudio Lotito · Manager: Maurizio Sarri · Captain: Mattia Zaccagni · Kit maker: Mizuno · Shirt sponsor(s) Main: TBA · Shirt sponsor(s) Other(s)0: List Front: TBA Back: TBA Sleeves: TBA
+Team: Lecce · Chairman: Saverio Sticchi Damiani [it] · Manager: Eusebio Di Francesco · Captain: Wladimiro Falcone · Kit maker: M908 · Shirt sponsor(s) Main: DEGHI · Shirt sponsor(s) Other(s)0: List Front: BetItaly Pay Back: DR Automobiles Sleeves: Banca Popolare Pugliese
+Team: AC Milan · Chairman: Paolo Scaroni · Manager: Massimiliano Allegri · Captain: Mike Maignan · Kit maker: Puma · Shirt sponsor(s) Main: Emirates · Shirt sponsor(s) Other(s)0: List Front: None Back: Bitpanda Sleeves: MSC Cruises
+
+=== chunk 11 · Personnel and kits ===
+Team: Napoli · Chairman: Aurelio De Laurentiis · Manager: Antonio Conte · Captain: Giovanni Di Lorenzo · Kit maker: EA7 · Shirt sponsor(s) Main: MSC Cruises · Shirt sponsor(s) Other(s)0: List Front: None Back: Acqua Sorgesana Sleeves: None
+Team: Parma · Chairman: Kyle Krause · Manager: Carlos Cuesta · Captain: Enrico Delprato · Kit maker: Puma · Shirt sponsor(s) Main: Prometeon · Shirt sponsor(s) Other(s)0: List Front: AdmiralBet.news Back: Moby Sleeves: Crédit Agricole Italia
+Team: Pisa · Chairman: Alexander Knaster · Manager: Alberto Gilardino · Captain: Antonio Caracciolo · Kit maker: Adidas · Shirt sponsor(s) Main: Cetilar · Shirt sponsor(s) Other(s)0: List Front: None Back: None Sleeves: Bet365 Scores
+Team: Roma · Chairman: Dan Friedkin · Manager: Gian Piero Gasperini · Captain: Stephan El Shaarawy · Kit maker: Adidas · Shirt sponsor(s) Main: TBA · Shirt sponsor(s) Other(s)0: List Front: None Back: Auberge Collection Sleeves: None
+Team: Sassuolo · Chairman: Carlo Rossi · Manager: Fabio Grosso · Captain: Filippo Romagna · Kit maker: Puma · Shirt sponsor(s) Main: Mapei · Shirt sponsor(s) Other(s)0: List Front: None Back: None Sleeves: None
+
+=== chunk 12 · Personnel and kits ===
+Team: Torino · Chairman: Urbano Cairo · Manager: Marco Baroni · Captain: Duván Zapata · Kit maker: Joma · Shirt sponsor(s) Main: Suzuki · Shirt sponsor(s) Other(s)0: List Front: Bet365 Scores Back: EdiliziAcrobatica Sleeves: JD Sports
+Team: Udinese · Chairman: Franco Soldati · Manager: Kosta Runjaić · Captain: Jesper Karlström · Kit maker: Macron · Shirt sponsor(s) Main: Io sono Friuli-Venezia Giulia · Shirt sponsor(s) Other(s)0: List Front: Banca 360 FVG Back: Bluenergy Sleeves: Bet365 Scores
+
+=== chunk 13 · Managerial changes ===
+Team: Fiorentina · Outgoing manager: Raffaele Palladino · Manner of departure: Resigned · Position in the table: Pre-season · Date of vacancy: 30 May 2025 · Incoming manager: Stefano Pioli · Date of appointment: 12 July 2025
+Team: Inter Milan · Outgoing manager: Simone Inzaghi · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 3 June 2025 · Incoming manager: Cristian Chivu · Date of appointment: 9 June 2025
+Team: Parma · Outgoing manager: Cristian Chivu · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 9 June 2025 · Incoming manager: Carlos Cuesta · Date of appointment: 1 July 2025
+Team: AC Milan · Outgoing manager: Sérgio Conceição · Manner of departure: End of contract · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Massimiliano Allegri · Date of appointment: 1 July 2025
+Team: Roma · Outgoing manager: Claudio Ranieri · Manner of departure: Retired · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Gian Piero Gasperini · Date of appointment: 1 July 2025
+
+=== chunk 14 · Managerial changes ===
+Team: Atalanta · Outgoing manager: Gian Piero Gasperini · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Ivan Jurić · Date of appointment: 1 July 2025
+Team: Lazio · Outgoing manager: Marco Baroni · Manner of departure: Sacked · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Maurizio Sarri · Date of appointment: 1 July 2025
+Team: Cagliari · Outgoing manager: Davide Nicola · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Fabio Pisacane · Date of appointment: 1 July 2025
+Team: Torino · Outgoing manager: Paolo Vanoli · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Marco Baroni · Date of appointment: 1 July 2025
+Team: Lecce · Outgoing manager: Marco Giampaolo · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Eusebio Di Francesco · Date of appointment: 1 July 2025
+
+=== chunk 15 · Managerial changes ===
+Team: Pisa · Outgoing manager: Filippo Inzaghi · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Alberto Gilardino · Date of appointment: 1 July 2025
+Team: Cremonese · Outgoing manager: Giovanni Stroppa · Manner of departure: End of contract · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Davide Nicola · Date of appointment: 2 July 2025
+
+=== chunk 16 · League table ===
+Pos: 1 · Team: Juventus · Pld: 2 · W: 2 · D: 0 · L: 0 · GF: 3 · GA: 0 · GD: +3 · Pts: 6 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 2 · Team: Napoli · Pld: 2 · W: 2 · D: 0 · L: 0 · GF: 3 · GA: 0 · GD: +3 · Pts: 6 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 3 · Team: Cremonese · Pld: 2 · W: 2 · D: 0 · L: 0 · GF: 5 · GA: 3 · GD: +2 · Pts: 6 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 4 · Team: Roma · Pld: 2 · W: 2 · D: 0 · L: 0 · GF: 2 · GA: 0 · GD: +2 · Pts: 6 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 5 · Team: Udinese · Pld: 2 · W: 1 · D: 1 · L: 0 · GF: 3 · GA: 2 · GD: +1 · Pts: 4 · Qualification or relegation: Qualification for the Europa League league phase
+Pos: 6 · Team: Inter Milan · Pld: 2 · W: 1 · D: 0 · L: 1 · GF: 6 · GA: 2 · GD: +4 · Pts: 3 · Qualification or relegation: Qualification for the Conference League play-off round
+Pos: 7 · Team: Lazio · Pld: 2 · W: 1 · D: 0 · L: 1 · GF: 4 · GA: 2 · GD: +2 · Pts: 3
+Pos: 8 · Team: Milan · Pld: 2 · W: 1 · D: 0 · L: 1 · GF: 3 · GA: 2 · GD: +1 · Pts: 3
+
+=== chunk 17 · League table ===
+Pos: 9 · Team: Como · Pld: 2 · W: 1 · D: 0 · L: 1 · GF: 2 · GA: 1 · GD: +1 · Pts: 3
+Pos: 10 · Team: Bologna · Pld: 2 · W: 1 · D: 0 · L: 1 · GF: 1 · GA: 1 · GD: 0 · Pts: 3
+Pos: 11 · Team: Atalanta · Pld: 2 · W: 0 · D: 2 · L: 0 · GF: 2 · GA: 2 · GD: 0 · Pts: 2
+Pos: 12 · Team: Fiorentina · Pld: 2 · W: 0 · D: 2 · L: 0 · GF: 1 · GA: 1 · GD: 0 · Pts: 2
+Pos: 13 · Team: Pisa · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 1 · GA: 2 · GD: −1 · Pts: 1
+Pos: 14 · Team: Cagliari · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 1 · GA: 2 · GD: −1 · Pts: 1
+Pos: 15 · Team: Genoa · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 0 · GA: 1 · GD: −1 · Pts: 1
+Pos: 16 · Team: Parma · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 1 · GA: 3 · GD: −2 · Pts: 1
+Pos: 17 · Team: Lecce · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 0 · GA: 2 · GD: −2 · Pts: 1
+Pos: 18 · Team: Hellas Verona · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 1 · GA: 5 · GD: −4 · Pts: 1 · Qualification or relegation: Relegation to Serie B
+Pos: 19 · Team: Torino · Pld: 2 · W: 0 · D: 1 · L: 1 · GF: 0 · GA: 5 · GD: −5 · Pts: 1 · Qualification or relegation: Relegation to Serie B
+
+=== chunk 18 · League table ===
+Pos: 20 · Team: Sassuolo · Pld: 2 · W: 0 · D: 0 · L: 2 · GF: 2 · GA: 5 · GD: −3 · Pts: 0 · Qualification or relegation: Relegation to Serie B
+1 2 Since the 2025–26 Coppa Italia winners, Inter Milan, qualified for the Champions League via league position, the Europa League spot awarded to the cup winners was passed to the sixth-placed team, and the Conference League spot was moved down one league position.
+1 2 Torino finished ahead of Parma on head-to-head goal difference: Parma 2–1 Torino, Torino 4–1 Parma.
+
+=== chunk 19 · Results ===
+Home \ Away: Atalanta · ATA: — · PIS: 1–1
+Home \ Away: Bologna · BOL: — · COM: 1–0 · FIO: a · PAR: a
+Home \ Away: Cagliari · CAG: — · FIO: 1–1
+Home \ Away: Como · COM: — · LAZ: 2–0
+Home \ Away: Cremonese · CRE: — · SAS: 3–2
+Home \ Away: Fiorentina · BOL: a · FIO: — · JUV: a
+Home \ Away: Genoa · GEN: — · JUV: 0–1 · LEC: 0–0
+Home \ Away: Hellas Verona · VER: —
+Home \ Away: Inter Milan · INT: — · JUV: a · MIL: a · TOR: 5–0 · UDI: 1–2
+Home \ Away: Juventus · FIO: a · INT: a · JUV: — · MIL: a · NAP: a · PAR: 2–0 · TOR: a
+Home \ Away: Lazio · VER: 4–0 · LAZ: — · ROM: a
+Home \ Away: Lecce · LEC: — · MIL: 0–2
+Home \ Away: AC Milan · CRE: 1–2 · INT: a · JUV: a · MIL: —
+Home \ Away: Napoli · CAG: 1–0 · JUV: a · NAP: — · ROM: a
+Home \ Away: Parma · ATA: 1–1 · BOL: a · PAR: —
+Home \ Away: Pisa · PIS: — · ROM: 0–1
+Home \ Away: Roma · BOL: 1–0 · LAZ: a · NAP: a · ROM: —
+Home \ Away: Sassuolo · NAP: 0–2 · SAS: —
+Home \ Away: Torino · FIO: 0–0 · JUV: a · TOR: —
+Home \ Away: Udinese · VER: 1–1 · UDI: —
+
+=== chunk 20 · Top goalscorers ===
+Rank: 1.0 · Player: Marcus Thuram · Club: Inter Milan · Goals: 2.0
+Rank: 1.0 · Player: Dušan Vlahović · Club: Juventus · Goals: 2.0
+Rank: 2.0 · Player: Thirty-six players · Club: Thirty-six players · Goals: 1.0
+
+=== chunk 21 · Clean sheets ===
+Rank: 1.0 · Player: Michele Di Gregorio · Club: Juventus · Clean sheets: 2.0
+Rank: 1.0 · Player: Alex Meret · Club: Napoli · Clean sheets: 2.0
+Rank: 1.0 · Player: Mile Svilar · Club: Roma · Clean sheets: 2.0
+Rank: 4.0 · Player: Jean Butez · Club: Como · Clean sheets: 1.0
+Rank: 4.0 · Player: David de Gea · Club: Fiorentina · Clean sheets: 1.0
+Rank: 4.0 · Player: Wladimiro Falcone · Club: Lecce · Clean sheets: 1.0
+Rank: 4.0 · Player: Franco Israel · Club: Torino · Clean sheets: 1.0
+Rank: 4.0 · Player: Nicola Leali · Club: Genoa · Clean sheets: 1.0
+Rank: 4.0 · Player: Mike Maignan · Club: AC Milan · Clean sheets: 1.0
+Rank: 4.0 · Player: Ivan Provedel · Club: Lazio · Clean sheets: 1.0
+Rank: 4.0 · Player: Łukasz Skorupski · Club: Bologna · Clean sheets: 1.0
+Rank: 4.0 · Player: Yann Sommer · Club: Inter Milan · Clean sheets: 1.0
+
+=== chunk 22 · Discipline ===
+Most yellow cards: 2 Nicolò Bertola (Udinese) Alberto Grassi (Cremonese) Marin Pongračić (Fiorentina)
+Most red cards: 1 Andrea Cambiaso (Juventus) Ismaël Koné (Sassuolo)
+Most yellow cards: 6 Cremonese
+Fewest yellow cards: 1 Inter Milan AC Milan
+Most red cards: 1 Juventus Sassuolo
+Fewest red cards: 0 Eighteen teams

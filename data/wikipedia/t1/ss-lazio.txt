@@ -1,0 +1,274 @@
+page: SS Lazio
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=SS_Lazio&oldid=1356088785
+extracted: 2026-09-23
+chunks: 46
+
+=== chunk 1 · Introduction ===
+Full name: Società Sportiva Lazio S.p.A.
+Nicknames: I Biancocelesti (The White and Sky Blues) I Biancazzurri (The White and Blues) Le Aquile (The Eagles) Gli Aquilotti (The Young Eagles)
+Founded: 9 January 1900 ; 126 years ago ( 1900-01-09 ) , as Società Podistica Lazio
+Ground: Stadio Olimpico
+Capacity: 70,634
+Owner: Claudio Lotito (66.70%)
+Chairman: Claudio Lotito
+Head coach: Maurizio Sarri
+League: Serie A
+Website: www .sslazio .it
+Società Sportiva Lazio ( Italian pronunciation: [ sotʃeˈta sporˈtiːva ˈlattsjo ] ; BIT : SSL ; Lazio Sport Club ) is an Italian professional sports club based in Rome , most known for its football activity . The society, founded in 1900, plays in the Serie A and have spent most of their history in the top tier of Italian football. Lazio were Italian champions in 1974 and 2000. They have won the Coppa Italia seven times, the Supercoppa Italiana five times, and both the UEFA Cup Winners' Cup and UEFA Super Cup on one occasion. They also won the 1968–69 Serie B . Lazio share the 70,634 capacity Stadio Olimpico with Roma .
+
+=== chunk 2 · Introduction ===
+The club's earliest major honour was a domestic cup win in 1958 . In 1974 , they won their first Serie A title. The 1990s were the most successful period in Lazio's history: they reached the UEFA Cup final in 1998 ; won the UEFA Cup Winners' Cup and UEFA Super Cup in 1999; and clinched the Serie A title in 2000 . Due to a severe economic crisis in 2002 that forced the departure of president Sergio Cragnotti and the selling of several star players, Lazio's success in the league declined. In spite of the lower funds, the club has won four Coppa Italia titles since then: 2004 , 2009 , 2013 and 2019 . Current president Claudio Lotito took charge of the club in 2004 following a two-year vacancy in the position.
+Lazio's traditional kit colours are sky blue shirts and white shorts with white socks; these reflect Rome's ancient Hellenic legacy . Sky blue socks have also been interchangeably used as home colours. Lazio share a long-standing and fierce rivalry with Roma, against whom they have contested the Derby della Capitale ("Derby of the capital city") since 1929.
+
+=== chunk 3 · Introduction ===
+Despite initially not having any parent–subsidiary relation with the male and female professional team (that was incorporated as S.S. Lazio S.p.A.), the founding of Società Sportiva Lazio allowed the club to participate in over 40 different sports disciplines in total.
+
+=== chunk 4 · History ===
+Società Podistica Lazio was founded on 9 January 1900 in the Prati district of Rome . Until 1910, the club played at an amateur level until it officially joined the league competition in 1912 as soon as the Italian Football Federation began organising championships in the center and south of Italy, and reached the final of the national championship playoff three times, but never won, losing in 1913 to Pro Vercelli , in 1914 to Casale and in 1923 to Genoa 1893 . In 1927, Lazio was the only major Roman club which resisted the Fascist regime 's attempts to merge all the city's teams into what would become Roma the same year. The club played in the first organised Serie A in 1929 and, led by legendary Italian striker Silvio Piola , achieved a second-place finish in 1937 – its highest pre-war result.
+
+=== chunk 5 · History ===
+The 1950s produced a mix of mid and upper table results, with a Coppa Italia win in 1958. Lazio was relegated for the first time in 1961 to Serie B , but returned in the top flight two years later. After a number of mid-table placements, another relegation followed in 1970–71. Back to Serie A in 1972–73, Lazio immediately emerged as surprise challengers for the Scudetto to Milan and Juventus in 1972–73, only losing out on the final day of the season, with a team comprising captain Giuseppe Wilson , as well as midfielders Luciano Re Cecconi and Mario Frustalupi , striker Giorgio Chinaglia , and head coach Tommaso Maestrelli . Lazio improved such successes the following season, ensuring its first title in 1973–74 . However, tragic deaths of Re Cecconi and Scudetto trainer Maestrelli, as well as the departure of Chinaglia, would be a triple blow for Lazio. The emergence of Bruno Giordano during this period provided some as he finished League top scorer in 1979, when Lazio finished eighth.
+
+=== chunk 6 · History ===
+Lazio were forcibly relegated to Serie B in 1980, due to a remarkable scandal concerning illegal bets on their own matches, along with Milan. They remained in Italy's second division for three seasons, in what would mark the darkest period in Lazio's history. They would return in 1983 and manage a last-day escape from relegation the following season. The 1984–85 season would prove harrowing, with a pitiful 15 points and bottom place finish.
+In 1986, Lazio was hit with a nine-point deduction (a true back in the day of the two-point win) for a betting scandal involving player Claudio Vinazzani . An epic struggle against relegation followed the same season in Serie B, with the club led by trainer Eugenio Fascetti only avoiding relegation to the Serie C after play-off wins over Taranto and Campobasso . This would prove a turning point in the club's history, with Lazio returning to Serie A in 1988 and, under the careful financial management of Gianmarco Calleri, the consolidation of the club's position as a solid top-flight club.
+
+=== chunk 7 · History ===
+The arrival of Sergio Cragnotti in 1992 changed the club's history, due to his long-term investments in new players to make the team a Scudetto competitor. A notable early transfer during his tenure was the capture of English midfielder Paul Gascoigne from Tottenham Hotspur for £5.5 million. Gascoigne's transfer to Lazio is credited with the increase of interest in Serie A in the United Kingdom during the 1990s. Cragnotti repeatedly broke transfer records in pursuit of players who were considered major stars – Juan Sebastián Verón for £18 million, Christian Vieri for £19 million and breaking the world transfer record , albeit only for a matter of weeks, to sign Hernán Crespo from Parma for £35 million.
+Lazio were Serie A third in 1995 and 1996, and fourth in 1997, then losing the championship just by one point to Milan on the last championship's match in 1999 before, with the likes of Siniša Mihajlović , Alessandro Nesta , Marcelo Salas and Pavel Nedvěd in the side, winning its second Scudetto in 2000, as well as the Coppa Italia double with Sven-Göran Eriksson (1997–2001) as manager.
+
+=== chunk 8 · History ===
+Lazio had two more Coppa Italia triumphs in 1998 and 2004, as well as the last UEFA Cup Winners' Cup in 1999 . They also reached the UEFA Cup final, but lost 0–3 against Internazionale . In addition, Lazio won the Supercoppa Italiana twice and defeated Manchester United in 1999 to win the UEFA Super Cup . In 2000, Lazio became also the first Italian football club to be quoted on the Italian Piazza Affari stock market.
+With money running out, Lazio's results slowly worsened in the years. In 2002, a financial scandal involving Cragnotti and his food products multinational Cirio forced him to leave the club, and Lazio was controlled until 2004 by caretaker financial managers and a bank pool. This forced the club to sell their star players and even fan favourite captain Alessandro Nesta. In 2004, entrepreneur Claudio Lotito acquired the majority of the club. In 2006, the club qualified to the 2006–07 UEFA Cup under coach Delio Rossi . The club, however, was excluded from European competitions due to their involvement in the 2006 Italian football scandal .
+
+=== chunk 9 · History ===
+In the 2006–07 season, despite a later-reduced points deduction, Lazio achieved a third-place finish, thus gaining qualification to the UEFA Champions League third qualifying round, where they defeated Dinamo București to reach the group phase, and ended fourth place in the group composed of Real Madrid , Werder Bremen and Olympiacos . Things in the league did not go much better, with the team spending most of the season in the bottom half of the table, sparking the protests of the fans, and eventually ending the Serie A season in 12th place. In the 2008–09 season, Lazio won their fifth Coppa Italia , beating Sampdoria in the final .
+Lazio started the 2009–10 season playing the Supercoppa Italiana against Inter in Beijing and winning the match 2–1, with goals from Matuzalém and Tommaso Rocchi .
+Lazio won the 2012–13 Coppa Italia 1–0 over rivals Roma , with the lone goal coming from Senad Lulić in the 71st minute.
+Lazio won the 2018–19 Coppa Italia 2–0 over Atalanta , winning their seventh title overall. Sergej Milinkovic-Savic (82') and Joaquin Correa (90') were the goalscorers in this match.
+
+=== chunk 10 · History ===
+Lazio won the 2019 Supercoppa Italiana 3–1 over Juventus in Riyadh, Saudi Arabia, winning their fifth title overall. Luis Alberto (16'), Senad Lulic (73'), and Danilo Cataldi (90+4') were the goalscorers for Lazio, while Paulo Dybala (45') was the lone goalscorer for Juventus.
+In the 2024-25 UEFA Europa League group stage, Lazio topped the 36-club table with 19 points. They reached the quarter-finals of the competition after defeating Viktoria Plzen 3–2 on aggregate in the round of 16 .
+
+=== chunk 11 · Colours, badge and nicknames ===
+Lazio's colours of white and sky blue were inspired by the national emblem of Greece , due to the fact that Lazio is a mixed sports club this was chosen in recognition of the fact that the Ancient Olympic Games and along with it the sporting tradition in Europe is linked to Greece.
+Originally, Lazio wore a shirt which was divided into white and sky blue quarters, with black shorts and socks. After a while of wearing a plain white shirt very early on, Lazio reverted to the colours which they wear today. Some seasons Lazio have used a sky blue and white shirt with stripes, but usually it is sky blue with a white trim, with the white shorts and socks. The club's colours have led to their Italian nickname of Biancocelesti .
+
+=== chunk 12 · Colours, badge and nicknames ===
+Lazio's traditional club badge and symbol is the eagle , which was chosen by founding member Luigi Bigiarelli. A symbol of the Roman legions and emperor, it was chosen to represent power and victory; it also identifies the club with its origin city. Lazio's use of the symbol has led to two of their nicknames; le Aquile ("the Eagles") and gli Aquilotti ("the Young Eagles"). The current club badge features a golden eagle above a white shield with a blue border; inside the shield is the club's name and a smaller tripartite shield with the colours of the club.
+
+=== chunk 13 · Kit suppliers and shirt sponsors ===
+Period: 1946–1961 · Kit manufacturer: Gradella Sport
+Period: 1961–1962 · Kit manufacturer: Lacoste
+Period: 1962–1963 · Kit manufacturer: Gradella Sport
+Period: 1963–1964 · Kit manufacturer: Lacoste
+Period: 1964–1969 · Kit manufacturer: Gradella Sport
+Period: 1969–1970 · Kit manufacturer: Tuttosport Umbro
+Period: 1970–1971 · Kit manufacturer: Umbro
+Period: 1971–1978 · Kit manufacturer: Tuttosport NR (Ennerre)
+Period: 1978–1979 · Kit manufacturer: NR (Ennerre)
+Period: 1979–1980 · Kit manufacturer: NR (Ennerre) Pouchain
+Period: 1980–1981 · Kit manufacturer: Adidas NR (Ennerre)
+Period: 1981–1982 · Kit manufacturer: Adidas · Main shirt sponsor: Tonini
+Period: 1982–1984 · Kit manufacturer: NR (Ennerre) · Main shirt sponsor: Sèleco
+Period: 1984–1986 · Kit manufacturer: NR (Ennerre) · Main shirt sponsor: Castor Eletttrodomestici
+Period: 1986–1987 · Kit manufacturer: Tuttosport · Main shirt sponsor: Cassa di Risparmio di Roma
+Period: 1987–1989 · Kit manufacturer: Kappa · Main shirt sponsor: Cassa di Risparmio di Roma
+Period: 1989–1991 · Kit manufacturer: Umbro · Main shirt sponsor: Cassa di Risparmio di Roma
+
+=== chunk 14 · Kit suppliers and shirt sponsors ===
+Period: 1991–1992 · Kit manufacturer: Umbro · Main shirt sponsor: Banco di Santo Spirito
+Period: 1992–1996 · Kit manufacturer: Umbro · Main shirt sponsor: Banca di Roma
+Period: 1997–1998 · Kit manufacturer: Umbro · Main shirt sponsor: Cirio
+Period: 1998–1999 · Kit manufacturer: Puma · Main shirt sponsor: Cirio · Alternate shirt sponsor: Del Monte Foods (in UEFA matches)
+Period: 1999–2000 · Kit manufacturer: Puma · Main shirt sponsor: Cirio · Alternate shirt sponsor: Stream TV (in cup matches) / Del Monte Foods (in UEFA matches)
+Period: 2000–2002 · Kit manufacturer: Puma · Main shirt sponsor: Siemens Mobile
+Period: 2002–2003 · Kit manufacturer: Puma · Main shirt sponsor: Siemens Mobile · Alternate shirt sponsor: Cotonella (in cup matches) / Compex (in cup matches)
+Period: 2003–2004 · Kit manufacturer: Puma · Main shirt sponsor: Parmacotto · Alternate shirt sponsor: Indesit (in cup & UEFA matches)
+Period: 2004–2005 · Kit manufacturer: Puma · Main shirt sponsor: Parmacotto · Alternate shirt sponsor: Errebian (in supercup matches)
+Period: 2005–2007 · Kit manufacturer: Puma · Main shirt sponsor: INA Assitalia
+
+=== chunk 15 · Kit suppliers and shirt sponsors ===
+Period: 2007–2008 · Kit manufacturer: Puma · Alternate shirt sponsor: So.Spe. (Matchday 2, 7, 8, 10–11, 15–19, 21–24, 26 & 28-30 & cup matches) / Edileuropa (25, 27, 29–31, & 34–38)
+Period: 2008–2009 · Kit manufacturer: Puma · Alternate shirt sponsor: Pro Evolution Soccer 2009 (Matchday 15) / Cucciolone (16 & 18) / Groupama (31)
+Period: 2009–2010 · Kit manufacturer: Puma · Main shirt sponsor: Edileuropa · Alternate shirt sponsor: Clinica Paideia (Matchday 4 & 12) / Regione Lazio (in supercup matches)
+Period: 2010–2011 · Kit manufacturer: Puma · Alternate shirt sponsor: Clinica Paideia (Matchday 12 & 37)
+Period: 2011–2012 · Kit manufacturer: Puma · Alternate shirt sponsor: Clinica Paideia (Matchday 7 & 11)
+Period: 2012–2013 · Kit manufacturer: Macron · Alternate shirt sponsor: Clinica Paideia (Matchday 17–18)
+Period: 2013–2014 · Kit manufacturer: Macron · Alternate shirt sponsor: Lazio Style Channel (Matchday 10, 19 & 24) / Clinica Paideia (23)
+Period: 2014–2015 · Kit manufacturer: Macron · Alternate shirt sponsor: Clinica Paideia (Matchday 2, 8, 12 & 19) / Associazione italiana contro le leucemie-linfomi e mieloma (13)
+
+=== chunk 16 · Kit suppliers and shirt sponsors ===
+Period: 2015–2016 · Kit manufacturer: Macron · Alternate shirt sponsor: Extraordinary Jubilee of Mercy (Matchday 15) / Clinica Paideia (30, 34 & 36)
+Period: 2016–2017 · Kit manufacturer: Macron · Main shirt sponsor: Sèleco · Alternate shirt sponsor: Clinica Paideia (Matchday 15) / Libera (30)
+Period: 2017–2018 · Kit manufacturer: Macron · Main shirt sponsor: Sèleco · Secondary shirt sponsor: Clinica Paideia (Matchday 14 & 19) · Shirt sponsor (back): Sèleco Easy Life
+Period: 2018–2019 · Kit manufacturer: Macron · Main shirt sponsor: Marathonbet · Shirt sponsor (back): Sèleco / Igea Banca (in Coppa Italia Final) · Shirt sponsor (sleeve): Clinica Paideia (Matchday 21 & 26)
+Period: 2019–2020 · Kit manufacturer: Macron · Alternate shirt sponsor: Regione Lazio (in supercup matches) · Shirt sponsor (sleeve): Clinica Paideia (Matchday 2 & 15) / Frecciarossa (Matchday 27–38)
+Period: 2020–2021 · Kit manufacturer: Macron · Alternate shirt sponsor: World Food Programme (Matchday 13) / Contrader (31) / Clinica Paideia (37) · Shirt sponsor (back): Contrader · Shirt sponsor (sleeve): Frecciarossa
+
+=== chunk 17 · Kit suppliers and shirt sponsors ===
+Period: 2021–2022 · Kit manufacturer: Macron · Main shirt sponsor: Binance · Shirt sponsor (back): Clinica Paideia (Matchday 6 & 34) · Shirt sponsor (sleeve): Frecciarossa
+Period: 2022–2023 · Kit manufacturer: Mizuno · Main shirt sponsor: Binance · Shirt sponsor (back): Clinica Paideia (Matchday 27) · Shirt sponsor (sleeve): AIRFire (Matchday 19–38)
+Period: 2023–2024 · Kit manufacturer: Mizuno · Alternate shirt sponsor: Clinica Paideia (Matchday 16, 30 & 33) / Regione Lazio (in supercup matches) · Shirt sponsor (sleeve): AeroItalia
+Period: 2024–2025 · Kit manufacturer: Mizuno · Alternate shirt sponsor: Casa di Cura Villa Mafalda (Matchday 36) · Shirt sponsor (back): AeroItalia
+
+=== chunk 18 · Stadium ===
+Stadio Olimpico , located on the Foro Italico , is the major stadium of Rome. It is the home of the Italy national football team as well as of both local teams Lazio and Roma. It was opened in 1937 and after its latest renovation in 2008, the stadium has a capacity of 70,634 seats. It was the site of the 1960 Summer Olympics , but has also served as the location of the 1987 World Athletics Championships , the 1980 European Championship final, the 1990 World Cup and the Champions League Final in 1996 and 2009 .
+Also on the Foro Italico lies the Stadio dei Marmi , or "marble stadium", which was built in 1932 and designed by Enrico Del Debbio. It has tiers topped by 60 white marble statues that were gifts from Italian cities in commemoration of 60 athletes.
+During the 1989–90 season, Lazio and Roma played their games at the Stadio Flaminio of Rome, located in the district Flaminio, because of the renovation works carried out at the Stadio Olimpico.
+
+=== chunk 19 · Stadium ===
+In June 2018, Lazio President Claudio Lotito stated that the Biancocelesti "should be granted the same favour and treatment as Roma – the ability to also build a new stadium. He also added that "Lazio's stadium will be built before Roma's stadium." In June 2019, Lotito was set to present the designs of a potential future stadium for Lazio, named the Stadio delle Aquile. However, this did not occur for reasons unknown, and in July 2021, Lotito pivoted from the creation of the Stadio delle Aquile to the idea of moving the club's home to a renovated Stadio Flaminio .
+In October 2022, Lotito provided an update on his Stadio Flaminio project, stating that he is "very attached" to the hope that Lazio will play there again, as having it as their home is "something that evokes our history and our roots." In November 2022, Lotito discussed his plans for the Stadio Flaminio at the ‘Sing a Song’ charity event at the Auditorium della Conciliazione in Rome. He stated that he "would like to increase the stadium from a capacity of around 18,000 to 45,000" and that "it is a problem" for Lazio to "remain without a stadium of their own."
+
+=== chunk 20 · Stadium ===
+In September 2024, Lazio made concrete steps in their plans to own and renovate the Stadio Flaminio . The club were looking to team up with a famous company named “Legend” that specializes in building and maintaining sports venues - they would then become the project manager and take care of the ticketing service, merchandising management, retail sales and the search to find a naming sponsor; with Emirates reportedly interested in the project. The total cost of the operation was said to be between €250 and €300 million.
+
+=== chunk 21 · Stadium ===
+In December 2024, Lotito and his collaborators held a meeting with Mayor Roberto Gualtieri and Councilor Alessandro Onorato at the Municipality of Rome in Campidoglio to present their project for the new Stadio Flaminio . He envisioned developing a state-of-the-art stadium with a capacity of 40,000 to 50,000 spectators and a retractable roof; he also outlined plans for the comprehensive redevelopment of the surrounding Flaminio district. He stated that the project was well-received, while revealing that acquiring the necessary paperwork could require another three years. However, shortly after, "Roma Nuoto" received approval from the Conference of Services after threatening legal action following the long and unjustified delay in the process for their plans for the abandoned stadium; they envision a multi-sport facility for the future of the Stadio Flaminio , including an Olympic-sized swimming pool, padel courts, and a hockey rink, thus competing with Lazio.
+
+=== chunk 22 · Stadium ===
+In March 2025, Lotito officially deposited his proposal for the currently-defunct Stadio Flaminio to the Municipality of Rome to become Lazio's new home. The Biancocelesti will be looking to finalize the bureaucratic procedures by the start of 2026 and are aiming to finish the renovation work by the summer of 2029. There will be 50,750 seats, and renovating this ground - and the surrounding area - will cost them circa €438 million, as per Calcio e Finanza.
+In April 2025, the "Roma Nuoto" project for the Stadio Flaminio was turned down by the Municipality Council of Rome, after they unanimously deemed it ill-suited for the venue's purpose, which is hosting domestic and international events within a large stadium. The doomed project sought to reduce the stadium capacity from 42,000 to just 7,500, which would have diminished the value of the stadium according to the Municipality Council.
+
+=== chunk 23 · Supporters and rivalries ===
+Lazio is the sixth-most supported football club in Italy and the second in Rome, with around 2% of Italian football fans supporting the club (according to La Repubblica 's research of August 2008). Historically, the largest section of Lazio supporters in the city of Rome has come from the far northern section, creating an arch -like shape across Rome with affluent areas such as Parioli , Prati , Flaminio, Cassia and Monte Mario .
+Founded in 1987, Irriducibili Lazio were the club's biggest ultras group for over 30 years. They typically create traditional Italian ultra displays during the Derby della Capitale (Rome Derby), the match between Lazio and their main rivals, Roma . It is amongst the most heated and emotional footballing rivalries in the world, such as where Lazio fan Vincenzo Paparelli was killed at one of the derby games during the 1979–80 season after being hit in the eye by an emergency rocket thrown by a Roma fan. Lazio also have a strong rivalry with Napoli and Livorno , as well as with Pescara and Atalanta . The club also maintains strong competitive rivalries with Fiorentina , Juventus and Milan .
+
+=== chunk 24 · Supporters and rivalries ===
+Conversely, the ultras have friendly relationships with Internazionale , Triestina and Hellas Verona . Internationally, Lazio's fans maintain a long-standing strong friendship with the supporters of the Bulgarian club Levski Sofia and as such, Lazio were invited to participate in the centenary football match honouring the birthday of the Bulgarian club.
+
+=== chunk 25 · Far-right politics and Irriducibili Ultras ===
+Dubbed "the most right-wing football club in Europe" by author James Montague, SS Lazio has a supporter culture that has been associated with far‑right politics, nationalism and extremist behaviour over several decades; critics have sometimes referred to the club as "SS Nazio".
+In the early years of Italian organised supporter culture, before the emergence of modern ultras, Lazio’s fanbase included a range of political orientations. In the 1960s and early 1970s, Italian ultra culture began to develop around the country, and groups of supporters at Lazio and other clubs formed with varying ideologies. Lazio had groups such as the Viking among its early supporters in this period.
+
+=== chunk 26 · Far-right politics and Irriducibili Ultras ===
+A marked shift occurred in 1972 with the formation of the Irriducibili, a group that would become the dominant ultra faction within the Curva Nord, the section of Lazio’s home ground, the Stadio Olimpico, where the most vocal supporters stand. Over the 1980s and 1990s the Irriducibili became increasingly prominent, establishing a reputation for organised displays, coordinated chants and intense loyalty to the club, and also for integrating far‑right political symbolism into their activities. In 1987 Fabrizio Piscitelli, known as Diabolik, became a leading figure within the Irriducibili and helped consolidate their influence among Lazio’s hardcore supporters.
+
+=== chunk 27 · Far-right politics and Irriducibili Ultras ===
+During the 1990s, the Irriducibili were noted for violent behaviour on and off the terraces, and for the use of fascist salutes, racially abusive chants and anti‑Semitic banners. Incidents attributed to sections of the Lazio support in this era included monkey chants directed at Black players and banners referencing figures such as Serbian paramilitary commander Željko Ražnatović with slogans such as "Honour to the Tiger, Arkan". In 1998, Lazio supporters displayed an openly anti‑Semitic banner during the Derby della Capitale against AS Roma, reading " Auschwitz is your country, the gas chambers are your home"; in 2000, another banner taunted Roma fans by calling them "Squad of Blacks, terrace of Jews".
+Paolo Di Canio , a player associated with Lazio in the mid‑2000s, contributed to the public perception of the club’s right‑wing support. In October 2005, he performed a straight‑arm salute, understood as a fascist gesture, to Lazio fans during a derby against AS Roma; he was fined and suspended by Italian authorities for this act. Di Canio has described himself at times as a fascist in personal statements and written favourably about Benito Mussolini in his autobiography.
+
+=== chunk 28 · Far-right politics and Irriducibili Ultras ===
+In the 2000s and 2010s, Lazio's supporter culture continued to attract controversy. On 3 February 2016, a Serie A match between Lazio and Napoli at the Stadio Olimpico was temporarily halted in the 68th minute after Lazio supporters directed racist abuse, including monkey chants, at Napoli defender Kalidou Koulibaly , alongside anti-Neapolitan chants. Play resumed after three minutes, and Napoli won 2-0, with referee Massimiliano Irrati's decision to stop the game praised by Napoli manager Maurizio Sarri but questioned by Lazio coach Stefano Pioli, who described the chanting as coming from a minority and denied it was racist. In 2017, images of Anne Frank in an AS Roma shirt were displayed by Lazio ultras at the Olimpico, occurring shortly after racial abuse had resulted in parts of the stadium being closed and sanctions being applied.
+Fabrizio Piscitelli’s leadership of the Irriducibili continued until his death in 2019, when he was shot dead in Rome; reports suggest he was involved in organised crime circles. Following his death, the Irriducibili formally disbanded, but elements of far‑right supporter identity persisted among sections of the fanbase.
+
+=== chunk 29 · Far-right politics and Irriducibili Ultras ===
+In 2021, the club signed Romano Floriani Mussolini , the great‑grandson of Benito Mussolini , to its youth ranks; this event was widely reported internationally and underscored external perceptions of the club’s historical associations, though Lazio officials emphasised sporting merit in the decision.
+Incidents involving Lazio supporters have continued into the 2020s, and Italian football authorities as well as UEFA have repeatedly sanctioned SS Lazio for supporter behaviour. In 2020, Lazio were fined by UEFA for racist behaviour and fascist salutes by fans during a Europa League match; the club sought to identify and penalise individuals implicated in the conduct. On 4 April 2023, Lazio were given a suspended one-match partial stadium closure after antisemitic chants were directed at Roma supporters by fans in the Curva Nord during the Derby della Capitale on 19 March 2023. The sanction was suspended for one year after Lazio issued three lifetime bans to individuals involved, including one supporter wearing a shirt referencing Adolf Hitler and two others performing Roman salutes, with the penalty to be enforced if further incidents occur.
+
+=== chunk 30 · Far-right politics and Irriducibili Ultras ===
+In January 2024, the Curva Nord was subject to closure for matches following racist chanting directed at players, including a high‑profile incident involving Romelu Lukaku . In March 2024, around 100 Lazio fans were reported to have raised fascist slogans, cheered for Mussolini and performed Roman salutes in a Munich beer hall before a Champions League fixture. In November 2024, city authorities in Amsterdam banned Lazio fans from attending a Europa League match, citing concerns about extremist, racist and anti‑Semitic expressions, referencing past behaviour including fascist salutes and Nazi symbolism. In January 2025, reports emerged of suspected Lazio ultras attacking visiting Real Sociedad supporters in Rome, resulting in multiple injuries and prompting condemnation from local officials and police investigations; authorities characterised some of the suspected assailants as far‑right extremists.
+
+=== chunk 31 · Far-right politics and Irriducibili Ultras ===
+Thomas Hitzlsperger , a retired German footballer who played for Lazio in 2010, related in his autobiography, Mutproben , that the far-right and fascist fans in Lazio were part of his decision to leave the club less than six months after joining the team. He added that being gay made it difficult for him to adapt to Lazio.
+
+=== chunk 32 · Non-ultra Lazio fans ===
+Given the controversial incidents that involve Lazio ultras, non-ultra Lazio fans have distanced themselves from the ideology and behaviour of the ultras on several occasions . Furthermore, since the 2020's several fan clubs that openly take anti-racist and anti-discriminatory stances have been founded , pointing out the difference between the Lazio ultras and a large portion of the rest of the fanbase. Initiatives have been organised to emphasise there is a different way of supporting the club . An example of such an action was the banner that was unfolded in the Distinti Sud-Est section of the stadium during a Lazio-Empoli game that read: "La Lazio non è razzista, la Lazio è libertà." ("Lazio is not racist, Lazio is liberty.") , emphasising the discrepancy between some of the ultras and other Lazio fans. On at least one occasion a member of one of these Lazio fan groups was attacked by neo-fascist ultras.
+
+=== chunk 33 · Domestic ===
+Serie A Winners (2): 1973–74 , 1999–2000 Runners-up (7): 1912–13 , 1913–14 , 1922–23 , 1936–37 , 1994–95 , 1998–99 , 2022–23
+Serie B Winners (1): 1968–69
+Coppa Italia Winners (7): 1958 , 1997–98 , 1999–2000 , 2003–04 , 2008–09 , 2012–13 , 2018–19 Runners-up (4): 1960–61 , 2014–15 , 2016–17 , 2025–26
+Supercoppa Italiana Winners (5): 1998 , 2000 , 2009 , 2017 , 2019 Runners-up (3): 2004 , 2013 , 2015
+
+=== chunk 34 · Continental ===
+UEFA Cup Winners' Cup Winners (1): 1998–99
+UEFA Super Cup Winners (1): 1999
+
+=== chunk 35 · Lazio Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 71 MF  ITA Valerio Farcomeni
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 71 · 1: MF · 2: ITA · 3: Valerio Farcomeni
+
+=== chunk 36 · Retired numbers ===
+12 – Since the 2003–04 season, the Curva Nord of Stadio Olimpico , as a sign of recognition, is considered the 12th man on the pitch.
+
+=== chunk 37 · Club officials ===
+0: Board of directors Role Name Owner  Claudio Lotito (66.70%) President  Claudio Lotito CEO  Marco Cavaliere Counselor  Marco Moschini Judicial Department  Francesca Miele Secretary  Armando Calveri Chief Scout  Giancarlo Romainore Sporting Director  Angelo Fabiani Supporter Liaison Officer  Giampiero Angelici Team Manager  Stefan Derkum Head of Youth Development  Enrico Lotito Youth Center Coordinator  Fabrizio Fratini Medical Director  Ivo Pulcini Medical Coordinator  Fabio Rodia Ticketing Director  Angelo Cragnotti Responsibles for Order and Safety  Alessandro Bracci Administrator  Giovanni Russo Marketing & Sales Director  Marco Canigiani Last updated: 11 June 2024 Source: · 1: Current technical staff Role Name Head coach  Maurizio Sarri Assistant coach  Giovanni Martusciello Technical coaches  Marco Ianni Giammarco Fedeli Goalkeeping coaches  Cristiano Viotti Massimo Nenci Athletic coaches  Simone Fugalli Davide Losi Davide Ranzato Match analyst  Gianni Picchioni Kit men  Stefano Delle Grotti Mauro Patrizi Walter Pela Club doctor  Italo Leo Rehab coach  Giuseppe Malizia Physiotherapists  Christian Marsella Daniele Misseri Glauco Bucci Gianni Scapini Luigi Iachetti Last updated: 1 July 2025 Source:
+
+=== chunk 38 · Club officials ===
+0: Role · 1: Name
+0: Owner · 1: Claudio Lotito (66.70%)
+0: President · 1: Claudio Lotito
+0: CEO · 1: Marco Cavaliere
+0: Counselor · 1: Marco Moschini
+0: Judicial Department · 1: Francesca Miele
+0: Secretary · 1: Armando Calveri
+0: Chief Scout · 1: Giancarlo Romainore
+0: Sporting Director · 1: Angelo Fabiani
+0: Supporter Liaison Officer · 1: Giampiero Angelici
+0: Team Manager · 1: Stefan Derkum
+0: Head of Youth Development · 1: Enrico Lotito
+0: Youth Center Coordinator · 1: Fabrizio Fratini
+0: Medical Director · 1: Ivo Pulcini
+0: Medical Coordinator · 1: Fabio Rodia
+0: Ticketing Director · 1: Angelo Cragnotti
+0: Responsibles for Order and Safety · 1: Alessandro Bracci
+0: Administrator · 1: Giovanni Russo
+0: Marketing & Sales Director · 1: Marco Canigiani
+0: Role · 1: Name
+0: Head coach · 1: Maurizio Sarri
+0: Assistant coach · 1: Giovanni Martusciello
+0: Technical coaches · 1: Marco Ianni Giammarco Fedeli
+0: Goalkeeping coaches · 1: Cristiano Viotti Massimo Nenci
+0: Athletic coaches · 1: Simone Fugalli Davide Losi Davide Ranzato
+0: Match analyst · 1: Gianni Picchioni
+0: Kit men · 1: Stefano Delle Grotti Mauro Patrizi Walter Pela
+0: Club doctor · 1: Italo Leo
+
+=== chunk 39 · Club officials ===
+0: Rehab coach · 1: Giuseppe Malizia
+0: Physiotherapists · 1: Christian Marsella Daniele Misseri Glauco Bucci Gianni Scapini Luigi Iachetti
+
+=== chunk 40 · Notable managers ===
+The following managers have all won at least one trophy when in charge of Lazio:
+Name: Fulvio Bernardini · Period: 1958–1960 · Trophies: Coppa Italia
+Name: Juan Carlos Lorenzo · Period: 1968–1971 · Trophies: Serie B
+Name: Tommaso Maestrelli · Period: 1971–1976 · Trophies: Serie A
+Name: Sven-Göran Eriksson · Period: 1997–2001 · Trophies: 2 Coppa Italia, 2 Supercoppa Italiana, Serie A, UEFA Cup Winners' Cup, UEFA Super Cup
+Name: Roberto Mancini · Period: 2002–2004 · Trophies: Coppa Italia
+Name: Delio Rossi · Period: 2005–2009 · Trophies: Coppa Italia
+Name: Davide Ballardini · Period: 2009–2010 · Trophies: Supercoppa Italiana
+Name: Vladimir Petković · Period: 2012–2014 · Trophies: Coppa Italia
+Name: Simone Inzaghi · Period: 2016–2021 · Trophies: 2 Supercoppa Italiana, Coppa Italia
+
+=== chunk 41 · Statistics and records ===
+Ștefan Radu holds Lazio's official appearance record, having played 416 appearances. The record for total appearances by a goalkeeper is held by Luca Marchegiani , with 339 appearances, while the record for most league appearances is held by Aldo Puccinelli with 339.
+The all-time leading goalscorer for Lazio is Ciro Immobile , with 206 goals scored, followed by Silvio Piola with 159 goals. Piola, who played also with Pro Vercelli , Torino , Juventus and Novara , is also the highest goalscorer in Serie A history, with 274 goals. Immobile is also the all-time top goalscorer in European competitions , with 26 goals.
+Officially, Lazio's highest home attendance is approximately 80,000 for a Serie A match against Foggia on 12 May 1974, the match that awarded to Lazio their first Scudetto . This is also the record for the Stadio Olimpico, including matches held by Roma and the Italy national football team .
+
+=== chunk 42 · Società Sportiva Lazio as a company ===
+In 1998, during Sergio Cragnotti 's period in charge as the chairman, Società Sportiva Lazio S.p.A. became a listed company : Lazio were the first Italian club to do so. However, Cragnotti resigned as chairman in 2001, after a "huge hole in the budget" of the club.
+Claudio Lotito , the current chairman of Lazio, purchased the club from Cragnotti in 2004, but owned just 26.969% of shares as the largest shareholders at that time. [ citation needed ] It was followed by banking group Capitalia (and its subsidiaries Mediocredito Centrale , Banca di Roma and Banco di Sicilia ) as the second largest shareholders for 17.717%. Capitalia also hold 49% stake of Italpetroli (via Capitalia's subsidiary Banca di Roma ), the parent company of city rival Roma (via Italpetroli's subsidiary "Roma 2000"). Lotito later purchased the minority stake from Capitalia.
+
+=== chunk 43 · Società Sportiva Lazio as a company ===
+As of 2018 [ update ] , Claudio Lotito owns just over two-thirds of the shares of Lazio. Lazio is one of only three Italian clubs listed on the Borsa Italiana , the others being Juventus and Roma. In the past, Lazio was the only one with a single primary share holder (Lotito). However, following several capital increases by Roma and Juventus, they also are significantly owned by a shareholder. According to The Football Money League , published by consultants Deloitte , in the 2004–05 season, Lazio was the 20th highest earning football club in the world with an estimated revenue of €83 million; the 2005 ranking of the club was 15th. However, in 2016 ranking (the rank used data in 2014–15 season), Lazio was not in the top 20.
+
+=== chunk 44 · Società Sportiva Lazio as a company ===
+Lazio was one of the few clubs that self-sustain from the financial support of a shareholder, and also consistently make an aggregate profit after every season. Unlike Internazionale , Roma and Milan , who were sanctioned by UEFA due to breaches of Financial Fair Play , Lazio passed the regulations held by the administrative body with the high achievements. Lotito also received a prize that joint awarded by Associazione Italiana Allenatori Calcio and DGS Sport&Cultura, due to Lazio's financial health.
+In 2017, the club renewed their sponsorship deal with shirt manufacturer Macron . It was worth €16 million a season, plus variables of about €9 million stemming from league and European competition finishes.
+In February 2022, Lazio announced that they had parted ways with Macron after 10 years. Mizuno would become the team's new sportswear and technical gear provider, with the Biancocelesti receiving €20 million over the next five years as a result of their new agreement with the Japanese company.
+
+=== chunk 45 · Società Sportiva Lazio as a company ===
+In March 2022, Lazio released their financial reports from June to December 2021 which showed a decrease in revenue (from €106.66 to €71.56 million) but an increase in profit (from -€0.12 million to €4.6 million) compared to the previous six months.
+In March 2025, Italian Newspaper Il Messaggero reported that Lazio could soon have their own docu-series on Netflix dedicated to the history of the club; from the foundation in 1900 all the way to the modern era. This multi-season series would not only focus on Lazio's triumphs on the pitch, but also on the club's elusive fanbase. Several legendary figures would appear in the series, including Giuseppe Signori, Miroslav Klose, and Paolo Di Canio.
+In March 2025, Lazio released their financial reports from June to December 2024 which yielded €87.5 million in overall revenues. On the other hand, the club reduced its costs from €97.2 million in the year prior to just under €87 million this time around.
+Year: 2005–06 · Turnover: €87,945,533 · Result: €16,790,826 · Total Assets: €150,061,486 · Net Assets: (€25,406,939)
+Year: 2006–07 · Turnover: €76,271,329 · Result: €1,467,481 · Total Assets: €187,378,234 · Net Assets: (€23,986,229)
+
+=== chunk 46 · Società Sportiva Lazio as a company ===
+Year: 2007–08 · Turnover: €102,482,031 · Result: €13,761,874 · Total Assets: €165,628,257 · Net Assets: (€9,839,179)
+Year: 2008–09 · Turnover: €92,001,361 · Result: €12,050,984 · Total Assets: €166,196,353 · Net Assets: €2,218,231
+Year: 2009–10 · Turnover: €98,501,843 · Result: (€1,692,751) · Total Assets: €168,732,996 · Net Assets: €508,710
+Year: 2010–11 · Turnover: €93,670,372 · Result: €9,982,408 · Total Assets: €165,245,840 · Net Assets: €10,500,666
+Year: 2011–12 · Turnover: €95,509,291 · Result: €4,221,554 · Total Assets: €185,154,912 · Net Assets: €14,665,185
+Year: 2012–13 · Turnover: €109,794,311 · Result: (€5,894,288) · Total Assets: €169,728,461 · Net Assets: €8,710,921
+Year: 2013–14 · Turnover: €107,509,172 · Result: €7,068,190 · Total Assets: €174,890,394 · Net Assets: €15,720,281
+Year: 2014–15 · Turnover: €110,927,382 · Result: €5,812,193 · Total Assets: €177,369,842 · Net Assets: €21,544,400
+Year: 2015–16 · Turnover: €93,820,507 · Result: (€12,625,154) · Total Assets: €166,627,240 · Net Assets: €8,869,720
+Year: 2016–17 · Turnover: €129,060,393 · Result: €11,377,545 · Total Assets: €204,540,451 · Net Assets: €20,303,284

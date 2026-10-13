@@ -1,0 +1,309 @@
+page: Cagliari Calcio
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=Cagliari_Calcio&oldid=1356015161
+extracted: 2026-09-23
+chunks: 30
+
+=== chunk 1 · Introduction ===
+Full name: Cagliari Calcio S.p.A.
+Nicknames: Gli Isolani (The Islanders) Casteddu (Cagliari in Sardinian language ) Rossoblù (Red and Blue) I Sardi (The Sardinians)
+Founded: 30 May 1920 ; 106 years ago ( 1920-05-30 ) as, Cagliari Football Club 1935 ; 91 years ago ( 1935 ) as, Unione Sportiva Cagliari
+Ground: Unipol Domus
+Capacity: 16,416
+Owner: Fluorsid Group
+President: Tommaso Giulini
+Head coach: Fabio Pisacane
+League: Serie A
+Website: cagliaricalcio .com
+Cagliari Calcio , commonly referred to as Cagliari ( Italian: [ ˈkaʎʎari ] ⓘ ), is a professional Italian football club based in Cagliari , Sardinia , that plays in Serie A , the first tier of Italian football . The club currently plays home matches at the 16,416-seat Unipol Domus .
+Founded in 1920, they won their first and only Scudetto in 1969–70 , when they were led by the Italian national team 's all-time leading scorer, Gigi Riva . The triumph was also the first by a club from south of Rome . The club's best European performance was in the 1993–94 UEFA Cup , reaching the semi-finals before losing to eventual winners Internazionale .
+
+=== chunk 2 · Introduction ===
+As with the flag of its city, Cagliari's main colours are blue and red. The club badge incorporates the flag of Sardinia .
+
+=== chunk 3 · Before Serie A ===
+Cagliari became the first ever out-right champions of Serie C during the 1951–52 season; prior to that in the league, the championship was shared amongst more than one team. They spent the 1950s from then on in Serie B , losing a promotion play-off in 1954. After descending to Serie C in the early 1960s, Cagliari's rise would be meteoric, eventually achieving promotion to Serie A in 1964.
+
+=== chunk 4 · First Serie A adventure: 1964–1976 ===
+The squad for the Rossoblu' s debut season in Serie A featured players like defender Mario Martiradonna , midfielders Pierluigi Cera , Nené and Ricciotti Greatti , and forward Gigi Riva . A poor first half of the season, however, saw Cagliari in last place with nine points at the halfway mark. An astonishing second half of the season saw Cagliari defeat the likes of Juventus and Milan and finish in seventh place with 34 points. Two seasons later, Riva finished as Serie A's top scorer for the first time while Cagliari finished with the league's best defensive record.
+During the summer of 1967, Cagliari played a season in North America as part of a fledgling league called the United Soccer Association . This league included teams from Europe and South America set to play in American and Canadian cities, with each club bearing a local name. Cagliari played as the Chicago Mustangs , and finished joint second in the league's Western Division with 13 points, two behind the division champion and eventual league champion Los Angeles Wolves . The league's leading scorer was Chicago/Cagliari's Roberto Boninsegna , who scored ten goals while playing in 9 of the team's 12 games.
+
+=== chunk 5 · First Serie A adventure: 1964–1976 ===
+Cagliari first emerged as serious Serie A title contenders in 1968–69 with a three-horse race involving them, Fiorentina and Milan. Fiorentina would win the league, but the following season would bring ultimate glory. With Angelo Domenghini joining the side, Cagliari would win the title in 1970 with only two games lost, 11 goals conceded (the fewest in any major European league to date) and Riva as league top scorer once more. Players like Albertosi, Niccolai, Boninsegna, Gori, Cera, Domenghini and Riva played in Italy's 1970 World Cup final team.
+The 1970s would see a gradual decline (though were title contenders two years after their one and only Scudetto win). Cagliari were finally relegated in 1976, with Riva's career having effectively ended during that season.
+
+=== chunk 6 · Up and down again: 1976–87 ===
+After relegation, Cagliari lost a play-off for promotion the following season and would return to Serie A in 1979. Players like Franco Selvaggi , Mario Brugnera (a survivor of the 1970 team) and Alberto Marchetti ensured a respectable four-year stay in the top flight before a second relegation in 1983. The 1980s would then prove to be a darker time compared to the previous two decades with relegation to Serie C1 in 1987.
+
+=== chunk 7 · There and back: 1987–2000 ===
+Cagliari spent two seasons in Serie C1. In the first one it barely avoided relegation in Serie C2. In 1988, Claudio Ranieri was appointed coach, and led the team to two successive promotions, to Serie B in 1989 and to Serie A in 1990. The first two seasons back in Serie A saw Cagliari fight relegation, with safety being achieved by excellent second half runs. But the 1992–93 season would see Cagliari fight for a European place and succeed under the management of Carlo Mazzone . The following season saw a best-ever run to the semi-finals of the UEFA Cup , taking out Juventus in the quarter-finals before being eliminated 5–3 on aggregate by compatriots Internazionale , having won the first leg 3–2 at home.
+The next few years would see Cagliari return to mid-table anonymity, before a struggle in 1996–97 saw Cagliari relegated after losing a play-off to Piacenza . Once more they bounced back after just one year, but their next stay in Serie A lasted just two seasons.
+
+=== chunk 8 · Once and again: 2000 onwards ===
+Cagliari spent the next four seasons in Serie B, until in 2003–04 with Sardinian-born veteran striker Gianfranco Zola , the team won promotion. In 2005–06 , the first season without Zola, the team changed their manager three times before Nedo Sonetti , appointed in November, was able to save the team from relegation, especially thanks to the excellent goal contribution from Honduran striker David Suazo .
+Apart from finishing 9th in 2008–09 season , Cagliari regularly finished in the bottom half of Serie A under a sequence of managers, before being relegated in 2014–15 . They gained promotion back the following season as champions of Serie B.
+
+=== chunk 9 · Once and again: 2000 onwards ===
+In 2014, the company passed, after 22 years of Massimo Cellino 's presidency, into the hands of Tommaso Giulini, president and owner of Fluorsid , a multinational in the chemical sector. Relegation took place in the first season, but the team won the Serie B championship in 2016, returning permanently to the top division, albeit always finishing in the second half of the table. Cagliari was relegated at the end of the 2021–22 season . They reappointed Claudio Ranieri halfway through the 2022–23 season with the club in fourteenth place. Under Ranieri's management, Cagliari won the 2022–23 Serie B playoffs .
+
+=== chunk 10 · Stadium ===
+Cagliari moved from the Stadio Amsicora to the Stadio Sant'Elia in 1970, after winning their only league title. It was renovated for Italy's hosting of the 1990 FIFA World Cup where it hosted all of England 's group games, ostensibly to confine the team's notorious hooligans to an island.
+Disputes with the city council over renovation of the publicly owned stadium meant that Cagliari played their final home games of 2011–12 at the Stadio Nereo Rocco in Trieste on the Italian mainland. For most of the following season, the club played at the Stadio Is Arenas in the neighbouring municipality of Quartu Sant'Elena . It was deemed unsafe by the league, forcing them to play behind closed doors before leaving the ground in April 2013. The Sant'Elia was demolished for a new stadium in 2017, and the club moved to the temporary Unipol Domus next to it.
+
+=== chunk 11 · Colours, badge and nicknames ===
+The official red and blue colours of Cagliari mirror those featured on the stemma of Cagliari . The red parts of the stemma are a reference to the coat of arms of the House of Savoy , a family which was previously the monarchy of Italy and more relevantly to Cagliari in particular, the Kingdom of Sardinia . The blue part of the stemma features the sky and the sea, also a castle ; this is because the old historic centre of Cagliari is walled and called the Castello . Due to the use of these colours on their shirt in halves, the club is commonly nicknamed rossoblu .
+Cagliari have had several different logo designs during their history, all of which feature the flag of Sardinia . Usually the badge also features the club colours; if there is a change, the main difference has been the colour of the border or the shape. Since June 2015, the badge features an "Old French"-shaped escutcheon with red and blue halves, with the club's name written in white just above the flag of Sardinia. The Moors' heads have, for the first time, been turned to the right as of 2015 so as to match the Sardinian flag after it was updated in 1992.
+
+=== chunk 12 · Colours, badge and nicknames ===
+Because Cagliari are the main club from the island of Sardinia, they are nicknamed the " Isolani " ("Islanders").
+
+=== chunk 13 · Kit sponsors ===
+Period: 1920–75 · Kit manufacturer: In-house
+Period: 1975–76 · Kit manufacturer: Umbro
+Period: 1976–78 · Kit manufacturer: In-house
+Period: 1978–81 · Kit manufacturer: Fabra
+Period: 1981–83 · Kit manufacturer: Fabra · Shirt sponsor (main): Ariostea
+Period: 1983–84 · Kit manufacturer: Ennerre · Shirt sponsor (main): Overseas Travel Center
+Period: 1984–86 · Kit manufacturer: Ennerre · Shirt sponsor (main): Formaggi Ovini Sardi
+Period: 1986–89 · Kit manufacturer: Latas · Shirt sponsor (main): Formaggi Ovini Sardi
+Period: 1989–90 · Kit manufacturer: Ennerre · Shirt sponsor (main): Formaggi Ovini Sardi
+Period: 1990–92 · Kit manufacturer: Umbro · Shirt sponsor (main): Formaggi Ovini Sardi
+Period: 1992–93 · Kit manufacturer: Umbro · Shirt sponsor (main): Pecorino Sardo
+Period: 1993–96 · Kit manufacturer: Erreà · Shirt sponsor (main): Pecorino Sardo
+Period: 1996–98 · Kit manufacturer: Reebok · Shirt sponsor (main): Pecorino Sardo
+Period: 1998–2000 · Kit manufacturer: Biemme · Shirt sponsor (main): Pecorino Sardo
+Period: 2000–01 · Kit manufacturer: Uhlsport · Shirt sponsor (main): Pecorino Sardo
+Period: 2001–02 · Kit manufacturer: Uhlsport · Shirt sponsor (main): Terra Sarda
+
+=== chunk 14 · Kit sponsors ===
+Period: 2002–05 · Kit manufacturer: A-Line · Shirt sponsor (main): Terra Sarda
+Period: 2005–06 · Kit manufacturer: Asics · Shirt sponsor (main): Terra Sarda · Shirt sponsor (secondary): Sky
+Period: 2006–07 · Kit manufacturer: Asics · Shirt sponsor (main): Tiscali · Shirt sponsor (secondary): Sky
+Period: 2007–08 · Kit manufacturer: Umbro · Shirt sponsor (main): Tiscali · Shirt sponsor (secondary): Sky
+Period: 2008–09 · Kit manufacturer: Macron · Shirt sponsor (main): Tiscali · Shirt sponsor (secondary): Sky
+Period: 2009–11 · Kit manufacturer: Macron · Shirt sponsor (main): Dahlia TV · Shirt sponsor (secondary): Sardegna
+Period: 2011–12 · Kit manufacturer: Kappa · Shirt sponsor (main): Sardegna
+Period: 2012–14 · Kit manufacturer: Kappa · Shirt sponsor (main): Sardegna · Shirt sponsor (secondary): Tirrenia
+Period: 2014–15 · Kit manufacturer: Kappa · Shirt sponsor (main): Sardegna (Matchday 1–14) / Various · Shirt sponsor (secondary): Tiscali · Shirt sponsor (back): Intesa Sanpaolo
+
+=== chunk 15 · Kit sponsors ===
+Period: 2015–16 · Kit manufacturer: Kappa · Shirt sponsor (main): Various / ISOLA (Matchday 22–42) · Shirt sponsor (secondary): EPH · Shirt sponsor (back): Various / Eva Arredamenti (Matchday 22–42) · Shirt sponsor (shorts): Energit
+Period: 2016–17 · Kit manufacturer: Macron · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Ichnusa · Shirt sponsor (back): Eva Arredamenti
+Period: 2017–18 · Kit manufacturer: Macron · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Ichnusa · Shirt sponsor (back): Nieddittas / Azimut (in cup matches)
+Period: 2018–19 · Kit manufacturer: Macron · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Ichnusa · Shirt sponsor (back): Nieddittas / Various · Shirt sponsor (sleeve): Io tifo positivo (Matchday 1–14) / Fluorsid (15–38)
+Period: 2019–20 · Kit manufacturer: Macron · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Ichnusa · Shirt sponsor (back): Nieddittas · Shirt sponsor (sleeve): Latte Arborea
+Period: 2020–21 · Kit manufacturer: Adidas · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Ichnusa · Shirt sponsor (back): Tiscali · Shirt sponsor (sleeve): Latte Arborea
+
+=== chunk 16 · Kit sponsors ===
+Period: 2021–22 · Kit manufacturer: Adidas · Shirt sponsor (main): ISOLA · Shirt sponsor (secondary): Tiscali · Shirt sponsor (back): Ichnusa · Shirt sponsor (sleeve): Latte Arborea
+Period: 2022–23 · Kit manufacturer: EYE Sport · Shirt sponsor (main): Sardegna · Shirt sponsor (secondary): Fondazione Mont'e Prama · Shirt sponsor (back): Ichnusa · Shirt sponsor (sleeve): Latte Arborea · Shirt sponsor (shorts): BlueShark
+Period: 2023–24 · Kit manufacturer: EYE Sport · Shirt sponsor (main): Sardegna · Shirt sponsor (secondary): Moby Lines · Shirt sponsor (back): Ichnusa · Shirt sponsor (sleeve): Latte Arborea
+Period: 2024–25 · Kit manufacturer: EYE Sport · Shirt sponsor (main): Sardegna / AeroItalia (in cup matches) · Shirt sponsor (secondary): Moby Lines · Shirt sponsor (back): Doppio Malto · Shirt sponsor (sleeve): Latte Arborea
+Period: 2025– · Kit manufacturer: EYE Sport · Shirt sponsor (main): Sardegna / inX.aero (in cup matches) · Shirt sponsor (secondary): Doppio Malto · Shirt sponsor (back): Banco di Sardegna · Shirt sponsor (sleeve): Bet365 Scores
+
+=== chunk 17 · Honours ===
+0: National titles Serie A (Tier 1):  Winners (1): 1969–70  Runners-up (1): 1968–69 Serie B (Tier 2):  Winners (1): 2015–16  Runners-up (4): 1953–54, 1963–64, 1978–79, 2003–04 Serie B (Tier 2) play-offs:  Winners (1): 2022–23 Serie C / Serie C1 (Tier 3):  Winners (4): 1930–31 Group South, 1951–52, 1961–62, 1988–89  Runners-up (1): 1960–61 Group B Coppa Italia:  Runners-up (1): 1968–69 Coppa Italia Serie C:  Winners (1): 1988–89 Sardinian titles Terza Divisione / Prima Divisione (Tier 1):  Winners (6): 1922–23, 1923–24, 1924–25, 1927–28, 1936–37, 1945–46 Friendlies trophies Torneo Campana Mutilati:  Winners (1): 1926–27 Trofeo Sardegna:  Winners (6): 2016, 2017, 2018, 2019, 2021, 2022 Trofeo Goleador:  Winners (1): 2016 · 1: Individual Player & Coach awards Top Scorer  Roberto Boninsegna United Soccer Association: 1967  Gigi Riva Serie A:1966–67 (18 gol)  Gigi Riva Serie A:1968–69 (21 gol)  Gigi Riva Serie A:1969–70 (21 gol)  Patrick M'Boma Coppa Italia: 1999–2000 (6 gol) Panchina d'Oro  Massimiliano Allegri: 2008–09 UEFA European Championship  Gigi Riva: 1968  Enrico Albertosi 1968 African Footballer of the Year  Patrick M'Boma: 2000 Estonian Footballer of the Year  Ragnar Klavan: 2018, 2019 Moldovan Footballer of the Year  Artur Ioniță: 2019 Serie A Foreign Footballer of the Year  David Suazo: 2006 BBC African Footballer of the Year  Patrick M'Boma: 2000 African Nations Cup  Patrick M'Boma: 2000, 2002 CONCACAF Men's Olympic Qualifying Tournament  David Suazo 2000 Copa América  José Herrera: 1995 Copa América Centenario  Mauricio Isla: 2016, Summer Olympics  Patrick M'Boma: 2000
+
+=== chunk 18 · Divisional movements ===
+Series: A · Years: 43 · Last: 2023–24 · Promotions: - · Relegations: 6 (1976, 1983, 1997, 2000, 2015, 2022)
+Series: B · Years: 30 · Last: 2022–23 · Promotions: 7 (1964, 1979, 1990, 1998, 2004, 2016, 2023) · Relegations: 4 (1935✟, 1948, 1960, 1987)
+Series: C · Years: 13 · Last: 1988–89 · Promotions: 4 (1931, 1952, 1962, 1989) · Relegations: 1 (1940)
+Series: 86 out of 92 years of professional football in Italy since 1929 · Years: 86 out of 92 years of professional football in Italy since 1929 · Last: 86 out of 92 years of professional football in Italy since 1929 · Promotions: 86 out of 92 years of professional football in Italy since 1929 · Relegations: 86 out of 92 years of professional football in Italy since 1929
+Series: Sardinia · Years: 6 · Last: 1946–47 · Promotions: 2 (1937, 1947√) · Relegations: never
+
+=== chunk 19 · Cagliari Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 31 FW  SEN Paul Mendy 34 GK  ITA Vincenzo Sarno 35 DF  POL Antoni Franke 36 MF  ITA Nicola Grandu · 1: No. Pos. Nation Player 38 MF  BUL Ivan Sulev 39 DF  ITA Andrea Cogoni 40 MF  ITA Roberto Malfitano 41 MF  ITA Alessandro Sabino Russo
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 31 · 1: FW · 2: SEN · 3: Paul Mendy
+0: 34 · 1: GK · 2: ITA · 3: Vincenzo Sarno
+0: 35 · 1: DF · 2: POL · 3: Antoni Franke
+0: 36 · 1: MF · 2: ITA · 3: Nicola Grandu
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 38 · 1: MF · 2: BUL · 3: Ivan Sulev
+0: 39 · 1: DF · 2: ITA · 3: Andrea Cogoni
+0: 40 · 1: MF · 2: ITA · 3: Roberto Malfitano
+0: 41 · 1: MF · 2: ITA · 3: Alessandro Sabino Russo
+
+=== chunk 20 · Retired numbers ===
+11 – Gigi Riva , Forward (1963–78) 13 – Davide Astori , Defender (2008–14) – posthumous honour
+
+=== chunk 21 · Presidential history ===
+Cagliari have had numerous presidents over the course of their history, some of which have been the owners of the club, others have been honorary presidents, here is a complete list of them:
+Antonio Zedda (1921)
+Gaetano Fichera (1920–21)
+Giorgio Mereu (1921–22)
+Angelo Prunas (1922–24)
+Agostino Cugusi (1924–26)
+Vittorio Tredici (1926–28)
+Carlo Costa Marras (1928–29)
+Enzo Comi (1929–30)
+Giovan Battista Bosazza (1930–31)
+Guido Boero (1931–32)
+Vitale Cao (1932–33)
+Enrico Endrich (1933)
+Pietro Faggioli (1933–34)
+Aldo Vacca (1934–35)
+Mario Banditelli (1935–40)
+Giuseppe Depperu (1940–43)
+Eugenio Camboni (1944–46)
+Umberto Ceccarelli (1946–47)
+Emilio Zunino (1947–49)
+Domenico Loi (1949–53)
+Pietro Leo (1953–54)
+Efisio Corrias (1954–55)
+Ennio Dalmasso (1955–57)
+Giuseppe Meloni (1958–60)
+Enrico Rocca (1960–68)
+Efisio Corrias (1968–71)
+Paolo Marras (1971–73)
+Andrea Arrica (1973–76)
+Mariano Delogu (1976–81)
+Alvaro Amarugi (1981–84)
+Fausto Moi (1984–86)
+Gigi Riva (1986–87)
+Lucio Cordeddu (1987)
+Antonio Orrù (1987–91)
+Massimo Cellino (1991–05)
+Bruno Ghirardi (2005–06)
+Massimo Cellino (2006–14)
+Tommaso Giulini (2014–present)
+
+=== chunk 22 · Managerial history ===
+Cagliari have had many managers and trainers, some seasons they have had co-managers running the team, here is a chronological list of them from when they founded in 1920 onwards.
+Gaetano Fichera (1920–21)
+Giorgio Mereu (1921–23)
+Angelo Colombo (1923–26)
+Natale Archibusacci (1926–27)
+Róbert Winkler (1927–30)
+Egri Erbstein (1930–32)
+András Kuttik (1932–34)
+Enrico Crotti (1934–35)
+Ferenc Molnár (1935)
+Roberto Orani (1935–36)
+Renato Bonello (1936–38)
+Róbert Winkler (1938–39)
+Mariolino Congiu (1939–41)
+Mariolino Congiu, Enrico Corrias (1941–42)
+Mariolino Congiu (1942–46)
+Raffaele D'Aquino (1946–48)
+Róbert Winkler (1948–49)
+Armando Latella (1949–50)
+Mariolino Congiu (1950)
+Enrico Carpitelli (1950–51)
+Mariolino Congiu (1951)
+Federico Allasio (1951–54)
+Ottavio Morgia (1954)
+Vincenzo Soro (1954)
+Carlo Alberto Quario (1954–55)
+Silvio Piola (1955–56)
+Carlo Rigotti (1956–57)
+Silvio Piola (1957)
+Mariolino Congiu (1957–58)
+Piero Andreoli (1958)
+Stefano Perati (1958–60)
+Carlo Rigotti (1960–61)
+Arturo Silvestri (1961–66)
+Ettore Puricelli (1967–68)
+Manlio Scopigno (1968–72)
+Edmondo Fabbri (1972–73)
+Giuseppe Chiappella (1973–75)
+Luigi Radice (1975)
+Luis Suárez (1975–76)
+Mario Tiddia (1976)
+
+=== chunk 23 · Managerial history ===
+Lauro Toneatto (1976–78)
+Mario Tiddia (1978–81)
+Paolo Carosi (1981–82)
+Gustavo Giagnoni (1982–83)
+Mario Tiddia (1983–84)
+Fernando Veneranda (1984–85)
+Renzo Ulivieri (1985–86)
+Gustavo Giagnoni (1986–87)
+Enzo Robotti (1987–88)
+Mario Tiddia (1988)
+Claudio Ranieri (1 July 1988 – 30 June 1991)
+Massimo Giacomini (1991)
+Carlo Mazzone (1991–93)
+Luigi Radice (1993–94)
+Bruno Giorgi (1994)
+Óscar Tabárez (1 July 1994 – 30 June 1995)
+Giovanni Trapattoni (1 July 1995 – 13 February 1996)
+Bruno Giorgi (1996)
+Gregorio Pérez (1 July 1996 – 1 January 1997)
+Carlo Mazzone (23 October 1996 – 30 June 1997)
+Giampiero Ventura (1 July 1997 – 30 June 1999)
+Óscar Tabárez (1 July 1999 – 15 September 1999)
+Renzo Ulivieri (1999–00)
+Gianfranco Bellotto (2000–01)
+Giuseppe Materazzi (2001)
+Antonio Sala (2001–02)
+Giulio Nuciari (28 October 2001 – 23 December 2001)
+Nedo Sonetti (2002)
+Giampiero Ventura (1 July 2002 – 1 December 2003)
+Edoardo Reja (1 July 2003 – 30 June 2004)
+Daniele Arrigoni (2004 – 30 June 2005)
+Attilio Tesser (1 July 2005 – 29 August 2005)
+Daniele Arrigoni (29 August 2005 – 16 September 2005)
+Davide Ballardini (15 September 2005 – 8 November 2005)
+Nedo Sonetti (12 November 2005 – 30 June 2006)
+
+=== chunk 24 · Managerial history ===
+Franco Colomba (17 December 2006 – 26 February 2007)
+Marco Giampaolo (26 February 2007 – 13 November 2007)
+Nedo Sonetti (2007)
+Davide Ballardini (28 December 2007 – 30 June 2008)
+Massimiliano Allegri (29 May 2008 – 13 April 2010)
+Giorgio Melis (13 April 2010 – 30 June 2010)
+Pierpaolo Bisoli (23 June 2010 – 15 November 2010)
+Roberto Donadoni (16 November 2010 – 12 August 2011)
+Massimo Ficcadenti (16 August 2011 – 8 November 2011)
+Davide Ballardini (9 November 2011 – 11 March 2012)
+Massimo Ficcadenti (11 March 2012 – 3 October 2012)
+Ivo Pulga (3 October 2012 – 30 June 2013)
+Diego López (1 July 2013 – 6 April 2014)
+Ivo Pulga (6 April 2014 – 20 June 2014)
+Zdeněk Zeman (20 June 2014 – 23 December 2014)
+Gianfranco Zola (24 December 2014 – 9 March 2015)
+Zdeněk Zeman (9 March 2015 – 21 April 2015)
+Gianluca Festa (22 April 2015 – 12 June 2015)
+Massimo Rastelli (12 June 2015 – 17 October 2017)
+Diego López (18 October 2017 – 30 May 2018)
+Rolando Maran (7 June 2018 – 3 March 2020)
+Walter Zenga (3 March 2020 – 2 August 2020)
+Eusebio Di Francesco (3 August 2020 – 22 February 2021)
+Leonardo Semplici (22 February 2021 – 14 September 2021)
+Walter Mazzarri (16 September 2021 – 2 May 2022)
+
+=== chunk 25 · Managerial history ===
+Alessandro Agostini (2 May 2022 – 8 June 2022)
+Fabio Liverani (8 June 2022 – 20 December 2022)
+Roberto Muzzi (20 December 2022 – 31 December 2022)
+Claudio Ranieri (1 January 2023 – 19 May 2024)
+
+=== chunk 26 · UEFA Champions League ===
+Season: 1970–71 · Round: First Round · Club: Saint-Étienne · Home: 3–0 · Away: 0–1 · Aggregate: 3–1
+Season: 1970–71 · Round: Second Round · Club: Atlético Madrid · Home: 2–1 · Away: 0–3 · Aggregate: 2–4
+
+=== chunk 27 · UEFA Cup ===
+Season: 1972–73 · Round: First Round · Club: Olympiacos · Home: 0–1 · Away: 1–2 · Aggregate: 1–3
+Season: 1993–94 · Round: First Round · Club: Dinamo București · Home: 2–0 · Away: 2–3 · Aggregate: 4–3
+Season: 1993–94 · Round: Second Round · Club: Trabzonspor · Home: 0–0 · Away: 1–1 · Aggregate: 1–1 (a)
+Season: 1993–94 · Round: Third Round · Club: Mechelen · Home: 2–0 · Away: 3–1 · Aggregate: 5–1
+Season: 1993–94 · Round: Quarter-Final · Club: Juventus · Home: 1–0 · Away: 2–1 · Aggregate: 3–1
+Season: 1993–94 · Round: Semi-Final · Club: Internazionale · Home: 3–2 · Away: 0–3 · Aggregate: 3–5
+
+=== chunk 28 · Inter-Cities Fairs Cup ===
+Season: 1969–70 · Round: First Round · Club: Aris Thessaloniki · Home: 3–0 · Away: 1–1 · Aggregate: 4–1
+Season: 1969–70 · Round: Second Round · Club: Carl Zeiss Jena · Home: 0–1 · Away: 0–2 · Aggregate: 0–3
+
+=== chunk 29 · Supporters ===
+In the 1970s, the ultras movement developed, as in Italy. The first group was founded in 1977 with the name of Brigate Rossoblù, which was joined by Fossa Ultrà, with the latter progressing in the early 1980s to follow the team also on the "Continent" and to meet with other opposing fans. However, the phenomenon also waned due to the team's downward trajectory in that decade after the glories of the Scudetto. However, the Commando Ultrà Young Supporters was born and later merged with the Ultrà Cagliari. In February 1987 some of the members of these groups gave rise to the Sconvolts who were joined by an already existing group, the Eagles. Two years later, in 1989, Furiosi were also born. These two groups monopolized the hottest support throughout the 1990s and early 2000s, never bonding as happened with the previous groups and indeed leading to an internal struggle which led to the dissolution of the Furiosi in 2004 and led the Sconvolts group to still be the only ultras fringe remaining in the Curva Nord of the various stadiums that have taken place in recent years.
+
+=== chunk 30 · Friendships and Rivalries ===
+The Sconvolts the historical group of the Cagliari maintain relationships of friendship and respect with Olbia , Atalanta , Parma , Lecce .
+Friendships from the past that no longer exist: Foggia , Sampdoria , Inter Milan .
+The main rivalries are with the Torres with which it is the Sardinia Derby and Napoli .
+Other rivalries: Palermo , Bari , Hellas Verona , Milan , Juventus , Inter Milan , Catania , Genoa , Brescia , Venezia , Lazio , Fiorentina , Salernitana , Ancona , Pogoń Szczecin .

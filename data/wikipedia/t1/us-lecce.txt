@@ -1,0 +1,402 @@
+page: US Lecce
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=US_Lecce&oldid=1352345291
+extracted: 2026-09-23
+chunks: 35
+
+=== chunk 1 · Introduction ===
+Full name: Unione Sportiva Lecce S.p.A.
+Nicknames: I Giallorossi (The Yellow and Reds) I Salentini (The Salentians ) I Lupi (The Wolves)
+Founded: 17 March 1908 (forerunner) 16 September 1927 1934 (re-founded)
+Ground: Stadio Via del mare
+Capacity: 31,533
+Owner(s): Saverio Sticchi Damiani (majority) Alvin Sariaatmadja (minority)
+President: Saverio Sticchi Damiani
+Head coach: Eusebio Di Francesco
+League: Serie A
+Website: uslecce .it
+Unione Sportiva Lecce ( Italian pronunciation: [ ˈlettʃe ] ) is a professional Italian football club based in Lecce , Apulia . The club play in Serie A for the 2025–26 season , the top level of the Italian football pyramid . Lecce plays its home games at Stadio Via del Mare , which has a capacity of 31,533 spectators.
+
+=== chunk 2 · Introduction ===
+The club was formed in 1927 upon an idea of 1908 and has spent a large part of their recent history bouncing between Italy's second division and Serie A, where the team debuted in the 1985–86 season. Its best Serie A finish is the ninth place obtained in the 1988–89 season . The club is 25th in the Serie A all-time table and is the second club from Apulia with appearances in the first two tiers of Italian football, with 19 Serie A seasons and 29 Serie B seasons.
+Lecce won Serie B titles in 2022 and 2010 , a Coppa Italia Serie C in 1975 and an Anglo-Italian Cup Semiprofessionals in 1976.
+Lecce players and fans are nicknamed salentini or simply giallorossi or lupi .
+
+=== chunk 3 · History ===
+Lecce was founded as Sporting Club Lecce on 15 March 1908, initially including football , track-and-field and cycling sports. The first club president was Francesco Marangi. The first colours worn by Lecce during this time were black and white stripes, known in Italy as bianconeri .
+In its formative years, Lecce played in mostly regional leagues and competitions. During the 1923–24 season, the club dissolved before returning on 16 September 1927 as Unione Sportiva Lecce . The club was still wearing black and white stripes (similar to Juventus ' kit) at this point, and the first president under the name Unione Sportiva Lecce was Luigi López y Rojo.
+
+=== chunk 4 · League: Early years 1930s, 40s and 50s ===
+Taranto Sport played Lecce in a game for promotion to Serie B from the local Southern Italian league; Lecce were victorious winning 3–2 after extra time . They were entered into Serie B for the 1929–30 season. The first game match played in the league was against Novara on 6 October 1929, a 2–1 victory. Lecce would eventually finish 13th. However, for the second time in the club's history, it ceased activity at the end of the 1931–32 season.
+Four years later, Lecce returned and competed Serie C , finishing 11th in their return season. Around this time, the club was in turmoil: the following season they withdrew from Serie C after four days, and then during the 1938–39 season, they finished in third place but were moved down to 12th after it was revealed the club had violated the league's federal regulations.
+
+=== chunk 5 · League: Early years 1930s, 40s and 50s ===
+The club finished in first place during the 1943–44 season, but club football was then suspended due to World War II . Nonetheless, when club football resumed, Lecce finished as champions of Serie C, gaining promotion back into Serie B. Two decent seasons followed (finishing fourth and third in respective seasons), with star player Silvestri scoring 20 goals in one season, before the club was relegated.
+Lecce stayed down in Serie C for six seasons during this period, though this was not a particularly successful time for the club. Striker Anselmo Bislenghi scored 83 goals for the club during this period, thus becoming a hero. The club slipped even lower to Serie IV , where they spent three years.
+
+=== chunk 6 · Seventeen seasons of Serie C: 1960s, 70s and 80s ===
+From 1959 to 1975, Lecce played 17 seasons in Serie C. They came extremely close to promotion several times during that period, finishing in second place three consecutive seasons (1971–72 to 1973–74) before gaining promotion in the 1975–76 season.
+The same year as their promotion, Lecce tasted cup success, winning the Coppa Italia Serie C . In 1976, Lecce took part in the Anglo-Italian Cup , notching up a 4–0 victory against Scarborough .
+In 1980, a scandal occurred which rocked Italian football , including Lecce under president Franco Jurlano. However, Jurlano was able to demonstrate his innocence and the scandal only lead to disqualification of player Claudius Merlo. Later, the club was struck by a tragedy in 1983: players Michele Lo Russo and Ciro Pezzella died in an automotive accident. To this day, Lo Russo remains the club record holder for most number of appearances, with 415.
+
+=== chunk 7 · Promotion to Serie A: mid-1980s and 90s ===
+Under the management of Eugenio Fascetti , Lecce would achieve promotion to Serie A for the first time in 1985. They finished bottom and were relegated after only one season, but defeated Roma 3–2 away in the penultimate game to deal a fatal blow to Roma's title hopes. Losing a promotion play-off 2–1 to Cesena the following season, they would return to Serie A in 1988.
+Under Carlo Mazzone , Lecce finished a respectable ninth place in 1989. Stars of the side included striker Pedro Pasculli and midfielders Antonio Conte and Paolo Benedetti . They lasted three seasons before relegation, and returned two years later. The 1993–94 season saw Lecce finish in last place with a pitiful 11 points, the lowest ever of any Serie A team, and a second relegation came the following year.
+Giampiero Ventura saw Lecce achieve two successive promotions from Serie C to Serie A before leaving for Cagliari . Once more, it proved a struggle in Serie A despite the best efforts of striker Francesco Palmieri and a famous away win against Milan on 19 October 1997.
+
+=== chunk 8 · Promotion to Serie A: mid-1980s and 90s ===
+In the summer of 1998, Pantaleo Corvino was appointed new sports director, gaining a reputation for scouting new talents in the years to come. The team was good enough to return to Serie A in 1999 and begin another three-year stint in the top-flight, with yet another return to Serie A in 2003.
+
+=== chunk 9 · Three years in Serie A (2003–2006) ===
+In 2004, under Delio Rossi , who had been managing the club since 2002, Lecce achieved an impressive result, reaching a high-point of tenth despite a poor first half of the season. Famous performances include two consecutive sensational victories, first against Italian giants Juventus 3–4 in Turin (the first ever win at the Stadio Delle Alpi for Lecce) and then in the Stadio Via del Mare against Internazionale , 2–1.
+In 2004–05 , coach Zdeněk Zeman oversaw a highly attack-minded team that scored plenty of goals. Lecce ended the year again finishing tenth, putting in the spotlight talents like Valeri Bojinov and Mirko Vučinić . The team had the second-best attack with 66 goals (Juventus came first with 67) and the worst defence, with 73 goals conceded. This is a record, as for the first time the team with the worst defence managed to survive in the history of Serie A.
+
+=== chunk 10 · Three years in Serie A (2003–2006) ===
+The 2005–06 season was a continual struggle for Lecce. The club changed its manager two times ( Silvio Baldini for Angelo Adamo Gregucci and in January 2006 youth team coach Roberto Rizzo , supported by goalkeeper coach Franco Paleari , for Baldini). The numerous managerial moves could not turn Lecce's fortune as they were relegated with a few games to spare and ended the season in 19th place. In June 2006, Giovanni Semeraro returned at the helm of the club after nine months. The club re-appointed Zdeněk Zeman as manager, just one year after he left the club.
+Lecce was unable to avoid relegation from Serie A, despite some initial hope due to the Serie A match-fixing scandal .
+
+=== chunk 11 · Two-year stint in Serie B and promotion ===
+The club had a mixed start to the 2006–07 season in Serie B, winning three home matches (including a win against early league leaders Genoa ), though they suffered poor away form. After a large drop in form, recording 10 losses in 18 matches, Zeman was sacked as manager and replaced by Giuseppe Papadopulo . On 10 March 2007, Lecce clinched a historical victory over Frosinone , beaten 5–0 at Stadio Via del Mare. Having gained 36 points in the second half of the season, Lecce ended the season in the middle of the table, in ninth place. In 2007, Lecce gained more points than any other team in Serie B.
+The 2007–08 season saw Lecce fight for a place in Serie A for the next season. Despite earning 83 points (12 more than sixth-placed Pisa ) and boasting the best defence in the tournament, the giallorossi were forced to face play-offs for promotion in the top flight. In the semi-final, they beat Pisa in both legs (1–0 away and 2–1 at home) to secure a place in the final against AlbinoLeffe . Then they won the first leg 1–0 away, before securing a 1–1 draw in the second leg at the Studio Via del Mare to gain promotion.
+
+=== chunk 12 · Between Serie A and Serie B ===
+After persistent rumours, Papadopulo quit due to a difference of opinion with the general manager of the club and was replaced by Mario Beretta , who had a quite satisfactory start in the 2008–09 Serie A season. He remained in charge for twenty-seven games, but, due to four defeats in the last five matches, with the team one point below the survival zone, he was sacked and Luigi De Canio was appointed new manager. Seven points earned in ten matches were not enough to secure Lecce a spot in the next Serie A season. Relegation was official with one match to spare, after a 1–1 home draw against Fiorentina .
+Lecce had a mixed start in the 2009–10 Serie B campaign, but clinched first place in November 2009 and kept it for the rest of the season. In May, the team was on the verge of promotion, but wasted opportunities in their last two matches meant they had to wait until the last match to celebrate their eighth elevation to the top flight in the last 25 years. A goalless home draw with Sassuolo proved enough to clinch the Serie B title with 75 points and win the Coppa Ali della Vittoria .
+
+=== chunk 13 · Between Serie A and Serie B ===
+Lecce ended a satisfactory 2010–11 Serie A season successfully avoiding relegation with one match to spare after beating arch-rival and already relegated Bari 2–0 away on 15 May 2011. In the last few matches, the team managed to win a tough battle against other underdogs and some glorious teams such as Sampdoria that ended the season in despair. Manager Luigi De Canio left the team in June.
+In the 2011–12 Serie A season, Lecce was relegated to Serie B. The start of the season was bad and new manager Eusebio Di Francesco was sacked in December, after 9 losses in 13 matches. Serse Cosmi was appointed new manager. Lecce refused to crumble as Cosmi's arrival instilled battling qualities into the relegation strugglers, who managed to gain a considerable number of points in the following months, but eventually failed to avoid relegation, due to four losses in the last five matches. Lecce managed to struggle until the final game.
+
+=== chunk 14 · Third division years ===
+On 10 August 2012, Lecce was provisionally relegated by the Disciplinary Commission set up for the Scommessopoli scandal investigations 2012–13 Lega Pro Prima Divisione because of their involvement. Furthermore, the former president of Lecce, Semeraro, was suspended from all football activities for five years. On 22 August 2012, Lecce's relegation was confirmed by the Federal Court of Justice. In the first season back into the third tier, Lecce ended in second place behind outsiders Trapani and was surprisingly defeated in the promotion playoffs finals by another outsider club, Carpi . The following season ended in similar fashion, with Lecce failing to win the league once again and then losing the playoffs finals, this time to Frosinone , despite a number of high-level signings such as former Palermo star, and well-known Lecce supporter, Fabrizio Miccoli . In 2014–15 Lecce ended the season in sixth place and did not enter the playoffs.
+
+=== chunk 15 · Third division years ===
+Following the departure of the Tesoro family, the club was taken over by a consortium of entrepreneurs led by Saverio Sticchi Damiani. The club ended the 2015–16 season in third place, two points behind the second-placed team, and qualified for the playoffs round. After defeating Bassano 3–0 at home, in the semi-finals Lecce lost to Foggia in both the home and the away match. In the following season, Lecce finished in second place. The elimination came in the play-off quarterfinals against Alessandria on penalties after two draws in two matches.
+
+=== chunk 16 · Back to the top ===
+In September 2017, Fabio Liverani was named new coach of Lecce, with whom he achieved two direct promotions from Serie C to Serie A, thus bringing the Salento club back to the Italian top-tier league after seven years. Lecce then fought against Genoa for survival and made it to the last day of the 2019–20 season before being relegated with a home loss to Parma. The salentini missed out promotion to Serie A in the 2020–21 season , losing to Venezia in the play-off semifinals after a 4th-place finish, but then, with coach Marco Baroni , won the 2021–22 Serie B championship, thus celebrating their tenth elevation to the top flight and being awarded the Coppa Nexus. Lecce striker Massimo Coda was top scorer of the Serie B for two sonsecutive seasons (2020–21 and 2021–22). The giallorossi side then gained survival in the next Serie A campaign with a game to spare, with Baroni and Lecce parting ways at the end of the 2022–23 season.
+
+=== chunk 17 · Colours, badge, nicknames, and symbols ===
+The team plays in red and yellow stripes, the heraldic colours of city. Lecce players and fans are referred to as salentini or giallorossi . The official anthem of Lecce is Giallorossi per Sempre composed by Gioy Rielli. The symbol of Lecce is a female wolf under a holm oak tree which is typical to Apulia and is also the symbol of the city of Lecce .
+
+=== chunk 18 · Stadium ===
+Lecce's home games are played in the 31,533-seater Stadio Via del mare .
+
+=== chunk 19 · Club rivalries ===
+The main rivalry is with the other most successful football team from Apulia, Bari . The match against them is called Derby di Puglia . The first Derby di Puglia was played on 8 December 1929 in Serie B in Lecce , with the home team winning 1–0. After that occasion, the derby di Puglia was played many times in Serie C and Coppa Italia , and especially in Serie A . The first derby played in Serie A was played on 27 October 1985 in Bari, and was won by the home team. The last one was also played in Bari on 15 May 2011 and saw Lecce prevailing by 2-0 and securing their stay in Serie A (however that match was later object of an investigation for match-fixing). Among the most important wins in the derby for Lecce there is a Serie B match ended 4–0 in Bari on 22 December 2007.
+On the other end, Lecce fans have a friendship with the fans of Palermo .
+
+=== chunk 20 · Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 21 FW  ESP Paco Esteban 28 MF  NED Olaf Gorter 33 GK  BUL Plamen Penev · 1: No. Pos. Nation Player 80 MF  BIH Niko Kovač 95 GK  ITA Daniele Bleve
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 21 · 1: FW · 2: ESP · 3: Paco Esteban
+0: 28 · 1: MF · 2: NED · 3: Olaf Gorter
+0: 33 · 1: GK · 2: BUL · 3: Plamen Penev
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 80 · 1: MF · 2: BIH · 3: Niko Kovač
+0: 95 · 1: GK · 2: ITA · 3: Daniele Bleve
+
+=== chunk 21 · Coaching history ===
+Lecce have had many head coaches throughout the history of the club, and in some seasons more than one coach was in charge. Here is a chronological list of them from 1927 onwards.
+Luigi Ferrero : 1927–1928
+Ferenc Plemich: 1928–1930
+Pietro Piselli: 1930–1931
+Ferenc Molnár : 1931
+Calò: 1934–1935
+Ferenc Plemich: 1936–1937
+Harpad Hajos: 1937–1938
+Giobatta Rebuffo: 1938–1939
+Alferio Cubi: 1939–1941
+Ferenc Plemich: 1941–1942
+Giovanni Degni : 1942–1944
+Luigi Indrizzi: 1944–1945
+Ferenc Hirzer : 1945
+Ferenc Plemich: 1945–1946
+Giovanni Brezzi: 1946–1947
+Raffaele Anguilla: 1947
+Ercole Dossena: 1947–1948
+Raffaele Costantino : 1948
+Mario Magnozzi : 1948
+Ferenc Plemich: 1948–1949
+Raffaele Costantino : 1949
+Cesare Migliorini: 1949–1950
+Italo Paterno: 1950
+Giovanni Brezzi: 1950–1951
+Virgilio Levratto : 1951–1952
+Pietro Magni: 1952–1953
+Giovanni Degni : 1953
+Gino Vianello: 1953–1954
+Raffaele Costantino : 1954–1955
+Euro Riparbelli: 1955
+Carmelo Russo: 1955–1956
+Cesare Gallea: 1956
+Ambrogio Alfonso: 1956–1958
+Ugo Starace: 1958
+Gino Vianello: 1958–1959
+Ambrogio Alfonso: 1959–1960
+Dino Bovoli : 1960–1962
+Ulisse Giunchi: 1962
+Piero Andreoli: 1962–1964
+Ambrogio Alfonso: 1964–1965
+Gino Vianello: 1965–1966
+
+=== chunk 22 · Coaching history ===
+Luigi Soffrido: 1966
+Ambrogio Alfonso: 1966–1967
+Gianni Seghedoni: 1967–1968
+Ottorino Dugini: 1968
+Eugenio Bersellini: 1968–1971
+Giuseppe Corradi : 1971–1973
+Maino Neri : 1973
+Giacomo Losi : 1973–1974
+Nicola Chiricallo: 1974–1976
+Antonio Renna: 1976–1977
+Lamberto Giorgis: 1977–1978
+Pietro Santin: 1978–1979
+Bruno Mazzia : 1979–1981
+Gianni Di Marzio: 1981–1982
+Mario Corso : 1982–1983
+Eugenio Fascetti : 1983–1986
+Pietro Santin: 1986
+Carlo Mazzone : 1986–1990
+Zbigniew Boniek : 1990–1991
+Alberto Bigon : 1991
+Aldo Sensibile : 1991–1992
+Alberto Bigon: 1992
+Bruno Bolchi : 1992–1993
+Nedo Sonetti : 1993–1994
+Rino Marchesi : 1994
+Piero Lenzi: 1994
+Luciano Spinosi : 1994–1995
+Edoardo Reja : 1995
+Giampiero Ventura : 1995–1997
+Cesare Prandelli : 1997
+Angelo Pereni : 1997–1998
+Nedo Sonetti : 1998–1999
+Alberto Cavasin : 1999–2002
+Delio Rossi : 2002–2004
+Zdeněk Zeman : 2004–2005
+Angelo Gregucci : 2005
+Silvio Baldini : 2005–2006
+Roberto Rizzo : 2006
+Zdeněk Zeman : 2006
+Giuseppe Papadopulo : 2006–2008
+Mario Beretta : 2008–2009
+Luigi De Canio : 2009–2011
+Eusebio Di Francesco : 2011
+Serse Cosmi : 2011–2012
+Franco Lerda : 2012–2013
+Antonio Toma: 2013
+Elio Gustinetti : 2013
+Francesco Moriero : 2013
+
+=== chunk 23 · Coaching history ===
+Franco Lerda : 2013–2014
+Dino Pagliari : 2014–2015
+Alberto Bollini : 2015
+Antonino Asta : 2015
+Piero Braglia : 2015–2016
+Pasquale Padalino : 2016–2017
+Roberto Rizzo : 2017
+Primo Maragliulo: 2017
+Fabio Liverani : 2017–2020
+Eugenio Corini : 2020–2021
+Marco Baroni : 2021–2023
+Roberto D'Aversa : 2023–2024
+Luca Gotti 2024
+Marco Giampaolo 2024–2025
+Eusebio Di Francesco 2025–
+
+=== chunk 24 · Coaching records ===
+0: All-time Top 10 coach appearances Coach Appearances Ambrogio Alfonso122 Carlo Mazzone119 Fabio Liverani115 Ferench Plemich107 Eugenio Fascetti102 Gino Vianello102 Luigi De Canio91 Delio Rossi86 Eugenio Bersellini85 Alberto Cavasin84 · 1: Most Serie A appearances Coach Appearances Alberto Cavasin84 Carlo Mazzone68 Luigi De Canio49 Delio Rossi48 Fabio Liverani38 Zdeněk Zeman38 Zbigniew Boniek34 Roberto D'Aversa30 Eugenio Fascetti30 Mario Beretta27
+0: Coach · 1: Appearances
+0: Ambrogio Alfonso · 1: 122
+0: Carlo Mazzone · 1: 119
+0: Fabio Liverani · 1: 115
+0: Ferench Plemich · 1: 107
+0: Eugenio Fascetti · 1: 102
+0: Gino Vianello · 1: 102
+0: Luigi De Canio · 1: 91
+0: Delio Rossi · 1: 86
+0: Eugenio Bersellini · 1: 85
+0: Alberto Cavasin · 1: 84
+0: Coach · 1: Appearances
+0: Alberto Cavasin · 1: 84
+0: Carlo Mazzone · 1: 68
+0: Luigi De Canio · 1: 49
+0: Delio Rossi · 1: 48
+0: Fabio Liverani · 1: 38
+0: Zdeněk Zeman · 1: 38
+0: Zbigniew Boniek · 1: 34
+0: Roberto D'Aversa · 1: 30
+0: Eugenio Fascetti · 1: 30
+0: Mario Beretta · 1: 27
+
+=== chunk 25 · Honours ===
+Serie B Champions (2): 2009–10 , 2021–22
+Serie C Champions (4): 1945–46 , 1975–76 , 1995–96, 2017–18
+Coppa Italia Serie C Champions (1): 1975–76
+Anglo-Italian Semiprofessional Cup Champions (1): 1976–77
+
+=== chunk 26 · Youth team ===
+Campionato Nazionale Primavera Champions (3): 2002–03, 2003–04, 2022–23
+Coppa Italia Primavera Champions (2): 2001–02, 2004–05
+Supercoppa Primavera Champions (2): 2004, 2005
+
+=== chunk 27 · Seasons ===
+Level: A · Category: Serie A · Participations: 19 · Debut: 1985–86 · Last season: 2024–25 · Total: 19 · Moves: 8 C
+Level: B · Category: Serie B · Participations: 29 · Debut: 1929–30 · Last season: 2021–22 · Total: 29 · Moves: 10 2 ✟ 1
+Level: C · Category: Southern Championship · Participations: 3 · Debut: 1927–28 · Last season: 1945–46 · Total: 41 · Moves: 5 1
+Level: C · Category: Serie C · Participations: 35 · Debut: 1936–37 · Last season: 2017–18 · Total: 41 · Moves: 5 1
+Level: C · Category: Serie C1 · Participations: 3 · Debut: 1995–1996 · Last season: 2013–14 · Total: 41 · Moves: 5 1
+Level: 85 out of 92 years of professional football in Italy since 1929 · Category: 85 out of 92 years of professional football in Italy since 1929 · Participations: 85 out of 92 years of professional football in Italy since 1929 · Debut: 85 out of 92 years of professional football in Italy since 1929 · Last season: 85 out of 92 years of professional football in Italy since 1929 · Total: 85 out of 92 years of professional football in Italy since 1929 · Moves: 85 out of 92 years of professional football in Italy since 1929
+
+=== chunk 28 · Seasons ===
+Level: D · Category: IV Serie · Participations: 3 · Debut: 1955–56 · Last season: 1957–58 · Total: 3 · Moves: 1
+Level: R · Category: Apulia · Participations: 2 · Debut: 1934–35 · Last season: 1935–36 · Total: 2 · Moves: 1
+
+=== chunk 29 · Player records ===
+In bold players still playing for Lecce
+0: All-time Top 10 Lecce Goalscorers Player Goals Anselmo Bislenghi87 Franco Cardinali67 Pietro De Santis57 Javier Chevantón53 Pedro Pablo Pasculli53 Aurelio De Marco50 Gaetano Montenegro49 Luigi Silvestri44 Guillermo Giacomazzi43 Ennio Fiaschi41 Marco Mancosu41 · 1: Most appearances Player Appearances Michele Lorusso418 Guillermo Giacomazzi312 Carmelo Miceli291 Ruggero Cannito249 Giuseppe Materazzi228 Salvatore Di Somma222 Pedro Pablo Pasculli214 Angelo Maccagni205 Luigi Piangerelli205 Angelo Cesana184
+0: Player · 1: Goals
+0: Anselmo Bislenghi · 1: 87
+0: Franco Cardinali · 1: 67
+0: Pietro De Santis · 1: 57
+0: Javier Chevantón · 1: 53
+0: Pedro Pablo Pasculli · 1: 53
+0: Aurelio De Marco · 1: 50
+0: Gaetano Montenegro · 1: 49
+0: Luigi Silvestri · 1: 44
+0: Guillermo Giacomazzi · 1: 43
+0: Ennio Fiaschi · 1: 41
+0: Marco Mancosu · 1: 41
+0: Player · 1: Appearances
+0: Michele Lorusso · 1: 418
+0: Guillermo Giacomazzi · 1: 312
+0: Carmelo Miceli · 1: 291
+0: Ruggero Cannito · 1: 249
+0: Giuseppe Materazzi · 1: 228
+0: Salvatore Di Somma · 1: 222
+0: Pedro Pablo Pasculli · 1: 214
+0: Angelo Maccagni · 1: 205
+0: Luigi Piangerelli · 1: 205
+
+=== chunk 30 · Player records ===
+0: Angelo Cesana · 1: 184
+0: Most Serie A goals Player Serie A goals Javier Chevantón32 Pedro Pablo Pasculli29 Mirko Vučinić29 Cristiano Lucarelli27 Guillermo Giacomazzi23 Axel Cédric Konan20 David Di Michele19 Davor Vugrinec19 Valeri Bojinov15 Marco Mancosu14 · 1: Most Serie A appearances Player Serie A App. Guillermo Giacomazzi196 Luigi Piangerelli127 Lorenzo Stovini125 Pedro Pablo Pasculli119 Alessandro Conticchio115 Axel Cédric Konan108 Antonio Chimenti98 Cristian Ledesma97 Max Tonetto95 Marco Cassetti95
+0: Player · 1: Serie A goals
+0: Javier Chevantón · 1: 32
+0: Pedro Pablo Pasculli · 1: 29
+0: Mirko Vučinić · 1: 29
+0: Cristiano Lucarelli · 1: 27
+0: Guillermo Giacomazzi · 1: 23
+0: Axel Cédric Konan · 1: 20
+0: David Di Michele · 1: 19
+0: Davor Vugrinec · 1: 19
+0: Valeri Bojinov · 1: 15
+0: Marco Mancosu · 1: 14
+0: Player · 1: Serie A App.
+0: Guillermo Giacomazzi · 1: 196
+0: Luigi Piangerelli · 1: 127
+0: Lorenzo Stovini · 1: 125
+0: Pedro Pablo Pasculli · 1: 119
+0: Alessandro Conticchio · 1: 115
+0: Axel Cédric Konan · 1: 108
+0: Antonio Chimenti · 1: 98
+0: Cristian Ledesma · 1: 97
+0: Max Tonetto · 1: 95
+0: Marco Cassetti · 1: 95
+Marco Cassetti (3 call-ups, 2 caps) – 2005
+
+=== chunk 31 · Player records ===
+Vincenzo Sicignano (1 call-up) – 2005
+Andrea Esposito (1 call-up) – 2009
+Wladimiro Falcone (1 call-up)– 2023
+Lorenzo Colombo (8 caps, 3 goals)
+Giulio Donati (8 caps)
+Cesare Bovo (7 caps, 1 goal) (UEFA European under-21 Championship winner)
+Andrea Bertolacci (7 caps, 1 goal)
+Luigi Garzya (7 caps)
+Pierluigi Orlandini (6 caps)
+Marco Amelia (5 caps)
+Giampiero Maini (5 caps)
+Marco Baroni (5 caps)
+Jonathan Bachini (3 caps)
+Guido Marilungo (3 caps, 1 goal)
+Jonathan Bachini (3 caps)
+Alberto Di Chiara (2 caps)
+Graziano Pellè (2 caps)
+Andrea Rispoli (2 caps)
+Alessio Scarchilli (2 caps)
+Antonio Conte (1 cap)
+Francesco Moriero (1 cap)
+Massimo Margiotta (1 cap)
+Giacomo Cipriani (1 cap)
+Matteo Ferrari (1 cap)
+Erminio Rullo (1 cap)
+Antonino Gallo (1 cap)
+Simone Altobelli (3 caps)
+Pietro De Santis (3 caps)
+List of foreign football players who had at least one cap in their national team while playing for Lecce
+Kastriot Dermaku
+Ledian Memushaj
+Ylber Ramadani
+Kialonda Gaspar
+Djamel Mesbah
+Ahmed Touba
+Pedro Pasculli
+Mazinho
+Valeri Bojinov
+Jaime Valdés
+Juan Cuadrado
+Luis Muriel
+Patrick Dorgu
+Saša Bjelanović
+Marin Pongračić
+Davor Vugrinec
+Giannelli Imbula
+Alexei Eremenko
+Kwame Ayew
+Mark Edusei
+
+=== chunk 32 · Player records ===
+István Vincze
+Lassana Coulibaly
+Souleymane Diamouténé
+Nikola Krstović
+Mirko Vučinić
+Boban Nikolov
+Vitorino Antunes
+Romario Benzar
+Gheorghe Popescu
+Nenad Tomović
+Rodney Strasser
+Martin Petráš
+Sebastjan Cimirotič
+Žan Majer
+Dejan Govedarica
+Sergei Aleinikov
+David Sesa
+Hamza Rafia
+Karim Saidi
+Yevhen Shakhov
+Javier Chevantón
+Guillermo Giacomazzi
+Gabriel Cichero
+Lameck Banda
+
+=== chunk 33 · Other tournaments ===
+As of 2024, no Lecce player has ever been selected to play in the AFC Asian Cup , CONCACAF Gold Cup or the OFC Nations Cup .
+
+=== chunk 34 · Stadium information ===
+Name – Stadio Via del Mare
+City – Lecce
+Capacity – 31,533
+Inauguration – 1966
+Pitch Size – 105 x 70 metres
+
+=== chunk 35 · In fiction ===
+Lecce is mentioned in many famous Italian movies and TV series. Among these there are the movies Al bar dello sport , Benvenuti al Nord and Really SSSupercool: Chapter Two and the TV series I Cesaroni .
+US Lecce is also mentioned in many songs, while in the game Captain Tsubasa 5: Hasha no Shōgō Campione , the main character Tsubasa Oozora played for this team.

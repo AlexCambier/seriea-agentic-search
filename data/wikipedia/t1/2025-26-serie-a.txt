@@ -1,0 +1,279 @@
+page: 2025–26 Serie A
+season: 2025-26
+date: t1 (Wikipedia as it was on 2026-05-25)
+link: https://en.wikipedia.org/w/index.php?title=2025–26_Serie_A&oldid=1355956895
+extracted: 2026-09-23
+chunks: 37
+
+=== chunk 1 · Introduction ===
+Season: 2025–26
+Dates: 23 August 2025 – 24 May 2026
+Champions: Inter Milan 21st title
+Relegated: Cremonese Hellas Verona Pisa
+Champions League: Inter Milan Napoli Roma Como
+Europa League: AC Milan Juventus
+Conference League: Atalanta
+Matches: 380
+Goals: 921 (2.42 per match)
+Top goalscorer: Lautaro Martínez (17 goals)
+Biggest home win: Como 6–0 Torino (24 January 2026)
+Biggest away win: Sassuolo 0–5 Inter Milan (8 February 2026)
+Highest scoring: Inter Milan 6–2 Pisa (23 January 2026)
+Longest winning run: Inter Milan (8 matches)
+Longest unbeaten run: AC Milan (24 matches)
+Longest winless run: Pisa (17 matches)
+Longest losing run: Hellas Verona (5 matches)
+Highest attendance: 75,681 AC Milan 0–0 Juventus (26 April 2026)
+Lowest attendance: 2,000 Lazio 2–1 Sassuolo (9 March 2026)
+Attendance: 11,369,647 (29,920 per match)
+
+=== chunk 2 · Introduction ===
+The 2025–26 Serie A (known as the Serie A Enilive and Serie A Made in Italy for sponsorship reasons domestically and abroad, respectively) was the 124th season of top-tier Italian football , the 94th in a round-robin tournament , and the 16th since its organization under an own league committee, the Lega Serie A . The season began on 23 August 2025 and concluded on 24 May 2026. Napoli were the defending champions, having won their fourth Serie A title in the previous season. Inter Milan won their 21st title with three matches to spare on 3 May 2026, following a 2–0 home win against Parma .
+
+=== chunk 3 · Introduction ===
+On 8 February 2026, a match between Milan and Como was scheduled to be held at Perth Stadium in Australia. Had it gone ahead, it would have been the first match from one of Europe's top five leagues to be played outside Europe. The fixture was scheduled to take place two days after the opening ceremony of the 2026 Winter Olympics at San Siro in the city of Milan , which rendered the stadium unavailable for the match; however, the match did not take place following a joint statement by the Government of Western Australia and Lega Serie A, which attributed the decision to what they described as the Asian Football Confederation 's "escalation of further unacceptable demands".
+
+=== chunk 4 · Teams ===
+Twenty teams are competing: the top seventeen teams from the previous season and three promoted teams from Serie B . The promoted teams include the two top teams from the Serie B table, and the winner of the promotion play-offs. Sassuolo returned to Serie A after one year away, becoming the first team to secure promotion, following their 3–1 victory over Modena and Spezia 's 2–2 draw with Mantova . On the other end of the table, Monza were the first team to be relegated to Serie B , following a 0–4 loss to Atalanta , bringing an end to their three-year stint in Serie A. The remaining two relegation spots were decided on the final matchday, 25 May 2025, with Venezia and Empoli going down after their respective 2–3 and 1–2 losses to Juventus and Hellas Verona , ending their one and four-years spell in the league. Pisa made their return to Italy's top league following a 34-year absence, their longest in club history, after defeating Bari 1–0, combined with Spezia's 1–2 loss to Reggiana . The final team to earn promotion was Cremonese , who returned to the top flight after a two-year absence, following a 0–0 draw at home and a 3–2 away victory over Spezia in the second leg of the play-off final on 1 June.
+
+=== chunk 5 · Team changes ===
+Promoted from 2024–25 Serie B: Sassuolo · Relegated from 2024–25 Serie A: Empoli
+Promoted from 2024–25 Serie B: Pisa · Relegated from 2024–25 Serie A: Venezia
+Promoted from 2024–25 Serie B: Cremonese · Relegated from 2024–25 Serie A: Monza
+
+=== chunk 6 · Stadiums and locations ===
+Team: Atalanta · Location: Bergamo · Stadium: Stadio di Bergamo · Capacity: 23439.0
+Team: Bologna · Location: Bologna · Stadium: Stadio Renato Dall'Ara · Capacity: 38279.0
+Team: Cagliari · Location: Cagliari · Stadium: Unipol Domus · Capacity: 16416.0
+Team: Como · Location: Como · Stadium: Stadio Giuseppe Sinigaglia · Capacity: 13602.0
+Team: Cremonese · Location: Cremona · Stadium: Stadio Giovanni Zini · Capacity: 20641.0
+Team: Fiorentina · Location: Florence · Stadium: Stadio Artemio Franchi · Capacity: 43118.0
+Team: Genoa · Location: Genoa · Stadium: Stadio Luigi Ferraris · Capacity: 33205.0
+Team: Hellas Verona · Location: Verona · Stadium: Stadio Marcantonio Bentegodi · Capacity: 31713.0
+Team: AC Milan · Location: Milan · Stadium: San Siro · Capacity: 75710.0
+Team: Inter Milan · Location: Milan · Stadium: San Siro · Capacity: 75710.0
+Team: Juventus · Location: Turin · Stadium: Allianz Stadium · Capacity: 41507.0
+Team: Lazio · Location: Rome · Stadium: Stadio Olimpico · Capacity: 70634.0
+Team: Roma · Location: Rome · Stadium: Stadio Olimpico · Capacity: 70634.0
+Team: Lecce · Location: Lecce · Stadium: Stadio Via del Mare-Ettore Giardiniero · Capacity: 30354.0
+
+=== chunk 7 · Stadiums and locations ===
+Team: Napoli · Location: Naples · Stadium: Stadio Diego Armando Maradona · Capacity: 54732.0
+Team: Parma · Location: Parma · Stadium: Stadio Ennio Tardini · Capacity: 22352.0
+Team: Pisa · Location: Pisa · Stadium: Cetilar Arena · Capacity: 12508.0
+Team: Sassuolo · Location: Sassuolo · Stadium: Mapei Stadium – Città del Tricolore · Capacity: 21515.0
+Team: Torino · Location: Turin · Stadium: Stadio Olimpico Grande Torino · Capacity: 28177.0
+Team: Udinese · Location: Udine · Stadium: Bluenergy Stadium · Capacity: 25132.0
+
+=== chunk 8 · Number of teams by regions ===
+No. of teams: 5.0 · Region: Lombardy · Team(s): Atalanta, Como, Cremonese, Inter Milan and AC Milan
+No. of teams: 3.0 · Region: Emilia-Romagna · Team(s): Bologna, Parma and Sassuolo
+No. of teams: 2.0 · Region: Lazio · Team(s): Roma and Lazio
+No. of teams: 2.0 · Region: Piedmont · Team(s): Juventus and Torino
+No. of teams: 2.0 · Region: Tuscany · Team(s): Fiorentina and Pisa
+No. of teams: 1.0 · Region: Apulia · Team(s): Lecce
+No. of teams: 1.0 · Region: Campania · Team(s): Napoli
+No. of teams: 1.0 · Region: Friuli-Venezia Giulia · Team(s): Udinese
+No. of teams: 1.0 · Region: Liguria · Team(s): Genoa
+No. of teams: 1.0 · Region: Sardinia · Team(s): Cagliari
+No. of teams: 1.0 · Region: Veneto · Team(s): Hellas Verona
+
+=== chunk 9 · Personnel and kits ===
+Team: Atalanta · Chairman: Antonio Percassi · Manager: Raffaele Palladino · Captain: Marten de Roon · Kit maker: New Balance · Shirt sponsor(s) Main: Lete · Shirt sponsor(s) Other(s)0: List Front: Snaifun Back: Gewiss Sleeves: zondacrypto
+Team: Bologna · Chairman: Joey Saputo · Manager: Vincenzo Italiano · Captain: Lorenzo De Silvestri · Kit maker: Macron · Shirt sponsor(s) Main: Saputo · Shirt sponsor(s) Other(s)0: List Front: None Back: Selenella Sleeves: Lavoropiù
+Team: Cagliari · Chairman: Tommaso Giulini [it] · Manager: Fabio Pisacane · Captain: Leonardo Pavoletti · Kit maker: EYE Sport · Shirt sponsor(s) Main: Sardegna · Shirt sponsor(s) Other(s)0: List Front: Doppio Malto Back: Banco di Sardegna Sleeves: Bet365 Scores
+Team: Como · Chairman: Mirwan Suwarso [id] · Manager: Cesc Fàbregas · Captain: Lucas Da Cunha · Kit maker: Adidas · Shirt sponsor(s) Main: Uber (Home & Away) / Revolut (Third) · Shirt sponsor(s) Other(s)0: List Front: None Back: Neuberger Berman Sleeves: PokerStars News
+
+=== chunk 10 · Personnel and kits ===
+Team: Cremonese · Chairman: Giovanni Arvedi [it] · Manager: Marco Giampaolo · Captain: Matteo Bianchetti · Kit maker: Acerbis · Shirt sponsor(s) Main: Ilta Inox (Home) / Arinox (Away) · Shirt sponsor(s) Other(s)0: List Front: Acciaieria Arvedi Back: Feraboli Lubrificanti Sleeves: Arvedi Tubi Acciaio
+Team: Fiorentina · Chairman: Giuseppe B. Commisso · Manager: Paolo Vanoli · Captain: Luca Ranieri · Kit maker: Kappa · Shirt sponsor(s) Main: Mediacom · Shirt sponsor(s) Other(s)0: List Front: None Back: Lamioni Holding Sleeves: Betway Scores
+Team: Genoa · Chairman: Dan Șucu [ro] · Manager: Daniele De Rossi · Captain: Johan Vásquez · Kit maker: Kappa · Shirt sponsor(s) Main: Pulsee Luce e Gas · Shirt sponsor(s) Other(s)0: List Front: Rolling Stone Back: None Sleeves: Ceres
+Team: Hellas Verona · Chairman: Italo Zanzi · Manager: Paolo Sammarco (interim) · Captain: Suat Serdar · Kit maker: Joma · Shirt sponsor(s) Main: Aircash · Shirt sponsor(s) Other(s)0: List Front: None Back: VetroCar Sleeves: Drivalia
+
+=== chunk 11 · Personnel and kits ===
+Team: Inter Milan · Chairman: Giuseppe Marotta · Manager: Cristian Chivu · Captain: Lautaro Martínez · Kit maker: Nike · Shirt sponsor(s) Main: Betsson.sport · Shirt sponsor(s) Other(s)0: List Front: None Back: U-Power Sleeves: GATE.io
+Team: Juventus · Chairman: Gianluca Ferrero · Manager: Luciano Spalletti · Captain: Manuel Locatelli · Kit maker: Adidas · Shirt sponsor(s) Main: Jeep · Shirt sponsor(s) Other(s)0: List Front: Visit Detroit Back: Cygames Sleeves: WhiteBIT
+Team: Lazio · Chairman: Claudio Lotito · Manager: Maurizio Sarri · Captain: Mattia Zaccagni · Kit maker: Mizuno · Shirt sponsor(s) Main: Polymarket · Shirt sponsor(s) Other(s)0: List Front: None Back: None Sleeves: None
+Team: Lecce · Chairman: Saverio Sticchi Damiani [it] · Manager: Eusebio Di Francesco · Captain: Wladimiro Falcone · Kit maker: M908 · Shirt sponsor(s) Main: DEGHI · Shirt sponsor(s) Other(s)0: List Front: BetItaly Pay Back: DR Automobiles Sleeves: Banca Popolare Pugliese
+Team: AC Milan · Chairman: Paolo Scaroni · Manager: Massimiliano Allegri · Captain: Mike Maignan · Kit maker: Puma · Shirt sponsor(s) Main: Emirates · Shirt sponsor(s) Other(s)0: List Front: None Back: Bitpanda Sleeves: MSC Cruises
+
+=== chunk 12 · Personnel and kits ===
+Team: Napoli · Chairman: Aurelio De Laurentiis · Manager: Antonio Conte · Captain: Giovanni Di Lorenzo · Kit maker: EA7 · Shirt sponsor(s) Main: MSC Cruises · Shirt sponsor(s) Other(s)0: List Front: None Back: Acqua Sorgesana Sleeves: Dongfeng
+Team: Parma · Chairman: Kyle Krause · Manager: Carlos Cuesta · Captain: Enrico Delprato · Kit maker: Puma · Shirt sponsor(s) Main: Prometeon · Shirt sponsor(s) Other(s)0: List Front: AdmiralBet.news Back: Moby Sleeves: Crédit Agricole Italia
+Team: Pisa · Chairman: Alexander Knaster · Manager: Oscar Hiljemark · Captain: Antonio Caracciolo · Kit maker: Adidas · Shirt sponsor(s) Main: Cetilar · Shirt sponsor(s) Other(s)0: List Front: Hi-Turf Solution Back: None Sleeves: Bet365 Scores
+Team: Roma · Chairman: Dan Friedkin · Manager: Gian Piero Gasperini · Captain: Stephan El Shaarawy · Kit maker: Adidas · Shirt sponsor(s) Main: Eurobet.live · Shirt sponsor(s) Other(s)0: List Front: None Back: Auberge Collection Sleeves: Wizz Air
+Team: Sassuolo · Chairman: Carlo Rossi · Manager: Fabio Grosso · Captain: Filippo Romagna · Kit maker: Puma · Shirt sponsor(s) Main: Mapei · Shirt sponsor(s) Other(s)0: List Front: None Back: None Sleeves: None
+
+=== chunk 13 · Personnel and kits ===
+Team: Torino · Chairman: Urbano Cairo · Manager: Roberto D'Aversa · Captain: Duván Zapata · Kit maker: Joma · Shirt sponsor(s) Main: Suzuki · Shirt sponsor(s) Other(s)0: List Front: Bet365 Scores Back: EdiliziAcrobatica Sleeves: JD Sports
+Team: Udinese · Chairman: Franco Soldati · Manager: Kosta Runjaić · Captain: Jesper Karlström · Kit maker: Macron · Shirt sponsor(s) Main: Io sono Friuli-Venezia Giulia · Shirt sponsor(s) Other(s)0: List Front: Banca 360 FVG Back: Bluenergy Sleeves: Bet365 Scores
+
+=== chunk 14 · Managerial changes ===
+Team: Fiorentina · Outgoing manager: Raffaele Palladino · Manner of departure: Resigned · Position in the table: Pre-season · Date of vacancy: 30 May 2025 · Incoming manager: Stefano Pioli · Date of appointment: 12 July 2025
+Team: Inter Milan · Outgoing manager: Simone Inzaghi · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 3 June 2025 · Incoming manager: Cristian Chivu · Date of appointment: 9 June 2025
+Team: Parma · Outgoing manager: Cristian Chivu · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 9 June 2025 · Incoming manager: Carlos Cuesta · Date of appointment: 1 July 2025
+Team: AC Milan · Outgoing manager: Sérgio Conceição · Manner of departure: Sacked · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Massimiliano Allegri · Date of appointment: 1 July 2025
+Team: Roma · Outgoing manager: Claudio Ranieri · Manner of departure: Retired · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Gian Piero Gasperini · Date of appointment: 1 July 2025
+
+=== chunk 15 · Managerial changes ===
+Team: Atalanta · Outgoing manager: Gian Piero Gasperini · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Ivan Jurić · Date of appointment: 1 July 2025
+Team: Lazio · Outgoing manager: Marco Baroni · Manner of departure: Sacked · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Maurizio Sarri · Date of appointment: 1 July 2025
+Team: Cagliari · Outgoing manager: Davide Nicola · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Fabio Pisacane · Date of appointment: 1 July 2025
+Team: Torino · Outgoing manager: Paolo Vanoli · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Marco Baroni · Date of appointment: 1 July 2025
+Team: Lecce · Outgoing manager: Marco Giampaolo · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Eusebio Di Francesco · Date of appointment: 1 July 2025
+
+=== chunk 16 · Managerial changes ===
+Team: Pisa · Outgoing manager: Filippo Inzaghi · Manner of departure: Mutual consent · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Alberto Gilardino · Date of appointment: 1 July 2025
+Team: Cremonese · Outgoing manager: Giovanni Stroppa · Manner of departure: End of contract · Position in the table: Pre-season · Date of vacancy: 30 June 2025 · Incoming manager: Davide Nicola · Date of appointment: 2 July 2025
+Team: Juventus · Outgoing manager: Igor Tudor · Manner of departure: Sacked · Position in the table: 8th · Date of vacancy: 27 October 2025 · Incoming manager: Massimo Brambilla (caretaker) · Date of appointment: 27 October 2025
+Team: Juventus · Outgoing manager: Massimo Brambilla · Manner of departure: End of caretaker spell · Position in the table: 7th · Date of vacancy: 30 October 2025 · Incoming manager: Luciano Spalletti · Date of appointment: 30 October 2025
+Team: Genoa · Outgoing manager: Patrick Vieira · Manner of departure: Resigned · Position in the table: 20th · Date of vacancy: 1 November 2025 · Incoming manager: Roberto Murgita (caretaker) · Date of appointment: 1 November 2025
+
+=== chunk 17 · Managerial changes ===
+Team: Fiorentina · Outgoing manager: Stefano Pioli · Manner of departure: Sacked · Position in the table: 20th · Date of vacancy: 4 November 2025 · Incoming manager: Daniele Galloppa (caretaker) · Date of appointment: 4 November 2025
+Team: Genoa · Outgoing manager: Roberto Murgita · Manner of departure: End of caretaker spell · Position in the table: 18th · Date of vacancy: 6 November 2025 · Incoming manager: Daniele De Rossi · Date of appointment: 6 November 2025
+Team: Fiorentina · Outgoing manager: Daniele Galloppa · Manner of departure: End of caretaker spell · Position in the table: 20th · Date of vacancy: 7 November 2025 · Incoming manager: Paolo Vanoli · Date of appointment: 7 November 2025
+Team: Atalanta · Outgoing manager: Ivan Jurić · Manner of departure: Sacked · Position in the table: 13th · Date of vacancy: 10 November 2025 · Incoming manager: Raffaele Palladino · Date of appointment: 11 November 2025
+Team: Pisa · Outgoing manager: Alberto Gilardino · Manner of departure: Sacked · Position in the table: 19th · Date of vacancy: 1 February 2026 · Incoming manager: Oscar Hiljemark · Date of appointment: 3 February 2026
+
+=== chunk 18 · Managerial changes ===
+Team: Hellas Verona · Outgoing manager: Paolo Zanetti · Manner of departure: Sacked · Position in the table: 20th · Date of vacancy: 2 February 2026 · Incoming manager: Paolo Sammarco (interim) · Date of appointment: 3 February 2026
+Team: Torino · Outgoing manager: Marco Baroni · Manner of departure: Sacked · Position in the table: 15th · Date of vacancy: 23 February 2026 · Incoming manager: Roberto D'Aversa · Date of appointment: 23 February 2026
+Team: Cremonese · Outgoing manager: Davide Nicola · Manner of departure: Sacked · Position in the table: 18th · Date of vacancy: 18 March 2026 · Incoming manager: Marco Giampaolo · Date of appointment: 18 March 2026
+
+=== chunk 19 · League table ===
+Pos: 1 · Team: Inter Milan (C) · Pld: 38 · W: 27 · D: 6 · L: 5 · GF: 89 · GA: 35 · GD: +54 · Pts: 87 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 2 · Team: Napoli · Pld: 38 · W: 23 · D: 7 · L: 8 · GF: 58 · GA: 36 · GD: +22 · Pts: 76 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 3 · Team: Roma · Pld: 38 · W: 23 · D: 4 · L: 11 · GF: 59 · GA: 31 · GD: +28 · Pts: 73 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 4 · Team: Como · Pld: 38 · W: 20 · D: 11 · L: 7 · GF: 65 · GA: 29 · GD: +36 · Pts: 71 · Qualification or relegation: Qualification for the Champions League league phase
+Pos: 5 · Team: AC Milan · Pld: 38 · W: 20 · D: 10 · L: 8 · GF: 53 · GA: 35 · GD: +18 · Pts: 70 · Qualification or relegation: Qualification for the Europa League league phase
+Pos: 6 · Team: Juventus · Pld: 38 · W: 19 · D: 12 · L: 7 · GF: 61 · GA: 34 · GD: +27 · Pts: 69 · Qualification or relegation: Qualification for the Europa League league phase
+
+=== chunk 20 · League table ===
+Pos: 7 · Team: Atalanta · Pld: 38 · W: 15 · D: 14 · L: 9 · GF: 51 · GA: 36 · GD: +15 · Pts: 59 · Qualification or relegation: Qualification for the Conference League play-off round
+Pos: 8 · Team: Bologna · Pld: 38 · W: 16 · D: 8 · L: 14 · GF: 49 · GA: 46 · GD: +3 · Pts: 56
+Pos: 9 · Team: Lazio · Pld: 38 · W: 14 · D: 12 · L: 12 · GF: 41 · GA: 40 · GD: +1 · Pts: 54
+Pos: 10 · Team: Udinese · Pld: 38 · W: 14 · D: 8 · L: 16 · GF: 45 · GA: 48 · GD: −3 · Pts: 50
+Pos: 11 · Team: Sassuolo · Pld: 38 · W: 14 · D: 7 · L: 17 · GF: 46 · GA: 50 · GD: −4 · Pts: 49
+Pos: 12 · Team: Torino · Pld: 38 · W: 12 · D: 9 · L: 17 · GF: 44 · GA: 63 · GD: −19 · Pts: 45
+Pos: 13 · Team: Parma · Pld: 38 · W: 11 · D: 12 · L: 15 · GF: 28 · GA: 46 · GD: −18 · Pts: 45
+Pos: 14 · Team: Cagliari · Pld: 38 · W: 11 · D: 10 · L: 17 · GF: 40 · GA: 53 · GD: −13 · Pts: 43
+Pos: 15 · Team: Fiorentina · Pld: 38 · W: 9 · D: 15 · L: 14 · GF: 41 · GA: 50 · GD: −9 · Pts: 42
+Pos: 16 · Team: Genoa · Pld: 38 · W: 10 · D: 11 · L: 17 · GF: 41 · GA: 51 · GD: −10 · Pts: 41
+Pos: 17 · Team: Lecce · Pld: 38 · W: 10 · D: 8 · L: 20 · GF: 28 · GA: 50 · GD: −22 · Pts: 38
+
+=== chunk 21 · League table ===
+Pos: 18 · Team: Cremonese (R) · Pld: 38 · W: 8 · D: 10 · L: 20 · GF: 32 · GA: 57 · GD: −25 · Pts: 34 · Qualification or relegation: Relegation to Serie B
+Pos: 19 · Team: Hellas Verona (R) · Pld: 38 · W: 3 · D: 12 · L: 23 · GF: 25 · GA: 61 · GD: −36 · Pts: 21 · Qualification or relegation: Relegation to Serie B
+Pos: 20 · Team: Pisa (R) · Pld: 38 · W: 2 · D: 12 · L: 24 · GF: 26 · GA: 71 · GD: −45 · Pts: 18 · Qualification or relegation: Relegation to Serie B
+1 2 Since the 2025–26 Coppa Italia winners, Inter Milan, qualified for the Champions League via league position, the Europa League spot awarded to the cup winners was passed to the sixth-placed team, and the Conference League spot was moved down one league position.
+1 2 Torino finished ahead of Parma on head-to-head goal difference: Parma 2–1 Torino, Torino 4–1 Parma.
+
+=== chunk 22 · Results ===
+Home \ Away: Atalanta · ATA: — · BOL: 0–1 · CAG: 2–1 · COM: 1–1 · CRE: 2–1 · FIO: 2–0 · GEN: 0–0 · VER: 1–0 · INT: 0–1 · JUV: 0–1 · LAZ: 0–0 · LEC: 4–1 · MIL: 1–1 · NAP: 2–1 · PAR: 4–0 · PIS: 1–1 · ROM: 1–0 · SAS: 0–3 · TOR: 2–0 · UDI: 2–2
+Home \ Away: Bologna · ATA: 0–2 · BOL: — · CAG: 0–0 · COM: 1–0 · CRE: 1–3 · FIO: 1–2 · GEN: 2–1 · VER: 1–2 · INT: 3–3 · JUV: 0–1 · LAZ: 0–2 · LEC: 2–0 · MIL: 0–3 · NAP: 2–0 · PAR: 0–1 · PIS: 4–0 · ROM: 0–2 · SAS: 1–1 · TOR: 0–0 · UDI: 1–0
+Home \ Away: Cagliari · ATA: 3–2 · BOL: 0–2 · CAG: — · COM: 1–2 · CRE: 1–0 · FIO: 1–1 · GEN: 3–3 · VER: 4–0 · INT: 0–2 · JUV: 1–0 · LAZ: 0–0 · LEC: 0–2 · MIL: 0–1 · NAP: 0–1 · PAR: 2–0 · PIS: 2–2 · ROM: 1–0 · SAS: 1–2 · TOR: 2–1 · UDI: 0–2
+Home \ Away: Como · ATA: 0–0 · BOL: 1–1 · CAG: 0–0 · COM: — · CRE: 1–1 · FIO: 1–2 · GEN: 1–1 · VER: 3–1 · INT: 3–4 · JUV: 2–0 · LAZ: 2–0 · LEC: 3–1 · MIL: 1–3 · NAP: 0–0 · PAR: 1–0 · PIS: 5–0 · ROM: 2–1 · SAS: 2–0 · TOR: 6–0 · UDI: 1–0
+Home \ Away: Cremonese · ATA: 1–1 · BOL: 1–2 · CAG: 2–2 · COM: 1–4 · CRE: — · FIO: 1–4 · GEN: 0–0 · VER: 0–0 · INT: 0–2 · JUV: 1–2 · LAZ: 1–2 · LEC: 2–0 · MIL: 0–2 · NAP: 0–2 · PAR: 0–0 · PIS: 3–0 · ROM: 1–3 · SAS: 3–2 · TOR: 0–0 · UDI: 1–1
+
+=== chunk 23 · Results ===
+Home \ Away: Fiorentina · ATA: 1–1 · BOL: 2–2 · CAG: 1–2 · COM: 1–2 · CRE: 1–0 · FIO: — · GEN: 0–0 · VER: 1–2 · INT: 1–1 · JUV: 1–1 · LAZ: 1–0 · LEC: 0–1 · MIL: 1–1 · NAP: 1–3 · PAR: 0–0 · PIS: 1–0 · ROM: 1–2 · SAS: 0–0 · TOR: 2–2 · UDI: 5–1
+Home \ Away: Genoa · ATA: 0–1 · BOL: 3–2 · CAG: 3–0 · COM: 0–2 · CRE: 0–2 · FIO: 2–2 · GEN: — · VER: 2–1 · INT: 1–2 · JUV: 0–1 · LAZ: 0–3 · LEC: 0–0 · MIL: 1–2 · NAP: 2–3 · PAR: 0–0 · PIS: 1–1 · ROM: 2–1 · SAS: 2–1 · TOR: 3–0 · UDI: 0–2
+Home \ Away: Hellas Verona · ATA: 3–1 · BOL: 2–3 · CAG: 2–2 · COM: 0–1 · CRE: 0–0 · FIO: 0–1 · GEN: 0–2 · VER: — · INT: 1–2 · JUV: 1–1 · LAZ: 0–1 · LEC: 0–0 · MIL: 0–1 · NAP: 1–2 · PAR: 1–2 · PIS: 0–0 · ROM: 0–2 · SAS: 0–1 · TOR: 0–3 · UDI: 1–3
+Home \ Away: Inter Milan · ATA: 1–1 · BOL: 3–1 · CAG: 3–0 · COM: 4–0 · CRE: 4–1 · FIO: 3–0 · GEN: 2–0 · VER: 1–1 · INT: — · JUV: 3–2 · LAZ: 2–0 · LEC: 1–0 · MIL: 0–1 · NAP: 2–2 · PAR: 2–0 · PIS: 6–2 · ROM: 5–2 · SAS: 2–1 · TOR: 5–0 · UDI: 1–2
+
+=== chunk 24 · Results ===
+Home \ Away: Juventus · ATA: 1–1 · BOL: 2–0 · CAG: 2–1 · COM: 0–2 · CRE: 5–0 · FIO: 0–2 · GEN: 2–0 · VER: 1–1 · INT: 4–3 · JUV: — · LAZ: 2–2 · LEC: 1–1 · MIL: 0–0 · NAP: 3–0 · PAR: 2–0 · PIS: 4–0 · ROM: 2–1 · SAS: 1–1 · TOR: 0–0 · UDI: 3–1
+Home \ Away: Lazio · ATA: 0–2 · BOL: 1–1 · CAG: 2–0 · COM: 0–3 · CRE: 0–0 · FIO: 2–2 · GEN: 3–2 · VER: 4–0 · INT: 0–3 · JUV: 1–0 · LAZ: — · LEC: 2–0 · MIL: 1–0 · NAP: 0–2 · PAR: 1–1 · PIS: 2–1 · ROM: 0–1 · SAS: 2–1 · TOR: 3–3 · UDI: 3–3
+Home \ Away: Lecce · ATA: 0–3 · BOL: 2–2 · CAG: 1–2 · COM: 0–3 · CRE: 2–1 · FIO: 1–1 · GEN: 1–0 · VER: 0–0 · INT: 0–2 · JUV: 0–1 · LAZ: 0–0 · LEC: — · MIL: 0–2 · NAP: 0–1 · PAR: 1–2 · PIS: 1–0 · ROM: 0–2 · SAS: 0–0 · TOR: 2–1 · UDI: 2–1
+Home \ Away: AC Milan · ATA: 2–3 · BOL: 1–0 · CAG: 1–2 · COM: 1–1 · CRE: 1–2 · FIO: 2–1 · GEN: 1–1 · VER: 3–0 · INT: 1–0 · JUV: 0–0 · LAZ: 1–0 · LEC: 1–0 · MIL: — · NAP: 2–1 · PAR: 0–1 · PIS: 2–2 · ROM: 1–0 · SAS: 2–2 · TOR: 3–2 · UDI: 0–3
+Home \ Away: Napoli · ATA: 3–1 · BOL: 2–3 · CAG: 1–0 · COM: 0–0 · CRE: 4–0 · FIO: 2–1 · GEN: 2–1 · VER: 2–2 · INT: 3–1 · JUV: 2–1 · LAZ: 0–2 · LEC: 2–1 · MIL: 1–0 · NAP: — · PAR: 0–0 · PIS: 3–2 · ROM: 2–2 · SAS: 1–0 · TOR: 2–1 · UDI: 1–0
+
+=== chunk 25 · Results ===
+Home \ Away: Parma · ATA: 1–1 · BOL: 1–3 · CAG: 1–1 · COM: 0–0 · CRE: 0–2 · FIO: 1–0 · GEN: 0–0 · VER: 2–1 · INT: 0–2 · JUV: 1–4 · LAZ: 0–1 · LEC: 0–1 · MIL: 2–2 · NAP: 1–1 · PAR: — · PIS: 1–0 · ROM: 2–3 · SAS: 1–0 · TOR: 2–1 · UDI: 0–2
+Home \ Away: Pisa · ATA: 1–1 · BOL: 0–1 · CAG: 3–1 · COM: 0–3 · CRE: 1–0 · FIO: 0–0 · GEN: 1–2 · VER: 0–0 · INT: 0–2 · JUV: 0–2 · LAZ: 0–0 · LEC: 1–2 · MIL: 1–2 · NAP: 0–3 · PAR: 0–1 · PIS: — · ROM: 0–1 · SAS: 1–3 · TOR: 0–1 · UDI: 0–1
+Home \ Away: Roma · ATA: 1–1 · BOL: 1–0 · CAG: 2–0 · COM: 1–0 · CRE: 3–0 · FIO: 4–0 · GEN: 3–1 · VER: 2–0 · INT: 0–1 · JUV: 3–3 · LAZ: 2–0 · LEC: 1–0 · MIL: 1–1 · NAP: 0–1 · PAR: 2–1 · PIS: 3–0 · ROM: — · SAS: 2–0 · TOR: 0–1 · UDI: 2–0
+Home \ Away: Sassuolo · ATA: 2–1 · BOL: 0–1 · CAG: 2–1 · COM: 2–1 · CRE: 1–0 · FIO: 3–1 · GEN: 1–2 · VER: 3–0 · INT: 0–5 · JUV: 0–3 · LAZ: 1–0 · LEC: 2–3 · MIL: 2–0 · NAP: 0–2 · PAR: 1–1 · PIS: 2–2 · ROM: 0–1 · SAS: — · TOR: 0–1 · UDI: 3–1
+Home \ Away: Torino · ATA: 0–3 · BOL: 1–2 · CAG: 1–2 · COM: 1–5 · CRE: 1–0 · FIO: 0–0 · GEN: 2–1 · VER: 2–1 · INT: 2–2 · JUV: 2–2 · LAZ: 2–0 · LEC: 1–0 · MIL: 2–3 · NAP: 1–0 · PAR: 4–1 · PIS: 2–2 · ROM: 0–2 · SAS: 2–1 · TOR: — · UDI: 1–2
+
+=== chunk 26 · Results ===
+Home \ Away: Udinese · ATA: 1–0 · BOL: 0–3 · CAG: 1–1 · COM: 0–0 · CRE: 0–1 · FIO: 3–0 · GEN: 1–2 · VER: 1–1 · INT: 0–1 · JUV: 0–1 · LAZ: 1–1 · LEC: 3–2 · MIL: 0–3 · NAP: 1–0 · PAR: 0–1 · PIS: 2–2 · ROM: 1–0 · SAS: 1–2 · TOR: 2–0 · UDI: —
+
+=== chunk 27 · Top goalscorers ===
+Rank: 1.0 · Player: Lautaro Martínez · Club: Inter Milan · Goals: 17.0
+Rank: 2.0 · Player: Tasos Douvikas · Club: Como · Goals: 14.0
+Rank: 2.0 · Player: Donyell Malen · Club: Roma · Goals: 14.0
+Rank: 4.0 · Player: Marcus Thuram · Club: Inter Milan · Goals: 13.0
+Rank: 5.0 · Player: Rasmus Højlund · Club: Napoli · Goals: 12.0
+Rank: 5.0 · Player: Nico Paz · Club: Como · Goals: 12.0
+Rank: 7.0 · Player: Giovanni Simeone · Club: Torino · Goals: 11.0
+Rank: 8.0 · Player: Federico Bonazzoli · Club: Cremonese · Goals: 10.0
+Rank: 8.0 · Player: Keinan Davis · Club: Udinese · Goals: 10.0
+Rank: 8.0 · Player: Nikola Krstović · Club: Atalanta · Goals: 10.0
+Rank: 8.0 · Player: Scott McTominay · Club: Napoli · Goals: 10.0
+Rank: 8.0 · Player: Riccardo Orsolini · Club: Bologna · Goals: 10.0
+Rank: 8.0 · Player: Gianluca Scamacca · Club: Atalanta · Goals: 10.0
+Rank: 8.0 · Player: Kenan Yıldız · Club: Juventus · Goals: 10.0
+
+=== chunk 28 · Hat-tricks ===
+Player: Donyell Malen · Club: Roma · Against: Pisa · Result: 3–0 (H) · Date: 10 April 2026
+(H) – Home team (A) – Away team
+
+=== chunk 29 · Clean sheets ===
+Rank: 1.0 · Player: Jean Butez · Club: Como · Clean sheets: 19.0
+Rank: 2.0 · Player: Mile Svilar · Club: Roma · Clean sheets: 18.0
+Rank: 3.0 · Player: Yann Sommer · Club: Inter Milan · Clean sheets: 15.0
+Rank: 4.0 · Player: Michele Di Gregorio · Club: Juventus · Clean sheets: 14.0
+Rank: 4.0 · Player: Mike Maignan · Club: AC Milan · Clean sheets: 14.0
+Rank: 6.0 · Player: Marco Carnesecchi · Club: Atalanta · Clean sheets: 13.0
+Rank: 7.0 · Player: Ivan Provedel · Club: Lazio · Clean sheets: 12.0
+Rank: 8.0 · Player: Emil Audero · Club: Cremonese · Clean sheets: 11.0
+Rank: 8.0 · Player: Vanja Milinković-Savić · Club: Napoli · Clean sheets: 11.0
+Rank: 10.0 · Player: David De Gea · Club: Fiorentina · Clean sheets: 10.0
+Rank: 10.0 · Player: Wladimiro Falcone · Club: Lecce · Clean sheets: 10.0
+Rank: 10.0 · Player: Maduka Okoye · Club: Udinese · Clean sheets: 10.0
+
+=== chunk 30 · Discipline ===
+Most yellow cards: 12 Marin Pongračić (Fiorentina)
+Most red cards: 2 Mariano Troilo (Parma) Wesley (Roma)
+Most yellow cards: 83 Hellas Verona
+Fewest yellow cards: 47 Napoli
+Most red cards: 9 Lazio
+Fewest red cards: 0 Inter Milan
+
+=== chunk 31 · Monthly awards ===
+Month: August · Player of the Month Player: Kenan Yıldız · Player of the Month Club: Juventus · Rising Star of the Month Player: Nico Paz · Rising Star of the Month Club: Como · Coach of the Month Coach: Davide Nicola · Coach of the Month Club: Cremonese · Goal of the Month Player: Federico Bonazzoli · Goal of the Month Club: Cremonese
+Month: September · Player of the Month Player: Christian Pulisic · Player of the Month Club: AC Milan · Rising Star of the Month Player: Nico Paz · Rising Star of the Month Club: Como · Coach of the Month Coach: Massimiliano Allegri · Coach of the Month Club: AC Milan · Goal of the Month Player: Vasilije Adžić · Goal of the Month Club: Juventus
+Month: October · Player of the Month Player: Frank Anguissa · Player of the Month Club: Napoli · Rising Star of the Month Player: Ange-Yoan Bonny · Rising Star of the Month Club: Inter Milan · Coach of the Month Coach: Gian Piero Gasperini · Coach of the Month Club: Roma · Goal of the Month Player: Scott McTominay · Goal of the Month Club: Napoli
+
+=== chunk 32 · Monthly awards ===
+Month: November · Player of the Month Player: Jamie Vardy · Player of the Month Club: Cremonese · Rising Star of the Month Player: Kenan Yıldız · Rising Star of the Month Club: Juventus · Coach of the Month Coach: Massimiliano Allegri · Coach of the Month Club: AC Milan · Goal of the Month Player: Piotr Zieliński · Goal of the Month Club: Inter Milan
+Month: December · Player of the Month Player: Lautaro Martínez · Player of the Month Club: Inter Milan · Rising Star of the Month Player: Rasmus Højlund · Rising Star of the Month Club: Napoli · Coach of the Month Coach: Cristian Chivu · Coach of the Month Club: Inter Milan · Goal of the Month Player: Semih Kılıçsoy · Goal of the Month Club: Cagliari
+Month: January · Player of the Month Player: Federico Dimarco · Player of the Month Club: Inter Milan · Rising Star of the Month Player: Martin Baturina · Rising Star of the Month Club: Como · Coach of the Month Coach: Cristian Chivu · Coach of the Month Club: Inter Milan · Goal of the Month Player: Ruslan Malinovskyi · Goal of the Month Club: Genoa
+
+=== chunk 33 · Monthly awards ===
+Month: February · Player of the Month Player: Donyell Malen · Player of the Month Club: Roma · Rising Star of the Month Player: Antonio Vergara · Rising Star of the Month Club: Napoli · Coach of the Month Coach: Raffaele Palladino · Coach of the Month Club: Atalanta · Goal of the Month Player: Scott McTominay · Goal of the Month Club: Napoli
+Month: March · Player of the Month Player: Jérémie Boga · Player of the Month Club: Juventus · Rising Star of the Month Player: Kenan Yıldız · Rising Star of the Month Club: Juventus · Coach of the Month Coach: Cesc Fàbregas · Coach of the Month Club: Como · Goal of the Month Player: Francisco Conceição · Goal of the Month Club: Juventus
+Month: April · Player of the Month Player: Marcus Thuram · Player of the Month Club: Inter Milan · Rising Star of the Month Player: Arthur Atta · Rising Star of the Month Club: Udinese · Coach of the Month Coach: Luciano Spalletti · Coach of the Month Club: Juventus · Goal of the Month Player: Hakan Çalhanoğlu · Goal of the Month Club: Inter Milan
+
+=== chunk 34 · Monthly awards ===
+Month: May · Player of the Month Player: Lautaro Martínez · Player of the Month Club: Inter Milan · Rising Star of the Month Player: Niccolò Pisilli · Rising Star of the Month Club: Roma · Coach of the Month Coach: Kosta Runjaić · Coach of the Month Club: Udinese
+
+=== chunk 35 · Seasonal awards ===
+Award: Most Valuable Player · Winner: Federico Dimarco · Club: Inter Milan
+Award: Rising Star · Winner: Kenan Yıldız · Club: Juventus
+Award: Best Goalkeeper · Winner: Mile Svilar · Club: Roma
+Award: Best Defender · Winner: Marco Palestra · Club: Cagliari
+Award: Best Midfielder · Winner: Nico Paz · Club: Como
+Award: Best Striker · Winner: Lautaro Martínez · Club: Inter Milan
+Award: Coach of the Season · Winner: Cristian Chivu · Club: Inter Milan
+Award: Fair Play Moment · Winner: Vanja Milinković-Savić · Club: Napoli
+EA Sports Team of the Season: Goalkeeper · EA Sports Team of the Season.1: Mike Maignan (AC Milan) · EA Sports Team of the Season.2: Mike Maignan (AC Milan) · EA Sports Team of the Season.3: Mike Maignan (AC Milan) · EA Sports Team of the Season.4: Mike Maignan (AC Milan)
+EA Sports Team of the Season: Defence · EA Sports Team of the Season.1: Marco Palestra (Cagliari) · EA Sports Team of the Season.2: Jacobo Ramón (Como) · EA Sports Team of the Season.3: Bremer (Juventus) · EA Sports Team of the Season.4: Federico Dimarco (Inter Milan)
+
+=== chunk 36 · Seasonal awards ===
+EA Sports Team of the Season: Midfield · EA Sports Team of the Season.1: Scott McTominay (Napoli) · EA Sports Team of the Season.2: Luka Modrić (AC Milan) · EA Sports Team of the Season.3: Luka Modrić (AC Milan) · EA Sports Team of the Season.4: Piotr Zieliński (Inter Milan)
+EA Sports Team of the Season: Attack · EA Sports Team of the Season.1: Nico Paz (Como) · EA Sports Team of the Season.2: Lautaro Martínez (Inter Milan) · EA Sports Team of the Season.3: Lautaro Martínez (Inter Milan) · EA Sports Team of the Season.4: Kenan Yıldız (Juventus)
+
+=== chunk 37 · Seasonal awards ===
+EA Sports Team of the Season: Bench · EA Sports Team of the Season.1: Mile Svilar (Roma)  Evan Ndicka (Roma)  Manuel Akanji (Inter Milan)  Adrien Rabiot (AC Milan)  Máximo Perrone (Como)  Weston McKennie (Juventus)  Wesley (Roma)  Nikola Vlašić (Torino)  Rasmus Højlund (Napoli)  Tasos Douvikas (Como)  Keinan Davis (Udinese) · EA Sports Team of the Season.2: Mile Svilar (Roma)  Evan Ndicka (Roma)  Manuel Akanji (Inter Milan)  Adrien Rabiot (AC Milan)  Máximo Perrone (Como)  Weston McKennie (Juventus)  Wesley (Roma)  Nikola Vlašić (Torino)  Rasmus Højlund (Napoli)  Tasos Douvikas (Como)  Keinan Davis (Udinese) · EA Sports Team of the Season.3: Mile Svilar (Roma)  Evan Ndicka (Roma)  Manuel Akanji (Inter Milan)  Adrien Rabiot (AC Milan)  Máximo Perrone (Como)  Weston McKennie (Juventus)  Wesley (Roma)  Nikola Vlašić (Torino)  Rasmus Højlund (Napoli)  Tasos Douvikas (Como)  Keinan Davis (Udinese) · EA Sports Team of the Season.4: Mile Svilar (Roma)  Evan Ndicka (Roma)  Manuel Akanji (Inter Milan)  Adrien Rabiot (AC Milan)  Máximo Perrone (Como)  Weston McKennie (Juventus)  Wesley (Roma)  Nikola Vlašić (Torino)  Rasmus Højlund (Napoli)  Tasos Douvikas (Como)  Keinan Davis (Udinese) · Unnamed: 5: Mile Svilar (Roma)  Evan Ndicka (Roma)  Manuel Akanji (Inter Milan)  Adrien Rabiot (AC Milan)  Máximo Perrone (Como)  Weston McKennie (Juventus)  Wesley (Roma)  Nikola Vlašić (Torino)  Rasmus Højlund (Napoli)  Tasos Douvikas (Como)  Keinan Davis (Udinese)

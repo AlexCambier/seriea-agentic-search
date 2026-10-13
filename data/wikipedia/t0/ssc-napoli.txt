@@ -1,0 +1,418 @@
+page: SSC Napoli
+season: 2025-26
+date: t0 (Wikipedia as it was on 2025-09-01)
+link: https://en.wikipedia.org/w/index.php?title=SSC_Napoli&oldid=1309035455
+extracted: 2026-09-23
+chunks: 58
+
+=== chunk 1 · Introduction ===
+Full name: Società Sportiva Calcio Napoli S.p.A.
+Nicknames: Gli Azzurri (The Blues) I Partenopei (The Parthenopeans ) I Ciucciarelli (The Little Donkeys)
+Short name: SSC Napoli
+Founded: 25 August 1926 ; 100 years ago ( 25 August 1926 ) , as Associazione Calcio Napoli 6 September 2004 ; 22 years ago ( 6 September 2004 ) , as Napoli Soccer then SSC Napoli
+Ground: Stadio Diego Armando Maradona
+Capacity: 54,725
+Owner: Filmauro S.r.l.
+President: Aurelio De Laurentiis
+Head coach: Antonio Conte
+League: Serie A
+Website: sscnapoli.it
+Società Sportiva Calcio Napoli ( pronounced [ sotʃeˈta sporˈtiːva ˈkaltʃo ˈnaːpoli ] ), commonly known as SSC Napoli or simply Napoli , is an Italian professional football club based in Naples , Campania that plays in the Serie A , the top league of Italian football . They are among the most successful clubs in the nation, with four league titles, six Coppa Italia , two Supercoppa Italiana , and one UEFA Cup . Napoli are the reigning champions of Italy, having secured their second Serie A title in three seasons in 2024–2025.
+
+=== chunk 2 · Introduction ===
+The club was formed in 1926 as Associazione Calcio Napoli following the merger of US Internazionale Napoli and Naples Foot-Ball Club . Napoli saw relatively little success in their early years, not winning their first major trophy until the 1962 Coppa Italia . The club enjoyed increased success in the 1970s and 1980s, winning the 1976 Coppa Italia and reaching new heights following the arrival of Diego Maradona in 1984. During his time with Napoli, the club won their first two league titles, in 1987 and 1990 . His seven seasons in Naples also saw them win the 1987 Coppa Italia , the 1990 Supercoppa Italiana , and the 1989 UEFA Cup — their only European trophy. Following Maradona's departure in 1991 however, Napoli struggled financially, and endured relegations and a bankruptcy prior to being re-founded in 2004 by film producer Aurelio De Laurentiis . Napoli returned to the Serie A three years later, and have been amongst the top clubs in Italian football since, winning three Coppa Italia ( 2012 , 2014 , and 2020 ), the 2014 Supercoppa Italiana , and two Serie A titles ( 2023 and 2025 ).
+
+=== chunk 3 · Introduction ===
+By attendance, Napoli have the fourth-largest fan base in Italy, and were ranked as the fifth highest-earning football club in Serie A, with $182 million in revenue during the 2017–18 season. In 2018, Forbes estimated Napoli to be worth $379 million, making them the fifth most-valuable club in Italy. Napoli are also one of the associate members of the European Club Association .
+Since 1959, the club has played its home games at the Stadio San Paolo, which was renamed Stadio Diego Armando Maradona following the beloved former player's death in 2020. Napoli traditionally wear sky blue shirts, white shorts, and sky blue socks at home and white shirts, white or sky blue shorts, and white or sky blue socks away; this is derived from the shirts of Naples FBC and the shorts of Internazionale Napoli after the clubs merged to form Napoli's predecessor Internaples in 1922. Napoli have rivalries with Juventus , Roma ( Derby del Sole ), Internazionale , AC Milan and Salernitana (Derby of Campania ). The club's anthem is "Napoli", one of the major hits of the Neapolitan singer Nino D'Angelo .
+
+=== chunk 4 · Origins ===
+Although the club was officially founded in 1926, Napoli traces its roots to the first relevant Neapolitan club, founded as "Naples Foot-Ball & Cricket Club" in 1905 by English sailor William Poths and his associate Hector M. Bayon. Neapolitans such as Conforti, Catterina and Amedeo Salsi were also involved; Salsi was named the club's first president. The original kit of the club was a sky blue and navy blue striped shirt, with black shorts. Naples' first match was a 3–2 win against the English crew of the boat Arabik with goals from William MacPherson, Michele Scafoglio and Léon Chaudoir.
+
+=== chunk 5 · Origins ===
+Early into its existence, the Italian Football Championship was limited to just northern clubs, so southern clubs competed against sailors or in cups such as Thomas Lipton 's Lipton Challenge Cup . In the cup competed between Naples FBC and Palermo FBC Naples won three finals. The foreign contingent at the club broke off in 1911 to form Internazionale Napoli , who wore blue shirts with white shorts, in time for both club's debut in the Italian Championship of 1912–13 . Each of the teams won a Prima Categoria southern Italian titles and therefore competed in the national semi-finals, Naples doing so in 1912–13 and Internazionale Napoli in 1913–14 . [ citation needed ] They were set to face each other for the southern titles again in 1914–15 but it was cancelled due to World War I. [ citation needed ]
+Due to financial pressure, the two rival clubs merged as the "Foot-Ball Club Internazionale-Naples", abbreviated as "FBC Internaples" on 2 October 1922. Internaples', and later Napoli's kits are derived from those of Naples FBC and Internazionale Napoli; adopting the sky blue from Naples' shirts and the white shorts from Internazionale Napoli. [ citation needed ]
+
+=== chunk 6 · FBC Internaples ===
+The merged club was seen by some media and fans to be a continuation of Internazionale Napoli rather than a new club; it played its games at Internazionale Napoli's Terme di Agnano rather than Naples FBC's Campo del Poligono and kept Internazionale Napoli's nickname of Gli Azzurri (The Blues) rather than I Blucelesti (The Navy Blue and Sky Blues) used by Naples. Internaples were also given the nickname I Puledri (the foals), as the horse is a symbol of Naples.
+Internaples were immediately enrolled in the top-flight Prima Divisione Lega Sud championship, as both Internazionale Napoli and Naples competed in that division pre-merger. Since the end of World War I both clubs had lost dominance of the region to the likes of Puteolana and Savoia . Even with the combined strength of Internaples, Savoia still proved to be the top team in southern Italy. Internaples reached the interregional semi-finals of Lega Sud in each of its first two seasons, and reached the Lega Sud finals in 1925–26 . This secured the club a spot in the new Divisione Nazionale for the following season.
+
+=== chunk 7 · The birth of Associazione Calcio Napoli ===
+Under the presidency of Giorgio Ascarelli, and likely under pressure from the new fascist government to "Italianize" the club, Internaples changed its name to Associazione Calcio Napoli on 25 August 1926. The newly renamed team also moved from the Terme di Agnano to a new stadium, the Stadio Militare dell'Arenaccia. After a poor start, with a sole point in an entire championship, Napoli was re-admitted to Serie A's forerunner, the Divisione Nazionale, by the Italian Football Federation ("FIGC"), and began to improve thanks in part to Paraguayan-born Attila Sallustro , who was the first fully fledged hero to the fans. He was a capable goal-scorer and eventually set the all-time goal-scoring record for Napoli, which was later surpassed by players like Diego Maradona and Marek Hamšík .
+
+=== chunk 8 · The birth of Associazione Calcio Napoli ===
+Napoli entered the Serie A era under the management of William Garbutt . During Garbutt's six-year stint, the club would be dramatically transformed, frequently finishing in the top half of the table. This included two third-place finishes during the 1932–33 and 1933–34 seasons, with added notables such as Antonio Vojak , Arnaldo Sentimenti and Carlo Buscaglia . However, in the years leading up to World War II, Napoli went into decline, only surviving relegation in 1939–40 by goal average.
+Napoli lost a closely contested relegation battle at the end of 1942 and were relegated to Serie B . [ citation needed ] They moved from the Stadio Giorgio Ascarelli to the Stadio Arturo Collana and remained in Serie B until after the war. [ citation needed ]
+
+=== chunk 9 · Post-war era and first trophies ===
+Play restarted in 1945 with two divisions: one consisting of Serie A teams from the north and one combined division of Serie A and Serie B teams from the central and south, with the top four of each division advancing to the national round that followed. Napoli won the Centro-Sud Serie A-B to secure a place in the Divisione Nazionale (where they placed fifth) and automatic promotion to the next season's Serie A. They were relegated after two seasons for a bribery scandal. The club won the Serie B titles that season to ensure top flight football at the start of the 1950s. Napoli moved to their new home ground Stadio San Paolo in 1959. [ citation needed ]
+Despite erratic league form with highs and lows during this period, including multiple relegations and promotions, Napoli won their first major trophy when they beat SPAL to lift the Coppa Italia in 1962, with goals from Gianni Corelli and Pierluigi Ronzon . The victory made Napoli the first team to win the Coppa while in Serie B, and they were promoted to Serie A that season. Their fourth relegation cut celebrations short the following season.
+
+=== chunk 10 · Name change ===
+As the club changed their name to Società Sportiva Calcio Napoli on 25 June 1964 they began to rise up again, gaining promotion in 1964–65 . Under the management of former player Bruno Pesaola , they won the Coppa delle Alpi and were back among the elite in Serie A, with consistent top-five finishes. Napoli came very close to winning the league in 1967–68 , finishing just behind Milan in second place. Some of the most popular players from this period were Dino Zoff , José Altafini , Omar Sívori and hometown midfielder Antonio Juliano . Juliano would eventually break the appearance records, which still stands today.
+
+=== chunk 11 · League stability and second Coppa Italia ===
+The trend of Napoli performing well in the league continued into the 1970s, with third place spots in 1970–71 and 1973–74 . Under the coaching of former player Luís Vinício , this gained them entry into the early UEFA Cup competitions. In 1974–75 , they reached the third round knocking out Porto 2–0 en route . During the same season , Napoli finished second in Serie A, just two points behind champions Juventus . Solid performances from locally born players such as Giuseppe Bruscolotti , Antonio Juliano and Salvatore Esposito were relied upon during this period, coupled with goals from Giuseppe Savoldi .
+
+=== chunk 12 · League stability and second Coppa Italia ===
+The club won their second Coppa Italia trophy in 1975–76 , eliminating Milan and Fiorentina en route , before beating rivals Hellas Verona 4–0 in the finals . That season, they also defeated Southampton 4–1 on aggregate to lift the 1976 Anglo-Italian League Cup . Napoli were entered into the UEFA Cup Winners' Cup for 1976–77 , where they reached the semi-finals, losing 2–1 on aggregate to Anderlecht . In the Italian league, Napoli were still very much a consistent top six side for much of the late 1970s. Even into the earliest two seasons of the 1980s, the club were performing respectably with a third-place finish in 1980–81 . Napoli's Primavera squad was also doing well at the time, winning the Torneo di Viareggio Cup in 1975 and their only Campionato Nazionale Primavera title in 1979. However, by 1983, they had slipped dramatically and were involved in relegation battles.
+
+=== chunk 13 · Napoli on the rise: Maradona era ===
+Napoli broke the world transfer record fee after acquiring Diego Maradona in a €12 million deal from Barcelona on 30 June 1984. The squad was gradually re-built, with the likes of Ciro Ferrara , Salvatore Bagni and Fernando De Napoli filling the ranks. The rise up the tables was gradual, by 1985–86 , they had a third-place finish under their belts, but better was yet to come. With the attacking trio of Maradona, Bruno Giordano , and Careca (nicknamed MaGiCa), the 1986–87 season was the landmark in Napoli's history, becoming just the third Italian team to win the double after securing the Serie A title by three points and then beating Atalanta 4–0 to lift the Coppa Italia .
+Because a mainland Southern Italian team had never won the league before, this turned Maradona into a cultural, social and borderline religious icon for Neapolitans, which stretched beyond the realms of just football.
+
+=== chunk 14 · Napoli on the rise: Maradona era ===
+The club were unsuccessful in the European Cup in the following season and finished runners-up in Serie A . However, Napoli were entered into the UEFA Cup for 1988–89 and won their first major European titles. Juventus, Bayern Munich and PAOK were defeated en route to the final, where Napoli beat VfB Stuttgart 5–4 on aggregate, with two goals from Careca and one each from Maradona, Ferrara and Alemão .
+Napoli added their second Serie A titles in 1989–90 , defeating Milan by two points in the titles race. However, this was surrounded by less auspicious circumstances as Napoli were awarded two points for a game, when in Bergamo , an Atalanta fan threw a 100 lira coin at Alemão's head.
+A controversial set of events set off at the 1990 World Cup , when Maradona made comments pertaining to North–South inequality in the country and the risorgimento , asking Neapolitans to root for Argentina in the semi-finals against Italy in Naples.
+I don't like the fact that now everybody is asking Neapolitans to be Italian and to support their national team. Naples has always been marginalised by the rest of Italy. It is a city that suffers the most unfair racism.
+— Diego Maradona , July 1990
+
+=== chunk 15 · Napoli on the rise: Maradona era ===
+The Stadio San Paolo was the only stadium during the competition where the Argentine National Anthem was not jeered, Maradona bowed to the Napoli fans at the end and his country went on to reach the finals. However, after the finals, the Italian Football Federation (FIGC) forced Maradona to take a doping test, which he failed testing positive for cocaine ; both Maradona and Napoli staff later claimed it was a revenge plot for events at the World Cup. Maradona was banned for 15 months and would never play for the club again. The club still won the Supercoppa Italiana that year, with a record 5–1 victory against Juventus, but it would be their last major trophy for 22 years. In the European Cup , they were eliminated in the second round.
+
+=== chunk 16 · Decline ===
+Though the club finished fourth during the 1991–92 season, Napoli gradually went into decline after that season, both financially and on the field. Players such as Gianfranco Zola , Daniel Fonseca , Ciro Ferrara and Careca had all departed by 1994. Nonetheless, Napoli qualified for the 1994–95 UEFA Cup , reaching the third round and in 1996–97 , Napoli appeared at the Coppa Italia finals, but lost 3–1 to Vicenza ; Napoli's primavera squad won the Coppa Italia Primavera that season. Napoli's league form had dropped lower, and relegation to Serie B came at the end of 1997–98 when they won only two matches all season.
+The club returned to Serie A after gaining promotion in the 1999–2000 season, though after a closely contested relegation battle, they were relegated immediately back down the following season. By August 2004, Napoli was declared bankrupt. To secure football in the city, film producer Aurelio De Laurentiis re-founded the club under the name Napoli Soccer, as they were not allowed to use their old name until the next season. FIGC placed Napoli in Serie C1 , where they missed out on promotion after losing 2–1 in play-offs to local rivals Avellino in 2004–05 .
+
+=== chunk 17 · Decline ===
+Despite the fact Napoli were playing in a low division, they retained higher average attendances than most of the Serie A clubs, breaking the Serie C attendance record with 51,000 at one match.
+
+=== chunk 18 · Resurgence ===
+The following season , they secured promotion to Serie B and De Laurentiis brought back the club's history, restoring its name to Società Sportiva Calcio Napoli in May 2006. After just one season in Serie B, they were promoted to the top division, along with Juventus and other fellow "sleeping giants" Genoa . In 2010, under manager Walter Mazzarri , Napoli finished in sixth place to qualify for a 2010–11 UEFA Europa League spot. Napoli finished third in the 2010–11 season , qualifying directly for the group stage of the 2011–12 UEFA Champions League .
+
+=== chunk 19 · Resurgence ===
+In the 2011–12 season , Napoli ended in fifth place in Serie A , but defeated unbeaten champions Juventus at the Stadio Olimpico to win the Coppa Italia for the fourth time in the club's history, 25 years after their last cup win. The team finished second in its group of the 2011–12 UEFA Champions League, progressing to the round of 16, where they were eliminated by eventual winners Chelsea . In 2012–13 , Napoli finished in second place in Serie A , the club's best performance since winning the 1989–90 Scudetto . Edinson Cavani finished as top scorer in the division with 29 goals, which resulted in him being sold to Paris Saint-Germain for a club-record fee of €64 million.
+
+=== chunk 20 · Resurgence ===
+In the 2013 close-season, Mazzarri left Napoli and Rafael Benítez became the club's manager . They finished the 2013–14 season by winning the 2014 Coppa Italia finals , their fifth title in the tournament, with a 3–1 win against Fiorentina , as well as qualifying for the Champions League, but missed out on the group stage as they lost to Athletic Bilbao in the play-off round. [ citation needed ] Their subsequent run in the Europa League ended when they lost 2–1 on aggregate to Dnipro in the semi-finals. [ citation needed ] They finished the 2014–15 season in fifth, with Benítez then leaving for Real Madrid and being replaced by Maurizio Sarri . [ citation needed ]
+
+=== chunk 21 · Resurgence ===
+In Sarri's first season in charge in the 2015–16 season , Napoli finished in second place with 82 points, and were knocked out of the Europa League in the round of 32 against Villarreal . [ citation needed ] In the following season, Napoli finished in third place on 86 points and were knocked out of the Champions League in the round of 16 against Real Madrid. [ citation needed ] This year saw the breakout season for Dries Mertens who scored 34 goals in all competitions after he was moved from the left-wing to centre-forward following Milik 's torn Anterior cruciate ligament . [ citation needed ]
+
+=== chunk 22 · Resurgence ===
+In the 2017–18 season, Napoli challenged for the titles for the entire season, and finished with a club record of 91 points. However, the titles ultimately went to Juventus in the penultimate round of matches. On 23 December 2017, Marek Hamšík overtook Diego Maradona as Napoli's all-time leading scorer after scoring his 115th goal. At the end of the season, Sarri left for Chelsea, succeeded by Carlo Ancelotti in May 2018. He managed the club to another second-place finish, but was sacked on 10 December 2019, following a poor run of results in the 2019–20 season which left them seventh in the table. Gennaro Gattuso was named head coach the next day. On 14 June 2020, Dries Mertens became Napoli's all-time top scorer after scoring his 122nd goal in a Coppa Italia semi-finals match against Inter . Napoli went on to win the 2019–20 Coppa Italia in a penalty shoot-out against Juventus in the finals .
+In December 2020, Napoli renamed San Paolo after club icon Diego Maradona , following his passing. Napoli finished fifth in Serie A that season after a draw on the finals day, missing a Champions League berth by one point. [ citation needed ]
+
+=== chunk 23 · Resurgence ===
+In the 2021–22 season, Luciano Spalletti replaced Gennaro Gattuso as head coach and led the team to the third place in Serie A, securing a Champions League spot for the azzurri after a two-years absence.
+
+=== chunk 24 · Scudetto return ===
+In the 2022–23 season, Napoli clinched the Serie A title for the first time since the 1989–90 season, and their third title overall, following a 1–1 draw against Udinese on 4 May 2023, their first time as titleholders since the days of Diego Maradona. Meanwhile, in the Champions League , Spalletti led them to the quarter-finals for the first time in their European history, where they were beaten 2–1 (1–0 away and 1–1 at home) by fellow Serie A side Milan.
+The 2023–24 season proved to be extremely difficult for the club, as they went through three different coaches – Rudi Garcia , a returning Walter Mazzarri, and Francesco Calzona ; this managerial instability, as well as the new hires largely not performing to the club's expectations, led the Azzurri to finish 10th in the league, 41 points behind eventual champions Inter. In Europe, the club passed the group stage of the 2023–24 UEFA Champions League in a group with Real Madrid , Union Berlin and Braga , but were ultimately eliminated by Barcelona in the round of 16.
+
+=== chunk 25 · Scudetto return ===
+For the 2024–25 season, the club signed Antonio Conte in a bid to contest the title again. Their season started out with a 3–0 away loss against Hellas Verona , but the Azzurri quickly bounced back with five wins and one draw in the following six matches. The team also signed Scott McTominay and Romelu Lukaku late during summer, both players turning out to be very important for the title campaign. Napoli maintained strong form throughout the campaign and entered the final matchday one point ahead of Inter Milan , and won the title by winning 2–0 over Cagliari on 23 May, winning their fourth title, the second in a three-year span, cementing Napoli as a consistent contender in the Serie A.
+
+=== chunk 26 · Presidents ===
+Below is the official presidential history of Napoli, from when Giorgio Ascarelli took over at the club in 1926, until the present day.
+1: Name Years Giorgio Ascarelli 1926–1927 Gustavo Zinzaro 1927–1928 Giovanni Maresca 1928–1929 Giorgio Ascarelli 1929–1930 Giovanni Maresca Eugenio Coppola 1930–1932 Vincenzo Savarese 1932–1936 Achille Lauro 1936–1940 Gaetano Del Pezzo 1941 Tommaso Leonetti 1942–1943 Luigi Piscitelli 1941–1943 Annibale Fienga 1943–1945 Vincenzo Savarese 1945–1946 · 3: Name Years Pasquale Russo 1946–1948 Egidio Musollino 1948–1951 Alfonso Cuomo 1951–1952 Achille Lauro 1952–1954 Alfonso Cuomo 1954–1963 Luigi Scuotto 1963–1964 Roberto Fiore 1964–1967 Gioacchino Lauro 1967–1968 Antonio Corcione 1968–1969 Corrado Ferlaino 1969–1971 Ettore Sacchi 1971–1972 Corrado Ferlaino 1972–1983 Marino Brancaccio 1983 · 5: Name Years Corrado Ferlaino 1983–1993 Ellenio F. Gallo 1993–1995 Vincenzo Schiano di Colella (honorary president) 1995–1996 Gian Marco Innocenti (honorary president) 1997–1998 Federico Scalingi (honorary president) 1999–2000 Giorgio Corbelli 2000–2002 Salvatore Naldi 2002–2004 Aurelio De Laurentiis 2004–
+0: Name · 1: Years
+0: Giorgio Ascarelli · 1: 1926–1927
+
+=== chunk 27 · Presidents ===
+0: Gustavo Zinzaro · 1: 1927–1928
+0: Giovanni Maresca · 1: 1928–1929
+0: Giorgio Ascarelli · 1: 1929–1930
+0: Giovanni Maresca Eugenio Coppola · 1: 1930–1932
+0: Vincenzo Savarese · 1: 1932–1936
+0: Achille Lauro · 1: 1936–1940
+0: Gaetano Del Pezzo · 1: 1941
+0: Tommaso Leonetti · 1: 1942–1943
+0: Luigi Piscitelli · 1: 1941–1943
+0: Annibale Fienga · 1: 1943–1945
+0: Vincenzo Savarese · 1: 1945–1946
+0: Name · 1: Years
+0: Pasquale Russo · 1: 1946–1948
+0: Egidio Musollino · 1: 1948–1951
+0: Alfonso Cuomo · 1: 1951–1952
+0: Achille Lauro · 1: 1952–1954
+0: Alfonso Cuomo · 1: 1954–1963
+0: Luigi Scuotto · 1: 1963–1964
+0: Roberto Fiore · 1: 1964–1967
+0: Gioacchino Lauro · 1: 1967–1968
+0: Antonio Corcione · 1: 1968–1969
+0: Corrado Ferlaino · 1: 1969–1971
+0: Ettore Sacchi · 1: 1971–1972
+0: Corrado Ferlaino · 1: 1972–1983
+0: Marino Brancaccio · 1: 1983
+0: Name · 1: Years
+0: Corrado Ferlaino · 1: 1983–1993
+0: Ellenio F. Gallo · 1: 1993–1995
+0: Vincenzo Schiano di Colella (honorary president) · 1: 1995–1996
+0: Gian Marco Innocenti (honorary president) · 1: 1997–1998
+0: Federico Scalingi (honorary president) · 1: 1999–2000
+0: Giorgio Corbelli · 1: 2000–2002
+0: Salvatore Naldi · 1: 2002–2004
+
+=== chunk 28 · Presidents ===
+0: Aurelio De Laurentiis · 1: 2004–
+
+=== chunk 29 · Managers ===
+Napoli has had many managers and trainers, co-managers in some seasons, since 1926.
+
+=== chunk 30 · Managers ===
+1: Name Nationality  Years Antonio Kreutzer [de] 1926–1927 Bino Skasa 1927 Technical Commission Rolf Steiger Giovanni Terrile [it] Ferenc Molnár  1927–1928 Otto Fischer 1928 Giovanni Terrile [it] 1928–1929 William Garbutt 1929–1935 Károly Csapkay 1935–1936 Angelo Mattea 1936–1938 Eugen Payer [it] 1938–1939 Technical Commission Amedeo D'Albora Paolo Jodice Luigi Castello Achille Piccini Nereo Rocco 1939 Adolfo Baloncieri 1939–1940 Antonio Vojak 1940–1943 Paulo Innocenti  1943 Raffaele Sansone  1945–1947 Giovanni Vecchina 1947–1948 Arnaldo Sentimenti 1948 Felice Placido Borel 1948–1949 Luigi De Manes [it] 1949 Vittorio Mosele [it] 1949 Eraldo Monzeglio 1949–1956 Amedeo Amadei 1956–1959 Annibale Frossi 1959 Amedeo Amadei 1959–1961 Amedeo Amadei 1961 Renato Cesarini Attila Sallustro  1961 Fioravante Baldi [it] 1961–1962 Bruno Pesaola  1962 Bruno Pesaola  1962–1963 Eraldo Monzeglio Roberto Lerici 1963–1964 Giovanni Molino [it] 1964 Bruno Pesaola  1964–1968 Giuseppe Chiappella 1968–1969 Egidio Di Costanzo [it] 1969 Giuseppe Chiappella 1969–1973 Luís Vinício 1973–1976 Alberto Delfrati [it] 1976 Rosario Rivellino [it] Bruno Pesaola  1976–1977 Rosario Rivellino [it] 1977 Gianni Di Marzio 1977–1978 Luís Vinício 1978–1980 Angelo Sormani  1980 Rino Marchesi 1980–1982 Massimo Giacomini 1982 Bruno Pesaola  1982–1983 Pietro Santin [it] 1983–1984 Rino Marchesi 1984–1985 · 3: Name Nationality  Years Ottavio Bianchi 1 July 1986 – 30 June 1989 Alberto Bigon 1989–1991 Claudio Ranieri 1 July 1991 – 30 June 1993 Ottavio Bianchi 1 November 1992 – 30 June 1993 Marcello Lippi 1 July 1993 – 30 June 1994 Vincenzo Guerini 1 July 1994 – 17 October 1994 Vujadin Boškov Cané (Jarbas Faustinho)  18 October 1994 – 1995 Vujadin Boškov Aldo Sensibile  1995 – 30 June 1996 Luigi Simoni 1996–1997 Vincenzo Montefusco 1997 Bortolo Mutti 1 July 1997 – 6 October 1997 Carlo Mazzone 19 October 1997 – 24 November 1997 Giovanni Galeone 1997–1998 Vincenzo Montefusco 1998 Renzo Ulivieri 1998–1999 Vincenzo Montefusco 1999 Walter Novellino 1999–2000 Zdeněk Zeman 1 July 2000 – 12 November 2000 Emiliano Mondonico 13 November 2000 – 30 June 2001 Luigi De Canio 1 July 2001 – 30 June 2002 Franco Colomba 1 July 2002 – 16 December 2002 Sergio Buso 2002 Franco Scoglio 18 December 2002 – 30 June 2003 Franco Colomba 2003 Andrea Agostinelli 19 June 2003 – 9 November 2003 Luigi Simoni 10 November 2003 – 30 June 2004 Gian Piero Ventura 1 July 2004 – 25 January 2005 Edoardo Reja 3 January 2005 – 10 March 2009 Roberto Donadoni 10 March 2009 – 5 October 2009 Walter Mazzarri 6 October 2009 – 20 May 2013 Rafael Benítez 27 May 2013 – 31 May 2015 Maurizio Sarri 11 June 2015 – 23 May 2018 Carlo Ancelotti 23 May 2018 – 10 December 2019 Gennaro Gattuso 11 December 2019 – 23 May 2021 Luciano Spalletti 29 May 2021 – 14 June 2023 Rudi Garcia 15 June 2023 – 14 November 2023 Walter Mazzarri 14 November 2023 – 19 February 2024 Francesco Calzona 19 February 2024 – 5 June 2024 Antonio Conte 5 June 2024 –
+
+=== chunk 31 · Managers ===
+0: Name · 1: Nationality · 2: Years
+0: Antonio Kreutzer [de] · 2: 1926–1927
+0: Bino Skasa · 2: 1927
+0: Technical Commission Rolf Steiger Giovanni Terrile [it] Ferenc Molnár · 2: 1927–1928
+0: Otto Fischer · 2: 1928
+0: Giovanni Terrile [it] · 2: 1928–1929
+0: William Garbutt · 2: 1929–1935
+0: Károly Csapkay · 2: 1935–1936
+0: Angelo Mattea · 2: 1936–1938
+0: Eugen Payer [it] · 2: 1938–1939
+0: Technical Commission Amedeo D'Albora Paolo Jodice Luigi Castello Achille Piccini Nereo Rocco · 2: 1939
+0: Adolfo Baloncieri · 2: 1939–1940
+0: Antonio Vojak · 2: 1940–1943
+0: Paulo Innocenti · 2: 1943
+0: Raffaele Sansone · 2: 1945–1947
+0: Giovanni Vecchina · 2: 1947–1948
+0: Arnaldo Sentimenti · 2: 1948
+0: Felice Placido Borel · 2: 1948–1949
+0: Luigi De Manes [it] · 2: 1949
+0: Vittorio Mosele [it] · 2: 1949
+0: Eraldo Monzeglio · 2: 1949–1956
+0: Amedeo Amadei · 2: 1956–1959
+0: Annibale Frossi · 2: 1959
+0: Amedeo Amadei · 2: 1959–1961
+0: Amedeo Amadei · 2: 1961
+0: Renato Cesarini · 2: 1961
+0: Attila Sallustro · 2: 1961
+0: Fioravante Baldi [it] · 2: 1961–1962
+0: Bruno Pesaola · 2: 1962
+0: Bruno Pesaola · 2: 1962–1963
+0: Eraldo Monzeglio · 2: 1962–1963
+0: Roberto Lerici · 2: 1963–1964
+
+=== chunk 32 · Managers ===
+0: Giovanni Molino [it] · 2: 1964
+0: Bruno Pesaola · 2: 1964–1968
+0: Giuseppe Chiappella · 2: 1968–1969
+0: Egidio Di Costanzo [it] · 2: 1969
+0: Giuseppe Chiappella · 2: 1969–1973
+0: Luís Vinício · 2: 1973–1976
+0: Alberto Delfrati [it] · 2: 1976
+0: Rosario Rivellino [it] · 2: 1976
+0: Bruno Pesaola · 2: 1976–1977
+0: Rosario Rivellino [it] · 2: 1977
+0: Gianni Di Marzio · 2: 1977–1978
+0: Luís Vinício · 2: 1978–1980
+0: Angelo Sormani · 2: 1980
+0: Rino Marchesi · 2: 1980–1982
+0: Massimo Giacomini · 2: 1982
+0: Bruno Pesaola · 2: 1982–1983
+0: Pietro Santin [it] · 2: 1983–1984
+0: Rino Marchesi · 2: 1984–1985
+0: Name · 1: Nationality · 2: Years
+0: Ottavio Bianchi · 2: 1 July 1986 – 30 June 1989
+0: Alberto Bigon · 2: 1989–1991
+0: Claudio Ranieri · 2: 1 July 1991 – 30 June 1993
+0: Ottavio Bianchi · 2: 1 November 1992 – 30 June 1993
+0: Marcello Lippi · 2: 1 July 1993 – 30 June 1994
+0: Vincenzo Guerini · 2: 1 July 1994 – 17 October 1994
+0: Vujadin Boškov Cané (Jarbas Faustinho) · 2: 18 October 1994 – 1995
+0: Vujadin Boškov Aldo Sensibile · 2: 1995 – 30 June 1996
+0: Luigi Simoni · 2: 1996–1997
+0: Vincenzo Montefusco · 2: 1997
+0: Bortolo Mutti · 2: 1 July 1997 – 6 October 1997
+
+=== chunk 33 · Managers ===
+0: Carlo Mazzone · 2: 19 October 1997 – 24 November 1997
+0: Giovanni Galeone · 2: 1997–1998
+0: Vincenzo Montefusco · 2: 1998
+0: Renzo Ulivieri · 2: 1998–1999
+0: Vincenzo Montefusco · 2: 1999
+0: Walter Novellino · 2: 1999–2000
+0: Zdeněk Zeman · 2: 1 July 2000 – 12 November 2000
+0: Emiliano Mondonico · 2: 13 November 2000 – 30 June 2001
+0: Luigi De Canio · 2: 1 July 2001 – 30 June 2002
+0: Franco Colomba · 2: 1 July 2002 – 16 December 2002
+0: Sergio Buso · 2: 2002
+0: Franco Scoglio · 2: 18 December 2002 – 30 June 2003
+0: Franco Colomba · 2: 2003
+0: Andrea Agostinelli · 2: 19 June 2003 – 9 November 2003
+0: Luigi Simoni · 2: 10 November 2003 – 30 June 2004
+0: Gian Piero Ventura · 2: 1 July 2004 – 25 January 2005
+0: Edoardo Reja · 2: 3 January 2005 – 10 March 2009
+0: Roberto Donadoni · 2: 10 March 2009 – 5 October 2009
+0: Walter Mazzarri · 2: 6 October 2009 – 20 May 2013
+0: Rafael Benítez · 2: 27 May 2013 – 31 May 2015
+0: Maurizio Sarri · 2: 11 June 2015 – 23 May 2018
+0: Carlo Ancelotti · 2: 23 May 2018 – 10 December 2019
+0: Gennaro Gattuso · 2: 11 December 2019 – 23 May 2021
+0: Luciano Spalletti · 2: 29 May 2021 – 14 June 2023
+0: Rudi Garcia · 2: 15 June 2023 – 14 November 2023
+
+=== chunk 34 · Managers ===
+0: Walter Mazzarri · 2: 14 November 2023 – 19 February 2024
+0: Francesco Calzona · 2: 19 February 2024 – 5 June 2024
+0: Antonio Conte · 2: 5 June 2024 –
+
+=== chunk 35 · Retired numbers ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 10 FW  ARG Diego Maradona (1984–1991)
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 10 · 1: FW · 2: ARG · 3: Diego Maradona (1984–1991)
+In the summer of 2000, Napoli retired the jersey number 10 belonged to former club legend Diego Maradona , who played for the club from 1984 to 1991. Since the adoption of persistent squad numbers with players names printed on the jersey, the last players to wear the number 10 were Fausto Pizzi (in 1995–1996), Beto (in 1996–1997), Igor Protti (in 1997–1998) who was the last player to play and score a goal with the number 10 shirt in Serie A and Claudio Bellucci (from 1998 to 2000 in Serie B ).
+
+=== chunk 36 · Retired numbers ===
+However, for regulatory reasons, the number was reissued from 2004 to 2006 in Serie C1 , as at the time Italy's third level tournament still used the old numbering from 1 to 11, without printed names. The last player to wear and score goals with this shirt in an official match was Mariano Bogliacino in the home match of 18 May 2006 against Spezia , valid for the finals leg of the Supercoppa di Lega Serie C1 ; primacy belongs to him also for last appearance in the championship, 12 May 2006 at the home match against Lanciano . As regards exclusively the championship, however, the honour goes to the Argentine footballer Roberto Sosa , the distinction of being the last to wear the 10 at the San Paolo and at the same time to score in the match against Frosinone on 30 April 2006.
+
+=== chunk 37 · Colours, badge and nicknames ===
+As Naples is a coastal city, the colours of the club have always been derived from the blue waters of the Gulf of Naples . Originally, while using the name Naples FBC , the colours of the club implemented two shades of blue. However, since the 1920s, a singular blue tone has been used in the form of azure. Thus, Napoli share the nickname " Azzurri " with the Italy national team . The shade of blue has been sky blue in many instances.
+Napoli typically wear azure shirts with white shorts at home and white shirts with either white or blue shorts away, though in recent years the away kits have often deviated from this tradition.
+One of the nicknames of Napoli is " I ciucci ", which means "the donkeys" in the Neapolitan language . Napoli were given this name after a particularly poor performance during the 1926–27 season . It was originally meant to be derogatory, as the Neapolitan symbol is a rampant black horse, but the club adopted the donkey as a mascot named "' O Ciuccio ".
+
+=== chunk 38 · Colours, badge and nicknames ===
+Napoli's first badge featured a rampant horse on top of a football with the letters "ACN" around it. The current club badge features a large "N" placed within a circle. This crest can be traced back to Internazionale Napoli , which used a similar design on their shirts. Since the club officially adopted the "N badge" as its representative, Napoli have altered it slightly at various times; sometimes it features the club's name around it, sometimes it does not. The main difference between each badge is the shade of blue used. Usually the "N" is white, although it has occasionally been gold (especially prior to 1980).
+" Partenopei " is a popular nickname for the club and people from the city of Naples in general. It is derived from Greek mythology where the siren Parthenope tried to enchant Odysseus from his ship to Capri . In the story, Odysseus had his men tie him to the ship's mast so he was able to resist the song of the siren. Consequently, Parthenope, unable to live with the rejection of her love, drowned herself and her body was washed up upon the shore of Naples.
+
+=== chunk 39 · Support ===
+Napoli is the fourth most supported football club in Italy with around 13% of Italian football fans supporting the club. Like other top clubs in the country, Napoli's fanbase goes beyond the Italian border; in 2018, the society announced that the team had over 35 million supporters worldwide and 120 million people who liked to watch Napoli matches. [ citation needed ]
+The main ultra groups of Napoli are Fedayn EAM 1979 , Ultras Napoli , Fossato Flegreo , Secco Vive , Mastiffs , Brigata Carolina , Teste Matte , Sud1996 , Nuova Guardia , Vecchi Lions and Masseria .
+Napoli fans have occasionally cheered loud enough to register as earthquakes on seismographs at University of Naples Federico II .
+
+=== chunk 40 · Support ===
+In the morning we went to the San Paolo to warm up, Carlos ( Tevez ) was telling me about this stadium, but I've played for Barça so I said to myself, it can't be that big of a deal! Yet when I set foot on that pitch I felt something magical, different. In the evening, when there was the anthem of the Champions League, hearing 80,000 people whistling us I realized what a mess we were in! I did play some important matches in my career, but when I heard that cry for the first time my legs were shaking! Well, it was there that I realized that for those people this is not just a team, it is a visceral love, like the one between a mother and a son! It was the only time I remained on the pitch after losing a match, just to enjoy the show.
+
+=== chunk 41 · Rivalries ===
+Unlike other Italian cities such as Genoa , Milan, Rome and Turin , Napoli is the only major football club in the city, and therefore there is no derby in the strict sense of the term. The now-infrequent derby with Savoia , the next largest club in Naples, was played for the first time 24 December 1939, during the knockout phase of the 1939–40 Coppa Italia , the score was 1–3 in favor of Napoli. The last meeting between the clubs was in Serie B in 2000, won 0–1 by Napoli.
+
+=== chunk 42 · Rivalries ===
+Napoli's most hated rivals are Juventus . There is also a strong rivalry with Roma . Even though there used to be an official friendship between Napoli and AS Roma fans, particularly strong in the 70s and 80s and known as the Derby del Sole (Derby of the Sun), the friendship ended in 1987 and became a rivalry who got worse around 2001, and reached its peak after the 2014 Coppa Italia final , when a Roma fan killed Napoli fan Ciro Esposito near the Stadio Olimpico , shooting him with a gun. As Napoli is one of the most important southern Italian teams, there are a lot of rivalries with several northern teams, like Milan , Internazionale , Atalanta BC and Hellas Verona . Napoli fans also have a fierce rivalry with the other Roman club Lazio , and contest the Derby del Mezzogiorno (Midday Derby/Derby of Southern Italy) against Bari and Derby Bourbon (referencing the family that ruled the Kingdom of the Two Sicilies) against Foggia . [ citation needed ]
+The Derby del Sud Italia (Derby of Southern Italy) against Catanzaro was considered one of the most important rivalries in Italy during the 1970s.
+
+=== chunk 43 · Rivalries ===
+The fans of Napoli do [ clarification needed ] co-star in two particular derbies in Italy against other regional teams: Derby della Campania generally refers to a rivalry with regional clubs, mainly Avellino and Salernitana .
+
+=== chunk 44 · Friendships ===
+A "friendly rivalry" with Palermo is contested, known as the Derby delle Due Sicilie (Derby of the Two Sicilies), in reference to the historical link of the former Kingdom of Two Sicilies . Another friendly rivalry exists with Catania known as the Derby del Vulcano (Volcano Derby), referencing Mount Vesuvius near Naples and Mount Etna near Catania. [ citation needed ]
+Friendships with teams outside Italy exist with Borussia Dortmund , Celtic , Lokomotiv Plovdiv , Paris Saint-Germain , and Red Star Belgrade .
+Napoli formerly had a famous and long-standing friendship with the fans of Genoa , but the friendship ended in 2019. Napoli also once had a friendship with Roma.
+
+=== chunk 45 · Finances ===
+SSC Napoli was expelled from the professional league in 2004. Thanks to Article 52 of NOIF , the sports title was transferred to Napoli Soccer (later the "new" Napoli) in the same year, while the corporate entity which administered the "old" Napoli was liquidated. In the second last season before bankruptcy, the club was partially saved by the non-standard accounting practice of amortization after Silvio Berlusconi , owner of Milan and Prime Minister of Italy , introduced Italian Law 91/1981, Article 18B .
+Since re-foundation in 2004, the club's large numbers of supporters provided the main source of income, particularly through gate revenues and TV rights. Napoli made an aggregate profit in 2006–07 Serie B . They have continued to be profitable since returning to Serie A. Napoli equity in 2005 was a negative €261,466, having started from €3 million capital. By 2010 the equity was at €25,107,223 and Napoli achieved self-sustainability.
+
+=== chunk 46 · Finances ===
+Year: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27 · Turnover: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27 · Result: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27 · Total Assets: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27 · Net Assets: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27 · Re-capitalization: S.S.C. Napoli S.p.A. (P.I. 03486600632) exchange rate €1 = L1936.27
+Year: 1999–2000 Serie B · Turnover: €25,120,308*# · Result: €203,378* · Total Assets: €111,556,811* · Net Assets: €5,952,921*
+Year: 2000–01 Serie A · Turnover: €54,966,464*# · Result: (€2,036,451)* · Total Assets: €154,624,699* · Net Assets: €3,896,132* · Re-capitalization: €0
+Year: 2001–02 Serie B · Turnover: €21,183,736*# · Result: (€28,856,093)* · Total Assets: €92,721,662* · Net Assets: (€2,166,997)* · Re-capitalization: ~€22.8 million
+Year: 2002–03 Serie B · Turnover: €20,428,522*# · Result: (€13,754,506)*¶ · Total Assets: €67,994,171*¶ · Net Assets: (€966,735)*¶ · Re-capitalization: ~€15 million
+
+=== chunk 47 · Finances ===
+Year: 2003–04 Serie B · Turnover: Not available due to bankruptcy · Result: Not available due to bankruptcy · Total Assets: Not available due to bankruptcy · Net Assets: Not available due to bankruptcy · Re-capitalization: Not available due to bankruptcy
+Year: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million** · Turnover: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million** · Result: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million** · Total Assets: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million** · Net Assets: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million** · Re-capitalization: S.S.C. Napoli S.p.A. (P.I. 04855461218) startup capital: €3 million**
+Year: 2004–05 Serie C1 · Turnover: €11,174,000 · Result: (€7,061,463) · Total Assets: €37,117,126 · Net Assets: (€261,466) · Re-capitalization: €3,800,000
+Year: 2005–06 Serie C1 · Turnover: €12,068,630 · Result: (€9,088,780) · Total Assets: €37,299,498 · Net Assets: €211,220 · Re-capitalization: €9,561,466
+
+=== chunk 48 · Finances ===
+Year: 2006–07 Serie B · Turnover: €41,411,837 · Result: €1,419,976 · Total Assets: €47,917,274 · Net Assets: €1,916,975 · Re-capitalization: €288,780
+Year: 2007–08 Serie A · Turnover: €88,428,490 · Result: €11,911,041 · Total Assets: €86,244,038 · Net Assets: €13,829,015 · Re-capitalization: €1,000
+Year: 2008–09 Serie A · Turnover: €108,211,134 · Result: €10,934,520 · Total Assets: €81,199,725 · Net Assets: €24,763,537 · Re-capitalization: €0
+Year: 2009–10 Serie A · Turnover: €110,849,458 · Result: €343,686 · Total Assets: €117,237,581 · Net Assets: €25,107,223 · Re-capitalization: €0
+Year: 2010–11 Serie A · Turnover: €131,476,940 · Result: €4,197,829 · Total Assets: €110,053,332 · Net Assets: €29,305,052 · Re-capitalization: €0
+Year: 2011–12 Serie A · Turnover: €155,929,550 · Result: €14,720,757 · Total Assets: €138,168,981 · Net Assets: €44,025,810 · Re-capitalization: €0
+Year: 2012–13 Serie A · Turnover: €151,922,436 · Result: €8,073,447 · Total Assets: €136,748,114 · Net Assets: €52,099,258 · Re-capitalization: €0
+Year: 2013–14 Serie A · Turnover: €237,034,664 · Result: €20,217,304 · Total Assets: €215,764,185 · Net Assets: €72,316,563 · Re-capitalization: €0
+
+=== chunk 49 · Finances ===
+Year: 2014–15 Serie A · Result: (€13.1m)
+Year: 2015–16 Serie A · Result: (€3.2m)
+Year: 2016–17 Serie A · Result: €66.6m
+Year: 2017–18 Serie A · Result: (€6.4m)
+Year: 2018–19 Serie A · Turnover: €216.6m · Result: €29.2m
+Year: 2019–20 Serie A · Turnover: €178.9m · Result: (€19.0m)
+Year: 2020–21 Serie A · Turnover: €179.4m · Result: (€58.9m)
+Year: 2021–22 Serie A · Turnover: €165.2m · Result: (€52.0m)
+Year: 2022–23 Serie A · Turnover: €359.2m · Result: €79.7m
+Year: 2023–24 Serie A · Turnover: €328.2m · Result: €63.0m
+
+=== chunk 50 · Kit suppliers and shirt sponsors ===
+Period: 1926–78 · Kit manufacturer: In-house
+Period: 1978–80 · Kit manufacturer: Puma
+Period: 1980–81 · Kit manufacturer: NR (Ennerre)
+Period: 1981–82 · Kit manufacturer: NR (Ennerre) · Front sponsor(s): Snaidero
+Period: 1982–83 · Kit manufacturer: NR (Ennerre) · Front sponsor(s): Cirio
+Period: 1983–84 · Kit manufacturer: NR (Ennerre) · Front sponsor(s): Latte Berna
+Period: 1984–85 · Kit manufacturer: Linea Time · Front sponsor(s): Cirio
+Period: 1985–88 · Kit manufacturer: NR (Ennerre) · Front sponsor(s): Buitoni
+Period: 1988–91 · Kit manufacturer: NR (Ennerre) · Front sponsor(s): Mars
+Period: 1991–94 · Kit manufacturer: Umbro · Front sponsor(s): Voiello
+Period: 1994–96 · Kit manufacturer: Lotto · Front sponsor(s): Record Cucine
+Period: 1996–97 · Kit manufacturer: Lotto · Front sponsor(s): Centrale del Latte di Napoli
+Period: 1997–99 · Kit manufacturer: Nike · Front sponsor(s): Polenghi
+Period: 1999–2000 · Kit manufacturer: Nike · Front sponsor(s): Peroni
+Period: 2000–03 · Kit manufacturer: Diadora · Front sponsor(s): Peroni
+Period: 2003–04 · Kit manufacturer: Legea · Front sponsor(s): Russo Cicciano
+
+=== chunk 51 · Kit suppliers and shirt sponsors ===
+Period: 2004–05 · Kit manufacturer: Kappa · Front sponsor(s): None (matches 1–7) / various Filmauro films (matches 8–23) / Mandi (match 24 – end of season)
+Period: 2005–06 · Kit manufacturer: Kappa · Front sponsor(s): Lete
+Period: 2006–09 · Kit manufacturer: Diadora · Front sponsor(s): Lete
+Period: 2009–11 · Kit manufacturer: Macron · Front sponsor(s): Lete
+Period: 2011–14 · Kit manufacturer: Macron · Front sponsor(s): Lete / MSC Cruises · Notes: European competitions Lete only
+Period: 2014–16 · Kit manufacturer: Macron · Front sponsor(s): Lete / Pasta Garofalo · Notes: European competitions Lete only
+Period: 2016–19 · Kit manufacturer: Kappa · Front sponsor(s): Lete / Pasta Garofalo · Back sponsor: Kimbo · Notes: European competitions Lete only
+Period: 2019–21 · Kit manufacturer: Kappa · Front sponsor(s): Lete / MSC Cruises · Back sponsor: Kimbo · Notes: European competitions Lete only
+Period: 2021–23 · Kit manufacturer: EA7 · Front sponsor(s): Lete / MSC Cruises · Back sponsor: Floki Inu · Sleeve sponsor: Amazon · Notes: European competitions Lete and Amazon only
+
+=== chunk 52 · Kit suppliers and shirt sponsors ===
+Period: 2023–24 · Kit manufacturer: EA7 · Front sponsor(s): MSC Cruises · Back sponsor: Upbit · Sleeve sponsor: eBay · Notes: European competitions MSC Cruises and eBay only
+Period: 2024–present · Kit manufacturer: EA7 · Front sponsor(s): MSC Cruises · Back sponsor: Sorgesana
+↑ Sky Captain (matches 8–11) / Christmas in Love (matches 12–19) / Manuale d'amore (matches 19–23)
+
+=== chunk 53 · League history ===
+1926–1929 Divisione Nazionale (1st tier)
+1929–1942 Serie A (1st tier)
+1942–1943 Serie B (2nd tier)
+1943–1946 No contests (World War II)
+1946–1948 Serie A (1st tier)
+1948–1950 Serie B (2nd tier) – Champions: 1950
+1950–1961 Serie A (1st tier)
+1961–1962 Serie B (2nd tier)
+1962–1963 Serie A (1st tier)
+1963–1965 Serie B (2nd tier)
+1965–1998 Serie A (1st tier) – Champions: 1987, 1990
+1998–2000 Serie B (2nd tier)
+2000–2001 Serie A (1st tier)
+2001–2004 Serie B (2nd tier)
+2004–2006 Serie C1 (3rd tier) – Champions: 2006
+2006–2007 Serie B (2nd tier)
+2007– present Serie A (1st tier) – Champions: 2023, 2025
+
+=== chunk 54 · Honours ===
+Type: Domestic · Competition: Serie A · Titles: 4 · Seasons: 1986–87, 1989–90, 2022–23, 2024–25
+Type: Domestic · Competition: Coppa Italia · Titles: 6 · Seasons: 1961–62, 1975–76, 1986–87, 2011–12, 2013–14, 2019–20
+Type: Domestic · Competition: Supercoppa Italiana · Titles: 2 · Seasons: 1990, 2014
+Type: Continental · Competition: UEFA Cup · Titles: 1 · Seasons: 1988–89
+Source:
+
+=== chunk 55 · Other titles ===
+Coppa delle Alpi Winners: (1) 1966
+Anglo-Italian League Cup Winners: (1) 1976
+Serie B Winners: (2) 1945–46 , 1949–50
+Serie C 1 Winners: (1) 2005–06 (Group B)
+
+=== chunk 56 · UEFA club coefficient ranking ===
+Rank: 32.0 · Team: Real Sociedad · Points: 65.0
+Rank: 33.0 · Team: Fiorentina · Points: 62.0
+Rank: 34.0 · Team: Napoli · Points: 61.0
+Rank: 35.0 · Team: Sporting Lisbon · Points: 59.0
+Rank: 36.0 · Team: Sevilla · Points: 58.0
+
+=== chunk 57 · Records and statistics ===
+Marek Hamšík holds Napoli's official appearance record, having made 520. He also holds the record for league appearances with 408 over the course of 12 years from 2007 to 2019.
+The all-time leading goal scorer for Napoli is Dries Mertens , with 148 goals. He also holds the record for league goals with 113.
+Diego Maradona finished the season of Serie A as the league's top scorer, known in Italy as the Capocannoniere , in the 1987–88 season with 15 goals. This achievement was matched by Edinson Cavani in 2012–13, Gonzalo Higuaín in 2015–16, and Victor Osimhen in 2022–23.
+The record for most goals in a single league season belongs to Gonzalo Higuaín , with 36 in the 2015–16 Serie A.
+The biggest ever victory recorded by Napoli was 8–1 against Pro Patria , in the 1955–56 season of Serie A. Napoli's heaviest championship defeat came during the 1927–28 season when eventual champions Torino beat them 11–0.
+On 26 July 2016, Gonzalo Higuaín became the third-highest football transfer of all-time and highest ever transfer for an Italian club when he joined Juventus for €90 million.
+
+=== chunk 58 · Records and statistics ===
+On 31 July 2020, Napoli confirmed the signing of Victor Osimhen from Lille for a transfer fee of €70 million, making him Napoli's most expensive signing of his history.

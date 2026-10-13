@@ -1,0 +1,634 @@
+# Benchmark questions made by make_questions.py (t0 = 2025-09-01, t1 = 2026-05-25)
+
+- id: 1
+  type: static
+  question: Which team finished 18th in Serie A in 2024-25?
+  answer_t0: [Empoli]
+  answer_t1: [Empoli]
+- id: 2
+  type: static
+  question: Who came fourth in the 2024/25 Serie A?
+  answer_t0: [Juventus, Juventus FC, Juve]
+  answer_t1: [Juventus, Juventus FC, Juve]
+- id: 3
+  type: static
+  question: Do you remember which club finished 20th in the 2024-25 Serie A table?
+  answer_t0: [Monza]
+  answer_t1: [Monza]
+- id: 4
+  type: static
+  question: Do you remember which club finished third in the 2024-25 Serie A table?
+  answer_t0: [Atalanta, Atalanta BC]
+  answer_t1: [Atalanta, Atalanta BC]
+- id: 5
+  type: static
+  question: In the 2024/25 Serie A season, which side ended up 19th?
+  answer_t0: [Venezia]
+  answer_t1: [Venezia]
+- id: 6
+  type: static
+  question: Name the club that finished top in Serie A in 2024-25.
+  answer_t0: [Napoli, SSC Napoli]
+  answer_t1: [Napoli, SSC Napoli]
+- id: 7
+  type: static
+  question: Name the club that finished ninth in Serie A in 2024-25.
+  answer_t0: [Bologna, Bologna FC 1909]
+  answer_t1: [Bologna, Bologna FC 1909]
+
+
+- id: 8
+  type: static
+  question: Where did Inter finish in Serie A in 2024-25?
+  answer_t0: [2nd, '2', second]
+  answer_t1: [2nd, '2', second]
+- id: 9
+  type: static
+  question: In what position did Roma finish the 2024/25 Serie A season?
+  answer_t0: [5th, '5', fifth]
+  answer_t1: [5th, '5', fifth]
+- id: 10
+  type: static
+  question: In what position did Venezia finish the 2024/25 Serie A season?
+  answer_t0: [19th, '19', nineteenth]
+  answer_t1: [19th, '19', nineteenth]
+- id: 11
+  type: static
+  question: In 2024-25, where did Hellas Verona end up in the Serie A table?
+  answer_t0: [14th, '14', fourteenth]
+  answer_t1: [14th, '14', fourteenth]
+- id: 12
+  type: static
+  question: Any idea where Genoa finished in the 2024/25 Serie A?
+  answer_t0: [13th, '13', thirteenth]
+  answer_t1: [13th, '13', thirteenth]
+- id: 13
+  type: static
+  question: What was Como's final position in the 2024-25 Serie A?
+  answer_t0: [10th, '10', tenth]
+  answer_t1: [10th, '10', tenth]
+- id: 14
+  type: static
+  question: What was Juventus's final position in the 2024-25 Serie A?
+  answer_t0: [4th, '4', fourth]
+  answer_t1: [4th, '4', fourth]
+
+
+- id: 15
+  type: static
+  question: How many points did Lazio finish the 2024-25 Serie A season with?
+  answer_t0: ['65']
+  answer_t1: ['65']
+- id: 16
+  type: static
+  question: What was Parma's final points total in the 2024/25 Serie A?
+  answer_t0: ['36']
+  answer_t1: ['36']
+- id: 17
+  type: static
+  question: What was Empoli's final points total in the 2024/25 Serie A?
+  answer_t0: ['31']
+  answer_t1: ['31']
+- id: 18
+  type: static
+  question: In the 2024-25 Serie A, how many points did Torino end up with?
+  answer_t0: ['44']
+  answer_t1: ['44']
+- id: 19
+  type: static
+  question: In the 2024-25 Serie A, how many points did Genoa end up with?
+  answer_t0: ['43']
+  answer_t1: ['43']
+- id: 20
+  type: static
+  question: Can you tell me how many league points Udinese collected in 2024/25?
+  answer_t0: ['44']
+  answer_t1: ['44']
+- id: 21
+  type: static
+  question: Can you tell me how many league points Monza collected in 2024/25?
+  answer_t0: ['18', eighteen]
+  answer_t1: ['18', eighteen]
+- id: 22
+  type: static
+  question: By the end of the 2024-25 Serie A season, how many points did Como have?
+  answer_t0: ['49']
+  answer_t1: ['49']
+
+
+- id: 23
+  type: static
+  question: How many league goals did Hellas Verona score in 2024-25?
+  answer_t0: ['34']
+  answer_t1: ['34']
+- id: 24
+  type: static
+  question: How many league goals did Cagliari concede in 2024-25?
+  answer_t0: ['56']
+  answer_t1: ['56']
+- id: 25
+  type: static
+  question: In the 2024/25 Serie A season, how many goals did Lecce score?
+  answer_t0: ['27']
+  answer_t1: ['27']
+- id: 26
+  type: static
+  question: Do you know how many goals Torino conceded in Serie A in 2024-25?
+  answer_t0: ['45']
+  answer_t1: ['45']
+- id: 27
+  type: static
+  question: Do you know how many goals Milan scored in Serie A in 2024-25?
+  answer_t0: ['61']
+  answer_t1: ['61']
+- id: 28
+  type: static
+  question: Over the whole 2024/25 Serie A season, how many goals did Napoli concede?
+  answer_t0: ['27']
+  answer_t1: ['27']
+- id: 29
+  type: static
+  question: Over the whole 2024/25 Serie A season, how many goals did Udinese score?
+  answer_t0: ['41']
+  answer_t1: ['41']
+- id: 30
+  type: static
+  question: How many goals had Fiorentina scored in Serie A by the end of 2024-25?
+  answer_t0: ['60']
+  answer_t1: ['60']
+- id: 31
+  type: static
+  question: How many goals had Bologna conceded in Serie A by the end of 2024-25?
+  answer_t0: ['47']
+  answer_t1: ['47']
+
+
+- id: 32
+  type: static
+  question: Who was Milan's head coach on the final matchday of the 2024-25 Serie A?
+  answer_t0: [Sérgio Conceição, Conceição]
+  answer_t1: [Sérgio Conceição, Conceição]
+- id: 33
+  type: static
+  question: Who was in charge of Fiorentina for their last league game of 2024/25?
+  answer_t0: [Raffaele Palladino, Palladino]
+  answer_t1: [Raffaele Palladino, Palladino]
+- id: 34
+  type: static
+  question: Who was in charge of Cagliari for their last league game of 2024/25?
+  answer_t0: [Davide Nicola, Nicola]
+  answer_t1: [Davide Nicola, Nicola]
+- id: 35
+  type: static
+  question: Who coached Lazio on the last day of the 2024-25 Serie A season?
+  answer_t0: [Marco Baroni, Baroni]
+  answer_t1: [Marco Baroni, Baroni]
+- id: 36
+  type: static
+  question: Who coached Roma on the last day of the 2024-25 Serie A season?
+  answer_t0: [Claudio Ranieri, Ranieri]
+  answer_t1: [Claudio Ranieri, Ranieri]
+- id: 37
+  type: static
+  question: Any idea who was managing Parma in the final round of Serie A in 2024/25?
+  answer_t0: [Cristian Chivu, Chivu]
+  answer_t1: [Cristian Chivu, Chivu]
+- id: 38
+  type: static
+  question: Any idea who was managing Inter in the final round of Serie A in 2024/25?
+  answer_t0: [Simone Inzaghi, Inzaghi]
+  answer_t1: [Simone Inzaghi, Inzaghi]
+- id: 39
+  type: static
+  question: On the final day of the 2024-25 Serie A season, who was coaching Lecce?
+  answer_t0: [Marco Giampaolo, Giampaolo]
+  answer_t1: [Marco Giampaolo, Giampaolo]
+- id: 40
+  type: static
+  question: On the final day of the 2024-25 Serie A season, who was coaching Atalanta?
+  answer_t0: [Gian Piero Gasperini, Gasperini]
+  answer_t1: [Gian Piero Gasperini, Gasperini]
+
+
+- id: 41
+  type: dynamic
+  question: Who is the head coach of Fiorentina right now?
+  answer_t0: [Stefano Pioli, Pioli]
+  answer_t1: [Paolo Vanoli, Vanoli]
+- id: 42
+  type: dynamic
+  question: Who manages Atalanta these days?
+  answer_t0: [Ivan Jurić, Jurić]
+  answer_t1: [Raffaele Palladino, Palladino]
+- id: 43
+  type: dynamic
+  question: Who manages Genoa these days?
+  answer_t0: [Patrick Vieira, Vieira]
+  answer_t1: [Daniele De Rossi, De Rossi]
+- id: 44
+  type: dynamic
+  question: Who's in charge at Pisa at the moment?
+  answer_t0: [Alberto Gilardino, Gilardino]
+  answer_t1: [Oscar Hiljemark, Hiljemark]
+- id: 45
+  type: dynamic
+  question: Who's in charge at Juventus at the moment?
+  answer_t0: [Igor Tudor, Tudor]
+  answer_t1: [Luciano Spalletti, Spalletti]
+- id: 46
+  type: dynamic
+  question: Who is currently coaching Cremonese?
+  answer_t0: [Davide Nicola, Nicola]
+  answer_t1: [Marco Giampaolo, Giampaolo]
+- id: 47
+  type: dynamic
+  question: Do you know who the Torino manager is at present?
+  answer_t0: [Marco Baroni]
+  answer_t1: [Roberto D'Aversa, D'Aversa, Roberto D’Aversa, D’Aversa]
+
+
+- id: 48
+  type: dynamic
+  question: Which team is ninth in Serie A right now?
+  answer_t0: [Como, Como 1907]
+  answer_t1: [Lazio, SS Lazio]
+- id: 49
+  type: dynamic
+  question: Which team is third in Serie A right now?
+  answer_t0: [Cremonese, US Cremonese]
+  answer_t1: [Roma, AS Roma]
+- id: 50
+  type: dynamic
+  question: Who's sitting fifth in the Serie A table at the moment?
+  answer_t0: [Udinese, Udinese Calcio]
+  answer_t1: [AC Milan]
+- id: 51
+  type: dynamic
+  question: Who's sitting 20th in the Serie A table at the moment?
+  answer_t0: [Sassuolo, US Sassuolo Calcio]
+  answer_t1: [Pisa, Pisa SC]
+- id: 52
+  type: dynamic
+  question: Which club is currently sixth in the Serie A standings?
+  answer_t0: [Inter, Inter Milan, Internazionale]
+  answer_t1: [Juventus, Juventus FC, Juve]
+- id: 53
+  type: dynamic
+  question: As things stand, who is 19th in Serie A?
+  answer_t0: [Torino, Torino FC]
+  answer_t1: [Hellas Verona, Hellas Verona FC, Verona]
+- id: 54
+  type: dynamic
+  question: Can you tell me which side is 15th in the Serie A table at present?
+  answer_t0: [Genoa, Genoa CFC]
+  answer_t1: [Fiorentina, ACF Fiorentina]
+- id: 55
+  type: dynamic
+  question: Can you tell me which side is 11th in the Serie A table at present?
+  answer_t0: [Atalanta, Atalanta BC]
+  answer_t1: [Sassuolo, US Sassuolo Calcio]
+
+
+- id: 56
+  type: dynamic
+  question: Where are Como in the Serie A table right now?
+  answer_t0: [9th, '9', ninth]
+  answer_t1: [4th, '4', fourth]
+- id: 57
+  type: dynamic
+  question: Where are Bologna in the Serie A table right now?
+  answer_t0: [10th, '10', tenth]
+  answer_t1: [8th, '8', eighth]
+- id: 58
+  type: dynamic
+  question: What position are Inter in Serie A at the moment?
+  answer_t0: [6th, '6', sixth]
+  answer_t1: [1st, '1', first]
+- id: 59
+  type: dynamic
+  question: Where do Cremonese currently sit in the Serie A table?
+  answer_t0: [3rd, '3', third]
+  answer_t1: [18th, '18', eighteenth]
+- id: 60
+  type: dynamic
+  question: Where do Roma currently sit in the Serie A table?
+  answer_t0: [4th, '4', fourth]
+  answer_t1: [3rd, '3', third]
+- id: 61
+  type: dynamic
+  question: As things stand, where are Hellas Verona in the Serie A standings?
+  answer_t0: [18th, '18', eighteenth]
+  answer_t1: [19th, '19', nineteenth]
+- id: 62
+  type: dynamic
+  question: As things stand, where are Sassuolo in the Serie A standings?
+  answer_t0: [20th, '20', twentieth]
+  answer_t1: [11th, '11', eleventh]
+- id: 63
+  type: dynamic
+  question: Any idea where Udinese are placed in Serie A at present?
+  answer_t0: [5th, '5', fifth]
+  answer_t1: [10th, '10', tenth]
+
+
+- id: 64
+  type: dynamic
+  question: How many points do Cagliari have in Serie A right now?
+  answer_t0: ['1']
+  answer_t1: ['43']
+- id: 65
+  type: dynamic
+  question: How many points do Atalanta have in Serie A right now?
+  answer_t0: ['2', two]
+  answer_t1: ['59']
+- id: 66
+  type: dynamic
+  question: What's Pisa's points total in Serie A so far this season?
+  answer_t0: ['1']
+  answer_t1: ['18', eighteen]
+- id: 67
+  type: dynamic
+  question: What's Fiorentina's points total in Serie A so far this season?
+  answer_t0: ['2', two]
+  answer_t1: ['42']
+- id: 68
+  type: dynamic
+  question: Do you know how many points Como currently have in the league?
+  answer_t0: ['3', three]
+  answer_t1: ['71']
+- id: 69
+  type: dynamic
+  question: At the moment, how many points have Roma got in Serie A?
+  answer_t0: ['6', six]
+  answer_t1: ['73']
+- id: 70
+  type: dynamic
+  question: Can you tell me how many league points Napoli have picked up this season?
+  answer_t0: ['6', six]
+  answer_t1: ['76']
+- id: 71
+  type: dynamic
+  question: Can you tell me how many league points Bologna have picked up this season?
+  answer_t0: ['3', three]
+  answer_t1: ['56']
+
+
+- id: 72
+  type: dynamic
+  question: How many league goals have Cagliari conceded so far this season?
+  answer_t0: ['2', two]
+  answer_t1: ['53']
+- id: 73
+  type: dynamic
+  question: Can you tell me how many goals Lecce have scored in Serie A this season?
+  answer_t0: ['0', zero]
+  answer_t1: ['28']
+- id: 74
+  type: dynamic
+  question: Can you tell me how many goals Napoli have conceded in Serie A this season?
+  answer_t0: ['0', zero]
+  answer_t1: ['36']
+- id: 75
+  type: dynamic
+  question: As things stand, how many Serie A goals have Parma conceded?
+  answer_t0: ['3', three]
+  answer_t1: ['46']
+- id: 76
+  type: dynamic
+  question: As things stand, how many Serie A goals have Inter scored?
+  answer_t0: ['6', six]
+  answer_t1: ['89']
+- id: 77
+  type: dynamic
+  question: At the moment, how many goals have Milan scored in the league?
+  answer_t0: ['3', three]
+  answer_t1: ['53']
+- id: 78
+  type: dynamic
+  question: At the moment, how many goals have Torino conceded in the league?
+  answer_t0: ['5', five]
+  answer_t1: ['63']
+- id: 79
+  type: dynamic
+  question: How many goals have Lazio conceded in Serie A at present?
+  answer_t0: ['2', two]
+  answer_t1: ['40']
+- id: 80
+  type: dynamic
+  question: How many goals have Bologna scored in Serie A at present?
+  answer_t0: ['1']
+  answer_t1: ['49']
+
+
+- id: 81
+  type: multihop
+  question: Who coaches the team directly above Sassuolo in the Serie A table right now?
+  answer_t0: [Marco Baroni]
+  answer_t1: [Kosta Runjaić, Runjaić]
+- id: 82
+  type: multihop
+  question: Who is the manager of the club one place above Hellas Verona in Serie A at the moment?
+  answer_t0: [Eusebio Di Francesco, Di Francesco]
+  answer_t1: [Marco Giampaolo, Giampaolo]
+- id: 83
+  type: multihop
+  question: Who's in charge of the side just above Fiorentina in the current Serie A table?
+  answer_t0: [Ivan Jurić, Jurić]
+  answer_t1: [Fabio Pisacane, Pisacane]
+- id: 84
+  type: multihop
+  question: Any idea who manages the team immediately ahead of Lazio in Serie A at present?
+  answer_t0: [Cristian Chivu, Chivu]
+  answer_t1: [Vincenzo Italiano, Italiano]
+- id: 85
+  type: multihop
+  question: As things stand, who coaches the club one spot above Como in the Serie A standings?
+  answer_t0: [Massimiliano Allegri, Allegri]
+  answer_t1: [Gian Piero Gasperini, Gasperini]
+
+
+- id: 86
+  type: multihop
+  question: Which team is directly above Hellas Verona in the Serie A table right now?
+  answer_t0: [Lecce, US Lecce]
+  answer_t1: [Cremonese, US Cremonese]
+- id: 87
+  type: multihop
+  question: Who's sitting one place above Fiorentina in Serie A at the moment?
+  answer_t0: [Atalanta, Atalanta BC]
+  answer_t1: [Cagliari, Cagliari Calcio]
+- id: 88
+  type: multihop
+  question: Which club is just ahead of Roma in the current Serie A standings?
+  answer_t0: [Cremonese, US Cremonese]
+  answer_t1: [Napoli, SSC Napoli]
+- id: 89
+  type: multihop
+  question: Which club is just ahead of Sassuolo in the current Serie A standings?
+  answer_t0: [Torino, Torino FC]
+  answer_t1: [Udinese, Udinese Calcio]
+- id: 90
+  type: multihop
+  question: As things stand, which side is one spot above Udinese in Serie A?
+  answer_t0: [Roma, AS Roma]
+  answer_t1: [Lazio, SS Lazio]
+- id: 91
+  type: multihop
+  question: Can you tell me which team is immediately above Atalanta in the Serie A table at present?
+  answer_t0: [Bologna, Bologna FC 1909]
+  answer_t1: [Juventus, Juventus FC, Juve]
+
+
+- id: 92
+  type: multihop
+  question: Who manages the team sitting fourth in Serie A right now?
+  answer_t0: [Gian Piero Gasperini, Gasperini]
+  answer_t1: [Cesc Fàbregas, Fàbregas]
+- id: 93
+  type: multihop
+  question: Who's in charge of the side lying 15th in the Serie A table at the moment?
+  answer_t0: [Patrick Vieira, Vieira]
+  answer_t1: [Paolo Vanoli, Vanoli]
+- id: 94
+  type: multihop
+  question: Do you know who coaches the team that is 18th in Serie A at present?
+  answer_t0: [Paolo Zanetti, Zanetti]
+  answer_t1: [Marco Giampaolo, Giampaolo]
+- id: 95
+  type: multihop
+  question: As things stand, who is the coach of the 20th-placed team in Serie A?
+  answer_t0: [Fabio Grosso, Grosso]
+  answer_t1: [Oscar Hiljemark, Hiljemark]
+
+
+- id: 96
+  type: multihop
+  question: How many points behind the Serie A leaders are Atalanta right now?
+  answer_t0: ['4', four]
+  answer_t1: ['28']
+- id: 97
+  type: multihop
+  question: What's the points gap between Parma and the top of the Serie A table at the moment?
+  answer_t0: ['5', five]
+  answer_t1: ['42']
+- id: 98
+  type: multihop
+  question: What's the points gap between Milan and the top of the Serie A table at the moment?
+  answer_t0: ['3', three]
+  answer_t1: ['17', seventeen]
+- id: 99
+  type: multihop
+  question: Any idea how many points Lecce currently trail the Serie A leaders by?
+  answer_t0: ['5', five]
+  answer_t1: ['49']
+- id: 100
+  type: multihop
+  question: Any idea how many points Lazio currently trail the Serie A leaders by?
+  answer_t0: ['3', three]
+  answer_t1: ['33']
+- id: 101
+  type: multihop
+  question: As things stand, how many points separate Fiorentina from the top of Serie A?
+  answer_t0: ['4', four]
+  answer_t1: ['45']
+- id: 102
+  type: multihop
+  question: As things stand, how many points separate Sassuolo from the top of Serie A?
+  answer_t0: ['6', six]
+  answer_t1: ['38']
+- id: 103
+  type: multihop
+  question: How many points are Udinese off the top of Serie A at present?
+  answer_t0: ['2', two]
+  answer_t1: ['37']
+
+
+- id: 104
+  type: multihop
+  question: How many points separate Atalanta and Inter in Serie A right now?
+  answer_t0: ['1']
+  answer_t1: ['28']
+- id: 105
+  type: multihop
+  question: What's the points gap between Bologna and Parma in the Serie A table at the moment?
+  answer_t0: ['2', two]
+  answer_t1: ['11', eleven]
+- id: 106
+  type: multihop
+  question: Do you know how many points there currently are between Juventus and Torino in Serie A?
+  answer_t0: ['5', five]
+  answer_t1: ['24']
+- id: 107
+  type: multihop
+  question: As things stand, how many points apart are Atalanta and Cremonese in Serie A?
+  answer_t0: ['4', four]
+  answer_t1: ['25']
+
+
+- id: 108
+  type: multihop
+  question: Where does the club that finished fifth in the 2024/25 Serie A currently sit in the table?
+  answer_t0: [4th, '4', fourth]
+  answer_t1: [3rd, '3', third]
+- id: 109
+  type: multihop
+  question: Where does the club that finished second in the 2024/25 Serie A currently sit in the table?
+  answer_t0: [6th, '6', sixth]
+  answer_t1: [1st, '1', first]
+- id: 110
+  type: multihop
+  question: What is the current league position of the team that came 14th in Serie A in 2024-25?
+  answer_t0: [18th, '18', eighteenth]
+  answer_t1: [19th, '19', nineteenth]
+- id: 111
+  type: multihop
+  question: What is the current league position of the team that came ninth in Serie A in 2024-25?
+  answer_t0: [10th, '10', tenth]
+  answer_t1: [8th, '8', eighth]
+- id: 112
+  type: multihop
+  question: Can you tell me where the side that finished 10th in the 2024/25 Serie A is in the table at the moment?
+  answer_t0: [9th, '9', ninth]
+  answer_t1: [4th, '4', fourth]
+- id: 113
+  type: multihop
+  question: As things stand, where is the club that finished 13th in the 2024-25 Serie A placed?
+  answer_t0: [15th, '15', fifteenth]
+  answer_t1: [16th, '16', sixteenth]
+- id: 114
+  type: multihop
+  question: Right now, where in the Serie A table is the team that finished third in 2024/25?
+  answer_t0: [11th, '11', eleventh]
+  answer_t1: [7th, '7', seventh]
+
+
+- id: 115
+  type: multihop
+  question: Who coached the side that finished 20th in the 2024-25 Serie A on the last matchday of that season?
+  answer_t0: [Alessandro Nesta, Nesta]
+  answer_t1: [Alessandro Nesta, Nesta]
+- id: 116
+  type: multihop
+  question: Who was in charge of the 19th-placed team in the 2024/25 Serie A for its last game of the season?
+  answer_t0: [Eusebio Di Francesco, Di Francesco]
+  answer_t1: [Eusebio Di Francesco, Di Francesco]
+- id: 117
+  type: multihop
+  question: Do you know who managed the club that came 18th in Serie A in 2024-25 on the final day?
+  answer_t0: [Roberto D'Aversa, D'Aversa, Roberto D’Aversa, D’Aversa]
+  answer_t1: [Roberto D'Aversa, D'Aversa, Roberto D’Aversa, D’Aversa]
+- id: 118
+  type: multihop
+  question: On the last day of the 2024/25 Serie A, who was coaching the team that ended up fourth?
+  answer_t0: [Igor Tudor, Tudor]
+  answer_t1: [Igor Tudor, Tudor]
+- id: 119
+  type: multihop
+  question: 'The club that finished top in the 2024-25 Serie A: who was their coach on the final matchday?'
+  answer_t0: [Antonio Conte, Conte]
+  answer_t1: [Antonio Conte, Conte]
+- id: 120
+  type: multihop
+  question: 'The club that finished 13th in the 2024-25 Serie A: who was their coach on the final matchday?'
+  answer_t0: [Patrick Vieira, Vieira]
+  answer_t1: [Patrick Vieira, Vieira]

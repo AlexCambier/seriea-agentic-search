@@ -1,0 +1,78 @@
+page: Pisa SC
+season: 2025-26
+date: t0 (Wikipedia as it was on 2025-09-01)
+link: https://en.wikipedia.org/w/index.php?title=Pisa_SC&oldid=1308945830
+extracted: 2026-09-23
+chunks: 13
+
+=== chunk 1 · Introduction ===
+Full name: Pisa Sporting Club S.r.l.
+Nicknames: I Nerazzurri (The Black and Blues)
+Founded: 1909
+Ground: Cetilar® Arena
+Capacity: 12,508
+Owner: Alexander Knaster
+Chairman: Giuseppe Corrado
+Head coach: Alberto Gilardino
+League: Serie B
+Website: pisasportingclub .com
+Pisa Sporting Club , commonly referred to as Pisa , is an Italian professional football club based in Pisa , Tuscany . The club will compete in Serie A in the 2025–26 season .
+The club was founded in 1909 as Pisa Sporting Club and refounded in 1994 as Pisa Calcio (and registered in Eccellenza , the regional football division in Italy), after the partial liquidation of the former because of economical troubles. Pisa was excluded again from Italian football in 2009, after failing to collect enough money to service the club's debts. In summer 2009 it was re-founded as A.C. Pisa 1909 .
+
+=== chunk 2 · Introduction ===
+Pisa won two Mitropa Cups , in 1986 and 1988. They play their home matches at Arena Garibaldi – Stadio Romeo Anconetani , named after Romeo Anconetani , the chairman who brought and led the club in Serie A during the 1980s. In 2016, Giuseppe Corrado bought the club and planned the new Pisa stadium. In January 2021, billionaire Alexander Knaster acquired a 75% stake in the available shares of the club.
+
+=== chunk 3 · Pisa S.C. ===
+After promotion to Serie B in 1965, Pisa took three years to reach Serie A for the first time. Pisa was relegated on the final day of the 1968–69 season.
+Spending much of the 1970s in Serie C, Pisa returned to Serie B in 1979 (by which time the club had come under the presidency of the much-loved Romeo Anconetani ) and were promoted to Serie A in 1982, embarking on a period of six out of nine seasons in Serie A. With Danish international Klaus Berggreen among their stars, Pisa managed a credible 11th place in the 1982–83 Serie A with 27 points and 27 goals scored and conceded in 30 games. The following season brought relegation (during which they recorded just 3 wins and 16 draws) with 15,000 fans travelling to Milan for the fateful penultimate game.
+
+=== chunk 4 · Pisa S.C. ===
+Promotion followed in 1985, and the team seemed capable of staying up until losing their last three games. The cycle was repeated in 1987, only for a side containing players like Dunga and Paul Elliott to stay up. The last promotion to Serie A was achieved in 1990, and with the talents of players like Maurizio Neri , Michele Padovano , and Lamberto Piovanelli up front and Diego Simeone , Henrik Larsen , and Aldo Dolcetti in midfield, the side started well and was briefly atop the standings, only to suffer another relegation.
+Relegation brought considerable financial strains to the club, and by 1994 they had lost a relegation play-off and were condemned to Serie C1 .
+
+=== chunk 5 · Pisa Calcio ===
+Administration saw Pisa reformed in Eccellenza , only to return to Serie C2 in 1996 and C1 in 1999. Pisa have since worked towards attaining Serie B status, which was achieved in 2007. Their crowds have been among the better in Italy's lower divisions owing to the dedication of their fans.
+In May 2002 Maurizio Mian 's "Gunther Reform Trust" became the owner of Pisa, installing wealthy celebrity German Shepherd dog Gunther IV as honorary president. In the 2002–03 Serie C1 season, Pisa reached the play-off final but were defeated in extra-time by UC AlbinoLeffe . President Gunther would attend matches at Arena Garibaldi and bark in support of the team. On one occasion Rival Livorno ultras unfurled a banner bearing the legend: "Poisoned meatballs for Gunther". After two further seasons ended in mid-table finishes, Mian sold Pisa in 2005.
+
+=== chunk 6 · Pisa Calcio ===
+In 2005–06, the team, initially thought to be a protagonist for the promotion, were in continuous struggles, and avoided relegation after playoffs in two dramatic regional derbies against Massese . The 2006–07 season, with new boss Piero Braglia , brought Pisa back to fight for a promotion spot: the nerazzurri ended the regular season in third place, and eventually won the promotion playoffs by defeating Venezia in the semi-finals and Monza in the finals. [ citation needed ]
+For the 2007–08 Serie B campaign, the first in 13 years, Gian Piero Ventura was named to replace Braglia at the helm of the nerazzurri . Despite initial predictions of a mid-low table place, Pisa's impressive performances brought the team to fight for a direct promotion spot, also thanks to a forward line composed by Alessio Cerci , José Ignacio Castillo and Vitali Kutuzov which proved to be among the finest in the league. The club ended the regular season in sixth place, therefore achieving a spot to the promotion playoffs, where Pisa was later defeated by Lecce .
+
+=== chunk 7 · Pisa Calcio ===
+In 2008–09, the club was acquired by Rome entrepreneur Luca Pomponi , who initially failed into appointing Alessandro Costacurta as new head coach, thus confirming Ventura as nerazzurri boss. The club, which was weakened by the departures of Cerci, Castillo, Kutuzov and several other players, did not manage to repeat its performances, with Ventura being ultimately sacked in March 2009, with the club in mid-table place. The appointment of Bruno Giordano , which was made to improve the team results, however proved to be disappointing in terms of results, as Pisa slowly lost positions in the table, and shockingly got directly relegated in the final game of the season due to an injury-time home defeat to Brescia which left the Tuscans in 18th place. The unexpected relegation also unveiled a number of massive financial issues which prevented the club from registering in the Lega Pro Prima Divisione , and in July 2009 the club was excluded by the Italian Football Federation for the second time in its history.
+
+=== chunk 8 · A.C. Pisa 1909 ===
+Pisa has been refounded with the denomination of A.C. Pisa 1909 S.S.D. (in which S.S.D. is a legal suffix required by FIGC ) to start again from Serie D under new ownership. At the end of the season Pisa won Group D ( Italian : Girone D ) of Serie D and was promoted to Lega Pro Seconda Divisione for the 2010–11 season.
+The team was then admitted to Lega Pro Prima Divisione for the 2010–11 season to fill vacancies created by a row of club exclusions in second and third tier of Italian football league system. Thus the S.S.D. legal suffix was drop and replaced by S.r.l.
+On 12 June 2016 Pisa gained promotion to Serie B after seven years by defeating Maceratese (3–1), Pordenone (3–0 on aggregate) and Foggia in the two-legged play-off final (5–3 on aggregate), however, the club was relegated to Serie C the following season after finishing second-last.
+
+=== chunk 9 · Pisa Sporting Club ===
+Having moved back to Serie B in 2019, the club changed back its name to Pisa Sporting Club in the summer of 2021. Under the leadership of coach Filippo Inzaghi , Pisa secured promotion to Serie A by finishing as runners-up in the 2024–25 Serie B season, marking a significant milestone in the club's resurgence and ending a 34-year absence from the top tier of Italian football.
+
+=== chunk 10 · Pisa Primavera ===
+Note: Flags indicate national team as defined under FIFA eligibility rules ; some limited exceptions apply. Players may hold more than one non-FIFA nationality.
+0: No. Pos. Nation Player 16 FW  CZE Louis Buffon 43 DF  ARG Matias Casarosa · 1: No. Pos. Nation Player 72 MF  ITA Giacomo Maucci 76 DF  BEL Jeremy Kandje Mbambi
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 16 · 1: FW · 2: CZE · 3: Louis Buffon
+0: 43 · 1: DF · 2: ARG · 3: Matias Casarosa
+0: No. · 1: Pos. · 2: Nation · 3: Player
+0: 72 · 1: MF · 2: ITA · 3: Giacomo Maucci
+0: 76 · 1: DF · 2: BEL · 3: Jeremy Kandje Mbambi
+
+=== chunk 11 · League ===
+Serie B Winners : 1984–85 , 1986–87 Runners-Up : 1989–90 , 2024–25 Third Place (Promoted) : 1981–82 , 2006–07
+Serie C Winners : 1933–34 , 1964–65 Winners - C2 Group A : 1998–99 Runners-Up - C1 Group A : 1999-00 Third Place - Group A (Promoted) : 2018–19
+Serie D Winners - Group D : 2009-10
+Lega Pro Runners-Up (Promoted) - Group B : 2015-16
+
+=== chunk 12 · Cup ===
+Coppa Italia Serie C Winners : 1999–00 Runners-Up : 2011-12
+Mitropa Cup Winners : 1985–86 , 1987–88 Runners-Up : 1990-91
+
+=== chunk 13 · Divisional movements ===
+Series: A · Years: 7 · Last: 1990–91 · Relegations: 5 (1969, 1984, 1986, 1989, 1991)
+Series: B · Years: 38 · Last: 2024–25 · Promotions: 6 (1968, 1982, 1985, 1987, 1990, 2025) · Relegations: 5 (1952, 1971, 1994✟, 2009✟, 2017)
+Series: C +C2 · Years: 38 +3 · Last: 2018–19 · Promotions: 6 (1934, 1965, 1979, 2007, 2016, 2019)  1 (1999 C2) · Relegations: 1 (1954)
+Series: 85 out of 92 years of professional football in Italy since 1929 · Years: 85 out of 92 years of professional football in Italy since 1929 · Last: 85 out of 92 years of professional football in Italy since 1929 · Promotions: 85 out of 92 years of professional football in Italy since 1929 · Relegations: 85 out of 92 years of professional football in Italy since 1929
+Series: D · Years: 5 · Last: 2009–10 · Promotions: 3 (1958, 1996, 2010) · Relegations: 1 (1956)
+Series: E · Years: 2 · Last: 1994–95 · Promotions: 2 (1957, 1995) · Relegations: never

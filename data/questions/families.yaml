@@ -1,0 +1,228 @@
+# The 17 families of questions. For each one:
+#   type       static (2024-25 season), dynamic (2025-26 as it stands) or multihop (two facts in a row)
+#   season     the table the answer is read from: past (2024-25), now (2025-26 on the date),
+#              or both (a position in 2024-25, then that club today)
+#   formula    how the answer is read from the table (see FORMULAS in make_questions.py)
+#   answer     what the answer is: a club, a position, a number or a coach
+#   picks      the club, position, club and goals, or two clubs of each question
+#   phrasings  the ways of asking; the words in {braces} are filled in with the pick
+
+final_position:
+  type: static
+  season: past
+  formula: club_at
+  answer: club
+  picks: [20, 1, 18, 19, 4, 3, 9]
+  phrasings:
+  - Which team finished {nth} in Serie A in 2024-25?
+  - Who came {nth} in the 2024/25 Serie A?
+  - Do you remember which club finished {nth} in the 2024-25 Serie A table?
+  - In the 2024/25 Serie A season, which side ended up {nth}?
+  - Name the club that finished {nth} in Serie A in 2024-25.
+
+final_place:
+  type: static
+  season: past
+  formula: position
+  answer: position
+  picks: [Roma, Como, Genoa, Inter, Hellas Verona, Venezia, Juventus]
+  phrasings:
+  - Where did {team} finish in Serie A in 2024-25?
+  - In what position did {team} finish the 2024/25 Serie A season?
+  - In 2024-25, where did {team} end up in the Serie A table?
+  - Any idea where {team} finished in the 2024/25 Serie A?
+  - What was {team}'s final position in the 2024-25 Serie A?
+
+final_points:
+  type: static
+  season: past
+  formula: points
+  answer: number
+  picks: [Torino, Udinese, Parma, Lazio, Como, Genoa, Monza, Empoli]
+  phrasings:
+  - How many points did {team} finish the 2024-25 Serie A season with?
+  - What was {team}'s final points total in the 2024/25 Serie A?
+  - In the 2024-25 Serie A, how many points did {team} end up with?
+  - Can you tell me how many league points {team} collected in 2024/25?
+  - By the end of the 2024-25 Serie A season, how many points did {team} have?
+
+final_goals:
+  type: static
+  season: past
+  formula: goals
+  answer: number
+  picks: [[Fiorentina, scored], [Torino, conceded], [Hellas Verona, scored], [Napoli, conceded], [Lecce, scored], [Bologna, conceded], [Milan, scored], [Cagliari, conceded], [Udinese, scored]]
+  phrasings:
+  - How many league goals did {team} {verb} in 2024-25?
+  - In the 2024/25 Serie A season, how many goals did {team} {verb}?
+  - Do you know how many goals {team} {verb_past} in Serie A in 2024-25?
+  - Over the whole 2024/25 Serie A season, how many goals did {team} {verb}?
+  - How many goals had {team} {verb_past} in Serie A by the end of 2024-25?
+
+final_day_coach:
+  type: static
+  season: past
+  formula: coach
+  answer: coach
+  picks: [Fiorentina, Lazio, Parma, Lecce, Milan, Cagliari, Roma, Inter, Atalanta]
+  phrasings:
+  - Who was {team}'s head coach on the final matchday of the 2024-25 Serie A?
+  - Who was in charge of {team} for their last league game of 2024/25?
+  - Who coached {team} on the last day of the 2024-25 Serie A season?
+  - Any idea who was managing {team} in the final round of Serie A in 2024/25?
+  - On the final day of the 2024-25 Serie A season, who was coaching {team}?
+
+coach_now:
+  type: dynamic
+  season: now
+  formula: coach
+  answer: coach
+  picks: [Pisa, Atalanta, Fiorentina, Cremonese, Torino, Juventus, Genoa]
+  phrasings:
+  - Who is the head coach of {team} right now?
+  - Who manages {team} these days?
+  - Who's in charge at {team} at the moment?
+  - Who is currently coaching {team}?
+  - Do you know who the {team} manager is at present?
+
+team_at_position:
+  type: dynamic
+  season: now
+  formula: club_at
+  answer: club
+  picks: [15, 5, 9, 19, 6, 11, 20, 3]
+  phrasings:
+  - Which team is {nth} in Serie A right now?
+  - Who's sitting {nth} in the Serie A table at the moment?
+  - Which club is currently {nth} in the Serie A standings?
+  - As things stand, who is {nth} in Serie A?
+  - Can you tell me which side is {nth} in the Serie A table at present?
+
+position_now:
+  type: dynamic
+  season: now
+  formula: position
+  answer: position
+  picks: [Cremonese, Como, Hellas Verona, Inter, Udinese, Roma, Bologna, Sassuolo]
+  phrasings:
+  - Where are {team} in the Serie A table right now?
+  - What position are {team} in Serie A at the moment?
+  - Where do {team} currently sit in the Serie A table?
+  - As things stand, where are {team} in the Serie A standings?
+  - Any idea where {team} are placed in Serie A at present?
+
+points_now:
+  type: dynamic
+  season: now
+  formula: points
+  answer: number
+  picks: [Napoli, Cagliari, Pisa, Como, Roma, Bologna, Atalanta, Fiorentina]
+  phrasings:
+  - How many points do {team} have in Serie A right now?
+  - What's {team}'s points total in Serie A so far this season?
+  - Do you know how many points {team} currently have in the league?
+  - At the moment, how many points have {team} got in Serie A?
+  - Can you tell me how many league points {team} have picked up this season?
+
+goals_now:
+  type: dynamic
+  season: now
+  formula: goals
+  answer: number
+  picks: [[Parma, conceded], [Lecce, scored], [Lazio, conceded], [Milan, scored], [Cagliari, conceded], [Inter, scored], [Napoli, conceded], [Bologna, scored], [Torino, conceded]]
+  phrasings:
+  - How many league goals have {team} {verb_past} so far this season?
+  - Can you tell me how many goals {team} have {verb_past} in Serie A this season?
+  - As things stand, how many Serie A goals have {team} {verb_past}?
+  - At the moment, how many goals have {team} {verb_past} in the league?
+  - How many goals have {team} {verb_past} in Serie A at present?
+
+coach_above:
+  type: multihop
+  season: now
+  formula: coach_above
+  answer: coach
+  picks: [Sassuolo, Fiorentina, Lazio, Hellas Verona, Como]
+  phrasings:
+  - Who coaches the team directly above {team} in the Serie A table right now?
+  - Who is the manager of the club one place above {team} in Serie A at the moment?
+  - Who's in charge of the side just above {team} in the current Serie A table?
+  - Any idea who manages the team immediately ahead of {team} in Serie A at present?
+  - As things stand, who coaches the club one spot above {team} in the Serie A standings?
+
+club_above:
+  type: multihop
+  season: now
+  formula: club_above
+  answer: club
+  picks: [Roma, Atalanta, Udinese, Fiorentina, Hellas Verona, Sassuolo]
+  phrasings:
+  - Which team is directly above {team} in the Serie A table right now?
+  - Who's sitting one place above {team} in Serie A at the moment?
+  - Which club is just ahead of {team} in the current Serie A standings?
+  - As things stand, which side is one spot above {team} in Serie A?
+  - Can you tell me which team is immediately above {team} in the Serie A table at present?
+
+coach_at_position:
+  type: multihop
+  season: now
+  formula: coach_at
+  answer: coach
+  picks: [20, 15, 4, 18]
+  phrasings:
+  - Who manages the team sitting {nth} in Serie A right now?
+  - Who is the head coach of the club currently {nth} in Serie A?
+  - Who's in charge of the side lying {nth} in the Serie A table at the moment?
+  - Do you know who coaches the team that is {nth} in Serie A at present?
+  - As things stand, who is the coach of the {nth}-placed team in Serie A?
+
+gap_to_leader:
+  type: multihop
+  season: now
+  formula: gap_to_leader
+  answer: number
+  picks: [Parma, Lecce, Fiorentina, Udinese, Atalanta, Milan, Lazio, Sassuolo]
+  phrasings:
+  - How many points behind the Serie A leaders are {team} right now?
+  - What's the points gap between {team} and the top of the Serie A table at the moment?
+  - Any idea how many points {team} currently trail the Serie A leaders by?
+  - As things stand, how many points separate {team} from the top of Serie A?
+  - How many points are {team} off the top of Serie A at present?
+
+pair_gap:
+  type: multihop
+  season: now
+  formula: pair_gap
+  answer: number
+  picks: [[Juventus, Torino], [Bologna, Parma], [Atalanta, Cremonese], [Atalanta, Inter]]
+  phrasings:
+  - How many points separate {team_a} and {team_b} in Serie A right now?
+  - What's the points gap between {team_a} and {team_b} in the Serie A table at the moment?
+  - Do you know how many points there currently are between {team_a} and {team_b} in Serie A?
+  - As things stand, how many points apart are {team_a} and {team_b} in Serie A?
+
+final_position_now:
+  type: multihop
+  season: both
+  formula: position_then_now
+  answer: position
+  picks: [5, 14, 13, 3, 10, 2, 9]
+  phrasings:
+  - Where does the club that finished {nth} in the 2024/25 Serie A currently sit in the table?
+  - What is the current league position of the team that came {nth} in Serie A in 2024-25?
+  - Can you tell me where the side that finished {nth} in the 2024/25 Serie A is in the table at the moment?
+  - As things stand, where is the club that finished {nth} in the 2024-25 Serie A placed?
+  - Right now, where in the Serie A table is the team that finished {nth} in 2024/25?
+
+final_day_coach_at_position:
+  type: multihop
+  season: past
+  formula: coach_at
+  answer: coach
+  picks: [1, 19, 20, 18, 4, 13]
+  phrasings:
+  - Who coached the side that finished {nth} in the 2024-25 Serie A on the last matchday of that season?
+  - Who was in charge of the {nth}-placed team in the 2024/25 Serie A for its last game of the season?
+  - Do you know who managed the club that came {nth} in Serie A in 2024-25 on the final day?
+  - On the last day of the 2024/25 Serie A, who was coaching the team that ended up {nth}?
+  - 'The club that finished {nth} in the 2024-25 Serie A: who was their coach on the final matchday?'
