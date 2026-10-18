@@ -12,6 +12,15 @@ read English Wikipedia as it was on that date.
 - S5 agentic search: the same agent, searching by keywords
 - S5+ agentic search + tables: S5 that can also read the official league tables
 
+## Interactive page
+
+[![Seven Systems Compared: the seven systems answer the same question, step by step](docs/preview.png)](https://alexcambier.github.io/seriea-agentic-search/)
+
+**[Open the interactive page](https://alexcambier.github.io/seriea-agentic-search/)**: it follows one question, "Who coaches
+the team directly above Cremonese in the Serie A table right now?", through all seven systems, first side by side
+and then block by block. Use the arrows or the ← → keys. The page is docs/index.html, a single file with no
+dependencies.
+
 The code is in code/:
 
 - systems.py: the seven systems, each answering a question at t0 or t1

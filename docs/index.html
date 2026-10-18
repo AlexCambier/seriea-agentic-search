@@ -1,0 +1,2177 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Seven Systems Compared</title>
+<meta name="description" content="Seven systems try to answer one fresh Serie A question, from a closed-book LLM to agentic search. Step through all seven side by side, then block by block.">
+<meta property="og:title" content="Seven Systems Compared">
+<meta property="og:description" content="Seven systems try to answer one fresh Serie A question, from a closed-book LLM to agentic search. Step through all seven side by side, then block by block.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://alexcambier.github.io/seriea-agentic-search/">
+<meta property="og:image" content="https://alexcambier.github.io/seriea-agentic-search/preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style>
+<style>
+/* Layout: Apple product-page rhythm, read left to right. A horizontal rail of the seven systems, then each
+   system as a horizontal chain of building blocks; under it, the selected block at work on five real passages.
+   Colour carries one idea: tangerine = the engineer decides, electric indigo = the model decides, graphite =
+   nobody searches; violet marks encoders (BERT-like), indigo decoders (GPT-like), yellow a matched word. */
+:root{
+  --bg:#FFFFFF; --band:#F5F5F7; --card:#FFFFFF; --panel:#F5F5F7; --raise:#FFFFFF; --chip:#EDEDF0;
+  --ink:#1D1D1F; --ink-2:#6E6E73; --ink-3:#8E8E93; --line:#D2D2D7; --hair:#E8E8ED;
+  --accent:#0071E3;
+  --eng:#F26B1D; --model:#3D5AFE; --none:#8E8E93; --mag:#E8366F;
+  --vec:#AF52DE; --hl:rgba(255,204,0,.45);
+  --good:#28A745; --bad:#FF3B30; --trap-bg:rgba(255,59,48,.10); --trap-ink:#C4261D;
+  --unk:#C7C7CC; --nav:rgba(255,255,255,.78); --seg-track:#E8E8ED; --seg-thumb:#FFFFFF;
+  --code-bg:#F5F5F7; --c-kw:#9B2393; --c-str:#C41A16; --c-com:#5D6C79; --c-num:#1C00CF; --c-fn:#326D74;
+  --shadow:0 1px 2px rgba(0,0,0,.05), 0 8px 26px rgba(0,0,0,.06);
+  --grad:linear-gradient(90deg,#F26B1D 0%,#E8366F 48%,#3D5AFE 100%);
+  --surf:var(--panel);
+  --t1:#3D5AFE; --t2:#F26B1D; --t3:#AF52DE; --t4:#0F9E9E;
+  --font:-apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --mono:ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#000000; --band:#0E0E10; --card:#1C1C1E; --panel:#1C1C1E; --raise:#2C2C2E; --chip:#2C2C2E;
+    --ink:#F5F5F7; --ink-2:#A1A1A6; --ink-3:#7C7C80; --line:#48484A; --hair:#2C2C2E;
+    --accent:#2997FF;
+    --eng:#E8641C; --model:#5E74FF; --none:#8E8E93; --mag:#F0507F;
+    --vec:#BF5AF2; --hl:rgba(255,214,10,.32);
+    --good:#30D158; --bad:#FF453A; --trap-bg:rgba(255,69,58,.18); --trap-ink:#FF8A80;
+    --unk:#48484A; --nav:rgba(22,22,23,.78); --seg-track:#2C2C2E; --seg-thumb:#636366;
+    --code-bg:#111113; --c-kw:#FC5FA3; --c-str:#FC6A5D; --c-com:#7F8C98; --c-num:#D0BF69; --c-fn:#67B7A4;
+    --shadow:0 0 0 1px rgba(255,255,255,.06);
+    --grad:linear-gradient(90deg,#FF7A2E 0%,#F0507F 48%,#6E83FF 100%);
+    --t1:#6E83FF; --t2:#FF7A2E; --t3:#BF5AF2; --t4:#2CC5C5;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#000000; --band:#0E0E10; --card:#1C1C1E; --panel:#1C1C1E; --raise:#2C2C2E; --chip:#2C2C2E;
+  --ink:#F5F5F7; --ink-2:#A1A1A6; --ink-3:#7C7C80; --line:#48484A; --hair:#2C2C2E;
+  --accent:#2997FF;
+  --eng:#E8641C; --model:#5E74FF; --none:#8E8E93; --mag:#F0507F;
+  --vec:#BF5AF2; --hl:rgba(255,214,10,.32);
+  --good:#30D158; --bad:#FF453A; --trap-bg:rgba(255,69,58,.18); --trap-ink:#FF8A80;
+  --unk:#48484A; --nav:rgba(22,22,23,.78); --seg-track:#2C2C2E; --seg-thumb:#636366;
+  --code-bg:#111113; --c-kw:#FC5FA3; --c-str:#FC6A5D; --c-com:#7F8C98; --c-num:#D0BF69; --c-fn:#67B7A4;
+  --shadow:0 0 0 1px rgba(255,255,255,.06);
+  --grad:linear-gradient(90deg,#FF7A2E 0%,#F0507F 48%,#6E83FF 100%);
+  --t1:#6E83FF; --t2:#FF7A2E; --t3:#BF5AF2; --t4:#2CC5C5;
+  color-scheme:dark;
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:60px}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);font-size:17px;line-height:1.47;letter-spacing:-0.022em;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--accent)}
+h1,h2,h3,h4,h5,p{margin:0}
+h1,h2,h3{text-wrap:balance}
+button{font:inherit;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:22px}
+section{padding-block:120px}
+.band{background:var(--band);--surf:var(--card)}
+.eyebrow{font-size:17px;font-weight:600;color:var(--ink-2);margin-bottom:10px}
+h2{font-size:clamp(36px,5.6vw,60px);line-height:1.05;font-weight:700;letter-spacing:-0.038em;max-width:14em}
+.lead{font-size:21px;line-height:1.4;color:var(--ink-2);max-width:32em;margin-top:18px;letter-spacing:-0.02em}
+.grad{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.mono{font-family:var(--mono);letter-spacing:0}
+.g-none{--g:var(--none)} .g-eng{--g:var(--eng)} .g-model{--g:var(--model)}
+.gdot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--g);flex:0 0 auto}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:8px}
+.ico{width:16px;height:16px;flex:0 0 auto;display:block}
+.ib{width:38px;height:38px;border-radius:50%;border:0;background:var(--raise);box-shadow:var(--shadow);display:grid;place-items:center;cursor:pointer;color:var(--ink);flex:0 0 auto}
+.ib svg{width:14px;height:14px}
+.ib:disabled{opacity:.35;cursor:default}
+.syschip{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;padding:4px 10px;border-radius:999px;background:var(--chip);white-space:nowrap;border:0;cursor:pointer}
+.syschip:hover{box-shadow:0 0 0 1.5px var(--g) inset}
+.blkchip{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;padding:4px 10px 4px 8px;border-radius:999px;background:var(--chip);border:0;cursor:pointer;white-space:nowrap}
+.blkchip .ico{width:14px;height:14px;color:var(--g)}
+.blkchip em{font-style:normal;color:var(--ink-3);font-weight:600}
+.blkchip:hover{box-shadow:0 0 0 1.5px var(--g) inset}
+@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:none}}
+@keyframes grow{from{width:0}}
+@keyframes rise{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes draw{from{stroke-dashoffset:var(--len,300)}to{stroke-dashoffset:0}}
+.in{animation:up .55s cubic-bezier(.2,.8,.2,1) both}
+
+/* Nav */
+.localnav{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--nav);backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid var(--hair)}
+.localnav .wrap{display:flex;align-items:center;justify-content:space-between;height:52px;gap:20px}
+.brand{font-size:19px;font-weight:600;letter-spacing:-0.025em;white-space:nowrap;color:var(--ink);text-decoration:none}
+.navlinks{display:flex;gap:22px;font-size:13px;overflow-x:auto;min-width:0;scrollbar-width:none}
+.navlinks::-webkit-scrollbar{display:none}
+.navlinks a{color:var(--ink);text-decoration:none;opacity:.75;white-space:nowrap}
+.navlinks a:hover{opacity:1}
+.hero{padding-block:100px 110px}
+.hero h1{font-size:clamp(42px,7.6vw,92px);line-height:1.02;letter-spacing:-0.045em;font-weight:700;max-width:11.5em;margin-top:6px}
+.hero .lead{font-size:clamp(19px,2.2vw,24px);max-width:28em}
+.rows3{display:flex;flex-direction:column;gap:4px}
+.srow{display:grid;grid-template-columns:2.4em minmax(0,1fr) auto auto;align-items:center;gap:10px;padding:9px 14px;border-radius:13px;font-size:16px;color:var(--ink-2)}
+.srow .n,.srow .p{font-variant-numeric:tabular-nums}
+.srow .p{color:var(--ink-3)}
+.srow.self{color:var(--ink);font-weight:600}
+.srow.above{background:var(--raise);color:var(--ink);font-weight:600;box-shadow:var(--shadow)}
+.srow.above .tag{font-size:11px;font-weight:700;letter-spacing:.04em;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.coach{border-top:1px solid var(--line);padding-top:14px}
+.coach small{display:block;font-size:13px;color:var(--ink-2)}
+.coach b{display:block;font-size:30px;font-weight:700;letter-spacing:-0.035em;line-height:1.1}
+.mk{display:inline-flex;width:24px;height:24px;border-radius:50%;align-items:center;justify-content:center;flex:0 0 auto}
+.mk svg{width:14px;height:14px}
+.mk.ok{color:var(--good);background:color-mix(in oklab, var(--good) 15%, transparent)}
+.mk.ko{color:var(--bad);background:color-mix(in oklab, var(--bad) 13%, transparent)}
+/* Systems: the rail */
+.rail-leg{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--ink-2);margin-top:36px}
+.rail-leg span{display:inline-flex;align-items:center;gap:7px}
+.rail{margin-top:22px;display:flex;align-items:flex-start;overflow-x:auto;padding:6px 4px 10px;scrollbar-width:none}
+.rail::-webkit-scrollbar{display:none}
+.rnode{appearance:none;border:0;background:none;cursor:pointer;flex:0 0 auto;width:92px;display:flex;flex-direction:column;align-items:center;gap:6px;padding:0;text-align:center;border-radius:14px}
+.rnode .dot{width:16px;height:16px;border-radius:50%;background:var(--bg);box-shadow:inset 0 0 0 3px var(--g);transition:transform .35s, background .35s, box-shadow .35s}
+.rnode b{font-size:24px;font-weight:700;letter-spacing:-0.035em;color:var(--ink-3);transition:color .3s;line-height:1.05}
+.rnode .nm{font-size:12px;color:var(--ink-2);line-height:1.2;font-weight:600}
+.rnode .ac{font-size:12px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.rnode:hover b{color:var(--ink)}
+.rnode[aria-selected="true"] .dot{background:var(--g);transform:scale(1.3);box-shadow:0 0 0 6px color-mix(in oklab, var(--g) 22%, transparent)}
+.rnode[aria-selected="true"] b{color:var(--g)}
+.rnode[aria-selected="true"] .nm{color:var(--ink)}
+.rseg{flex:1 1 0;min-width:62px;display:flex;flex-direction:column;align-items:center;gap:8px}
+.rseg .ln{width:100%;height:3px;border-radius:2px;background:linear-gradient(90deg,var(--from),var(--to));margin-top:6.5px}
+.rseg span{font-size:11px;font-weight:700;color:var(--ink-2);white-space:nowrap;background:var(--chip);padding:3px 8px;border-radius:999px}
+.rseg.big span{color:var(--ink);background:var(--raise);box-shadow:0 0 0 1.5px var(--mag)}
+.rdiff{margin-top:18px;display:flex;align-items:center;gap:10px 16px;flex-wrap:wrap;min-height:34px}
+.rdiff p{font-size:16px;font-weight:600;letter-spacing:-0.015em}
+.rdiff p span{color:var(--ink-3);font-weight:500}
+.pills{display:flex;gap:6px;flex-wrap:wrap}
+.dpill{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;background:var(--chip);color:var(--ink-2)}
+.dpill.add{color:var(--good);background:color-mix(in oklab, var(--good) 13%, transparent)}
+.dpill.rem{color:var(--bad);background:color-mix(in oklab, var(--bad) 11%, transparent);text-decoration:line-through}
+.dpill.swap{color:var(--model);background:color-mix(in oklab, var(--model) 12%, transparent)}
+.dpill.big{color:var(--ink);background:var(--raise);box-shadow:0 0 0 1.5px var(--mag)}
+
+/* Systems: the card */
+.sysc{margin-top:22px;background:var(--surf);border-radius:32px;overflow:hidden}
+.sys-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px 32px;flex-wrap:wrap;padding:26px clamp(18px,3.4vw,34px) 22px}
+.sys-head > div{min-width:0}
+.kick{display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink-2)}
+.kick .kind2{color:var(--g);background:color-mix(in oklab, var(--g) 13%, transparent);padding:2px 9px;border-radius:999px;font-size:11.5px;font-weight:700}
+.sys-head h3{font-size:clamp(28px,3.6vw,40px);font-weight:700;letter-spacing:-0.04em;line-height:1.08;margin-top:8px}
+.sys-head h3 span{color:var(--g)}
+.sys-head .nick{font-size:17px;color:var(--ink-2);margin-top:4px}
+.hstats{display:flex;gap:26px;flex-wrap:wrap}
+.hstats div{min-width:0}
+.hstats b{display:block;font-size:26px;font-weight:700;letter-spacing:-0.035em;line-height:1.05}
+.hstats span{display:block;font-size:12px;color:var(--ink-2);margin-top:3px}
+.pipe{display:flex;align-items:center;overflow-x:auto;padding:22px clamp(18px,3.4vw,34px) 24px;border-top:1px solid var(--hair);gap:0}
+.pend{flex:0 0 auto;font-size:13px;font-weight:600;color:var(--ink-2);background:var(--chip);border-radius:12px;padding:10px 12px;text-align:center;line-height:1.25}
+.pend small{display:block;font-weight:500;color:var(--ink-3);font-size:11px}
+.parr{flex:0 0 28px;height:2px;background:var(--line);position:relative;margin:0 2px}
+.parr::after{content:"";position:absolute;right:-1px;top:-4px;border:5px solid transparent;border-left-color:var(--line);border-right:0}
+.parr.two::before{content:"";position:absolute;left:-1px;top:-4px;border:5px solid transparent;border-right-color:var(--line);border-left:0}
+.pb{appearance:none;border:0;cursor:pointer;flex:1 1 0;min-width:122px;max-width:200px;background:var(--raise);border-radius:16px;padding:12px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left;position:relative;transition:box-shadow .35s, transform .35s, opacity .35s}
+.pb .ico{color:var(--g);width:18px;height:18px;margin-bottom:2px}
+.pb b{font-size:14px;font-weight:700;letter-spacing:-0.01em;line-height:1.2}
+.pb.fn b{font-family:var(--mono);font-size:12.5px;letter-spacing:0}
+.pb small{font-size:12px;color:var(--ink-2);line-height:1.3}
+.pb .kd{font-size:10.5px;font-weight:700;color:var(--ink-3);text-transform:uppercase;letter-spacing:.05em}
+.pb.on{box-shadow:0 0 0 2px var(--g), 0 10px 24px color-mix(in oklab, var(--g) 28%, transparent);transform:translateY(-3px)}
+.pb.done::after{content:"✓";position:absolute;top:9px;right:11px;font-size:12px;font-weight:800;color:var(--g)}
+.pb.idle{opacity:.6}
+.ploop{flex:1 1 auto;display:flex;align-items:center;gap:0;border:1.5px solid color-mix(in oklab, var(--g) 55%, transparent);border-radius:22px;padding:32px 12px 12px;position:relative;min-width:0}
+.ploop-l{position:absolute;top:9px;left:14px;font-size:11.5px;font-weight:700;color:var(--g);white-space:nowrap}
+.ptools{display:flex;flex-direction:column;gap:6px;flex:1 1 auto;min-width:0}
+.ptools .pb{max-width:none;flex:0 0 auto;padding:9px 12px;flex-direction:row;align-items:center;gap:8px}
+.ptools .pb .ico{margin:0}
+.ptools .pb small{margin-left:auto}
+.ptools .pb .kd{display:none}
+.ptools .pb.done::after{top:50%;transform:translateY(-50%);right:-16px}
+.ptools-h{font-size:10.5px;font-weight:700;color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em;padding-left:2px}
+.stage{border-top:1px solid var(--hair)}
+.qbar{display:flex;justify-content:space-between;align-items:center;gap:10px 20px;flex-wrap:wrap;padding:16px clamp(18px,3.4vw,34px);border-bottom:1px solid var(--hair);background:color-mix(in oklab, var(--g) 5%, var(--surf))}
+.qbar q{font-size:15.5px;font-weight:600;quotes:"“" "”";min-width:0}
+.qbar .meta{display:flex;gap:6px;flex-wrap:wrap}
+.pill{font-size:12px;padding:4px 10px;border-radius:999px;background:var(--raise);color:var(--ink-2);white-space:nowrap;box-shadow:var(--shadow)}
+.pill b{color:var(--ink);font-weight:600}
+.explain{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;padding:22px clamp(18px,3.4vw,34px);border-bottom:1px solid var(--hair);align-items:start}
+.cap{min-width:0}
+.cap .k{font-size:12px;color:var(--ink-3);font-weight:700;text-transform:uppercase;letter-spacing:.07em}
+.cap .t{font-size:clamp(19px,2.1vw,23px);font-weight:600;letter-spacing:-0.022em;line-height:1.3;margin-top:6px}
+.bx{background:var(--raise);border-radius:20px;padding:16px 18px;box-shadow:var(--shadow);min-width:0}
+.bx-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.bx-top .ico{color:var(--g);width:18px;height:18px}
+.bx-top b{font-size:16px;font-weight:700}
+.bx-top b.fn{font-family:var(--mono);font-size:14.5px;letter-spacing:0}
+.kind{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--chip);color:var(--ink-2)}
+.kind.enc{color:var(--vec);background:color-mix(in oklab, var(--vec) 13%, transparent)}
+.kind.dec{color:var(--model);background:color-mix(in oklab, var(--model) 12%, transparent)}
+.kind i{display:inline-flex;gap:2px}
+.kind i u{display:block;width:4px;height:4px;border-radius:50%;background:currentColor;text-decoration:none}
+.kind.dec i u{animation:typing 1.2s infinite both}
+.kind.dec i u:nth-child(2){animation-delay:.2s}.kind.dec i u:nth-child(3){animation-delay:.4s}
+@keyframes typing{0%{opacity:.15}30%{opacity:1}100%{opacity:.15}}
+.kind.enc i u{animation:both2 1.4s infinite ease-in-out}
+.kind.enc i u:nth-child(1),.kind.enc i u:nth-child(3){animation-delay:.25s}
+@keyframes both2{0%,100%{transform:scale(.7);opacity:.5}50%{transform:scale(1.1);opacity:1}}
+.bx-kn{font-size:12.5px;color:var(--ink-3);margin-top:6px;line-height:1.4}
+.bx-under{font-size:12.5px;color:var(--ink-2);margin-top:6px}
+.bx-under b{color:var(--ink)}
+.bx-what{font-size:15px;margin-top:10px;line-height:1.45}
+.bx-how{margin:10px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px;font-size:13.5px;color:var(--ink-2);line-height:1.4}
+.bx-how li{display:flex;gap:9px}
+.bx-how li::before{content:"";flex:0 0 5px;height:5px;border-radius:50%;background:var(--g);margin-top:7px}
+.lab-stage{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr)}
+.corpus{padding:20px clamp(16px,2.6vw,26px);border-right:1px solid var(--hair);display:flex;flex-direction:column;gap:10px;position:relative;min-width:0;overflow:hidden}
+.corpus::after{content:"";position:absolute;left:0;right:0;top:-40%;height:40%;background:linear-gradient(transparent, color-mix(in oklab, var(--g) 18%, transparent), transparent);opacity:0;pointer-events:none}
+.corpus.scan::after{animation:scan 1s ease-out}
+@keyframes scan{0%{top:-40%;opacity:1}100%{top:110%;opacity:1}}
+.colh{font-size:11.5px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:.07em;display:flex;justify-content:space-between;gap:8px}
+.doc{position:relative;border:1.5px solid transparent;border-radius:14px;padding:10px 12px 11px;background:var(--raise);box-shadow:var(--shadow);transition:opacity .45s, translate .45s cubic-bezier(.2,.8,.2,1), border-color .3s, transform .6s cubic-bezier(.2,.8,.2,1), filter .45s}
+.doc-h{display:flex;align-items:center;gap:7px;font-size:11.5px;color:var(--ink-2);padding-right:70px;flex-wrap:wrap;line-height:1.3}
+.doc-id{font-weight:800;color:var(--ink);font-size:12px;background:var(--chip);border-radius:6px;padding:1px 6px}
+.doc-tag{font-size:12.5px;font-weight:600;color:var(--ink)}
+.doc-src{font-size:11px;color:var(--ink-3);margin-top:3px;padding-right:60px;line-height:1.35}
+.badge small{font-size:9.5px;font-weight:700;color:var(--ink-2);margin-right:3px;letter-spacing:.02em}
+.clegend{font-size:12.5px;color:var(--ink-2);line-height:1.45;background:var(--raise);border-radius:12px;padding:9px 12px;box-shadow:var(--shadow)}
+.clegend b{color:var(--ink)}
+.season{font-size:10.5px;padding:1px 7px;border-radius:999px;background:var(--chip);font-variant-numeric:tabular-nums}
+.season.old{background:var(--trap-bg);color:var(--trap-ink)}
+.doc-b{font-family:var(--mono);font-size:12px;line-height:1.6;margin-top:6px;letter-spacing:0;overflow-wrap:anywhere}
+.doc-b .ln{display:block;border-radius:6px;padding:0 5px;margin:0 -5px;transition:background .35s}
+.badge{position:absolute;top:9px;right:10px;font-size:11.5px;font-weight:700;font-variant-numeric:tabular-nums;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--ink);opacity:0;transform:scale(.85);transition:opacity .3s, transform .3s, background .3s, box-shadow .3s}
+.badge.on{opacity:1;transform:none}
+.doc.pick{border-color:var(--g);translate:8px 0}
+.doc.pick .badge{background:color-mix(in oklab, var(--g) 18%, var(--raise));box-shadow:inset 0 0 0 1.5px var(--g)}
+.doc.read{border-color:var(--g)}
+.doc.dim{opacity:.34}
+.doc.out{opacity:.4}
+.doc.out .doc-b{text-decoration:line-through;text-decoration-color:var(--trap-ink)}
+.doc .flag{position:absolute;right:10px;bottom:9px;font-size:11px;font-weight:600;color:var(--trap-ink);opacity:0;transition:opacity .3s}
+.doc.out .flag{opacity:1}
+.w{border-radius:3px;transition:background .35s, box-shadow .35s}
+.w.hit{background:var(--hl);box-shadow:0 0 0 1.5px var(--hl)}
+.sp{border-radius:3px;transition:background .35s, box-shadow .35s}
+.sp.on{background:color-mix(in oklab, var(--g) 16%, transparent);box-shadow:inset 0 -2px 0 var(--g)}
+.ln.on{background:color-mix(in oklab, var(--g) 14%, transparent)}
+.corpus .offnote{position:absolute;inset:0;display:grid;place-items:center;font-size:14px;font-weight:600;color:var(--ink-2);opacity:0;pointer-events:none;transition:opacity .4s}
+.corpus.off .doc{opacity:.16;filter:grayscale(1)}
+.corpus.off .offnote{opacity:1}
+.lens{padding:20px clamp(16px,2.8vw,30px);min-height:440px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.lens-body{display:flex;flex-direction:column;gap:12px;min-width:0;animation:up .5s cubic-bezier(.2,.8,.2,1) both}
+.lens .note{font-size:13.5px;color:var(--ink-2);line-height:1.45}
+.lens .note b{color:var(--ink)}
+.sub{font-size:11.5px;font-weight:600;color:var(--ink-3)}
+.toks{display:flex;flex-wrap:wrap;gap:6px}
+.tok{font-family:var(--mono);font-size:13px;letter-spacing:0;padding:5px 10px;border-radius:9px;background:var(--raise);box-shadow:var(--shadow);animation:pop .4s both}
+.tok.stop{opacity:.35;text-decoration:line-through;box-shadow:none;background:transparent}
+.lrows{display:flex;flex-direction:column;gap:7px}
+.lrow{display:grid;grid-template-columns:32px minmax(0,1fr) minmax(56px,90px) 48px;gap:10px;align-items:center;font-size:12.5px;animation:up .45s both}
+.did{font-weight:700;font-size:11.5px;padding:3px 0;text-align:center;border-radius:7px;background:var(--raise);box-shadow:var(--shadow)}
+.lrow.top .did{background:var(--g);color:#fff;box-shadow:none}
+.mw{display:flex;flex-wrap:wrap;gap:4px;min-width:0}
+.mw span{font-family:var(--mono);font-size:11px;letter-spacing:0;background:var(--hl);border-radius:4px;padding:1px 5px}
+.mw em{font-style:normal;color:var(--ink-3);font-size:11.5px}
+.lbar{height:8px;position:relative}
+.lbar i{position:absolute;left:0;top:0;bottom:0;background:var(--ink-3);border-radius:0 4px 4px 0;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+.lrow.top .lbar i{background:var(--g)}
+.val{font-variant-numeric:tabular-nums;font-weight:600;text-align:right}
+.formula{font-family:var(--mono);font-size:11.5px;letter-spacing:0;color:var(--ink-2);background:var(--raise);border-radius:10px;padding:8px 11px;line-height:1.5;overflow-wrap:anywhere;box-shadow:var(--shadow)}
+.cosgrid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:14px;align-items:center}
+.cosgrid svg{width:100%;height:auto;display:block}
+.cs-arc{fill:none;stroke:var(--line)}
+.cs-tk{fill:var(--ink-3);font-size:10px;font-family:var(--font)}
+.cs-q{stroke:var(--ink);stroke-width:2.2;stroke-dasharray:240;animation:draw .7s ease-out both;--len:240}
+.cs-d{stroke:var(--ink-3);stroke-width:1.3;stroke-dasharray:240;animation:draw .9s ease-out both;--len:240}
+.cs-d.top{stroke:var(--g);stroke-width:2.2}
+.cs-ang{fill:none;stroke:var(--g);stroke-width:1.5}
+.cs-lab{fill:var(--ink);font-size:11px;font-weight:600;font-family:var(--font)}
+.cs-lab2{fill:var(--ink-2);font-size:10.5px;font-family:var(--font)}
+.dps{display:flex;flex-direction:column;gap:6px}
+.ldp{display:grid;grid-template-columns:28px minmax(0,1fr) 40px;gap:8px;align-items:center;font-size:12px}
+.ldp .t{position:relative;height:14px}
+.ldp .t::before{content:"";position:absolute;left:0;right:0;top:50%;height:1px;background:var(--line)}
+.ldp .t i{position:absolute;top:50%;width:10px;height:10px;border-radius:50%;background:var(--ink-3);transform:translate(-50%,-50%);animation:pop .5s both}
+.ldp.top .t i{background:var(--g)}
+.ldp .v{text-align:right;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.ldp.top .v{color:var(--ink);font-weight:700}
+.dp-ax{display:flex;justify-content:space-between;font-size:10px;color:var(--ink-3);margin-left:36px;margin-right:46px}
+.emb{display:grid;grid-template-columns:repeat(24,minmax(0,1fr));gap:2px}
+.emb i{aspect-ratio:1;border-radius:2px;animation:pop .4s both}
+.qcard{background:var(--raise);border-radius:12px;padding:10px 12px;font-size:13.5px;box-shadow:var(--shadow);overflow-wrap:anywhere}
+.qcard.mono{font-size:12.5px}
+.vstep{display:flex;flex-direction:column;gap:7px;animation:up .5s both}
+.vstep > .sub b{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--g);color:#fff;font-size:11px;margin-right:6px}
+.rrf3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.rrf3 h5{font-size:11.5px;font-weight:600;color:var(--ink-2);margin-bottom:6px}
+.ri{display:flex;justify-content:space-between;align-items:center;gap:6px;background:var(--raise);border-radius:10px;padding:7px 10px;font-size:13px;margin-top:5px;box-shadow:var(--shadow);animation:up .45s both}
+.ri b{font-weight:700}
+.ri span{color:var(--ink-3);font-variant-numeric:tabular-nums;font-size:12px}
+.ghost{border:1.5px dashed var(--line);border-radius:12px;min-height:120px;display:grid;place-items:center;font-size:12px;color:var(--ink-3);text-align:center;padding:10px}
+mark.hm{background:var(--hl);color:inherit;border-radius:4px;padding:0 2px}
+.fl{display:flex;flex-wrap:wrap;gap:6px}
+.fl span{font-size:12.5px;font-weight:600;background:var(--raise);border-radius:9px;padding:6px 10px;box-shadow:var(--shadow)}
+.fl span.gone{color:var(--trap-ink);background:var(--trap-bg);box-shadow:none;text-decoration:line-through}
+.msg{background:var(--raise);border-radius:14px;padding:10px 12px;font-size:13px;box-shadow:var(--shadow);animation:up .45s both}
+.msg small{display:block;font-size:10.5px;color:var(--ink-3);font-weight:600;text-transform:uppercase;letter-spacing:.06em;margin-bottom:3px}
+.msg.m p{font-family:var(--mono);font-size:12px;letter-spacing:0}
+.msg.bot{box-shadow:none;border:1.5px solid var(--line);background:transparent}
+.modelchip{align-self:flex-start;display:inline-flex;gap:8px;align-items:center;font-size:12.5px;font-weight:600;padding:6px 12px;border-radius:999px;background:var(--ink);color:var(--bg)}
+.inrow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.verdict{display:flex;align-items:center;gap:10px;padding:12px 14px;border-radius:14px;background:var(--raise);box-shadow:var(--shadow);flex-wrap:wrap;animation:up .5s .15s both}
+.verdict b{font-size:18px;font-weight:700;letter-spacing:-0.02em}
+.verdict small{color:var(--ink-2);font-size:12.5px;margin-left:auto}
+.log{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.log li{font-size:12.5px;line-height:1.4}
+.log .q{color:var(--ink-2)}
+.log .call{font-family:var(--mono);font-size:12px;letter-spacing:0;background:var(--raise);border-radius:10px;padding:7px 10px;box-shadow:var(--shadow);overflow-wrap:anywhere;min-height:2.2em}
+.log .call::before{content:"→ ";color:var(--g);font-weight:700}
+.log .res{padding-left:16px;display:flex;gap:6px;flex-wrap:wrap;align-items:center;color:var(--ink-2)}
+.log .res .mono{font-size:11.5px}
+.log .res .did{display:inline-block;padding:2px 7px}
+.log .think{color:var(--ink-2);padding-left:16px;font-style:italic}
+.log .new{animation:up .5s both}
+.budget{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--ink-2);font-weight:500;letter-spacing:0;text-transform:none}
+.budget i{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--line)}
+.budget i.on{background:var(--g);border-color:var(--g)}
+.budget span{margin-left:4px;font-variant-numeric:tabular-nums}
+/* the reader, token by token */
+.rchart{overflow-x:auto}
+.rchart svg{display:block;min-width:470px;width:100%;height:auto}
+.rc-base{stroke:var(--line)}
+.rc-b{fill:var(--line);transform-box:fill-box;animation:rise .7s cubic-bezier(.2,.8,.2,1) both}
+.rc-b.pos{transform-origin:bottom}
+.rc-b.neg{transform-origin:top}
+.rc-b.hot{fill:var(--g)}
+.rc-b.null{fill:var(--ink)}
+.rc-tok{fill:var(--ink);font-family:var(--mono);font-size:11px}
+.rc-tok.hot{fill:var(--g);font-weight:700}
+.rc-lab{fill:var(--ink-3);font-family:var(--font);font-size:10px;font-weight:600;letter-spacing:.04em}
+.rc-val{fill:var(--ink);font-family:var(--font);font-size:10.5px;font-weight:700;animation:pop .4s .6s both;transform-box:fill-box;transform-origin:center}
+.rc-sep{stroke:var(--line);stroke-dasharray:3 3}
+.sums{display:flex;flex-direction:column;gap:6px}
+.sumrow{display:grid;grid-template-columns:minmax(0,1fr) auto 52px;gap:10px;align-items:center;background:var(--raise);border-radius:12px;padding:9px 12px;box-shadow:var(--shadow);font-size:13.5px;animation:up .45s both}
+.sumrow em{font-style:normal;color:var(--ink-2);font-size:12.5px;font-variant-numeric:tabular-nums}
+.sumrow b{text-align:right;font-variant-numeric:tabular-nums;font-size:15px}
+.sumrow.win{box-shadow:0 0 0 2px var(--ink)}
+.thr{background:var(--raise);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:7px;animation:up .45s both}
+.thr-h{display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600}
+.tb{display:grid;grid-template-columns:130px minmax(0,1fr) 44px;gap:10px;align-items:center;font-size:12.5px}
+.tb span{color:var(--ink-2)}
+.tb i{display:block;height:12px;border-radius:0 6px 6px 0;background:var(--g);animation:grow 1s cubic-bezier(.2,.8,.2,1) both}
+.tb.win i{background:var(--ink)}
+.tb.win span{color:var(--ink);font-weight:600}
+.tb b{text-align:right;font-variant-numeric:tabular-nums}
+.thr p{font-size:12.5px;color:var(--ink-2)}
+.thr p b{color:var(--ink)}
+.otab{display:flex;flex-direction:column;gap:4px}
+.orow{display:grid;grid-template-columns:2.4em minmax(0,1fr) auto;gap:10px;padding:7px 12px;border-radius:10px;background:var(--raise);box-shadow:var(--shadow);font-size:13.5px;animation:up .45s both;font-variant-numeric:tabular-nums}
+.orow.me{box-shadow:0 0 0 2px var(--g)}
+.orow.me b{color:var(--g)}
+.lab-foot{border-top:1px solid var(--hair);padding:14px clamp(18px,3.4vw,34px) 18px;display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 18px;align-items:center}
+.ctrl{display:flex;gap:6px}
+.prog{grid-column:1/-1;display:flex;gap:6px}
+.prog button{flex:1;height:18px;border:0;background:none;padding:0;cursor:pointer;display:flex;align-items:center}
+.prog button span{display:block;width:100%;height:4px;border-radius:2px;background:var(--line);overflow:hidden}
+.prog button span i{display:block;height:100%;width:0;background:var(--g)}
+.prog button.done span i,.prog button.cur span i{width:100%}
+.prog button.cur.run span i{animation:fill var(--dur) linear both}
+@keyframes fill{from{width:0}to{width:100%}}
+.lab-note{font-size:13px;color:var(--ink-3);margin-top:14px;max-width:64em}
+/* Systems: explanations added for S1, S3 and the agents */
+.tg{display:flex;flex-direction:column;gap:6px}
+.tok.miss{opacity:.6;background:transparent;box-shadow:inset 0 0 0 1.5px var(--line)}
+.tok.ok{background:var(--hl);box-shadow:none}
+.tlegend{display:flex;flex-wrap:wrap;gap:6px}
+.tl{display:inline-flex;align-items:center;gap:6px;font-size:12px;background:var(--raise);border-radius:9px;padding:4px 9px;box-shadow:var(--shadow);color:var(--ink-2)}
+.tl i{width:10px;height:10px;border-radius:3px;background:var(--tc)}
+.tl b{color:var(--ink);font-family:var(--mono);font-weight:600;letter-spacing:0}
+.tl.miss{box-shadow:none;background:transparent;color:var(--ink-3)}
+.tl.miss b{color:var(--ink-3);text-decoration:line-through}
+.brows{display:flex;flex-direction:column;gap:7px}
+.brow{display:grid;grid-template-columns:32px minmax(0,1fr) 46px;gap:10px;align-items:center;font-size:12.5px;animation:up .45s both}
+.brow.top .did{background:var(--g);color:#fff;box-shadow:none}
+.bstack{display:flex;gap:2px;height:22px;min-width:0;align-items:stretch}
+.bstack i{display:flex;align-items:center;justify-content:center;background:var(--tc);border-radius:4px;overflow:hidden;animation:grow .9s cubic-bezier(.2,.8,.2,1) both;min-width:3px}
+.bstack i em{font-style:normal;font-size:10px;font-weight:700;color:#fff;font-family:var(--mono);letter-spacing:0;white-space:nowrap;padding:0 4px}
+.bstack small{font-size:11.5px;color:var(--ink-3);align-self:center}
+.fx{background:var(--raise);border-radius:12px;box-shadow:var(--shadow);font-size:12.5px;color:var(--ink-2)}
+.fx summary{cursor:pointer;padding:9px 12px;font-weight:600;color:var(--accent);list-style:none}
+.fx summary::-webkit-details-marker{display:none}
+.fx summary::before{content:"＋ ";font-weight:700}
+.fx[open] summary::before{content:"− "}
+.fx p{padding:0 12px 9px;line-height:1.5}
+.fx b{color:var(--ink)}
+.rw{background:color-mix(in oklab, var(--g) 7%, var(--raise));border-radius:14px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;box-shadow:inset 0 0 0 1.5px color-mix(in oklab, var(--g) 35%, transparent);animation:up .5s both}
+.rw-from{font-size:13px;color:var(--ink-2)}
+.rw-arr{font-size:12px;font-weight:700;color:var(--g)}
+.rw-to{font-size:13.5px;background:var(--raise);border-radius:10px;padding:8px 10px;box-shadow:var(--shadow);overflow-wrap:anywhere}
+.exq{font-size:13px;font-weight:600;margin-top:4px}
+.exr{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:5px 12px;background:var(--raise);border-radius:12px;padding:10px 12px;box-shadow:var(--shadow);animation:up .45s both;align-items:center}
+.exk{grid-column:1/-1;font-size:10.5px;font-weight:700;color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em}
+.ext{grid-column:1/-1;font-size:12px;overflow-wrap:anywhere}
+.exp2{font-size:13px;color:var(--ink-2)}
+.exp2 b{color:var(--ink)}
+.exv{font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--chip);color:var(--ink-2);justify-self:end}
+.exv.ok{color:var(--good);background:color-mix(in oklab, var(--good) 14%, transparent)}
+.funnel{display:flex;flex-direction:column;align-items:center;gap:5px}
+.fun{width:var(--w);min-width:220px;max-width:100%;text-align:center;background:color-mix(in oklab, var(--g) 12%, var(--raise));border-radius:12px;padding:8px 12px;box-shadow:var(--shadow);animation:up .5s both}
+.fun b{display:block;font-size:13.5px}
+.fun span{display:block;font-size:11.5px;color:var(--ink-2)}
+.fsteps{display:flex;flex-direction:column;gap:6px}
+.fq{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--raise);border-radius:10px;padding:8px 12px;font-size:13px;box-shadow:var(--shadow)}
+.fq.dim{box-shadow:none;background:transparent;color:var(--ink-3);font-size:12.5px;padding:2px 12px}
+.fq.go{box-shadow:0 0 0 2px var(--g)}
+.fa{font-weight:700;color:var(--g)}
+.bvc{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px}
+.bc{background:var(--raise);border-radius:14px;padding:12px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:7px;min-width:0}
+.bc p{font-size:12.5px;color:var(--ink-2);line-height:1.4}
+.bcf{display:flex;align-items:center;gap:6px;font-size:12px;flex-wrap:wrap}
+.bcf i{font-style:normal;color:var(--ink-3)}
+.bcf em{font-style:normal;font-size:11px;color:var(--ink-3)}
+.pill2{background:var(--chip);border-radius:8px;padding:4px 8px;font-weight:600;white-space:nowrap}
+.vv{width:40px;height:12px;border-radius:3px;background:linear-gradient(90deg,var(--vec) 0 25%,color-mix(in oklab, var(--vec) 50%, transparent) 25% 50%,var(--vec) 50% 75%,color-mix(in oklab, var(--vec) 30%, transparent) 75%)}
+.vote{background:var(--g);color:#fff;border-radius:8px;padding:4px 8px;font-size:12px}
+.rrsvg{width:100%;max-width:380px;height:auto;display:block}
+.rr-h{fill:var(--ink-3);font-size:10px;font-family:var(--font)}
+.rr-t{fill:var(--ink);font-size:13px;font-weight:700;font-family:var(--font)}
+.rr-t.pass{fill:var(--g)}
+.rr-v{fill:var(--ink-2);font-size:11.5px;font-family:var(--font)}
+.rr-l{stroke:var(--line);stroke-width:2;fill:none;stroke-dasharray:200;animation:draw 1s ease-out both;--len:200}
+.rr-l.pass{stroke:var(--g);stroke-width:2.5}
+.rr-l.upl{stroke:var(--good)}
+.rr-cut{stroke:var(--ink-3);stroke-dasharray:4 4}
+.parr.two{flex-basis:58px}
+.parr em{position:absolute;bottom:7px;left:50%;transform:translateX(-50%);font-style:normal;font-size:10px;font-weight:700;color:var(--g);white-space:nowrap}
+@media (max-width: 720px){ .bvc{grid-template-columns:minmax(0,1fr)} }
+
+/* S1: the balance */
+.bal{background:var(--raise);border-radius:16px;box-shadow:var(--shadow);padding:12px 12px 10px}
+.bal svg{width:100%;max-width:340px;height:auto;display:block;margin:0 auto}
+.bal-base{fill:var(--line)}
+.bal-post{stroke:var(--line);stroke-width:4}
+.bal-bar{stroke:var(--ink);stroke-width:4;stroke-linecap:round}
+.bal-str{stroke:var(--ink-3);stroke-width:1.5}
+.bal-pan{fill:var(--chip);stroke:var(--line)}
+.bal-w.cand{fill:var(--g)}
+.bal-w.none{fill:var(--ink)}
+.bal-n{fill:#fff;font-size:11px;font-weight:700;font-family:var(--font);text-anchor:middle}
+.bal-n.inv{fill:var(--bg)}
+.bal-pin{fill:var(--raise);stroke:var(--ink);stroke-width:2}
+.beam{transform-box:view-box;transform-origin:160px 58px;animation:tilt 1.4s .35s cubic-bezier(.3,1.5,.5,1) both}
+@keyframes tilt{from{transform:rotate(0deg)}to{transform:rotate(9deg)}}
+.bal-lab{display:grid;grid-template-columns:1fr 1fr;gap:10px;text-align:center;font-size:12px;color:var(--ink-2);margin-top:4px}
+.bal-lab b{display:block;font-size:13.5px;color:var(--ink)}
+.bal-lab .win b{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
+.rule{display:flex;flex-direction:column;gap:5px;background:color-mix(in oklab, var(--g) 7%, var(--raise));border-radius:14px;padding:12px 14px;font-size:13.5px;line-height:1.4;box-shadow:inset 0 0 0 1.5px color-mix(in oklab, var(--g) 30%, transparent)}
+.rule b{color:var(--g)}
+.check{display:flex;flex-direction:column;gap:6px}
+.ck{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:10px;align-items:center;background:var(--raise);border-radius:12px;padding:9px 12px;box-shadow:var(--shadow);font-size:13px;animation:up .5s both}
+.ck b{font-variant-numeric:tabular-nums}
+.ckv{font-size:12px;font-weight:700;color:var(--ink-2);background:var(--chip);border-radius:999px;padding:3px 9px;white-space:nowrap}
+.why2{display:flex;flex-direction:column;gap:8px}
+.why2 > div{display:grid;grid-template-columns:26px minmax(0,1fr);gap:10px;align-items:start;background:var(--raise);border-radius:12px;padding:10px 12px;box-shadow:var(--shadow);animation:up .5s both}
+.why2 > div:nth-child(2){animation-delay:.25s}
+.why2 > div > b{display:grid;place-items:center;width:24px;height:24px;border-radius:50%;background:var(--g);color:#fff;font-size:12px}
+.why2 p{font-size:13.5px;line-height:1.45;color:var(--ink-2)}
+.why2 strong{color:var(--ink)}
+
+/* ---------- Added for the simple version: the question, the three families, the glossary ---------- */
+.wrap{padding-inline:0;padding-left:max(22px, env(safe-area-inset-left, 0px));padding-right:max(22px, env(safe-area-inset-right, 0px))}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top, 0px);z-index:21;background:var(--bg)}
+.rail-leg{margin-top:30px}
+.hstats b{font-size:20px;display:flex;align-items:center;gap:7px}
+.hstats .mk{width:20px;height:20px}
+.lab-foot{grid-template-columns:auto minmax(0,1fr) auto}
+.prog{grid-column:auto}
+.nextsys{appearance:none;border:0;cursor:pointer;font-size:13px;font-weight:600;padding:9px 14px;border-radius:999px;background:var(--raise);box-shadow:var(--shadow);color:var(--ink-2);display:inline-flex;gap:6px;align-items:center;white-space:nowrap}
+.nextsys b{color:var(--g)}
+.nextsys span{color:var(--ink)}
+.nextsys:hover{box-shadow:0 0 0 1.5px var(--g) inset}
+.dverdict{font-size:14px;line-height:1.45}
+.dverdict b{color:var(--ink)}
+.lab-note{line-height:1.5}
+
+@media (max-width: 900px){
+  .explain,.lab-stage{grid-template-columns:minmax(0,1fr)}
+  .corpus{border-right:0;border-bottom:1px solid var(--hair)}
+  .lens{min-height:0}
+}
+@media (max-width: 720px){
+  section{padding-block:80px}
+  .rnode{width:84px}
+  .rnode b{font-size:20px}
+  .rseg{min-width:58px}
+  .pipe{padding-inline:16px}
+  .pb{min-width:116px}
+  .doc.pick{translate:4px 0}
+  .doc{padding:8px 10px 9px}
+  .doc-b{font-size:11px}
+  .cosgrid,.rrf3{grid-template-columns:minmax(0,1fr)}
+  .cosgrid svg{max-width:240px}
+  .navlinks{gap:16px;font-size:12px}
+  .brand{font-size:17px}
+  .lab-foot{grid-template-columns:auto minmax(0,1fr)}
+  .hstats{gap:18px}
+}
+/* ---------- Seven Systems Compared: header, race board, motion ---------- */
+:root{--key:#D99A00}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){--key:#FFD60A} }
+:root[data-theme="dark"]{--key:#FFD60A}
+@property --g{syntax:'<color>';inherits:true;initial-value:#8E8E93}
+.sysc,.rnode,.nextsys,.lane{transition:--g .6s}
+
+#systems{padding-block:0 110px}
+.ph{padding-block:72px 0}
+.ph h1{font-size:clamp(40px,7vw,84px);line-height:1.02;letter-spacing:-0.045em;font-weight:700;margin-top:4px}
+.ph .lead{max-width:36em}
+.qhero{margin-top:28px;background:var(--surf);border-radius:24px;padding:18px 22px;display:flex;flex-direction:column;gap:12px}
+.qhero q{font-size:clamp(18px,2.2vw,23px);font-weight:600;letter-spacing:-0.02em;line-height:1.3;quotes:"“" "”"}
+.qhero .meta{display:flex;gap:6px;flex-wrap:wrap}
+
+/* Race board: all seven at once */
+.board{margin-top:20px;background:var(--surf);border-radius:30px;padding:clamp(18px,3vw,30px)}
+.board-top{display:flex;justify-content:space-between;align-items:flex-end;gap:14px 24px;flex-wrap:wrap}
+.board-top > div{min-width:0;max-width:40em}
+.board-top .eyebrow{font-size:13px;margin-bottom:4px}
+.bh{font-size:clamp(22px,2.6vw,30px);font-weight:700;letter-spacing:-0.03em;line-height:1.15}
+.blead{font-size:15.5px;color:var(--ink-2);margin-top:8px;line-height:1.45}
+.runbtn{appearance:none;border:0;cursor:pointer;font-size:14px;font-weight:600;padding:10px 18px;border-radius:999px;background:var(--ink);color:var(--bg);display:inline-flex;gap:8px;align-items:center;white-space:nowrap}
+.runbtn svg{width:12px;height:12px}
+.bhead,.lane{display:grid;grid-template-columns:160px minmax(0,1fr) 184px 70px 150px;column-gap:16px;align-items:center}
+.bhead{margin-top:20px;padding:0 12px 8px;font-size:11.5px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:.07em;border-bottom:1px solid var(--hair)}
+.bhead span:nth-child(4){text-align:center}
+.lanes{display:flex;flex-direction:column}
+.lane{grid-template-areas:"name track chips cnt ans" ". cap cap cap cap";row-gap:3px;padding:12px;border-bottom:1px solid var(--hair);border-radius:14px;transition:--g .6s, background .3s}
+.lane:last-child{border-bottom:0}
+.lane.cur{background:color-mix(in oklab, var(--g) 8%, transparent)}
+.lname{grid-area:name;appearance:none;border:0;background:none;padding:2px 0;cursor:pointer;display:flex;align-items:center;gap:8px;text-align:left;min-width:0;color:inherit}
+.lname b{font-size:17px;font-weight:700;letter-spacing:-0.02em;color:var(--g)}
+.lname span:last-child{font-size:13px;color:var(--ink-2);font-weight:600;line-height:1.2}
+.lname:hover span:last-child{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+.track{grid-area:track;display:flex;align-items:center;min-width:0;padding-top:4px}
+.ev{appearance:none;border:0;padding:0;width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:var(--raise);box-shadow:var(--shadow);color:var(--ink-3);cursor:pointer;flex:0 0 auto;transition:transform .3s, box-shadow .3s, color .3s, background .3s}
+.ev .ico{width:15px;height:15px}
+.ev.done{color:var(--g);background:color-mix(in oklab, var(--g) 13%, var(--raise))}
+.ev.on{color:#fff;background:var(--g);transform:scale(1.16);box-shadow:0 0 0 5px color-mix(in oklab, var(--g) 22%, transparent)}
+.ev:hover{color:var(--g)}
+.ev.on:hover{color:#fff}
+.cn{flex:0 1 18px;min-width:8px;height:2px;background:var(--line);transition:background .4s, border-color .4s}
+.cn.lit{background:var(--g)}
+.track.loop .cn{height:9px;background:none;border:2px solid var(--line);border-bottom:0;border-radius:9px 9px 0 0;transform:translateY(-6px)}
+.track.loop .cn.lit{border-color:var(--g)}
+.chips{grid-area:chips;display:flex;gap:4px;position:relative;overflow:hidden;padding:2px 0 6px;min-width:0}
+.chips::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,color-mix(in oklab, var(--g) 30%, transparent),transparent);transform:translateX(-100%);opacity:0;pointer-events:none}
+.chips.scan::after{animation:sweep .8s ease-out}
+@keyframes sweep{0%{transform:translateX(-100%);opacity:1}100%{transform:translateX(100%);opacity:1}}
+.chips.off{opacity:.45}
+.dc{position:relative;font-size:11px;font-weight:700;font-variant-numeric:tabular-nums;width:32px;text-align:center;padding:4px 0;border-radius:7px;color:var(--ink-3);box-shadow:inset 0 0 0 1px var(--hair);transition:color .35s, background .35s, box-shadow .35s;flex:0 0 auto}
+.dc.ans::after{content:"";position:absolute;left:8px;right:8px;bottom:-5px;height:3px;border-radius:2px;background:var(--key)}
+.dc.scored{color:var(--ink-2);box-shadow:inset 0 0 0 1.5px var(--line)}
+.dc.pick{color:var(--g);background:color-mix(in oklab, var(--g) 14%, transparent);box-shadow:inset 0 0 0 1.5px var(--g)}
+.dc.read{color:#fff;background:var(--g);box-shadow:none}
+.dc.out{color:var(--trap-ink);background:var(--trap-bg);box-shadow:none;text-decoration:line-through}
+.dc.bump,.cnt b.bump,.lans.bump{animation:pop .4s both}
+.cnt{grid-area:cnt;text-align:center;font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
+.cnt b{display:inline-block;font-weight:700}
+.lans{grid-area:ans;display:flex;align-items:center;gap:8px;font-size:15px;min-width:0}
+.lans b{font-weight:700;letter-spacing:-0.01em}
+.lans.no b{color:var(--ink-2);font-weight:600}
+.lans.wait b{color:var(--ink-3)}
+.rcap{grid-area:cap;font-size:13px;color:var(--ink-2);line-height:1.4;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.8em}
+.bfoot{display:flex;justify-content:space-between;align-items:center;gap:10px 24px;flex-wrap:wrap;margin-top:14px;padding:14px 12px 0;border-top:1px solid var(--hair)}
+.blegend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12.5px;color:var(--ink-2);--g:var(--ink-2)}
+.lg{display:inline-flex;align-items:center;gap:7px}
+.dc.sw{width:20px;height:14px;padding:0}
+.bstatus{font-size:15px;font-weight:600}
+
+/* Lab heading */
+.labhead{margin-top:110px}
+.howto{font-size:14px;color:var(--ink-3);margin-top:14px;max-width:46em;line-height:1.45}
+
+/* Rail: progress during the tour */
+.rseg .ln{position:relative;overflow:hidden;background:var(--line)}
+.rseg .ln i{position:absolute;inset:0;background:linear-gradient(90deg,var(--from),var(--to));transform-origin:left;transition:transform .7s cubic-bezier(.2,.8,.2,1)}
+.rail.touring .rseg:not(.done) .ln i{transform:scaleX(0)}
+.rseg.live span{animation:livepop .7s cubic-bezier(.2,.8,.2,1)}
+@keyframes livepop{50%{transform:scale(1.25);color:var(--ink)}}
+.rail.touring .rnode[aria-selected="true"] .dot{animation:dotpulse 1.6s ease-in-out infinite}
+@keyframes dotpulse{50%{box-shadow:0 0 0 11px color-mix(in oklab, var(--g) 12%, transparent)}}
+.rdiff .dpill{appearance:none;border:0;cursor:pointer;font:inherit;font-size:12px;font-weight:600;animation:pop .4s both}
+.rdiff .dpill:hover{filter:brightness(.95)}
+
+/* Pipeline motion */
+.pipe{position:relative}
+.parr .pkt{position:absolute;top:-3px;left:-4px;width:8px;height:8px;border-radius:50%;background:var(--g);opacity:0;pointer-events:none}
+.parr.go .pkt{animation:pkt .65s cubic-bezier(.4,0,.2,1) both}
+.parr.go.back .pkt{animation-name:pktback}
+@keyframes pkt{from{left:-4px;opacity:1}to{left:calc(100% - 4px);opacity:.25}}
+@keyframes pktback{from{left:calc(100% - 4px);opacity:1}to{left:-4px;opacity:.25}}
+.pb.fed,.pend.fed{animation:fed .5s cubic-bezier(.2,.8,.2,1)}
+@keyframes fed{40%{transform:scale(1.07)}}
+.pb.chg::before{content:"";position:absolute;top:10px;right:11px;width:7px;height:7px;border-radius:50%;background:var(--good)}
+.ptools .pb.chg::before{top:50%;right:auto;left:-11px;transform:translateY(-50%)}
+.pb.hint{box-shadow:0 0 0 2px var(--pc,var(--g)), 0 8px 20px color-mix(in oklab, var(--pc,var(--g)) 25%, transparent)}
+.pb.swapring{animation:swapring .9s ease-out}
+@keyframes swapring{from{box-shadow:0 0 0 3px var(--model), var(--shadow)}}
+.pb-old{position:absolute;inset:0;padding:inherit;display:flex;flex-direction:inherit;align-items:inherit;gap:inherit;background:var(--raise);border-radius:inherit;pointer-events:none;overflow:hidden}
+.ghost-pb{position:absolute;z-index:2;pointer-events:none}
+.ghost-pb .pb{min-width:0;max-width:none;width:100%;cursor:default}
+.ghost-pb .pb.row{flex-direction:row;align-items:center;gap:8px;padding:9px 12px}
+.ghost-pb .pb.row .kd{display:none}
+.ghost-pb .pb.row small{margin-left:auto}
+.ploop.enter{animation:loopin .7s .15s both}
+@keyframes loopin{from{border-color:transparent}}
+.ploop.enter .ploop-l{animation:pop .4s .55s both}
+.stage{transition:opacity .4s}
+.sysc.transit .stage{opacity:.35}
+
+/* Lab: one reveal order, less noise */
+.lens-body{animation:fadein .45s var(--lens-delay, 250ms) both}
+@keyframes fadein{from{opacity:0}}
+.kind.dec i u,.kind.enc i u{animation-iteration-count:3}
+.pb.done::after{animation:pop .3s both}
+.rw-to .qw{display:inline-block;animation:pop .28s both;animation-delay:calc(var(--i) * 130ms)}
+.flyer{position:fixed;z-index:40;pointer-events:none;margin:0;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.2)}
+.flyer.doc-id{background:var(--g);color:#fff}
+.flyer.fw{font-family:var(--mono);font-size:12px;letter-spacing:0;background:var(--hl);border-radius:4px;color:var(--ink)}
+
+/* Season filter: a line strikes the old table */
+.doc-b{position:relative}
+.doc .strike{position:absolute;left:0;right:0;top:50%;height:2px;background:var(--trap-ink);transform:scaleX(0);transform-origin:left;transition:transform .45s .35s}
+.doc.out .strike{transform:scaleX(1)}
+.doc.out .doc-b{text-decoration:none}
+.doc.out .season.old{display:inline-block;animation:seasonpulse .3s 2}
+@keyframes seasonpulse{50%{transform:scale(1.2)}}
+.doc.out .flag{transition-delay:.8s}
+.doc.out{transition:opacity .45s .9s, translate .45s cubic-bezier(.2,.8,.2,1), border-color .3s, transform .6s cubic-bezier(.2,.8,.2,1), filter .45s}
+.fsteps .fq{animation:up .4s both}
+.fsteps .fq:nth-child(2){animation-delay:.4s}
+.fsteps .fq:nth-child(3){animation-delay:.8s}
+.fl span.gone{animation:pop .4s .9s both}
+
+.fbtns{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.nextsys[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.nextsys svg{width:12px;height:12px}
+
+@keyframes swapring{from{box-shadow:0 0 0 3px var(--g), var(--shadow)}}
+@media (max-width: 760px){ .pipe > *{flex-shrink:0} .ploop{flex:0 0 auto} .ptools{flex:0 0 auto;min-width:210px} }
+@media (max-width: 980px){
+  .rcap{-webkit-line-clamp:3;min-height:4.2em}
+  .bhead{display:none}
+  .lane{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"name ans" "track track" "chips cnt" "cap cap";row-gap:9px;padding:14px 10px}
+  .lans{justify-self:end}
+  .cnt{justify-self:end;font-size:15px}
+  .cnt::after{content:attr(data-u);font-size:12px;font-weight:500;color:var(--ink-2)}
+}
+@media (max-width: 720px){
+  .ph{padding-block:52px 0}
+  .labhead{margin-top:80px}
+  .fbtns{grid-column:1/-1;justify-content:flex-start}
+  .bfoot{padding-inline:4px}
+}
+.rail{position:relative}
+
+/* Step bars: arrows always in view, nothing moves on its own */
+.sysc{overflow:hidden;overflow:clip}
+.stepbar{position:sticky;top:calc(env(safe-area-inset-top, 0px) + 53px);z-index:15;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:12px 14px;padding:10px clamp(14px,3vw,26px);background:color-mix(in oklab, var(--surf) 88%, transparent);backdrop-filter:saturate(180%) blur(18px);-webkit-backdrop-filter:saturate(180%) blur(18px);border-bottom:1px solid var(--hair)}
+.board .stepbar{--g:var(--ink);margin:18px calc(-1 * clamp(18px,3vw,30px)) 0;border-top:1px solid var(--hair)}
+.board .sb-btn.primary{color:var(--bg)}
+.sb-btn{appearance:none;border:0;cursor:pointer;height:46px;min-width:46px;padding:0 13px;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;gap:7px;font-size:14px;font-weight:700;letter-spacing:-0.01em;background:var(--raise);color:var(--ink);box-shadow:var(--shadow);transition:transform .15s, opacity .2s, background .3s;white-space:nowrap}
+.sb-btn svg{width:16px;height:16px;flex:0 0 auto}
+.sb-btn.primary{background:var(--g);color:#fff;box-shadow:0 6px 16px color-mix(in oklab, var(--g) 32%, transparent)}
+.sb-btn:active{transform:scale(.94)}
+.sb-btn:disabled{opacity:.28;cursor:default;box-shadow:none}
+.sb-x:empty{display:none}
+.sb-mid{min-width:0;display:flex;flex-direction:column;gap:6px}
+.sb-k{font-size:13.5px;font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
+.sb-k span{color:var(--ink-3);font-weight:600}
+.sb-cap{font-size:14px;color:var(--ink-2);line-height:1.4;max-width:62em}
+.stepbar .prog{gap:5px}
+.board:not(.moved) #rnext,.sysc:not(.moved) #bnext{animation:nudge 1.8s 1.2s 3 both}
+@keyframes nudge{0%,100%{transform:none}50%{transform:scale(1.1)}}
+@media (max-width: 720px){ .sb-cap{font-size:13px} .sb-btn{height:44px;min-width:44px} .stepbar{gap:10px} }
+
+/* ===== Compact: type scale and spacing ===== */
+/* ===== Type + spacing tokens (compact scale) ===== */
+:root{
+  --fs-xs:11px;  --fs-sm:12px;  --fs-base:14px; --fs-md:16px; --fs-lg:20px; --fs-xl:26px;
+  --fs-2xl:clamp(28px,3.4vw,40px); --fs-3xl:clamp(34px,4.6vw,56px);
+  --lh-tight:1.08; --lh-snug:1.25; --lh-body:1.4; --lh-mono:1.5;
+  --ls-display:-0.035em; --ls-head:-0.02em; --ls-body:-0.01em; --ls-caps:.06em;
+  --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px; --space-5:24px; --space-6:40px;
+  --sec:56px; --card-pad:20px; --radius-s:8px; --radius-m:14px; --radius-l:22px;
+  --tap:44px;
+}
+@media (max-width:720px){
+  :root{ --fs-md:15px; --fs-lg:18px; --fs-xl:22px; --fs-2xl:26px; --fs-3xl:32px;
+         --sec:32px; --card-pad:14px; --radius-l:18px; --space-5:16px; --space-6:24px; }
+}
+body{font-size:var(--fs-base);line-height:var(--lh-body);letter-spacing:var(--ls-body)}
+section{padding-block:var(--sec)}
+#systems{padding-block:0 var(--sec)}
+.ph{padding-block:var(--space-6) 0}
+.eyebrow{font-size:var(--fs-sm);font-weight:600;margin-bottom:var(--space-1)}
+.ph h1{font-size:var(--fs-3xl);line-height:var(--lh-tight);letter-spacing:var(--ls-display);margin-top:2px}
+h2{font-size:var(--fs-2xl);line-height:var(--lh-tight);letter-spacing:var(--ls-display)}
+.lead,.ph .lead{font-size:var(--fs-md);line-height:var(--lh-body);margin-top:var(--space-3);max-width:40em}
+.qhero{margin-top:var(--space-4);border-radius:var(--radius-l);padding:var(--space-3) var(--space-4);gap:var(--space-2)}
+.qhero q{font-size:var(--fs-md);line-height:var(--lh-snug)}
+.pill{font-size:var(--fs-sm);padding:3px 9px}
+.board{margin-top:var(--space-4);border-radius:var(--radius-l);padding:var(--card-pad)}
+.board-top .eyebrow{font-size:var(--fs-xs);text-transform:uppercase;letter-spacing:var(--ls-caps);margin-bottom:2px}
+.bh{font-size:var(--fs-lg);line-height:var(--lh-snug);letter-spacing:var(--ls-head)}
+.blead{font-size:var(--fs-base);margin-top:var(--space-1)}
+.board .stepbar{margin:var(--space-3) calc(-1 * var(--card-pad)) 0}
+.stepbar{padding:var(--space-2) var(--card-pad);gap:var(--space-2) var(--space-3)}
+.sb-btn{height:var(--tap);min-width:var(--tap);font-size:var(--fs-base)}
+.sb-k{font-size:var(--fs-sm)}
+.sb-cap{font-size:var(--fs-base);line-height:var(--lh-body)}
+.sb-mid{gap:var(--space-1)}
+.bhead{margin-top:var(--space-3);font-size:var(--fs-xs);padding-bottom:var(--space-1)}
+.lane{padding:var(--space-2) var(--space-3);row-gap:2px;border-radius:var(--radius-m)}
+.lname b{font-size:var(--fs-md)}
+.lname span:last-child{font-size:var(--fs-sm)}
+.cnt{font-size:var(--fs-lg)}
+.lans{font-size:var(--fs-base)}
+.rcap{font-size:var(--fs-sm);line-height:1.35;min-height:0}
+.dc{font-size:var(--fs-xs)}
+.bfoot{margin-top:var(--space-2);padding-top:var(--space-2)}
+.blegend{font-size:var(--fs-sm)}
+.bstatus{font-size:var(--fs-base)}
+.labhead{margin-top:var(--sec)}
+.howto{font-size:var(--fs-sm);margin-top:var(--space-2)}
+.rail-leg{font-size:var(--fs-sm);margin-top:var(--space-4)}
+.rail{margin-top:var(--space-2);padding:var(--space-1) var(--space-1) var(--space-2)}
+.rnode b{font-size:var(--fs-lg)}
+.rnode .nm,.rnode .ac{font-size:var(--fs-xs)}
+.rseg span{font-size:var(--fs-xs)}
+.rdiff{margin-top:var(--space-2);min-height:0}
+.rdiff p{font-size:var(--fs-base)}
+.dpill,.rdiff .dpill{font-size:var(--fs-sm)}
+.sysc{margin-top:var(--space-3);border-radius:var(--radius-l)}
+.sys-head{padding:var(--space-4) var(--card-pad) var(--space-3);gap:var(--space-2) var(--space-5)}
+.kick{font-size:var(--fs-sm)}
+.kick .kind2{font-size:var(--fs-xs)}
+.sys-head h3{font-size:var(--fs-xl);line-height:var(--lh-tight);margin-top:var(--space-1)}
+.sys-head .nick{font-size:var(--fs-base);margin-top:2px}
+.hstats{gap:var(--space-4)}
+.hstats b{font-size:var(--fs-md)}
+.hstats span{font-size:var(--fs-xs);margin-top:1px}
+.pipe{padding:var(--space-3) var(--card-pad) var(--space-4)}
+.pend{font-size:var(--fs-sm);padding:var(--space-2) var(--space-3);border-radius:var(--radius-s)}
+.pend small{font-size:var(--fs-xs)}
+.pb{min-width:108px;padding:var(--space-2) var(--space-3);border-radius:var(--radius-m);gap:2px}
+.pb b{font-size:var(--fs-base)}
+.pb.fn b{font-size:var(--fs-sm)}
+.pb small{font-size:var(--fs-xs)}
+.pb .kd{font-size:var(--fs-xs);letter-spacing:var(--ls-caps)}
+.ploop{padding:26px var(--space-2) var(--space-2);border-radius:var(--radius-m)}
+.ploop-l{font-size:var(--fs-xs)}
+.ptools-h{font-size:var(--fs-xs)}
+.qbar{padding:var(--space-2) var(--card-pad);gap:var(--space-2) var(--space-4)}
+.qbar q{font-size:var(--fs-base)}
+.explain{gap:var(--space-4);padding:var(--space-3) var(--card-pad)}
+.cap .k{font-size:var(--fs-xs)}
+.cap .t{font-size:var(--fs-md);line-height:var(--lh-snug);margin-top:var(--space-1)}
+.bx{padding:var(--space-3) var(--space-4);border-radius:var(--radius-m)}
+.bx-top b{font-size:var(--fs-md)}
+.bx-top b.fn{font-size:var(--fs-base)}
+.kind{font-size:var(--fs-xs)}
+.bx-kn,.bx-under{font-size:var(--fs-sm);margin-top:var(--space-1)}
+.bx-what{font-size:var(--fs-base);margin-top:var(--space-2);line-height:var(--lh-body)}
+.bx-how{font-size:var(--fs-sm);margin-top:var(--space-2);gap:var(--space-1);line-height:var(--lh-body)}
+.corpus{padding:var(--space-3) var(--card-pad);gap:var(--space-2)}
+.lens{padding:var(--space-3) var(--card-pad);gap:var(--space-2)}
+.lens-body{gap:var(--space-2)}
+.lens .note{font-size:var(--fs-sm);line-height:var(--lh-body)}
+.colh{font-size:var(--fs-xs)}
+.clegend{font-size:var(--fs-sm);line-height:var(--lh-body);padding:var(--space-2) var(--space-3);border-radius:var(--radius-s)}
+.doc{padding:var(--space-2) var(--space-3);border-radius:var(--radius-m)}
+.doc-h{font-size:var(--fs-xs)}
+.doc-tag{font-size:var(--fs-sm)}
+.doc-src{font-size:var(--fs-xs);margin-top:2px}
+.doc-b{font-size:var(--fs-xs);line-height:var(--lh-mono);margin-top:var(--space-1)}
+.badge{font-size:var(--fs-xs)}
+.lab-note{font-size:var(--fs-sm);margin-top:var(--space-3)}
+.verdict b{font-size:var(--fs-md)}
+.qcard,.msg,.sumrow,.rule,.why2 p,.rw-to,.bx-what{font-size:var(--fs-base)}
+.qcard.mono,.msg.m p,.log .call,.formula,.tok{font-size:var(--fs-sm)}
+.ib{width:36px;height:36px}
+
+/* ===== Phone overrides ===== */
+@media (max-width:720px){
+  .ph .eyebrow{display:none} /* duplicates the nav brand */
+  .ph .lead{margin-top:var(--space-2)}
+  .qhero .meta,.qbar .meta,.pills,.rail-leg,.blegend{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin-inline:calc(-1 * var(--space-4));padding-inline:var(--space-4);mask-image:linear-gradient(90deg,#000 calc(100% - 24px),transparent)}
+  .qhero .meta::-webkit-scrollbar,.qbar .meta::-webkit-scrollbar,.pills::-webkit-scrollbar,.rail-leg::-webkit-scrollbar,.blegend::-webkit-scrollbar{display:none}
+  .rail-leg span,.blegend .lg{white-space:nowrap;flex:0 0 auto}
+  .rail-leg{margin-inline:0;padding-inline:0}
+  .board-top > div{max-width:none}
+  .lane{grid-template-columns:minmax(0,1fr) auto auto;grid-template-areas:"name ans cnt" "track track track" "chips chips chips" "cap cap cap";row-gap:var(--space-2);padding:var(--space-2) var(--space-2)}
+  .lname span:last-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .cnt{font-size:var(--fs-sm);font-weight:600;color:var(--ink-2);justify-self:end;align-self:center}
+  .cnt b{font-size:var(--fs-base);color:var(--ink)}
+  .lans{font-size:var(--fs-base)}
+  .rcap{-webkit-line-clamp:2;min-height:0}
+  .ev{width:30px;height:30px;position:relative}
+  .ev::before{content:"";position:absolute;inset:-7px}  /* 44px hit area, 30px visual */
+  .ev .ico{width:14px;height:14px}
+  .dc{width:30px}
+  .chips{padding:0 0 5px}
+  .track{padding-top:0}
+  .stepbar{gap:var(--space-2)}
+  .sb-cap{font-size:var(--fs-sm)}
+  .labhead{margin-top:var(--space-6)}
+  .labhead h2{max-width:none}
+  .rnode{width:72px}
+  .rseg{min-width:48px}
+  .lab-note{font-size:var(--fs-sm)}
+  .cosgrid svg{max-width:200px}
+}
+/* ===== Phone, second pass ===== */
+@media (max-width:720px){
+  .dpill,.rdiff .dpill{white-space:nowrap;flex:0 0 auto}
+  .howto{display:none}            /* describes the desktop Top/Left/Right layout; wrong on a stacked phone */
+  .lane{row-gap:6px}
+  .lane .rcap{display:none}       /* one tap away: tapping a step circle opens that step in the lab; the sticky bar narrates each beat */
+  .lane.cur .rcap,.lane:focus-within .rcap{display:-webkit-box}
+  .ph h1{font-size:30px}
+}
+@media (max-width:720px){ .ev{width:28px;height:28px} .ev .ico{width:13px;height:13px} .cn{flex-basis:14px} .lane{row-gap:5px} .doc-b{line-height:1.45} }
+
+/* ===== Compact: lab card ===== */
+/* ================= Lab card: compact ================= */
+.sysc{border-radius:26px}
+/* Head: one row. Name + nick left, three stats right */
+.sys-head{align-items:center;gap:8px 24px;padding:14px clamp(16px,3vw,28px) 12px}
+.sys-head > .in{flex:1 1 360px}
+.sys-head h3{font-size:22px;letter-spacing:-0.03em;line-height:1.2;margin:0}
+.sys-head h3 .kind2{display:inline-block;vertical-align:middle;margin-left:8px;font-size:11px;font-weight:700;letter-spacing:0;padding:2px 8px;border-radius:999px;color:var(--g);background:color-mix(in oklab, var(--g) 13%, transparent)}
+.sys-head .nick{font-size:13px;margin-top:2px}
+.hstats{flex:0 0 auto;gap:24px}
+.hstats div{display:flex;flex-direction:column-reverse;gap:1px}
+.hstats b{font-size:15px;letter-spacing:-0.02em;line-height:1.2;gap:5px}
+.hstats .mk{width:16px;height:16px}.hstats .mk svg{width:10px;height:10px}
+.hstats span{font-size:11px;margin:0;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-3);font-weight:600}
+/* Pipe: smaller cards */
+.pipe{padding:12px clamp(16px,3vw,28px) 14px}
+.pend{font-size:12px;padding:7px 10px;border-radius:10px}
+.pend small{font-size:10.5px}
+.pb{min-width:110px;max-width:180px;padding:8px 10px 9px;border-radius:13px;gap:2px}
+.pb .ico{width:15px;height:15px;margin-bottom:1px}
+.pb b{font-size:13px}
+.pb.fn b{font-size:11.5px}
+.pb small{font-size:11.5px;line-height:1.25}
+.pb .kd{font-size:10px}
+.pb.done::after{top:7px;right:9px;font-size:11px}
+.pb.on{transform:translateY(-2px)}
+.ploop{padding:24px 10px 10px;border-radius:18px}
+.ploop-l{top:6px;left:12px;font-size:11px}
+.ptools{gap:5px}
+.ptools .pb{padding:6px 10px;gap:7px}
+.ptools-h{font-size:10px}
+.parr{flex-basis:22px}
+.parr.two{flex-basis:50px}
+/* Step bar: "S1 · Step 2 of 5 · BM25" + progress on one row, the caption under it */
+#lbar{padding:9px clamp(12px,2.6vw,22px);gap:10px 12px;align-items:center}
+#lbar .sb-mid{gap:4px}
+#lbar .sb-row{display:flex;align-items:center;gap:14px;min-width:0}
+#lbar .sb-k{font-size:13px;white-space:nowrap;flex:0 0 auto}
+#lbar .prog{flex:1 1 auto;min-width:80px;max-width:280px}
+#lbar .prog button{height:14px}
+#lbar .sb-btn{height:40px;min-width:40px;font-size:13px;padding:0 11px}
+#lbar .sb-btn svg{width:14px;height:14px}
+#cap .t{font-size:14px;font-weight:500;color:var(--ink);line-height:1.35;letter-spacing:-0.012em;margin:0}
+/* Context strip: "About <block>" disclosure + the question, one line */
+.lab-stage{grid-template-columns:minmax(0,.44fr) minmax(0,.56fr)}
+.ctx{grid-column:1/-1;display:flex;align-items:center;gap:6px 18px;flex-wrap:wrap;padding-right:clamp(14px,2.6vw,24px);background:color-mix(in oklab, var(--g) 5%, var(--surf));border-bottom:1px solid var(--hair);min-width:0}
+.bxt{appearance:none;border:0;cursor:pointer;flex:0 0 auto;display:flex;align-items:center;gap:6px;padding:8px clamp(14px,2.6vw,24px);background:none;font-size:12.5px;font-weight:600;color:var(--ink);text-align:left;min-width:0}
+.bxt span{color:var(--ink-3);font-weight:500}
+.bxt svg{width:12px;height:12px;flex:0 0 auto;color:var(--ink-3);transition:transform .25s}
+.bx-open .bxt svg{transform:rotate(180deg)}
+.ctx .qbar{display:flex;flex:1 1 420px;align-items:center;justify-content:flex-end;gap:6px 10px;padding:4px 0;border:0;background:none;min-width:0}
+.ctx .qbar q{font-size:12.5px;font-weight:500;color:var(--ink-2);min-width:0;text-align:right}
+.ctx .qbar .pill{font-size:11px;padding:2px 8px;box-shadow:none}
+.bx{grid-column:1/-1;display:none;border-radius:0;box-shadow:none;background:color-mix(in oklab, var(--g) 5%, var(--surf));border-bottom:1px solid var(--hair);padding:10px clamp(14px,2.6vw,24px) 14px;column-count:2;column-gap:28px}
+.bx-open .bx{display:block}
+.bx .in{display:contents;animation:none}
+.bx-top{break-inside:avoid}
+.bx-top b{font-size:14px}.bx-top b.fn{font-size:13px}.bx-top .ico{width:15px;height:15px}
+.bx-kn,.bx-under{font-size:12px;margin-top:4px}
+.bx-what{font-size:13px;margin-top:6px;line-height:1.4}
+.bx-how{margin-top:6px;gap:4px;font-size:12.5px;line-height:1.35;break-inside:avoid}
+.bx-how li::before{margin-top:6px}
+/* Passages: one header line, smaller mono */
+.corpus{padding:12px clamp(12px,2vw,18px) 14px;gap:7px}
+.colh{font-size:10.5px;letter-spacing:.06em}
+.clegend{font-size:12px;line-height:1.4;padding:7px 10px;border-radius:10px}
+.doc{padding:7px 10px 8px;border-radius:11px}
+.doc-h{display:inline-flex;vertical-align:baseline;font-size:11px;gap:6px;padding-right:0;margin-right:6px}
+.doc-id{font-size:11px;padding:0 5px}
+.doc-tag{font-size:12px}
+.doc-src{display:inline;font-size:11px;margin:0;padding:0;color:var(--ink-3)}
+.doc-src::before{content:"· "}
+.doc > .doc-h,.doc > .doc-src{max-width:calc(100% - 70px)}
+.doc-b{font-size:11.5px;line-height:1.5;margin-top:4px}
+.badge{top:7px;right:8px;font-size:11px;padding:1px 7px}
+.badge small{font-size:9px}
+.doc .flag{font-size:10.5px;bottom:7px}
+.season{font-size:10px;padding:0 6px}
+/* Lens: a little denser */
+.lens{padding:12px clamp(12px,2.2vw,22px) 14px;min-height:0;gap:9px}
+.lens-body{gap:9px}
+.lens .note{font-size:12.5px;line-height:1.4}
+.lrows,.brows{gap:5px}
+.msg,.qcard{padding:8px 10px;font-size:12.5px}
+.verdict{padding:9px 12px}
+.verdict b{font-size:16px}
+.lab-note{font-size:12px;margin-top:10px}
+.seg{display:none}
+/* Phone: stats as rows, one pane at a time */
+@media (max-width: 900px){
+  .sys-head{padding:12px 16px 10px;gap:8px}
+  .sys-head > .in{flex-basis:100%}
+  .sys-head h3{font-size:19px}
+  .hstats{flex-direction:column;width:100%;gap:3px}
+  .hstats div{flex-direction:row;justify-content:space-between;align-items:center;gap:10px}
+  .hstats b{font-size:13px}
+  .hstats span{font-size:10.5px}
+  #lbar{padding-bottom:12px}
+  #lbar .sb-btn{height:38px;min-width:38px}
+  #lbar .prog{position:absolute;left:0;right:0;bottom:0;max-width:none;gap:3px}
+  #lbar .prog button{height:4px}
+  #lbar .prog button span{border-radius:0}
+  #cap .t{font-size:13px}
+  .ctx{padding-right:0}
+  .bxt{padding:8px 14px;flex-wrap:wrap}
+  .ctx .qbar{display:none;flex-basis:100%;flex-wrap:wrap;justify-content:flex-start;padding:0 14px 8px}
+  .ctx .qbar q{text-align:left;font-size:12px}
+  .bx-open .ctx .qbar{display:flex}
+  .bx{column-count:1}
+  .lab-stage{grid-template-columns:minmax(0,1fr)}
+  .seg{grid-column:1/-1;display:flex;margin:10px 14px 0;padding:2px;border-radius:9px;background:var(--seg-track);gap:2px}
+  .seg button{flex:1;appearance:none;border:0;border-radius:7px;padding:6px 8px;font-size:12.5px;font-weight:600;background:none;color:var(--ink-2);cursor:pointer}
+  .seg button[aria-selected="true"]{background:var(--seg-thumb);color:var(--ink);box-shadow:var(--shadow)}
+  .sysc[data-pane="corpus"] .lens,.sysc[data-pane="lens"] .corpus{display:none}
+  .corpus{border-bottom:0;padding:10px 14px 14px}
+  .lens{padding:10px 14px 14px}
+  .doc{padding:7px 9px 8px}
+  .doc-b{font-size:11px}
+}
+/* ---- fix: single-row head, doc header as one flex line ---- */
+.sys-head .kick{display:none}
+.hstats{flex-wrap:nowrap}
+.sys-head > .in{flex:1 1 300px}
+.doc-h{display:flex;align-items:baseline;flex-wrap:nowrap;gap:6px;padding-right:72px;margin:0;min-width:0}
+.doc-h .doc-tag{flex:0 0 auto}
+.doc-h .doc-src{flex:1 1 auto;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block}
+.doc > .doc-h,.doc > .doc-src{max-width:none}
+@media (max-width: 900px){
+  .doc-h{flex-wrap:wrap;padding-right:70px}
+  .doc-h .doc-src{flex-basis:100%;white-space:normal;line-height:1.3}
+  .doc-h .doc-src::before{content:""}
+  .hstats{flex-direction:column}
+}
+
+/* ===== Compact: header, race board, lab heading ===== */
+
+/* ===== COMPACT PASS: type scale, header, board, lab heading, rail ===== */
+:root{--fs:15px;--cap:12.5px;--lab:11px;--navh:44px}
+body{font-size:var(--fs);line-height:1.45;letter-spacing:-0.014em}
+.wrap{max-width:1180px}
+#systems{padding-block:0 64px}
+.eyebrow{font-size:var(--lab);font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin-bottom:6px}
+h2{font-size:clamp(24px,3vw,36px);line-height:1.08;letter-spacing:-0.03em}
+.lead{font-size:15px;line-height:1.42;margin-top:10px;max-width:40em;letter-spacing:-0.012em}
+
+/* Nav */
+.localnav .wrap{height:var(--navh)}
+.brand{font-size:15px}
+.stepbar{top:calc(env(safe-area-inset-top,0px) + var(--navh) + 1px)}
+
+/* Header: two columns, title left, question right */
+.ph{padding-block:34px 0;display:grid;grid-template-columns:minmax(0,1.12fr) minmax(300px,.88fr);column-gap:36px;align-items:end}
+.ph .eyebrow{grid-column:1}
+.ph h1{grid-column:1;font-size:clamp(32px,3.9vw,50px);line-height:1.04;letter-spacing:-0.04em;margin-top:2px;max-width:none}
+.ph .lead{grid-column:1;max-width:34em;font-size:15px;margin-top:10px}
+.qhero{grid-column:2;grid-row:1/4;margin:0;border-radius:18px;padding:16px 18px;gap:10px;align-self:end}
+.qhero q{font-size:clamp(15px,1.5vw,18px);line-height:1.28}
+.qhero .meta{gap:5px}
+.qhero .pill,.board .pill{font-size:11.5px;padding:3px 9px}
+
+/* Board */
+.board{margin-top:18px;border-radius:22px;padding:18px 22px 12px}
+.board-top{align-items:baseline;gap:6px 24px}
+.board-top > div{max-width:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 14px}
+.board-top .eyebrow{flex:0 0 100%;margin-bottom:2px}
+.bh{font-size:clamp(17px,1.6vw,20px);line-height:1.2}
+.blead{font-size:13px;margin-top:0;line-height:1.4;flex:1 1 28em;min-width:0}
+.board .stepbar{margin:12px -22px 0;padding:8px 18px;gap:8px 12px}
+.sb-btn{height:38px;min-width:38px;font-size:13px}
+.sb-btn svg{width:14px;height:14px}
+.sb-mid{gap:4px}
+.sb-row{display:flex;align-items:baseline;gap:4px 10px;flex-wrap:wrap;min-width:0}
+.sb-k{font-size:12.5px;white-space:nowrap}
+.sb-cap{font-size:13px;line-height:1.35;max-width:none}
+.stepbar .prog button{height:10px}
+.stepbar .prog button span{height:3px}
+.bhead,.lane{grid-template-columns:136px 204px 152px 58px 120px minmax(0,1fr);column-gap:12px}
+.bhead{margin-top:10px;padding:0 10px 5px;font-size:var(--lab)}
+.bhead span:nth-child(4){text-align:center;letter-spacing:.04em}
+.lane{grid-template-areas:"name track chips cnt ans cap";row-gap:0;padding:5px 10px;min-height:48px;border-radius:10px}
+.lname{gap:6px}
+.lname b{font-size:14px}
+.lname span:last-child{font-size:12px;line-height:1.15}
+.track{padding-top:0}
+.ev{width:26px;height:26px}
+.ev .ico{width:13px;height:13px}
+.ev.on{transform:scale(1.12);box-shadow:0 0 0 4px color-mix(in oklab, var(--g) 22%, transparent)}
+.cn{flex:0 1 12px;min-width:6px}
+.track.loop .cn{height:7px;transform:translateY(-5px)}
+.chips{gap:3px;padding:2px 0 5px}
+.dc{width:28px;font-size:10.5px;padding:3px 0;border-radius:6px}
+.dc.ans::after{left:7px;right:7px;bottom:-4px;height:2.5px}
+.cnt{font-size:16px}
+.lans{font-size:13.5px;gap:6px}
+.lans .mk{width:20px;height:20px}
+.lans .mk svg{width:12px;height:12px}
+.rcap{font-size:var(--cap);line-height:1.3;-webkit-line-clamp:2;min-height:0;color:var(--ink-2)}
+.bfoot{margin-top:8px;padding:10px 10px 0;gap:6px 20px}
+.blegend{font-size:12px;gap:4px 14px}
+.dc.sw{width:18px;height:12px}
+.bstatus{font-size:13.5px}
+
+/* Lab heading: h2 + legend left, lead + how-to right */
+.labhead{margin-top:48px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);column-gap:36px;row-gap:0;align-items:start}
+.labhead .eyebrow{grid-column:1;grid-row:1}
+.labhead h2{grid-column:1;grid-row:2;max-width:none;font-size:clamp(24px,2.6vw,32px)}
+.labhead .lead{grid-column:2;grid-row:2;margin-top:2px;max-width:none;font-size:14px}
+.labhead .howto{grid-column:2;grid-row:3;margin-top:6px;font-size:12.5px;max-width:none}
+.rail-leg{grid-column:1;grid-row:3;margin:8px 0 0;font-size:12px;gap:4px 14px;align-self:end}
+.rail{margin-top:8px;padding:4px 0 6px}
+.rnode{width:96px;gap:4px}
+.rnode .dot{width:12px;height:12px;box-shadow:inset 0 0 0 2.5px var(--g)}
+.rnode[aria-selected="true"] .dot{box-shadow:0 0 0 5px color-mix(in oklab, var(--g) 22%, transparent)}
+.rnode b{font-size:18px}
+.rnode .nm{font-size:11.5px}
+.rseg{gap:5px;min-width:56px}
+.rseg .ln{margin-top:4.5px}
+.rseg span{font-size:10.5px;padding:2px 7px}
+.rdiff{margin-top:8px;min-height:30px;gap:6px 14px}
+.rdiff p{font-size:13.5px}
+.rdiff .dpill,.dpill{font-size:11.5px;padding:2px 8px}
+.sysc{margin-top:14px;border-radius:22px}
+
+@media (max-width: 1100px){
+  .bhead,.lane{grid-template-columns:118px 196px 148px 44px 112px minmax(0,1fr);column-gap:10px}
+  .lname span:last-child{font-size:11.5px}
+}
+@media (max-width: 980px){
+  .rcap{display:none}
+  .lane.cur{grid-template-areas:"name ans" "track track" "chips cnt" "cap cap"}
+  .lane.cur .rcap{display:-webkit-box;margin-top:2px}
+  .rail-leg{grid-row:auto;margin-top:10px}
+  .howto{display:none}
+  .lane{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"name ans" "track track" "chips cnt";row-gap:6px;padding:8px 8px;min-height:0}
+  .cnt{font-size:13px}
+  .cnt::after{font-size:11px}
+  .labhead{grid-template-columns:minmax(0,1fr)}
+  .labhead .lead,.labhead .howto{grid-column:1;grid-row:auto}
+}
+@media (max-width: 860px){
+  .ph{grid-template-columns:minmax(0,1fr);padding-block:26px 0}
+  .ph .eyebrow,.ph h1,.ph .lead,.qhero{grid-column:1;grid-row:auto}
+  .qhero{margin-top:14px}
+}
+@media (max-width: 720px){
+  .ph h1{font-size:clamp(30px,9vw,40px)}
+  .ph .lead{font-size:14px}
+  .qhero{padding:14px 16px;border-radius:16px}
+  .board{padding:16px 14px 10px;border-radius:18px}
+  .board .stepbar{margin:10px -14px 0;padding:8px 12px}
+  .sb-btn{height:44px;min-width:44px}
+  .sb-cap{font-size:12.5px}
+  .bh{font-size:17px}
+  .blead{font-size:12.5px}
+  .labhead{margin-top:44px}
+  .rnode{width:84px}
+  .rnode b{font-size:17px}
+  .rail-leg{font-size:11.5px}
+  .bfoot{padding-inline:2px}
+}
+
+/* ===== Review fixes ===== */
+.doc-h .doc-src{display:flex;align-items:center;gap:6px;overflow:hidden}
+.src-t{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.doc-src .season{flex:0 0 auto}
+.pb .kd{font-size:10.5px;color:var(--ink-2)}
+.dc{font-size:11px}
+.season{font-size:10.5px}
+.rcap{-webkit-line-clamp:3}
+@media (max-width:1100px){
+  .bhead,.lane{grid-template-columns:112px 190px 146px 58px 108px minmax(0,1fr);column-gap:10px}
+  .rnode{width:82px} .rseg{min-width:40px}
+  .bx{column-count:1}
+}
+@media (max-width:900px){ .doc-h .doc-src{flex-wrap:wrap} .src-t{white-space:normal} }
+
+.kind.rule{display:inline-flex;flex-direction:row;align-items:center;gap:6px;padding:3px 9px;font-size:11px;line-height:1.3;box-shadow:none;background:var(--chip);color:var(--ink-2);border-radius:999px}
+
+/* ===== Wide layout ===== */
+/* ===== Wide-screen layout (override-only; append after all existing CSS) =====
+   Scope: widths, grids, columns, placement, sizes. No colour/border/shadow work here.
+   Phone (<1024) untouched; 1024–1199 untouched; ≥1200 fluid container; ≥1360 three-column lab. */
+
+/* 1. Fluid container: gutters keep the max(22px, safe-area) rule set earlier */
+@media (min-width:1200px){
+  .wrap{max-width:min(1600px, 94vw)}
+  /* 1200–1359 keeps today's 2-column lab; only cap the measures that get long once the wrap grows */
+  .labhead .lead,.labhead .howto{max-width:35em}
+  #bbar .sb-cap{max-width:64em}
+}
+
+@media (min-width:1360px){
+  /* 4a. Header: title column grows with the screen, the question card keeps a readable measure */
+  .ph{grid-template-columns:minmax(0,1fr) minmax(380px,.7fr);column-gap:clamp(40px,4vw,72px)}
+  .ph h1{font-size:clamp(44px,3.5vw,66px);line-height:1.02}
+  .ph .lead{font-size:16px;max-width:36em;margin-top:12px}
+  .qhero{padding:20px 24px;gap:12px}
+  .qhero q{font-size:clamp(17px,1.25vw,22px)}
+
+  /* 3. Board: extra width goes to the track and the caption; legend + status move up beside the heading */
+  .board{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:end;column-gap:28px}
+  .board-top{grid-column:1;grid-row:1}
+  .bfoot{grid-column:2;grid-row:1;margin:0;padding:0 0 4px;border-top:0;flex-wrap:nowrap;gap:10px 22px;justify-content:flex-end;justify-self:end}
+  .board .stepbar,.bhead,.lanes{grid-column:1/-1}
+  .bhead,.lane{grid-template-columns:150px minmax(220px,1fr) 166px 64px 136px minmax(280px,460px);column-gap:14px}
+  .lane{min-height:46px;padding:4px 12px}
+  .rcap{-webkit-line-clamp:2}
+  .track .cn{flex:1 1 18px;max-width:42px}
+  #bbar .prog{max-width:420px}
+
+  /* 4b. Lab heading: three balanced columns — title + legend | lead | how-to */
+  .labhead{grid-template-columns:minmax(0,.9fr) minmax(0,1fr) minmax(0,1fr);column-gap:clamp(36px,3.5vw,64px)}
+  .labhead .eyebrow{grid-column:1;grid-row:1}
+  .labhead h2{grid-column:1;grid-row:2;font-size:clamp(28px,2.3vw,38px)}
+  .labhead .lead{grid-column:2;grid-row:2;font-size:15px;max-width:40em;align-self:start}
+  .labhead .howto{grid-column:3;grid-row:2;margin-top:2px;font-size:13px;max-width:40em;align-self:start}
+  .rail-leg{grid-column:1;grid-row:3}
+
+  /* 5. Rail: segments already flex; let the nodes grow with the width */
+  .rnode{width:clamp(104px,7vw,128px)}
+  .rnode b{font-size:clamp(18px,1.3vw,22px)}
+  .rnode .nm{font-size:12.5px}
+  .rseg{min-width:72px}
+
+  /* Lab step bar: longer progress strip */
+  #lbar .prog{max-width:420px}
+
+  /* 2. Lab working area: [context rail: question + About block] | passages | lens */
+  .lab-stage{grid-template-columns:clamp(250px,18vw,320px) minmax(0,.44fr) minmax(0,.56fr);grid-template-rows:auto minmax(0,1fr)}
+  .ctx{grid-column:1;grid-row:1;flex-direction:column;align-items:stretch;gap:0;padding:14px clamp(14px,1.6vw,22px) 12px}
+  .bxt{display:none}                       /* the About block is always open here, so the toggle has nothing to do */
+  .ctx .qbar{display:flex;flex:0 0 auto;justify-content:flex-start;flex-wrap:wrap;padding:0}
+  .ctx .qbar q{text-align:left;font-size:13px}
+  .bx,.bx-open .bx{display:block;grid-column:1;grid-row:2;column-count:1;padding:14px clamp(14px,1.6vw,22px) 18px;border-bottom:0}
+  .corpus{grid-column:2;grid-row:1/3}
+  .lens{grid-column:3;grid-row:1/3}
+  .seg{display:none}
+}
+
+@media (min-width:1700px){
+  .bhead,.lane{grid-template-columns:160px minmax(260px,1fr) 176px 68px 150px minmax(320px,460px);column-gap:16px}
+  .lab-stage{grid-template-columns:clamp(250px,18vw,320px) minmax(0,.42fr) minmax(0,.58fr)}
+  .corpus{padding:22px 26px}
+  .lens{padding:22px 30px}
+  .bx{padding-bottom:22px}
+}
+
+/* ===== Minimal treatment ===== */
+/* qa4/minimal.css — visual treatment + noise. Override-only; append after all existing CSS
+   and after the layout override sheet. No widths, grid templates or column structure here.
+
+   Surface model (2 levels):
+     L1  the three big containers  .qhero .board .sysc  → var(--surf), radius, no shadow
+     L2  content cards inside them → var(--raise) flat, no shadow; or a 1px hairline ring
+   Everything smaller (pills, chips, tokens, legends, labels) is flat text or a hairline.
+   One accent per system: var(--g) appears only on the thing that is active or done.
+   Greys: --ink for what matters, --ink-2 for supporting text, --ink-3 only for 10–11px labels.
+   Weights: 400 body, 600 labels/UI, 700 headings & numbers. No 500, no 800. */
+
+/* ---------- 1. kill drop shadows site-wide, replace with flat raise or hairline ---------- */
+.ib,.srow.above,.nextsys,
+.pb,.doc,.bx,.clegend,.pill,.qcard,.msg,.tok,.tl,.did,.formula,.log .call,.sumrow,.why2 > div,.rw-to,.fun,
+.ev,.sb-btn,.seg button[aria-selected="true"]{box-shadow:none}
+
+.ib,.nextsys,.srow.above{box-shadow:inset 0 0 0 1px var(--line)}
+.nextsys:hover{box-shadow:inset 0 0 0 1.5px var(--g)}
+.did{background:none;box-shadow:inset 0 0 0 1px var(--line)}
+.lrow.top .did,.brow.top .did{background:var(--g);color:#fff;box-shadow:none}
+
+/* step buttons: outline ghost + one solid primary, no glow */
+.sb-btn{background:transparent;box-shadow:inset 0 0 0 1px var(--line)}
+.sb-btn.primary{background:var(--g);box-shadow:none}
+.sb-btn:disabled{box-shadow:inset 0 0 0 1px var(--hair)}
+
+/* icon buttons in the race board: idle = hairline ring, done = tint, on = solid accent */
+.ev{background:transparent;box-shadow:inset 0 0 0 1px var(--line);color:var(--ink-3)}
+.ev.done{background:color-mix(in oklab, var(--g) 14%, transparent);box-shadow:none;color:var(--g)}
+.ev.on{background:var(--g);color:#fff;box-shadow:0 0 0 4px color-mix(in oklab, var(--g) 22%, transparent)}
+
+/* block cards in the pipe: flat raise, ring only when active */
+.pb{box-shadow:none;transform:none}
+.pb.on{box-shadow:0 0 0 2px var(--g);transform:none}
+.pb.hint{box-shadow:0 0 0 2px var(--pc,var(--g))}
+.pb.idle{opacity:.5}
+.pb .kd{display:none}                       /* per-block kind label: repeated in the “About” panel */
+.pend{background:none;box-shadow:inset 0 0 0 1px var(--line)}
+.ploop{border-color:color-mix(in oklab, var(--g) 45%, transparent)}
+
+/* passage cards: flat raise; the accent border alone says picked / read */
+.doc{box-shadow:none;border-color:transparent}
+.doc.pick,.doc.read{border-color:var(--g)}
+.doc-id{font-weight:700}
+.clegend{background:none;box-shadow:none;padding:0;border-radius:0;color:var(--ink-2)}
+
+/* lens: tokens and legends go flat */
+.tok{background:var(--chip);box-shadow:none}
+.tok.stop,.tok.miss{background:transparent}
+.tok.miss{box-shadow:inset 0 0 0 1px var(--line)}
+.tok.ok{background:var(--hl)}
+.tl{background:none;box-shadow:none;padding:2px 0}
+.msg.bot{border-color:var(--line)}
+.rw{box-shadow:inset 0 0 0 1px color-mix(in oklab, var(--g) 35%, transparent)}
+.rule{box-shadow:inset 0 0 0 1px color-mix(in oklab, var(--g) 30%, transparent)}
+.sumrow.win{box-shadow:0 0 0 1.5px var(--ink)}
+
+/* diff pills: semantic colours stay; the “big” one is an ink outline, not magenta */
+.dpill.big{background:none;box-shadow:inset 0 0 0 1.5px var(--ink);color:var(--ink)}
+
+/* ---------- 2. pills → plain facts ---------- */
+.pill{background:none;box-shadow:none;padding:0;border-radius:0;color:var(--ink-2);font-size:13px}
+.pill b{font-weight:600}
+.qhero .meta{gap:4px 20px}
+.tlegend{gap:4px 14px}
+
+/* ---------- 3. redundancy ---------- */
+.ph .eyebrow,                                /* “Keeping LLMs Current” — already the nav brand */
+.board-top .eyebrow,                         /* “All seven at once” — the h2 says it */
+.labhead .eyebrow,                           /* “One system at a time” — the h2 says it */
+.howto,                                      /* folded into the lab lead (copy below) */
+.sys-head .kick,.sys-head h3 .kind2,         /* “The model picks the tools” — first stat says it */
+.bxt span,                                   /* “· what is this block?” — the chevron says it */
+.lab-stage .ctx .qbar,.bx-open .ctx .qbar    /* question + date + answer repeated in the lab */
+{display:none}
+.ctx{background:none}                        /* the strip is now just the disclosure row */
+
+/* ---------- 4. typography: captions and the active state are the loudest thing ---------- */
+.sb-k{color:var(--ink-2);font-weight:600}
+.sb-cap{color:var(--ink);font-weight:600}
+#lbar .sb-k{color:var(--ink-2)}
+.cap .t{font-weight:600;color:var(--ink)}
+.rcap{color:var(--ink-2)}
+.lane.cur .rcap{color:var(--ink)}
+.lane{border-radius:0}
+.lane.cur{background:color-mix(in oklab, var(--g) 7%, transparent);box-shadow:inset 3px 0 0 var(--g)}
+.lname span:last-child{font-weight:400;color:var(--ink-2)}
+.lane.cur .lname span:last-child{color:var(--ink);font-weight:600}
+.lans.no b{font-weight:600}
+.rdiff p{font-weight:600}
+.rdiff p span{font-weight:400;color:var(--ink-2)}
+.bxt{font-weight:600}
+.rnode .nm{font-weight:400}
+.rnode[aria-selected="true"] .nm{font-weight:600}
+.pb.done::after{font-weight:700}
+.hstats span,.bhead,.colh,.msg small{color:var(--ink-3);font-weight:600}
+.lead,.blead,.sys-head .nick,.lens .note,.pb small,.bx-under,.bx-kn{color:var(--ink-2)}
+.lab-note{color:var(--ink-3)}
+
+/* ===== Reconcile wide + minimal ===== */
+@media (min-width:1360px){
+  .lab-stage .ctx .qbar,.bx-open .ctx .qbar{display:flex;flex-direction:column;align-items:flex-start;gap:6px}
+  .ctx,.bx{border-right:1px solid var(--hair)}
+  .labhead .lead{grid-column:2 / -1;max-width:58em}
+}
+.lane.cur{box-shadow:none}
+
+/* ===== Motion that explains (override-only; paste before the prefers-reduced-motion block) =====
+   Direction principle: --dx is 1 when the user moved forward, -1 when back; it is set on #board and #sysc by the JS patch.
+   Every element ≤ 600 ms; a whole step ≤ ~1.2 s; easing cubic-bezier(.2,.8,.2,1). No layout or surface changes: transform/opacity only. */
+@keyframes mx-slidein{from{opacity:0;transform:translateX(calc(var(--dx,1) * var(--sd,16px)))}}
+@keyframes mx-fill{from{width:0}}
+@keyframes mx-evin{from{transform:scale(1);background:var(--raise);color:var(--ink-3);box-shadow:var(--shadow)}}
+@keyframes mx-cnfill{to{background-position:left}}
+@keyframes mx-cnarc{from{border-color:var(--line)}}
+@keyframes mx-chipin{from{transform:scale(.72);opacity:.35}}
+@keyframes mx-tick{from{opacity:0;transform:translateY(55%)}}
+@keyframes mx-verdict{from{opacity:0;transform:scale(.9)}}
+@keyframes mx-focus{35%{transform:translateY(-3px) scale(1.05)}}
+@keyframes mx-lensin{from{opacity:0;transform:translateX(calc(var(--dx,1) * 10px))}}
+
+/* --- Sticky bars (board and lab): caption and step label come in from the arrow's direction; the new progress segment fills --- */
+.stepbar .sb-cap.in,#cap .t.in{animation:mx-slidein .42s cubic-bezier(.2,.8,.2,1) both}
+.stepbar .sb-k.in{--sd:8px;animation:mx-slidein .36s cubic-bezier(.2,.8,.2,1) both}
+.prog button.cur span i{animation:mx-fill .45s cubic-bezier(.2,.8,.2,1) both}
+.back .prog button.cur span i{animation:none}
+
+/* --- Board: cause → effect in under a second --- */
+.lane{transition:--g .6s, background .3s, opacity .45s cubic-bezier(.2,.8,.2,1)}
+.lane.rest{opacity:.5}                                   /* finished before this beat: nothing happened here */
+.cn{position:relative}
+.cn.go{background:linear-gradient(90deg,var(--g) 50%,var(--line) 50%) right / 200% 100% no-repeat;animation:mx-cnfill .22s cubic-bezier(.2,.8,.2,1) both}   /* 0–220 ms: the signal travels from the previous step */
+.track.loop .cn.go{background:none;animation:mx-cnarc .3s both}
+.lane.act .ev.on{animation:mx-evin .38s .22s cubic-bezier(.2,.8,.2,1) both}          /* 220–600 ms: the step it reaches lights up */
+.dc.bump{animation:mx-chipin .36s cubic-bezier(.2,.8,.2,1) both}                      /* 300–840 ms: chips change left → right (delay from JS) */
+.cnt b.tick{animation:mx-tick .36s cubic-bezier(.2,.8,.2,1) both}                     /* 420 ms: the lookup count ticks up */
+.lans.bump{animation:mx-verdict .5s .45s cubic-bezier(.2,.8,.2,1) both}               /* 450–950 ms: the verdict settles */
+
+/* --- Lab: the active block gets a brief focus; the lens enters title → visual → note; the system name slides in on a crossing --- */
+.pb.focus{animation:mx-focus .55s cubic-bezier(.2,.8,.2,1)}
+.lens-body{animation:fadein .3s var(--lens-delay,200ms) both}
+.lens-body > *{animation:mx-lensin .38s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--lens-delay,200ms) + var(--i,0) * 40ms)}
+.lens-body > :nth-child(2){--i:1}.lens-body > :nth-child(3){--i:2}.lens-body > :nth-child(4){--i:3}.lens-body > :nth-child(5){--i:4}.lens-body > :nth-child(n+6){--i:5}
+.sys-head > .in{animation:mx-slidein .5s cubic-bezier(.2,.8,.2,1) both}
+.sysc.cross .sys-head h3 > span:first-child{--sd:28px;display:inline-block;animation:mx-slidein .55s .06s cubic-bezier(.2,.8,.2,1) both}
+.sysc.cross .sys-head .kind2{animation:pop .4s .3s both}
+
+/* ===== About this example ===== */
+.about{margin-top:28px;padding-top:18px;border-top:1px solid var(--hair);display:grid;grid-template-columns:minmax(140px,190px) minmax(0,1fr);gap:10px 32px;align-items:start}
+.about h3{font-size:11.5px;font-weight:600;color:var(--ink-2);text-transform:uppercase;letter-spacing:.06em;line-height:1.6}
+.about dl{margin:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px 32px}
+.about dt{font-size:13px;font-weight:600;color:var(--ink);letter-spacing:-0.01em}
+.about dd{margin:3px 0 0;font-size:13px;line-height:1.5;color:var(--ink-2);max-width:40em}
+@media (max-width:900px){ .about{grid-template-columns:minmax(0,1fr);gap:8px} .about dl{grid-template-columns:minmax(0,1fr);gap:12px} }
+
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{transition:none !important;animation:none !important}
+}
+</style>
+</head>
+<body>
+<nav class="localnav" aria-label="Sections">
+  <div class="wrap">
+    <a class="brand" href="#top">Keeping LLMs Current</a>
+    
+  </div>
+</nav>
+
+<main id="top">
+  <section id="systems">
+    <div class="wrap">
+      <header class="ph">
+        <p class="eyebrow">Keeping LLMs Current</p>
+        <h1>Seven Systems Compared</h1>
+        <p class="lead">A language model stops learning at a fixed date. On its own, it cannot answer a question about today. These are seven ways to help it, from no search at all to a model that runs its own searches.</p>
+        <div class="qhero"><q>Who coaches the team directly above Cremonese in the Serie A table right now?</q><div class="meta"><span class="pill">Today: <b>25 May 2026</b></span><span class="pill">Two steps: find <b>Lecce</b>, then find Lecce’s coach</span><span class="pill">Correct answer: <b>Eusebio Di Francesco</b></span></div></div>
+      </header>
+
+      <div class="board" id="board" aria-busy="false">
+        <div class="board-top">
+          <div><p class="eyebrow">All seven at once</p><h2 class="bh">The Same Question, Seven Ways, Side by Side</h2><p class="blead">Pipelines search once with the question as written. Agents write their own queries and search again. The arrows move all seven together.</p></div>
+        </div>
+        <div class="stepbar" id="bbar">
+          <button class="sb-btn" id="rprev" type="button" aria-label="Previous step"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="sb-mid"><div class="sb-row"><span class="sb-k" id="rstep"></span><p class="sb-cap" id="rcapall" aria-live="polite"></p></div><div class="prog" id="rprog"></div></div>
+          <button class="sb-btn primary" id="rnext" type="button" aria-label="Next step"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        </div>
+        <div class="bhead" aria-hidden="true"><span>System</span><span>What runs</span><span>Passages</span><span>Lookups</span><span>Answer</span><span>What just happened</span></div>
+        <div class="lanes" id="lanes"></div>
+        <div class="bfoot">
+          <p class="blegend"><span class="lg"><span class="dc ans">D3</span>holds the answer</span><span class="lg"><span class="dc sw scored"></span>scored, not kept</span><span class="lg"><span class="dc sw pick"></span>picked</span><span class="lg"><span class="dc sw read"></span>read</span><span class="lg"><span class="dc sw out"></span>removed</span></p>
+          <p class="bstatus" id="bstatus" aria-live="polite"></p>
+        </div>
+      </div>
+
+      <div class="labhead">
+        <p class="eyebrow">One system at a time</p>
+        <h2>Open a System and Watch It Work</h2>
+        <p class="lead">Each system is a chain of blocks. Pick one, then step through it with the arrows or the ← → keys: the passages on the left, the numbers the active block computes on the right. After the last step, the next arrow moves on to the next system.</p>
+        <div class="rail-leg" aria-hidden="true"><span class="g-none"><span class="gdot"></span>Nobody searches</span><span class="g-eng"><span class="gdot"></span>The engineer decides: fixed steps, the query is the question</span><span class="g-model"><span class="gdot"></span>The model decides: picks tools, writes queries</span></div>
+      </div>
+      <div class="rail" role="tablist" aria-label="Choose a system" id="rail"></div>
+      <div class="rdiff" id="rdiff" aria-live="polite"></div>
+
+      <div class="sysc" id="sysc" data-pane="corpus">
+        <div class="sys-head" id="syshead"></div>
+        <div class="pipe" id="pipe" aria-label="The system’s blocks, left to right"></div>
+        <div class="stage">
+          <div class="stepbar" id="lbar">
+            <button class="sb-btn" id="bprev" type="button" aria-label="Previous step"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="sb-x"></span></button>
+            <div class="sb-mid"><div class="sb-row"><span class="sb-k" id="lstep" aria-live="polite"></span><div class="prog" id="prog"></div></div><div class="cap" id="cap" aria-live="polite"></div></div>
+            <button class="sb-btn primary" id="bnext" type="button" aria-label="Next step"><span class="sb-x"></span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
+          <div class="lab-stage">
+            <div class="ctx">
+              <button type="button" class="bxt" id="bxt" aria-expanded="false" aria-controls="bx"><b id="bxtl"></b><span>· what is this block?</span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 6l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+              <div class="qbar"><q>Who coaches the team directly above Cremonese in the Serie A table right now?</q><div class="meta"><span class="pill">Today: <b>25 May 2026</b></span><span class="pill">Correct answer: <b>Eusebio Di Francesco</b></span></div></div>
+            </div>
+            <div class="bx" id="bx"></div>
+            <div class="seg" id="seg" role="tablist" aria-label="Show"><button type="button" role="tab" data-pane="corpus" aria-selected="true">Passages</button><button type="button" role="tab" data-pane="lens" aria-selected="false">The numbers</button></div>
+            <div class="corpus" id="corpus"><div class="colh"><span>Five passages, D1 to D5</span><span>each search keeps the best 2</span></div><p class="clegend" id="clegend"></p><div class="offnote">This system never looks at the passages</div></div>
+            <div class="lens" id="lens" aria-live="polite"></div>
+          </div>
+        </div>
+      </div>
+      <footer class="about" aria-label="About This Example">
+        <h3>About This Example</h3>
+        <dl>
+          <div><dt>Real Passages</dt><dd>D1–D5 come from Wikipedia as it was on 25 May 2026 (CC BY-SA), shortened to fit. Match results come from <span style="white-space:nowrap">football-data.org</span>.</dd></div>
+          <div><dt>Real Numbers</dt><dd>Every score on the page (BM25, cosine, RRF, reranker, reader) was computed with the same models and code used in the thesis.</dd></div>
+          <div><dt>Two Simplifications</dt><dd>Each search here keeps 2 passages instead of 5. What the language model writes, such as the agents’ queries and notes, is illustrative; only the S0 reply is a real one.</dd></div>
+        </dl>
+      </footer>
+    </div>
+  </section>
+</main>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const fmt = (d, min) => v => v.toLocaleString('en-US', {minimumFractionDigits: min ?? 0, maximumFractionDigits: d});
+  const f2 = fmt(2, 2), f3 = fmt(3, 3), f4 = fmt(4, 4);
+  const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const reduce = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  const scrollTo = sel => document.querySelector(sel).scrollIntoView({behavior: reduce ? 'auto' : 'smooth'});
+  const GROUP = {S0:'none', S1:'eng', S2:'eng', S3:'eng', S4:'model', S5:'model', 'S5+':'model'};
+  const IDS = ['S0','S1','S2','S3','S4','S5','S5+'];
+  const KIND2 = {none:'No search', eng:'Fixed steps in code', model:'The model picks the tools'};
+  const WHO = {none:'Nobody', eng:'The engineer', model:'The model'};
+  const CHANCES = {S0:'Never', S1:'Once', S2:'Once', S3:'Once, two ways', S4:'Up to 8 times', S5:'Up to 8 times', 'S5+':'Up to 8 times'};
+  const RESULT = {S0:['unknown',0], S1:['unknown',0], S2:['unknown',0], S3:['unknown',0], S4:['Di Francesco',1], S5:['Di Francesco',1], 'S5+':['Di Francesco',1]};
+  const NAME = {S0:'Closed Book', S1:'Classical NLP', S2:'Naive RAG', S3:'Advanced RAG', S4:'Agentic RAG', S5:'Agentic Search', 'S5+':'Agentic Search + Tables'};
+  const NICK = {S0:'the model alone, from memory', S1:'searches by words, then points at the answer', S2:'searches by meaning, then writes', S3:'searches two ways, filters, reorders, then writes',
+                S4:'an agent that searches by meaning', S5:'an agent that searches by words', 'S5+':'an agent with the official league table'};
+  const OK = '<span class="mk ok" role="img" aria-label="right"><svg viewBox="0 0 14 14"><polyline points="3,7.5 6,10.5 11,4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>';
+  const KO = '<span class="mk ko" role="img" aria-label="wrong"><svg viewBox="0 0 14 14"><line x1="4" y1="4" x2="10" y2="10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><line x1="10" y1="4" x2="4" y2="10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span>';
+
+  /* ---------- Icons ---------- */
+  const P = d => '<svg class="ico" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + d + '</svg>';
+  const ICON = {
+    words: P('<path d="M2 12.5 4.6 4l2.6 8.5M3.1 9.6h3"/><path d="M12.6 12.5V8.7a2 2 0 0 0-3.6-1.2M12.6 10.2c-1.4 0-3.3.2-3.3 1.4 0 1.5 2.7 1.3 3.3-.4"/>'),
+    angle: P('<path d="M2 14h12M2 14 11 3.5"/><path d="M7 14a5 5 0 0 0-1.6-3.7"/>'),
+    bars: P('<path d="M3 13V8M6.3 13V3M9.6 13V6.5M12.9 13V9.5"/>'),
+    split: P('<path d="M8 14V8.5M8 8.5 3 3M8 8.5 13 3"/>'),
+    merge: P('<path d="M3 2.5 8 7.5v6M13 2.5 8 7.5"/>'),
+    cal: P('<rect x="2.5" y="3.5" width="11" height="10" rx="2"/><path d="M2.5 7h11M5.5 2v3M10.5 2v3"/>'),
+    sort: P('<path d="M3 4h10M3 8h7M3 12h4"/>'),
+    marker: P('<path d="M9.5 2.5 13.5 6.5 7 13H3v-4z"/><path d="M8 4l4 4"/>'),
+    scale: P('<path d="M8 2.5v11M5 13.5h6M3 5h10"/><path d="M3 5 1.5 9h3zM13 5l-1.5 4h3z"/>'),
+    spark: P('<path d="M8 1.8 9.5 6.5 14.2 8 9.5 9.5 8 14.2 6.5 9.5 1.8 8 6.5 6.5z"/>'),
+    page: P('<path d="M4 1.8h5.2L12.5 5v9.2H4z"/><path d="M9 1.8V5h3.5M6 8.5h4.5M6 11h4.5"/>'),
+    table: P('<rect x="2.5" y="3" width="11" height="10" rx="1.5"/><path d="M2.5 6.5h11M2.5 9.8h11M6.3 3v10"/>'),
+    chip: P('<rect x="4.5" y="4.5" width="7" height="7" rx="1.5"/><path d="M6.5 2v2.5M9.5 2v2.5M6.5 11.5V14M9.5 11.5V14M2 6.5h2.5M2 9.5h2.5M11.5 6.5H14M11.5 9.5H14"/>')
+  };
+
+  /* ---------- Building blocks ---------- */
+  const KIND = {
+    enc:['Reader model · like BERT','Reads the whole text at once, each word together with the words around it. It outputs numbers, not text.'],
+    dec:['Writer model · like GPT','Writes text one small piece (a token) at a time, left to right, each time picking the most likely next piece.'],
+    formula:['Formula · no AI model','A fixed calculation. No neural network involved.'],
+    mix:['Formula + model · BM25 and bge-small','BM25 is a formula. Search by meaning uses a small reader model, bge-small.'],
+    rule:['Rule · written in code','A condition the engineer wrote by hand.'],
+    tool:['Agent tool · called by the model','A function the model calls by name. The model decides what to pass in, for example the words to search for.']
+  };
+  const BLK = {
+    mem:{n:'Haiku 4.5 Memory', role:'answers from memory', i:'chip', kind:'dec',
+      what:'Everything Claude Haiku 4.5 learned in training: text up to July 2025, reliable up to about February 2025.',
+      how:['It searches nothing. It gets a prompt (a piece of text) with “Today is 2026-05-25” and the question.','The model never read anything about the 2025–26 season, so it answers “unknown”. In the experiment it did this 239 times out of 240.']},
+    bm25:{n:'BM25', role:'searches by words', i:'words', kind:'formula',
+      what:'Gives every passage a score: it adds one piece for each query word the passage contains. In S1 the query is just the question, word for word.',
+      how:['It uses an index: a list, made once in advance, of which words appear in which passage.','Rare words count more: “table” is in 2 of the 5 passages, “serie” in 3.','If a word repeats in the same passage, each repeat adds less than the one before. Long passages score a little lower than short ones.','It only matches identical words: “manager” does not find “coach”, and “coaches” does not find “coach”.']},
+    reader:{n:'Extractive Reader', role:'points at a piece of text', i:'marker', kind:'enc',
+      what:'A small model (RoBERTa) trained to answer questions on Wikipedia text (SQuAD 2.0). It does not write. It points to where the answer starts and ends inside one passage.',
+      how:['It reads the question and one passage together, split into tokens: “Lecce” becomes L · ec · ce.','It gives every token two scores: “the answer starts here” and “the answer ends here”.','It takes the token with the best start score, then the best end score within the next 30 tokens.','It sees only the passage text, not the page title.']},
+    thr:{n:'Answer or Not?', role:'best guess vs “not here”', i:'scale', kind:'rule',
+      what:'The reader always has two options: point at a piece of text, or say the answer is not in this passage. It scores both and keeps the higher one.',
+      how:['The “no answer” score comes from a special slot at the very start of the input. In training, when a question had no answer, the reader learned to point there.','There is no fixed bar: the bar is the “no answer” score, and it is different for every passage.','If no passage beats its own “no answer” score, S1 writes “unknown”.']},
+    emb:{n:'Embedding', role:'text → 384 numbers', i:'bars', kind:'enc',
+      what:'bge-small turns the query (here, the question as written) into a vector: a list of 384 numbers that sums up its meaning.',
+      how:['Question and passages become vectors separately. The passage vectors are made once, in advance, when the index is built (21.5 s).','Texts with similar meaning get vectors that point in similar directions, even with no words in common.','Think of each vector as an arrow. Only the direction matters.']},
+    cos:{n:'Cosine', role:'finds the closest', i:'angle', kind:'formula',
+      what:'Measures the angle between the query arrow and each passage arrow. Small angle, cosine close to 1: similar meaning.',
+      how:['Cosine goes from −1 to 1. For texts on the same topic it is almost always positive.','The passages with the highest cosine move on: 5 in the thesis, 2 here.']},
+    llm:{n:'Haiku 4.5 Writes', role:'reads and answers', i:'spark', kind:'dec',
+      what:'Claude Haiku 4.5 reads the passages that were found and writes the answer, one token at a time.',
+      how:['Its prompt holds the date, the question, the passages, and a warning that some passages are about past seasons.','It must end with “Answer: …” or “Answer: unknown”.','It cannot ask for more passages: the pipeline searches once, with the words of the question.']},
+    hyb:{n:'Two Searches', role:'words + meaning', i:'split', kind:'mix',
+      what:'BM25 and search by meaning both run on the same question, 20 passages each. Nobody rewrites the question.',
+      how:['BM25 is good at exact names and numbers. Search by meaning is good at synonyms and rephrasing.','Each one fails where the other is strong, so together they miss fewer useful passages.']},
+    rrf:{n:'RRF Merge', role:'joins the two rankings', i:'merge', kind:'formula',
+      what:'Reciprocal Rank Fusion joins the two rankings using only positions. Each list gives each passage 1 / (60 + position).',
+      how:['It is needed because BM25 and cosine use different scales: you cannot simply add their scores.','The 60 keeps the gap between 1st and 2nd small, so the winner is the passage that ranks high in both lists.']},
+    filter:{n:'Season Filter', role:'drops the wrong season', i:'cal', kind:'rule',
+      what:'Every passage has a label: page, season, section. The filter reads the question and keeps only passages from the right season.',
+      how:['Does the question mention “2024-25” or “last season”? No: keep only 2025-26.','Yes: keep 2024-25, plus 2025-26 if it also says “now”, “currently” or similar.','The rule was written for these 120 questions. With other wording it could get it wrong.']},
+    rerank:{n:'Reranker', role:'rereads and reorders', i:'sort', kind:'enc',
+      what:'A cross-encoder (bge-reranker-v2-m3). It reads the question and a passage together and gives the pair a score from 0 to 1.',
+      how:['Search by meaning sums up each passage before it even sees the question.','The reranker reads the pair together, so every word of the question can look at every word of the passage. That makes it more precise.','It is slow, so it runs only at the end, on 20 candidates, and lets 5 through (2 here).']},
+    decide:{n:'Haiku 4.5 Decides', role:'writes a query or answers', i:'spark', kind:'dec',
+      what:'In every round the model rereads the question and everything it has found so far, then chooses: call a tool, or answer.',
+      how:['When it calls a search tool, it turns the question into a query: it picks the words itself.','The second query can use what it just read, for example “Lecce”.','Up to 8 tool calls. After that it must answer without tools.']},
+    vec:{n:'vector_search()', role:'searches by meaning', i:'angle', kind:'tool', fn:1, under:'Inside: <b>embedding + cosine</b>, the same blocks as S2.',
+      what:'Takes the query the agent wrote, turns it into 384 numbers, and returns the 2 passages with the highest cosine.',
+      how:['Same index and same model as S2. The only change is who writes the query.','The query is more focused than the question, and it can change every round.']},
+    kw:{n:'keyword_search()', role:'searches by words', i:'words', kind:'tool', fn:1, under:'Inside: <b>BM25</b>, the same block as S1.',
+      what:'Sends the agent’s query to BM25 and returns the 2 passages with the highest score.',
+      how:['Same BM25 as S1. The only change is who picks the words.','Each passage carries its season in the text, for example “2025-26”. If the query contains it, BM25 rewards those passages. In September the agent wrote “2024-25”, and BM25 brought back last season.']},
+    page:{n:'read_page()', role:'reads a whole page', i:'page', kind:'tool', fn:1, under:'Inside: <b>just text</b>, no AI model.',
+      what:'Returns a whole Wikipedia page, 8,000 characters at a time.',
+      how:['More context, but more tokens. The model is paid per token, and the page stays in the conversation and is reread every round.','On average S5 reads 2.12 pages per answer, S4 reads 0.51.']},
+    tab:{n:'official_tables()', role:'the table on a date', i:'table', kind:'tool', fn:1, under:'Inside: <b>official match results</b> from football-data.org.',
+      what:'Rebuilds the league table on any date from the results of every match played up to that day.',
+      how:['Returns a team’s position or points. For the coach, it reads the infobox: the summary box at the top of a club’s Wikipedia page.','It never looks past the date of the question, so it cannot mix up seasons.']}
+  };
+  const PIPE = {S0:['mem'], S1:['bm25','reader','thr'], S2:['emb','cos','llm'], S3:['hyb','rrf','filter','rerank','llm'],
+                S4:{tools:['vec','page']}, S5:{tools:['kw','page']}, 'S5+':{tools:['kw','page','tab']}};
+
+  /* ================= The rail of systems ================= */
+  const DIFF = {
+    S0:{short:'', p:'The starting point: <span>no search, only what the model remembers.</span>', pills:[]},
+    S1:{short:'+ search', p:'From S0 to S1: <span>searching begins, but without an LLM. A small model points at the answer.</span>', pills:[['add','BM25',['bm25']],['add','Extractive Reader',['reader']],['add','Answer or Not?',['thr']],['rem','Haiku 4.5 Memory',[]]]},
+    S2:{short:'+ LLM', p:'From S1 to S2: <span>it searches by meaning, and an LLM writes the answer.</span>', pills:[['swap','BM25 ⇄ Embedding + Cosine',['emb','cos']],['swap','Reader ⇄ Haiku 4.5 Writes',['llm']]]},
+    S3:{short:'+ 4 blocks', p:'From S2 to S3: <span>two searches merged, only the right season, the best passages on top. The question stays the same: nobody rewrites it.</span>', pills:[['add','Two Searches (adds BM25)',['hyb']],['add','RRF Merge',['rrf']],['add','Season Filter',['filter']],['add','Reranker',['rerank']]]},
+    S4:{short:'→ agent', big:1, p:'From S3 to S4: <span>the big jump. Now the model decides whether to search, what to search for, and how many times.</span>', pills:[['big','Pipeline → Agent',['decide']],['add','Query Rewriting',['decide']],['add','Haiku 4.5 Decides',['decide']],['add','vector_search()',['vec']],['add','read_page()',['page']],['rem','BM25, RRF, Filter, Reranker',[]]]},
+    S5:{short:'→ words', p:'From S4 to S5: <span>only one block changes. The same agent searches by words instead of by meaning.</span>', pills:[['swap','vector_search() ⇄ keyword_search()',['kw']]]},
+    'S5+':{short:'+ tables', p:'From S5 to S5+: <span>a third tool, the official league table, asked for a specific date.</span>', pills:[['add','official_tables()',['tab']]]}
+  };
+  (function(){
+    let h = '';
+    IDS.forEach((id, i) => {
+      if (i) h += '<div class="rseg' + (DIFF[id].big ? ' big' : '') + '" style="--from:var(--' + GROUP[IDS[i - 1]] + ');--to:var(--' + GROUP[id] + ')"><span class="ln"><i></i></span><span>' + DIFF[id].short + '</span></div>';
+      h += '<button type="button" class="rnode g-' + GROUP[id] + '" role="tab" id="rn-' + i + '" data-sys="' + id + '" aria-controls="sysc"><span class="dot"></span><b>' + id + '</b><span class="nm">' + NAME[id] + '</span></button>';
+    });
+    $('#rail').innerHTML = h;
+    $('#rail').addEventListener('click', e => { const b = e.target.closest('[data-sys]'); if (b) select(b.dataset.sys); });
+    $('#rail').addEventListener('keydown', e => { const i = IDS.indexOf(sys); let j = null;
+      if (e.key === 'ArrowRight') j = Math.min(IDS.length - 1, i + 1); if (e.key === 'ArrowLeft') j = Math.max(0, i - 1);
+      if (j !== null){ e.preventDefault(); select(IDS[j]); $('#rn-' + j).focus(); } });
+  })();
+
+  /* ================= Lab: the five passages ================= */
+  const DOCS = [
+    {id:'D1', tag:'Today’s Table', page:'2025–26 Serie A', sec:'League table', season:'2025-26', lines:['Pos: 17 · Team: {Lecce} · Pts: 38','Pos: 18 · Team: Cremonese (R) · Pts: 34']},
+    {id:'D2', tag:'Last Season’s Table', page:'2024–25 Serie A', sec:'League table', season:'2024-25', lines:['Pos: 17 · Team: {Lecce} · Pts: 34','Pos: 18 · Team: Empoli (R) · Pts: 31']},
+    {id:'D3', tag:'Lecce’s Page', page:'US Lecce', sec:'Introduction', season:'2025-26', lines:['Ground: Stadio Via del mare','Head coach: {Eusebio Di Francesco}']},
+    {id:'D4', tag:'Cremonese’s Page', page:'US Cremonese', sec:'Introduction', season:'2025-26', lines:['Ground: Stadio Giovanni Zini','Head coach: {Marco Giampaolo}']},
+    {id:'D5', tag:'Today’s Stadiums', page:'2025–26 Serie A', sec:'Stadiums and locations', season:'2025-26', lines:['Team: Cremonese · Location: Cremona · Stadium: Stadio {Giovanni Zini}']}
+  ];
+  const ORIG = DOCS.map(d => d.id);
+  const words = t => t.split(/([\p{L}\p{N}]+)/u).map((p, i) => i % 2 ? '<span class="w" data-w="' + esc(p.toLowerCase()) + '">' + esc(p) + '</span>' : esc(p)).join('');
+  const lineHTML = l => l.split(/\{([^}]+)\}/).map((p, i) => i % 2 ? '<span class="sp">' + words(p) + '</span>' : words(p)).join('');
+  const corpusEl = $('#corpus'), docEl = {};
+  DOCS.forEach(d => {
+    const el = document.createElement('div'); el.className = 'doc'; el.dataset.d = d.id; docEl[d.id] = el;
+    el.innerHTML = '<div class="doc-h"><span class="doc-id">' + d.id + '</span><b class="doc-tag">' + d.tag + '</b><span class="doc-src"><span class="src-t">' + words(d.page) + ' · ' + words(d.sec) + '</span><span class="season' + (d.season === '2024-25' ? ' old' : '') + '">' + words(d.season) + '</span></span></div>' +
+      '<div class="doc-b">' + d.lines.map(l => '<span class="ln">' + lineHTML(l) + '</span>').join('') + '<i class="strike"></i></div><span class="badge"></span><span class="flag">removed · 2024-25</span>';
+    corpusEl.appendChild(el);
+  });
+
+  // Real numbers on these five passages: bm25s, bge-small-en-v1.5, bge-reranker-v2-m3, roberta-base-squad2
+  const Q = {
+    main:{toks:[['Who',1],['coaches',1],['the',0],['team',1],['directly',1],['above',1],['Cremonese',1],['in',0],['the',0],['Serie',1],['A',0],['table',1],['right',1],['now',1]],
+          bm:{D1:1.017,D2:0.817,D5:0.669,D4:0.237,D3:0}, m:{D1:['cremonese','serie','table','team'],D2:['serie','table','team'],D5:['cremonese','serie','team'],D4:['cremonese'],D3:[]}, cos:{D4:0.800,D1:0.781,D5:0.779,D3:0.736,D2:0.724}},
+    s4a:{q:'Serie A standings 2025-26 Cremonese position', cos:{D1:0.944,D5:0.906,D4:0.875,D2:0.869,D3:0.799}},
+    s4b:{q:'Lecce football club coach manager 2025-26', cos:{D3:0.786,D1:0.749,D2:0.739,D5:0.697,D4:0.675}},
+    s5a:{q:'Cremonese Serie A 2025-26 standings position', bm:{D5:0.783,D1:0.712,D4:0.489,D3:0.238,D2:0.200}, m:{D5:['2025','26','cremonese','serie'],D1:['2025','26','cremonese','serie'],D4:['2025','26','cremonese'],D3:['2025','26'],D2:['serie']}},
+    s5b:{q:'Lecce head coach', bm:{D3:0.948,D4:0.769,D1:0.200,D2:0.200,D5:0}, m:{D3:['coach','head','lecce'],D4:['coach','head'],D1:['lecce'],D2:['lecce'],D5:[]}},
+    s6a:{q:'Serie A 2025-26 position 17', bm:{D1:0.836,D5:0.560,D2:0.525,D4:0.253,D3:0.238}, m:{D1:['17','2025','26','serie'],D5:['2025','26','serie'],D2:['17','serie'],D4:['2025','26'],D3:['2025','26']}}
+  };
+  const RRF = {D1:1/61+1/62, D4:1/64+1/61, D5:1/63+1/63, D2:1/62+1/65, D3:1/64};
+  const RERANK = {D1:0.215, D4:0.061, D3:0.036, D5:0.002};
+  // roberta-base-squad2 on D1, first line: start and end scores per token; token 0 is the "no answer" slot
+  const RD = {tok:['∅','Pos',':','17','·','Team',':','L','ec','ce','·','P','ts',':','38'],
+              st:[3.39,-5.48,-8.21,-5.85,-6.45,-3.13,-6.17,2.01,-4.57,-4.52,-7.1,-6.83,-8.16,-8.66,-5.55],
+              en:[4.00,-7.85,-7.5,-5.33,-4.91,-7.46,-6.3,-4.13,-2.46,2.65,-4.41,-8.69,-7.66,-8.01,-5.44]};
+  const EMB = {
+    main:[-0.003,-0.031,-0.01,-0.073,0.039,0.001,0.007,0.026,0.061,-0.004,0.014,-0.062,-0.003,0.071,0.005,-0.074,-0.088,0.009,0.049,-0.001,0.021,-0.035,-0.087,-0.039,0.002,0.02,-0.032,-0.049,-0.084,-0.173,-0.039,-0.003,-0.023,-0.03,0.019,-0.018,-0.036,-0.002,0.038,-0.022,-0.012,0.002,-0.048,-0.034,-0.008,-0.052,0.025,0.06],
+    s4a:[0.009,-0.044,0.013,-0.004,0.006,0.06,-0.003,0.055,0.049,0.01,0.03,-0.067,0.021,0.056,-0.036,-0.088,-0.117,0.005,0.007,0.018,0.031,-0.017,-0.017,-0.03,0.004,0.057,-0.003,-0.018,-0.056,-0.195,-0.051,0.028,0.037,-0.004,0.034,-0.03,-0.057,0.046,0.031,0.04,-0.008,-0.017,0.004,-0.049,-0.012,-0.022,-0.013,0.054],
+    s4b:[-0.024,0.016,0.03,-0.072,0.012,-0.005,0.008,0.01,0.053,0.003,-0.006,-0.051,-0.022,0.02,-0.008,-0.006,-0.068,0.036,0.022,-0.021,0.051,0.001,-0.01,-0.016,-0.047,-0.044,0.009,-0.024,-0.087,-0.136,0.031,-0.062,0.026,-0.086,0.022,-0.026,-0.023,0.027,-0.003,0.043,0.009,-0.04,-0.032,-0.092,0.005,-0.054,0.022,-0.005]
+  };
+  const embCells = key => EMB[key].map((v, i) => '<i style="animation-delay:' + (i * 12) + 'ms;background:color-mix(in oklab, var(' + (v >= 0 ? '--model' : '--eng') + ') ' + Math.min(100, Math.round(Math.abs(v) / 0.09 * 100)) + '%, var(--raise))"></i>').join('');
+  const sorted = o => Object.keys(o).sort((a, b) => o[b] - o[a]);
+  const badges = (o, d, m) => Object.fromEntries(Object.keys(o).map(k => [k, [o[k], d, m]]));
+  const MLAB = {cos:'cos', bm25:'BM25', rrf:'RRF', rr:'score'};
+  const MTXT = {cos:'The number on each passage is the <b>cosine</b> with the query. It goes from −1 to 1: the higher it is, the closer the meaning.',
+    bm25:'The number on each passage is its <b>BM25 score</b>. It grows with every word shared with the query, and rare words count more. There is no fixed maximum: only the order matters.',
+    rrf:'The number is the <b>RRF score</b>: 1 / (60 + position) from each of the two rankings, added up.',
+    rr:'The number is the <b>reranker score</b>: from 0 to 1, how well the passage seems to answer the question.'};
+  const DTXT = '<b>D1–D5</b> are the five passages in this example: real pieces of Wikipedia pages from 25 May 2026. The system does not know in advance which one holds the answer (D3).';
+  const picks = ids => Object.fromEntries(ids.map(i => [i, 'pick']));
+  const byScore = o => { const s = sorted(o); return s.concat(ORIG.filter(id => !s.includes(id))); };
+  const fanPt = (ox, oy, deg, r) => [ox + r * Math.cos(deg * Math.PI / 180), oy - r * Math.sin(deg * Math.PI / 180)];
+
+  /* ================= Lab: what each block computes ================= */
+  const verdict = (ans, ok) => '<div class="verdict">' + (ok ? OK : KO) + '<b>' + esc(ans) + '</b><small>' + (ok ? 'right answer' : 'right answer: Eusebio Di Francesco') + '</small></div>';
+  // BM25 as bm25s computes it (k1 = 1.5, b = 0.75): the piece each word adds, checked against bm25s.retrieve
+  const BD = {
+    q0:{terms:[['team',3,.5390],['cremonese',3,.5390],['serie',3,.5390],['table',2,.8755]], miss:['who','coaches','directly','above','right','now'],
+        rows:{D1:{team:.2918,cremonese:.2000,serie:.2000,table:.3249}, D2:{team:.2918,serie:.2000,table:.3249}, D5:{team:.2230,cremonese:.2230,serie:.2230}, D4:{cremonese:.2366}, D3:{}}},
+    s5a:{terms:[['cremonese',3,.5390],['serie',3,.5390],['2025',4,.2877],['26',4,.2877]], miss:['standings','position'],
+        rows:{D5:{cremonese:.2230,serie:.2230,'2025':.1684,'26':.1684}, D1:{cremonese:.2000,serie:.2000,'2025':.1557,'26':.1557}, D4:{cremonese:.2366,'2025':.1263,'26':.1263}, D3:{'2025':.1190,'26':.1190}, D2:{serie:.2000}}},
+    s5b:{terms:[['lecce',3,.5390],['head',2,.8755],['coach',2,.8755]], miss:[],
+        rows:{D3:{lecce:.2230,head:.3623,coach:.3623}, D4:{head:.3844,coach:.3844}, D1:{lecce:.2000}, D2:{lecce:.2000}, D5:{}}},
+    s6a:{terms:[['serie',3,.5390],['2025',4,.2877],['26',4,.2877],['17',2,.8755]], miss:['position'],
+        rows:{D1:{serie:.2000,'2025':.1557,'26':.1557,'17':.3249}, D5:{serie:.2230,'2025':.1684,'26':.1684}, D2:{serie:.2000,'17':.3249}, D4:{'2025':.1263,'26':.1263}, D3:{'2025':.1190,'26':.1190}}}
+  };
+  const bmTot = (B, id) => Object.values(B.rows[id]).reduce((a, b) => a + b, 0);
+  const bmLegend = key => { const B = BD[key];
+    return '<div class="tlegend">' + B.terms.map((t, i) => '<span class="tl" style="--tc:var(--t' + (i + 1) + ')"><i></i><b>' + t[0] + '</b> in ' + t[1] + ' of 5 passages · weight ' + f2(t[2]) + '</span>').join('') +
+      (B.miss.length ? '<span class="tl miss"><b>' + B.miss.join(' · ') + '</b> in no passage: 0</span>' : '') + '</div>'; };
+  const bmBars = (key, top) => { const B = BD[key], ids = Object.keys(B.rows).sort((a, b) => bmTot(B, b) - bmTot(B, a)), max = Math.max(...ids.map(id => bmTot(B, id)), 0.01);
+    return '<div class="brows">' + ids.map((id, r) => '<div class="brow' + (top.includes(id) ? ' top' : '') + '" style="animation-delay:' + (r * 80) + 'ms"><span class="did">' + id + '</span><span class="bstack">' +
+      (bmTot(B, id) ? B.terms.map((t, i) => { const v = B.rows[id][t[0]]; return v ? '<i style="--tc:var(--t' + (i + 1) + ');width:' + (v / max * 100) + '%;animation-delay:' + (r * 80 + i * 60) + 'ms" title="' + t[0] + ': ' + f2(v) + '"><em>' + t[0] + ' ' + f2(v) + '</em></i>' : ''; }).join('') : '<small>no query words</small>') +
+      '</span><span class="val">' + f2(bmTot(B, id)) + '</span></div>').join('') + '</div>'; };
+  const qwords = html => html.split(/ (?![^<]*>)/).map((w, i) => '<span class="qw" style="--i:' + i + '">' + w + '</span>').join(' ');
+  const rwCard = r => '<div class="rw"><span class="sub">' + r.label + '</span><div class="rw-from">' + r.from + '</div><div class="rw-arr">↓ ' + r.verb + '</div><div class="rw-to mono">' + qwords(r.to) + '</div>' + (r.note ? '<p class="note">' + r.note + '</p>' : '') + '</div>';
+  const cosBlock = d => { const ids = sorted(d.c), R = 168, ox = 22, oy = 190;
+    let s = '<svg viewBox="0 0 220 214" role="img" aria-label="Angle between the query and each passage"><path class="cs-arc" d="M' + fanPt(ox, oy, 0, R).join(',') + ' A' + R + ',' + R + ' 0 0 0 ' + fanPt(ox, oy, 90, R).join(',') + '"/>';
+    [30, 60, 90].forEach(a => { const [x1, y1] = fanPt(ox, oy, a, R - 5), [x2, y2] = fanPt(ox, oy, a, R + 3), [tx, ty] = fanPt(ox, oy, a, R + 13); s += '<line x1="' + x1 + '" y1="' + y1 + '" x2="' + x2 + '" y2="' + y2 + '" stroke="var(--line)"/><text class="cs-tk" x="' + tx + '" y="' + (ty + 3) + '" text-anchor="middle">' + a + '°</text>'; });
+    ids.slice().reverse().forEach((id, i) => { const ang = Math.acos(d.c[id]) * 180 / Math.PI, [x, y] = fanPt(ox, oy, ang, R - 8); s += '<line class="cs-d' + (d.top.includes(id) ? ' top' : '') + '" x1="' + ox + '" y1="' + oy + '" x2="' + x + '" y2="' + y + '" style="animation-delay:' + (200 + i * 90) + 'ms"/>'; });
+    const t = ids[0], ta = Math.acos(d.c[t]) * 180 / Math.PI, [ax, ay] = fanPt(ox, oy, ta, 50), [lx, ly] = fanPt(ox, oy, ta / 2, 62);
+    s += '<path class="cs-ang" d="M' + (ox + 50) + ',' + oy + ' A50,50 0 0 0 ' + ax + ',' + ay + '"/><text class="cs-lab" x="' + lx + '" y="' + (ly + 4) + '">θ ' + ta.toFixed(1) + '°</text><line class="cs-q" x1="' + ox + '" y1="' + oy + '" x2="' + (ox + R) + '" y2="' + oy + '"/><text class="cs-lab2" x="' + (ox + R) + '" y="' + (oy + 16) + '" text-anchor="end">' + (d.qlabel || 'question') + '</text></svg>';
+    const dps = ids.map((id, i) => '<div class="ldp' + (d.top.includes(id) ? ' top' : '') + '"><span class="did">' + id + '</span><span class="t"><i style="left:' + ((d.c[id] - 0.6) / 0.4 * 100) + '%;animation-delay:' + (300 + i * 80) + 'ms"></i></span><span class="v">' + f3(d.c[id]) + '</span></div>').join('');
+    return '<div class="cosgrid">' + s + '<div class="dps">' + dps + '<div class="dp-ax"><span>0.6</span><span>0.8</span><span>1.0</span></div></div></div>'; };
+  const agentLog = d => { let h = '<div class="colh"><span>The agent’s conversation</span><span class="budget" aria-label="' + d.used + ' calls of 8">';
+    for (let i = 0; i < 8; i++) h += '<i class="' + (i < d.used ? 'on' : '') + '"></i>';
+    h += '<span>' + d.used + '/8</span></span></div>' + (d.rw ? rwCard(d.rw) : '') + '<ol class="log">';
+    d.log.forEach((e, i) => { const cls = i >= d.fresh ? 'new' : '';
+      if (e.t === 'q') h += '<li class="q ' + cls + '">Question + “Today is 2026-05-25.” · tools: <span class="mono">' + e.tools + '</span></li>';
+      if (e.t === 'call') h += '<li class="call ' + cls + '" data-text="' + esc(e.text) + '">' + esc(e.text) + '</li>';
+      if (e.t === 'res') h += '<li class="res ' + cls + '">← ' + (e.docs ? 'returns ' + e.docs.map(x => '<span class="did">' + x[0] + '</span><span>' + (e.m ? e.m + ' ' : '') + x[1] + '</span>').join(' ') : '<span class="mono">' + esc(e.text) + '</span>') + '</li>';
+      if (e.t === 'think') h += '<li class="think ' + cls + '">' + esc(e.text) + '</li>'; });
+    h += '</ol>'; if (d.final) h += verdict('Eusebio Di Francesco', true); if (d.note) h += '<p class="note">' + d.note + '</p>'; return h; };
+
+  function readerChart(){
+    const n = RD.tok.length, L = 46, cw = 34, W = L + n * cw + 4, y0 = 46, y1 = 124, ty = 86, k = 3;
+    const bar = (v, x, base, cls) => { const h = Math.max(1, Math.min(Math.abs(v), 9) * k);
+      return '<rect class="rc-b ' + (v >= 0 ? 'pos ' : 'neg ') + cls + '" x="' + (x - 9) + '" y="' + (v >= 0 ? base - h : base) + '" width="18" height="' + h + '" rx="3" style="animation-delay:' + (x / 6) + 'ms"/>'; };
+    let s = '<svg viewBox="0 0 ' + W + ' 156" role="img" aria-label="Start and end scores for each token of D1: the no-answer slot has 3.39 and 4.00; L has 2.01 as a start, ce has 2.65 as an end">';
+    s += '<text class="rc-lab" x="0" y="' + (y0 - 22) + '">START</text><text class="rc-lab" x="0" y="' + (y1 - 22) + '">END</text>';
+    s += '<line class="rc-base" x1="' + L + '" x2="' + W + '" y1="' + y0 + '" y2="' + y0 + '"/><line class="rc-base" x1="' + L + '" x2="' + W + '" y1="' + y1 + '" y2="' + y1 + '"/>';
+    s += '<line class="rc-sep" x1="' + (L + cw) + '" x2="' + (L + cw) + '" y1="8" y2="150"/>';
+    RD.tok.forEach((t, i) => {
+      const x = L + i * cw + cw / 2, cs = i === 0 ? 'null' : i === 7 ? 'hot' : '', ce = i === 0 ? 'null' : i === 9 ? 'hot' : '';
+      s += bar(RD.st[i], x, y0, cs) + bar(RD.en[i], x, y1, ce);
+      s += '<text class="rc-tok' + (i === 7 || i === 9 ? ' hot' : '') + '" x="' + x + '" y="' + ty + '" text-anchor="middle">' + esc(t) + '</text>';
+      if (i === 0 || i === 7) s += '<text class="rc-val" x="' + x + '" y="' + (y0 - RD.st[i] * k - 5) + '" text-anchor="middle">' + f2(RD.st[i]) + '</text>';
+      if (i === 0 || i === 9) s += '<text class="rc-val" x="' + x + '" y="' + (y1 - RD.en[i] * k - 5) + '" text-anchor="middle">' + f2(RD.en[i]) + '</text>';
+    });
+    return '<div class="rchart">' + s + '</svg></div>';
+  }
+
+  const LENS = {
+    prompt: d => '<div class="colh"><span>The prompt: the text the model receives</span></div><div class="msg m"><small>System</small><p>Today is 2026-05-25. Answer this question about Serie A football from your own knowledge. End your reply with one line "Answer: &lt;answer&gt;"…</p></div>' +
+      '<div class="msg"><small>Question</small>Who coaches the team directly above Cremonese in the Serie A table right now?</div><span class="modelchip">' + ICON.spark + 'Claude Haiku 4.5 · temperature 0</span>' +
+      (d.reply ? '<div class="msg bot"><small>Real S0 reply, same date, similar question</small>I don’t have access to current 2026 Serie A standings. My knowledge was last updated in April 2024, so I cannot provide accurate information about the current league table as of May 25, 2026.<br><b>Answer: unknown</b></div>' + verdict('unknown', false) + '<p class="note">The model even gets its own cut-off wrong: its training text runs to July 2025. Either way, it knows nothing about the 2025–26 season.</p>'
+               : '<p class="note">Temperature 0 means the model always picks the most likely token, so the same question always gets the same answer.</p>'),
+    tokens: () => { const g = (lab, ws, cls) => '<div class="tg"><span class="sub">' + lab + '</span><div class="toks">' + ws.map((w, i) => '<span class="tok ' + cls + '" style="animation-delay:' + (i * 60) + 'ms">' + w + '</span>').join('') + '</div></div>';
+      return '<div class="colh"><span>In S1 the query is the question, word for word</span></div><div class="qcard">Who coaches the team directly above Cremonese in the Serie A table right now?</div>' +
+        g('1 · Common and one-letter words: removed', ['the','in','the','a'], 'stop') + g('2 · Not in any passage: worth 0', ['who','coaches','directly','above','right','now'], 'miss') + g('3 · Found in the index: only these count', ['team','cremonese','serie','table'], 'ok') +
+        '<p class="note">The <b>index</b> is a list, made once in advance, of which words appear in which passage. Of the 10 words left, only 4 count, and none of them is about coaches: “coaches” is not “coach”.</p>'; },
+    bmb: d => '<div class="colh"><span>The BM25 score, word by word</span></div><span class="sub">The words searched and their weight: the rarer the word, the more it weighs</span>' + bmLegend(d.key) +
+      '<span class="sub">Each passage adds one piece for every word it contains</span>' + bmBars(d.key, d.top) + (d.note ? '<p class="note">' + d.note + '</p>' : ''),
+    reader: () => '<div class="colh"><span>The reader inside D1 · first line, two scores per token</span></div>' + readerChart() +
+      '<div class="sums"><div class="sumrow" style="animation-delay:.5s"><span>Best candidate: <b>“Lecce”</b></span><em>2.01 (start on “L”) + 2.65 (end on “ce”)</em><b>4.66</b></div></div>' +
+      '<p class="note">To the reader, “Lecce” is three tokens: L · ec · ce. It takes the token with the best start score (L), then, within the next 30 tokens, the one with the best end score (ce). Negative scores mean “unlikely”. The dark bars on the far left, marked ∅, are the <b>“no answer”</b> option. It gets two scores too, and they matter in the next step.</p>',
+    duel: () => '<div class="colh"><span>Answer or not? The reader weighs two options</span></div>' +
+      '<div class="bal"><svg viewBox="0 0 320 150" role="img" aria-label="Scale: on the left “Lecce” with score 4.66, on the right “no answer” with score 7.39. “No answer” is heavier.">' +
+        '<rect x="130" y="138" width="60" height="7" rx="3.5" class="bal-base"/><line x1="160" y1="58" x2="160" y2="138" class="bal-post"/>' +
+        '<g class="beam"><line x1="40" y1="58" x2="280" y2="58" class="bal-bar"/>' +
+          '<line x1="60" y1="58" x2="60" y2="96" class="bal-str"/><line x1="260" y1="58" x2="260" y2="96" class="bal-str"/>' +
+          '<path d="M28 96 H92 L82 110 H38 Z" class="bal-pan"/><path d="M228 96 H292 L282 110 H238 Z" class="bal-pan"/>' +
+          '<circle cx="60" cy="80" r="15" class="bal-w cand"/><circle cx="260" cy="74" r="21" class="bal-w none"/>' +
+          '<text x="60" y="84" class="bal-n">4.66</text><text x="260" y="78" class="bal-n inv">7.39</text></g>' +
+        '<circle cx="160" cy="58" r="6" class="bal-pin"/></svg>' +
+        '<div class="bal-lab"><span><b>“Lecce”</b>the best piece of text</span><span class="win"><b>“no answer”</b>the ∅ option · wins</span></div></div>' +
+      '<div class="rule"><div><b>If</b> the candidate scores higher than “no answer”, S1 answers with the candidate.</div><div><b>Otherwise</b> it moves on to the next passage.</div><div><b>If no passage</b> lets a candidate win, S1 writes “unknown”.</div></div>' +
+      '<div class="check"><div class="ck" style="animation-delay:.6s"><span class="did" style="padding:2px 7px">D1</span><span>“Lecce” <b>4.66</b> · no answer <b>7.39</b></span><span class="ckv">no answer</span></div>' +
+        '<div class="ck" style="animation-delay:1s"><span class="did" style="padding:2px 7px">D2</span><span>“Lecce” <b>1.59</b> · no answer <b>6.66</b></span><span class="ckv">no answer</span></div></div>' +
+      verdict('unknown', false) +
+      '<p class="note">The scores show how sure the reader is about each option. As chances: in D1 it gives 63% to “not here” and 4% to “Lecce”, 15 to 1. In D2 it is 80% against 0.5%, 160 to 1.</p>',
+    why: () => { const ex = (txt, kind, ans, ps, pn, ok) => '<div class="exr"><span class="exk">' + kind + '</span><span class="ext mono">' + txt + '</span><span class="exp2"><b>' + ans + '</b> ' + ps + ' · no answer ' + pn + '</span>' + (ok ? '<span class="exv ok">answers</span>' : '<span class="exv">silent</span>') + '</div>';
+      return '<div class="colh"><span>Why does it stay silent? Two reasons</span></div>' +
+        '<div class="why2"><div><b>1</b><p><strong>The answer really is not here.</strong> The question asks for a person (“who coaches”), and D1 only lists teams and points. Staying silent is the right call.</p></div>' +
+        '<div><b>2</b><p><strong>Tables do not look like what it learned from.</strong> The reader trained on Wikipedia paragraphs (SQuAD 2.0, where about one question in three has no answer). On table rows it stays silent even when the answer is there:</p></div></div>' +
+        '<div class="exq">Question: “Which team is directly above Cremonese in the Serie A table?”</div>' +
+        ex('Pos: 17 · Team: Lecce · Pts: 38 …', 'table row (D1)', '“Lecce”', '8%', '42%', 0) +
+        ex('Lecce finished directly above Cremonese in the 2025–26 Serie A.', 'the same fact, as a sentence', '“Lecce”', '94%', '0.06%', 1) +
+        '<p class="note"><b>The real problem comes earlier.</b> D3, the passage with the coach, never reaches the reader: BM25 gave it 0. And the reader can only point at a piece of one passage, so it cannot connect D1 (who is above) with D3 (who coaches them). These two test sentences were written to explain; they are not among the 120 questions.</p>'; },
+    embed: () => '<div class="colh"><span>The query becomes a vector · bge-small</span></div><div class="qcard">Who coaches the team directly above Cremonese in the Serie A table right now?</div><div class="sub" style="text-align:center">in S2 the query is the question, word for word · ↓ 384 numbers (the first 48 shown, real values)</div><div class="emb">' + embCells('main') + '</div>' +
+      '<p class="note">Orange is negative, blue is positive. No single number means anything on its own: what matters is the <b>direction</b> of the whole list, like an arrow. The passages already have their arrows, stored in the index.</p>',
+    cos: d => '<div class="colh"><span>Cosine between the question and each passage</span></div>' + cosBlock(d) + '<div class="formula">cosine = how much two arrows point the same way: 1 if they match, 0 if they are at a right angle</div>' + (d.note ? '<p class="note">' + d.note + '</p>' : ''),
+    vsearch: d => '<div class="colh"><span>Inside vector_search()</span></div>' +
+      '<div class="vstep"><span class="sub"><b>1</b>the query the agent wrote</span><div class="qcard mono">' + esc(d.q) + '</div></div>' +
+      '<div class="vstep" style="animation-delay:.35s"><span class="sub"><b>2</b>it becomes 384 numbers with bge-small (the first 48, real values)</span><div class="emb">' + embCells(d.emb) + '</div></div>' +
+      '<div class="vstep" style="animation-delay:.75s"><span class="sub"><b>3</b>cosine with each passage’s stored vector · the 2 closest move on</span>' + cosBlock({c:d.c, top:d.top, qlabel:'query'}) + '</div>' + (d.note ? '<p class="note">' + d.note + '</p>' : ''),
+    ksearch: d => '<div class="colh"><span>Inside keyword_search() · BM25</span></div>' +
+      '<div class="vstep"><span class="sub"><b>1</b>the agent’s query, in lowercase and split into words</span><div class="qcard mono">' + esc(d.q) + '</div></div>' +
+      '<div class="vstep" style="animation-delay:.3s"><span class="sub"><b>2</b>the words searched and their weight: the rarer the word, the more it weighs</span>' + bmLegend(d.key) + '</div>' +
+      '<div class="vstep" style="animation-delay:.6s"><span class="sub"><b>3</b>each passage adds one piece for every word it contains · the top 2 move on</span>' + bmBars(d.key, d.top) + '</div>' + (d.note ? '<p class="note">' + d.note + '</p>' : ''),
+    funnel: () => '<div class="colh"><span>Why this order</span></div><div class="funnel">' +
+      [['993 passages','everything collected for one date',100],['BM25: 20 · meaning: 20','two fast searches over everything',86],['1 single list','RRF merge: a formula on positions',72],
+       ['only the right season','filter: a rule on labels, it costs nothing',58],['20 candidates reread one by one','reranker: slow, about 30 ms per pair on a laptop',44],['5 passages → Haiku','the LLM reads them and writes the answer',30]]
+        .map((r, i) => '<div class="fun" style="--w:' + r[2] + '%;animation-delay:' + (i * 140) + 'ms"><b>' + r[0] + '</b><span>' + r[1] + '</span></div>').join('') + '</div>' +
+      '<p class="dverdict"><b>Cheap, wide steps first. The slow, precise step last.</b> The filter comes before the reranker because it costs nothing and removes passages that are surely wrong. That way the 20 slots the reranker can afford go only to useful candidates.</p>' +
+      '<p class="note">Think of hiring: two recruiters skim every CV quickly, one by keywords and one by overall profile. The office merges the two lists and drops anyone who misses a requirement. The manager interviews only the finalists, because interviews are slow. In this example: 5 passages → 4 + 5 → 5 → 4 → 2.</p>',
+    rrf: d => { const bmL = ['D1','D2','D5','D4'], vL = ['D4','D1','D5','D3','D2'], fused = sorted(RRF);
+      const list = (arr, f) => arr.map((id, i) => '<div class="ri" style="animation-delay:' + (i * 80) + 'ms"><b>' + id + '</b><span>' + f(id, i) + '</span></div>').join('');
+      return '<div class="colh"><span>Two rankings, then one</span></div><div class="rrf3"><div><h5>By words · BM25</h5>' + list(bmL, (id, i) => '#' + (i + 1)) + '</div><div><h5>By meaning</h5>' + list(vL, (id, i) => '#' + (i + 1)) + '</div>' +
+        '<div><h5>RRF merge</h5>' + (d.stage > 1 ? list(fused, id => f4(RRF[id])) : '<div class="ghost">1 / (60 + position)<br>from each list</div>') + '</div></div>' +
+        (d.stage > 1 ? '<p class="note">D1 is 1st by words and 2nd by meaning: 1/61 + 1/62 = <b>0.0325</b>. D3 is in only one list, so it drops to the bottom.</p>' : '<p class="note">Both searches use the question as written. D3 shares no words with the question, so it is missing from the BM25 list. Search by meaning puts it 4th.</p>'); },
+    filter: () => '<div class="colh"><span>The filter reads the question</span></div><div class="qcard">Who coaches the team directly above Cremonese in the Serie A table right now?</div>' +
+      '<div class="fsteps"><div class="fq"><b>Does it mention “2024-25”, “last season” or “previous season”?</b><span class="fa">No</span></div><div class="fq dim">If yes: keep 2024-25, and also 2025-26 if it says “now”, “currently”, “this season”…</div><div class="fq go"><b>So only the 2025-26 season stays</b></div></div>' +
+      '<div class="fl"><span>D1 · 2025-26</span><span>D4 · 2025-26</span><span>D5 · 2025-26</span><span class="gone">D2 · 2024-25</span><span>D3 · 2025-26</span></div>' +
+      '<p class="note">Every passage carries the label of its season, and the filter looks only at that label. The old table <b>never reaches</b> the LLM.</p>',
+    rerank: () => { const A = ['D1','D4','D5','D3'], B = ['D1','D4','D3','D5'], y = i => 30 + i * 30;
+      let s = '<svg viewBox="0 0 300 150" class="rrsvg" role="img" aria-label="Order before and after the reranker: D3 rises from fourth to third, D5 falls from third to fourth. D1 and D4 move on.">' +
+        '<text class="rr-h" x="22" y="12">after RRF and filter</text><text class="rr-h" x="292" y="12" text-anchor="end">after the reranker · score</text>';
+      A.forEach((id, i) => { const j = B.indexOf(id); s += '<line class="rr-l' + (j < 2 ? ' pass' : (j < i ? ' upl' : '')) + '" x1="58" y1="' + (y(i) - 4) + '" x2="200" y2="' + (y(j) - 4) + '"/><text class="rr-t" x="22" y="' + y(i) + '">' + id + '</text>'; });
+      B.forEach((id, j) => { s += '<text class="rr-t' + (j < 2 ? ' pass' : '') + '" x="210" y="' + y(j) + '">' + id + '</text><text class="rr-v" x="292" y="' + y(j) + '" text-anchor="end">' + f3(RERANK[id]) + '</text>'; });
+      s += '<line class="rr-cut" x1="10" x2="292" y1="' + (y(1) + 12) + '" y2="' + (y(1) + 12) + '"/></svg>';
+      return '<div class="colh"><span>The reranker reads question and passage together</span></div>' +
+        '<div class="bvc"><div class="bc"><span class="sub">Bi-encoder · search by meaning</span><div class="bcf"><span class="pill2">question</span><i>→</i><span class="vv"></span></div><div class="bcf"><span class="pill2">passage</span><i>→</i><span class="vv"></span><em>made in advance</em></div><p>Two arrows made separately, then the cosine. Fast, but each passage is summed up without knowing the question.</p></div>' +
+        '<div class="bc"><span class="sub">Cross-encoder · the reranker</span><div class="bcf"><span class="pill2">question + passage</span><i>→</i><b class="vote">one score</b></div><p>Reads the pair together: every word of the question “sees” every word of the passage. More precise, but it has to run again for every pair.</p></div></div>' +
+        '<div class="vstep" style="animation-delay:.3s"><span class="sub">What changes here · the 2 above the dashed line move on</span>' + s + '</div>' +
+        '<p class="note">Cosine put every passage between 0.72 and 0.80, with D4 (Cremonese’s coach) on top. The reranker spreads them apart: D1, the table, scores more than three times the next one. On a laptop it takes about 5 ms to turn a query into a vector, and about 30 ms to reread one pair.</p>'; },
+    llm: d => '<div class="colh"><span>Haiku 4.5 reads and writes</span></div><div class="inrow">' + d.inputs.map(id => '<span class="did" style="padding:3px 9px">' + id + '</span>').join('') + '<span style="color:var(--ink-3)">→</span><span class="modelchip">' + ICON.spark + 'Claude Haiku 4.5</span></div>' +
+      '<div class="msg m"><small>Prompt</small><p>Today is 2026-05-25. Answer … using only the Wikipedia passages below. Some passages are about past seasons, so check the season.</p></div>' +
+      '<div class="msg bot"><small>Simulated reply</small>The passages show Lecce (17th) directly above Cremonese (18th), but none of them says who coaches Lecce.<br><b>Answer: unknown</b></div>' + verdict('unknown', false) + '<p class="note">' + d.note + '</p>',
+    table: () => '<div class="colh"><span>Inside official_tables()</span></div>' +
+      '<div class="vstep"><span class="sub"><b>1</b>the agent’s call</span><div class="qcard mono">official_tables("Cremonese", "position", "2026-05-25")</div></div>' +
+      '<div class="vstep" style="animation-delay:.35s"><span class="sub"><b>2</b>it rebuilds the table from the 380 matches played up to 25 May 2026</span><div class="otab">' +
+      [[16,'Genoa',41],[17,'Lecce',38],[18,'Cremonese',34,1],[19,'Hellas Verona',21]].map((r, i) => '<div class="orow' + (r[3] ? ' me' : '') + '" style="animation-delay:' + (450 + i * 80) + 'ms"><b>' + r[0] + '</b><span>' + r[1] + '</span><span>' + r[2] + ' pts</span></div>').join('') + '</div></div>' +
+      '<div class="vstep" style="animation-delay:.9s"><span class="sub"><b>3</b>it returns one sentence</span><div class="qcard mono">Cremonese is in position 18 on 2026-05-25.</div></div>' +
+      '<p class="note">No Wikipedia page and no season to guess: the date is one of the tool’s inputs.</p>',
+    coach: () => '<div class="colh"><span>Inside official_tables()</span></div>' +
+      '<div class="vstep"><span class="sub"><b>1</b>the agent’s call</span><div class="qcard mono">official_tables("Lecce", "coach", "2026-05-25")</div></div>' +
+      '<div class="vstep" style="animation-delay:.35s"><span class="sub"><b>2</b>for the coach it does not use matches: it reads the “Head coach” line in the club’s infobox (D3)</span></div>' +
+      '<div class="vstep" style="animation-delay:.7s"><span class="sub"><b>3</b>it returns one sentence</span><div class="qcard mono">Lecce coach: Eusebio Di Francesco</div></div>',
+    agent: d => agentLog(d)
+  };
+
+  /* ================= Lab: the steps, block by block ================= */
+  const L4 = [{t:'q', tools:'vector_search, read_page'}];
+  const c4a = {t:'call', text:'vector_search("' + Q.s4a.q + '")'}, r4a = {t:'res', m:'cosine', docs:[['D1','0.944'],['D5','0.906']]}, k4a = {t:'think', text:'Cremonese is 18th. Just above, in 17th: Lecce. Now I need Lecce’s coach.'};
+  const c4b = {t:'call', text:'vector_search("' + Q.s4b.q + '")'}, r4b = {t:'res', m:'cosine', docs:[['D3','0.786'],['D1','0.749']]};
+  const L5 = [{t:'q', tools:'keyword_search, read_page'}];
+  const c5a = {t:'call', text:'keyword_search("' + Q.s5a.q + '")'}, r5a = {t:'res', m:'BM25', docs:[['D5','0.78'],['D1','0.71']]};
+  const c5r = {t:'call', text:'read_page("2025–26 Serie A")'}, r5r = {t:'res', text:'[part 1 of 3] … the whole page'}, k5 = {t:'think', text:'Lecce is just above Cremonese. Now I need their coach.'};
+  const c5b = {t:'call', text:'keyword_search("' + Q.s5b.q + '")'}, r5b = {t:'res', m:'BM25', docs:[['D3','0.95'],['D4','0.77']]};
+  const L6 = [{t:'q', tools:'keyword_search, read_page, official_tables'}];
+  const c6a = {t:'call', text:'official_tables("Cremonese", "position", "2026-05-25")'}, r6a = {t:'res', text:'Cremonese is in position 18 on 2026-05-25.'};
+  const c6b = {t:'call', text:'keyword_search("' + Q.s6a.q + '")'}, r6b = {t:'res', m:'BM25', docs:[['D1','0.84'],['D5','0.56']]}, k6 = {t:'think', text:'Lecce is 17th.'};
+  const c6c = {t:'call', text:'official_tables("Lecce", "coach", "2026-05-25")'}, r6c = {t:'res', text:'Lecce coach: Eusebio Di Francesco'};
+  const QFULL = '“Who coaches the team directly above Cremonese in the Serie A table right now?”';
+  const RW = {
+    s4a:{label:'Rewriting: from the question to a query', from:'Question: ' + QFULL, verb:'the model rewrites it', to:'Serie A standings <mark class="hm">2025-26</mark> Cremonese position',
+         note:'It keeps “Cremonese” and “Serie A”, adds the season, and drops the words it does not need. For now it looks for one fact only: the table.'},
+    s4b:{label:'The second query uses what it read', from:'From D1: “Pos: 17 · Team: <mark class="hm">Lecce</mark> · Pts: 38”', verb:'the model writes a second query', to:'<mark class="hm">Lecce</mark> football club coach manager 2025-26',
+         note:'“Lecce” was not in the question: the model read it in D1. A pipeline cannot take this step, because it never looks at the results before searching.'},
+    s5a:{label:'Rewriting: from the question to a query', from:'Question: ' + QFULL, verb:'the model rewrites it', to:'Cremonese Serie A <mark class="hm">2025-26</mark> standings position',
+         note:'Same idea as S4. But this query goes to BM25, which only matches identical words: “standings” and “position” appear in no passage (the table says “Pos”), so they will be worth 0.'},
+    s5b:{label:'The second query uses what it read', from:'From D1: “Pos: 17 · Team: <mark class="hm">Lecce</mark> · Pts: 38”', verb:'the model writes a second query', to:'<mark class="hm">Lecce</mark> head coach',
+         note:'It picks the words it expects to find on the page: “head coach”. With BM25, exact words matter.'},
+    s6a:{label:'Instead of a text query, it asks for a fact', from:'Question: ' + QFULL, verb:'the model calls the table', to:'official_tables("Cremonese", "position", "2026-05-25")',
+         note:'Team, field and date: there is no season to guess.'}
+  };
+
+  const STEPS = {
+    S0:[
+      {block:'mem', lens:'prompt', d:{}, off:true, cap:'No search: the model gets only a prompt with the date and the question.'},
+      {block:'mem', lens:'prompt', d:{reply:true}, off:true, cap:'It answers from memory, which stops before the 2025–26 season. Result: “unknown”.'}
+    ],
+    S1:[
+      {block:'bm25', lens:'tokens', cap:'In S1 the query is the question, word for word. Only words that appear in some passage count.'},
+      {block:'bm25', scan:1, order:byScore(Q.main.bm), lens:'bmb', d:{key:'q0', top:['D1','D2'], note:'D1 has “team” twice: it is worth 0.29 instead of 0.20, not double. D3, which holds the answer, has none of these words and scores <b>0</b>.'},
+       docs:picks(['D1','D2']), rest:'dim', badges:badges(Q.main.bm, 2, 'bm25'), hits:Q.main.m, cap:'Each matching word adds a piece of score, bigger if the word is rare. D1 and D2 move on.'},
+      {block:'reader', lens:'reader', docs:{D1:'read', D2:'dim'}, rest:'dim', spans:['D1'], lines:{D1:[0]},
+       cap:'The reader scores every token of D1 as a possible start and end of the answer. Best candidate: “Lecce”.'},
+      {block:'thr', lens:'duel', docs:{D1:'read', D2:'read'}, rest:'dim', spans:['D1','D2'],
+       cap:'Answer or not? In D1 “no answer” beats “Lecce”, 7.39 to 4.66, and again in D2. S1 writes “unknown”.'},
+      {block:'thr', lens:'why', docs:{D1:'read'}, rest:'dim', lines:{D1:[0]},
+       cap:'Why silent? The answer is not in D1 or D2, and table rows do not look like the text the reader learned from.'}
+    ],
+    S2:[
+      {block:'emb', lens:'embed', cap:'In S2 the query is the question as written. It becomes a vector: 384 numbers that sum up its meaning.'},
+      {block:'cos', scan:1, order:byScore(Q.main.cos), lens:'cos', d:{c:Q.main.cos, top:['D4','D1'], note:'All the cosines sit between 0.72 and 0.80: by meaning, the five passages look very alike. D4 wins, the coach of <b>Cremonese</b>. “Who coaches” is close, but it is the wrong club.'}, docs:picks(['D4','D1']), rest:'dim', badges:badges(Q.main.cos, 3, 'cos'),
+       cap:'The smaller the angle between question and passage, the closer the cosine to 1. D4 and D1 move on.'},
+      {block:'llm', lens:'llm', d:{inputs:['D4','D1'], note:'This is a two-step question: first find the club in the middle (Lecce), then look it up. The question never says “Lecce”, and the pipeline searches once with the words of the question, so it cannot go and find D3.'}, docs:{D4:'read', D1:'read'}, rest:'dim', lines:{D1:[0,1]},
+       cap:'Haiku reads only those two passages. It learns that Lecce is above Cremonese, but not who coaches Lecce.'}
+    ],
+    S3:[
+      {block:'hyb', lens:'funnel', cap:'First the plan: cheap, wide steps at the start and the slow, precise step at the end. Nobody rewrites the question.'},
+      {block:'hyb', scan:1, lens:'rrf', d:{stage:1}, hits:Q.main.m, cap:'Two searches run side by side on the question, one by words and one by meaning: 20 passages each.'},
+      {block:'rrf', order:byScore(RRF), lens:'rrf', d:{stage:2}, badges:badges(RRF, 4, 'rrf'), cap:'The two rankings merge using only positions. The winner is the passage that ranks high in both.'},
+      {block:'filter', lens:'filter', docs:{D2:'out'}, cap:'The question does not mention last season, so only 2025-26 stays. D2, the old table, is out.'},
+      {block:'rerank', order:['D1','D4','D3','D5','D2'], lens:'rerank', docs:Object.assign(picks(['D1','D4']), {D2:'out'}), rest:'dim', badges:badges(RERANK, 3, 'rr'),
+       cap:'The reranker rereads each question + passage pair and scores it: D3 up, D5 down. D1 and D4 move on.'},
+      {block:'llm', lens:'llm', d:{inputs:['D1','D4'], note:'The passages are cleaner than in S2, but it is still one search with the words of the question: nobody ever searches for Lecce.'}, docs:{D1:'read', D4:'read', D2:'out'}, rest:'dim', lines:{D1:[0,1]},
+       cap:'Same limit as S2: Lecce’s coach is missing, and there is no second search.'}
+    ],
+    S4:[
+      {block:'decide', lens:'agent', d:{rw:RW.s4a, log:[...L4, c4a], fresh:1, used:1}, cap:'The model turns the question into a query, using words it chooses. For now it looks only for the table.'},
+      {block:'vec', scan:1, order:byScore(Q.s4a.cos), lens:'vsearch', d:{q:Q.s4a.q, emb:'s4a', c:Q.s4a.cos, top:['D1','D5'], note:'All the passages are close (0.80–0.94) because they are all about Serie A. D1, the 2025-26 table, wins.'}, docs:picks(['D1','D5']), rest:'dim', badges:badges(Q.s4a.cos, 3, 'cos'),
+       cap:'vector_search: the query becomes 384 numbers, then it is compared with each passage by cosine. D1 and D5 move on.'},
+      {block:'decide', lens:'agent', d:{rw:RW.s4b, log:[...L4, c4a, r4a, k4a, c4b], fresh:2, used:2}, docs:{D1:'read'}, rest:'dim', lines:{D1:[0,1]},
+       cap:'The result goes back to the model: Lecce is just above Cremonese. Now it can write a second query with that name.'},
+      {block:'vec', scan:1, order:byScore(Q.s4b.cos), lens:'vsearch', d:{q:Q.s4b.q, emb:'s4b', c:Q.s4b.cos, top:['D3','D1'], note:'The query is about Lecce’s coach, so the closest vector is D3: Lecce’s page, with “Head coach”.'}, docs:picks(['D3','D1']), rest:'dim', badges:badges(Q.s4b.cos, 3, 'cos'),
+       cap:'A second search by meaning, with the name it just found. D3 moves on.'},
+      {block:'decide', lens:'agent', d:{log:[...L4, c4a, r4a, k4a, c4b, r4b], fresh:6, used:2, final:true, note:'2 calls out of 8. In all 678 real cases where an agent searched, its first query was never a copy of the question.'}, docs:{D3:'read'}, rest:'dim', lines:{D3:[1]},
+       cap:'It has what it needs, so it calls no more tools and answers.'}
+    ],
+    S5:[
+      {block:'decide', lens:'agent', d:{rw:RW.s5a, log:[...L5, c5a], fresh:1, used:1}, cap:'Same agent as S4, same prompt. It turns the question into a query, which this time goes to BM25.'},
+      {block:'kw', scan:1, order:byScore(Q.s5a.bm), lens:'ksearch', d:{q:Q.s5a.q, key:'s5a', top:['D5','D1'], note:'“2025-26” becomes two words, “2025” and “26”. They appear in almost every passage, so they weigh little. D2, last season, does not have them and stays at the bottom. In September, with “2024-25” in the query, the opposite happened.'}, docs:picks(['D5','D1']), rest:'dim', badges:badges(Q.s5a.bm, 2, 'bm25'), hits:Q.s5a.m,
+       cap:'keyword_search: BM25 adds a piece for every query word a passage contains. D5 and D1 move on.'},
+      {block:'page', lens:'agent', d:{log:[...L5, c5a, r5a, c5r, r5r], fresh:3, used:2, note:'Every whole page stays in the conversation and is reread every round. That is why S5 costs about twice as much as S4.'}, docs:{D1:'read', D5:'read'}, rest:'dim', lines:{D1:[0,1], D5:[0]},
+       cap:'read_page: it asks for the whole season page. More text means more tokens and a higher cost.'},
+      {block:'decide', lens:'agent', d:{rw:RW.s5b, log:[...L5, c5a, r5a, c5r, r5r, k5, c5b], fresh:5, used:3}, docs:{D1:'read'}, rest:'dim', lines:{D1:[0,1]},
+       cap:'Lecce is just above Cremonese. It writes a new query with the exact words it expects to find on the page.'},
+      {block:'kw', scan:1, order:byScore(Q.s5b.bm), lens:'ksearch', d:{q:Q.s5b.q, key:'s5b', top:['D3','D4'], note:'Same formula as S1, different words: D3 goes from 0 to 0.95.'}, docs:picks(['D3','D4']), rest:'dim', badges:badges(Q.s5b.bm, 2, 'bm25'), hits:Q.s5b.m,
+       cap:'BM25 finds “lecce”, “head” and “coach” all together only in D3.'},
+      {block:'decide', lens:'agent', d:{log:[...L5, c5a, r5a, c5r, r5r, k5, c5b, r5b], fresh:8, used:3, final:true, note:'Same answer as S4, at about twice the cost.'}, docs:{D3:'read'}, rest:'dim', lines:{D3:[1]},
+       cap:'Right answer, with 3 calls out of 8.'}
+    ],
+    'S5+':[
+      {block:'decide', lens:'agent', d:{rw:RW.s6a, log:[...L6, c6a], fresh:1, used:1}, cap:'It has one extra tool. Instead of searching, it asks for Cremonese’s position on today’s date.'},
+      {block:'tab', lens:'table', rest:'dim', cap:'official_tables rebuilds the 25 May table from the match results: Cremonese is 18th.'},
+      {block:'kw', scan:1, order:byScore(Q.s6a.bm), lens:'ksearch', d:{q:Q.s6a.q, key:'s6a', top:['D1','D5'], note:'The table tool answers by team, not by position, so finding who is 17th needs a search. “position” does not appear (the table says “Pos”), but “17” does, and it is rare.'}, docs:picks(['D1','D5']), rest:'dim', badges:badges(Q.s6a.bm, 2, 'bm25'), hits:Q.s6a.m, lines:{D1:[0]},
+       cap:'Who is 17th? It finds out with keyword_search: Lecce.'},
+      {block:'tab', lens:'coach', docs:{D3:'read'}, rest:'dim', lines:{D3:[1]}, cap:'Then it asks for Lecce’s coach. The tool reads it from the club’s infobox.'},
+      {block:'decide', lens:'agent', d:{log:[...L6, c6a, r6a, c6b, r6b, k6, c6c, r6c], fresh:7, used:3, final:true, note:'The season is never guessed: the date is part of every table call.'}, docs:{D3:'read'}, rest:'dim', lines:{D3:[1]},
+       cap:'Right answer, with 3 calls out of 8.'}
+    ]
+  };
+
+  /* ================= Lab: engine ================= */
+  const lensEl = $('#lens'), capEl = $('#cap'), bxEl = $('#bx'), progEl = $('#prog'), pipeEl = $('#pipe'), syscEl = $('#sysc'), railEl = $('#rail');
+  const bprev = $('#bprev'), bnext = $('#bnext'), lstep = $('#lstep');
+  const E = 'cubic-bezier(.2,.8,.2,1)';
+  const PAIRS = [['bm25','emb'],['reader','llm'],['emb','hyb'],['llm','decide'],['vec','kw']];
+  let sys = 'S0', step = 0, typing = null, lastBlock = null, choreo = [], inflight = [];
+  try { const s = localStorage.getItem('klc7-system'); if (s && STEPS[s]) sys = s; } catch(e){}
+
+  const later = (fn, ms) => { if (reduce || !ms) fn(); else choreo.push(setTimeout(fn, ms)); };
+  const restart = (el, cls) => { if (!el || reduce) return; el.classList.remove(cls); void el.offsetWidth; el.classList.add(cls); };
+  const relTo = (el, box) => { const r = el.getBoundingClientRect(), p = box.getBoundingClientRect(); return {x: r.left - p.left + box.scrollLeft, y: r.top - p.top + box.scrollTop, w: r.width, h: r.height}; };
+  const offX = (el, box) => { let x = 0, n = el; while (n && n !== box){ x += n.offsetLeft; n = n.offsetParent; } return x; };
+  function hscroll(box, el){ if (!el || box.scrollWidth <= box.clientWidth + 1) return; box.scrollTo({left: Math.max(0, offX(el, box) - box.clientWidth / 2 + el.offsetWidth / 2), behavior: reduce ? 'auto' : 'smooth'}); }
+  const visible = el => { const r = el.getBoundingClientRect(); return Math.max(0, Math.min(r.bottom, innerHeight) - Math.max(r.top, 0)); };
+
+  function reorder(ids){
+    const els = ids.map(id => docEl[id]);
+    if (els.every((e, i) => corpusEl.querySelectorAll('.doc')[i] === e)) return;
+    const first = new Map(els.map(e => [e, e.getBoundingClientRect().top]));
+    els.forEach(e => corpusEl.appendChild(e));
+    if (reduce) return;
+    els.forEach(e => { const dy = first.get(e) - e.getBoundingClientRect().top; if (dy){ e.style.transition = 'none'; e.style.transform = 'translateY(' + dy + 'px)'; } });
+    requestAnimationFrame(() => requestAnimationFrame(() => els.forEach(e => { e.style.transition = ''; e.style.transform = ''; })));
+  }
+  function countUp(el, v, d, m){
+    const out = x => (m ? '<small>' + MLAB[m] + '</small>' : '') + x.toLocaleString('en-US', {minimumFractionDigits:d, maximumFractionDigits:d});
+    if (reduce){ el.innerHTML = out(v); return; }
+    const t0 = performance.now(), dur = 700;
+    const fr = t => { const k = Math.min(1, (t - t0) / dur); el.innerHTML = out(v * (1 - Math.pow(1 - k, 3))); if (k < 1) requestAnimationFrame(fr); };
+    requestAnimationFrame(fr);
+  }
+  function typeCall(delay){
+    clearInterval(typing);
+    const el = lensEl.querySelector('.log .call.new');
+    if (!el || reduce) return;
+    const full = el.dataset.text; let n = 0; el.textContent = '';
+    later(() => { typing = setInterval(() => { n += 2; el.textContent = full.slice(0, n); if (n >= full.length) clearInterval(typing); }, 22); }, delay || 0);
+  }
+  // A copy of an element travels to another element and fades: passages going into a block, a word going into a query
+  function fly(from, to, ms, cls){
+    if (reduce || !from || !to) return;
+    const a = from.getBoundingClientRect(), b = to.getBoundingClientRect();
+    if (!a.width || !b.width) return;
+    const g = from.cloneNode(true); g.classList.add('flyer'); if (cls) g.classList.add(cls); g.setAttribute('aria-hidden', 'true');
+    g.style.cssText = 'left:' + a.left + 'px;top:' + a.top + 'px;width:' + a.width + 'px;height:' + a.height + 'px';
+    g.style.setProperty('--g', getComputedStyle(syscEl).getPropertyValue('--g'));
+    document.body.appendChild(g);
+    const dx = b.left + b.width / 2 - a.left - a.width / 2, dy = b.top + b.height / 2 - a.top - a.height / 2;
+    try {
+      g.animate([{transform:'none', opacity:1}, {transform:'translate(' + dx * .5 + 'px,' + (dy * .5 - 28) + 'px) scale(1.12)', opacity:1, offset:.5}, {transform:'translate(' + dx + 'px,' + dy + 'px) scale(.7)', opacity:.2}], {duration:ms, easing:E})
+        .finished.then(() => g.remove(), () => g.remove());
+    } catch(e){ g.remove(); }
+  }
+
+  function blockCard(b){
+    const B = BLK[b];
+    return '<button type="button" class="pb' + (B.fn ? ' fn' : '') + '" data-block="' + b + '">' + ICON[B.i] + '<span class="kd">' + KIND[B.kind][0].split(' · ')[0] + '</span><b>' + B.n + '</b><small>' + B.role + '</small></button>';
+  }
+  function renderPipe(id){
+    const p = PIPE[id], arr = '<span class="parr" aria-hidden="true"><i class="pkt"></i></span>';
+    const dq = id === 'S0' ? 'with today’s date, no search' : Array.isArray(p) ? 'searched as written' : 'the model writes the queries';
+    let h = '<div class="pend" data-end="q">Question<small>' + dq + '</small></div>' + arr;
+    if (Array.isArray(p)) h += p.map(b => blockCard(b)).join(arr);
+    else h += '<div class="ploop"><span class="ploop-l">↻ repeat · up to 8 tool calls</span>' + blockCard('decide') + '<span class="parr two" aria-hidden="true"><em>query</em><i class="pkt"></i></span><div class="ptools"><span class="ptools-h">Tools</span>' + p.tools.map(b => blockCard(b)).join('') + '</div></div>';
+    h += arr + '<div class="pend" data-end="a">Answer<small>Answer: …</small></div>';
+    pipeEl.innerHTML = h;
+  }
+  // Keyed FLIP: shared blocks slide to their new place, paired blocks transform into each other, the rest leave or arrive
+  function crossfade(el, o){
+    const ov = document.createElement('span'); ov.className = 'pb-old'; ov.setAttribute('aria-hidden', 'true'); ov.innerHTML = o.html;
+    const kids = [...el.children]; el.appendChild(ov);
+    const a = ov.animate([{opacity:1, transform:'none'}, {opacity:0, transform:'translateY(-8px)'}], {duration:300, delay:140, easing:'ease-in', fill:'forwards'});
+    inflight.push(a); a.finished.then(() => ov.remove(), () => ov.remove());
+    kids.forEach(c => inflight.push(c.animate([{opacity:0, transform:'translateY(8px)'}, {opacity:1, transform:'none'}], {duration:360, delay:320, easing:E, fill:'backwards'})));
+    restart(el, 'swapring');
+  }
+  function morphPipe(toId){
+    const had = !!pipeEl.querySelector('.ploop');
+    const old = new Map([...pipeEl.querySelectorAll('.pb[data-block]')].map(el => [el.dataset.block, {html: el.innerHTML, r: relTo(el, pipeEl), cls: el.className, row: !!el.closest('.ptools')}]));
+    inflight.forEach(a => { try { a.cancel(); } catch(e){} }); inflight = [];
+    pipeEl.querySelectorAll('.ghost-pb').forEach(g => g.remove());
+    const sl = pipeEl.scrollLeft;
+    renderPipe(toId); pipeEl.scrollLeft = 0;
+    if (reduce || !old.size || typeof Element.prototype.animate !== 'function') return;
+    const loop = pipeEl.querySelector('.ploop'); if (loop && !had) loop.classList.add('enter');
+    const used = new Set(); let k = 0;
+    pipeEl.querySelectorAll('.pb[data-block]').forEach(el => {
+      const id = el.dataset.block, n = relTo(el, pipeEl); let key = old.has(id) ? id : null;
+      if (!key){ const p = PAIRS.find(p => { const q = p[0] === id ? p[1] : p[1] === id ? p[0] : null; return q && old.has(q) && !used.has(q) && !pipeEl.querySelector('.pb[data-block="' + q + '"]'); }); if (p) key = p[0] === id ? p[1] : p[0]; }
+      if (key){ const o = old.get(key); used.add(key); el.style.transformOrigin = '0 0';
+        const from = 'translate(' + (o.r.x - sl - n.x) + 'px,' + (o.r.y - n.y) + 'px) scale(' + (o.r.w / n.w) + ',' + (o.r.h / n.h) + ')';
+        try { inflight.push(el.animate([{transform: from}, {transform: 'none'}], {duration: 560, delay: 110, easing: E, composite: 'add', fill: 'backwards'})); }
+        catch(e){ inflight.push(el.animate([{transform: from}, {transform: 'none'}], {duration: 560, delay: 110, easing: E, fill: 'backwards'})); }
+        if (key !== id) crossfade(el, o);
+      } else { el.classList.add('chg'); inflight.push(el.animate([{opacity: 0, transform: 'translateY(10px) scale(.86)'}, {opacity: 1, transform: 'none'}], {duration: 420, delay: 300 + 90 * k++, easing: E, fill: 'backwards'})); }
+    });
+    old.forEach((o, id) => { if (used.has(id)) return;
+      const g = document.createElement('div'); g.className = 'ghost-pb'; g.setAttribute('aria-hidden', 'true');
+      g.innerHTML = '<div class="' + o.cls.replace(/\b(on|done|idle|chg|hint|fed|swapring)\b/g, '') + (o.row ? ' row' : '') + '">' + o.html + '</div>';
+      Object.assign(g.style, {left: (o.r.x - sl) + 'px', top: o.r.y + 'px', width: o.r.w + 'px'});
+      pipeEl.appendChild(g);
+      g.animate([{opacity: 1, transform: 'none'}, {opacity: 0, transform: 'translateY(14px) scale(.9)'}], {duration: 220, easing: 'ease-out', fill: 'forwards'}).finished.then(() => g.remove(), () => g.remove()); });
+    setTimeout(() => pipeEl.querySelectorAll('.pb.chg').forEach(p => p.classList.remove('chg')), 2600);
+  }
+  function renderExplain(b){
+    const B = BLK[b], K = KIND[B.kind];
+    bxEl.innerHTML = '<div class="in"><div class="bx-top">' + ICON[B.i] + '<b class="' + (B.fn ? 'fn' : '') + '">' + B.n + '</b><span class="kind ' + B.kind + '">' + (B.kind === 'enc' || B.kind === 'dec' ? '<i><u></u><u></u><u></u></i>' : '') + K[0] + '</span></div>' +
+      '<p class="bx-kn">' + K[1] + '</p>' + (B.under ? '<p class="bx-under">' + B.under + '</p>' : '') +
+      '<p class="bx-what">' + B.what + '</p><ul class="bx-how">' + B.how.map(h => '<li><span>' + h + '</span></li>').join('') + '</ul></div>';
+    $('#bxtl').textContent = 'About ' + B.n;
+  }
+  function applyStep(){
+    choreo.forEach(clearTimeout); choreo = [];
+    const steps = STEPS[sys], st = steps[step], d = st.d || {}, prevBlock = lastBlock;
+    let order = ORIG; for (let i = 0; i <= step; i++) if (steps[i].order) order = steps[i].order;
+    const domOrder = [...corpusEl.querySelectorAll('.doc')].map(e => e.dataset.d);
+    // scores first, then the new order, then the winners
+    const seq = !reduce && !!st.badges && order.join() !== domOrder.join();
+    const T_SORT = seq ? 850 : 0, T_PICK = seq ? 1550 : 0;
+    later(() => reorder(order), T_SORT);
+    corpusEl.classList.toggle('off', !!st.off);
+    if (st.scan) restart(corpusEl, 'scan');
+    Object.values(docEl).forEach(el => {
+      const id = el.dataset.d, cls = (st.docs && st.docs[id]) || st.rest || '';
+      const set = () => { el.classList.remove('pick', 'dim', 'out', 'read'); if (cls) el.classList.add(cls); };
+      if (cls === 'pick' || cls === 'dim') later(set, T_PICK); else set();
+      const b = el.querySelector('.badge'), bv = st.badges && st.badges[id];
+      if (bv){ countUp(b, bv[0], bv[1], bv[2]); b.classList.add('on'); } else b.classList.remove('on');
+      const hits = (st.hits && st.hits[id]) || [], di = domOrder.indexOf(id);
+      el.querySelectorAll('.w').forEach(w => { w.style.transitionDelay = st.scan && !reduce ? (160 * di) + 'ms' : ''; w.classList.toggle('hit', hits.includes(w.dataset.w)); });
+      el.querySelectorAll('.sp').forEach(s => s.classList.toggle('on', !!(st.spans && st.spans.includes(id))));
+      const lines = (st.lines && st.lines[id]) || [];
+      el.querySelectorAll('.doc-b .ln').forEach((l, i) => l.classList.toggle('on', lines.includes(i)));
+    });
+    const metric = st.badges ? Object.values(st.badges)[0][2] : null;
+    $('#clegend').innerHTML = metric ? MTXT[metric] : DTXT;
+    const done = new Set(); for (let i = 0; i < step; i++) done.add(steps[i].block);
+    const used = new Set(steps.map(s => s.block));
+    pipeEl.querySelectorAll('.pb[data-block]').forEach(p => { const b = p.dataset.block; p.classList.toggle('on', b === st.block); p.classList.toggle('done', done.has(b) && b !== st.block); p.classList.toggle('idle', !used.has(b)); });
+    if (!reduce && prevBlock && st.block !== prevBlock) later(() => restart(pipeEl.querySelector('.pb.on'), 'focus'), 450);
+    if (st.block !== lastBlock){ renderExplain(st.block); lastBlock = st.block; }
+    const reads = st.docs ? Object.keys(st.docs).filter(k => st.docs[k] === 'read') : [];
+    const flies = !reduce && reads.length > 0 && st.block !== prevBlock;
+    lensEl.style.setProperty('--lens-delay', flies ? '600ms' : '160ms');
+    lensEl.innerHTML = '<div class="lens-body">' + LENS[st.lens](d) + '</div>';
+    typeCall(d.rw ? 700 + lensEl.querySelectorAll('.rw-to .qw').length * 130 : 0);
+    capEl.innerHTML = '<p class="t in">' + st.cap + '</p>';
+    // motion along the pipeline
+    const on = pipeEl.querySelector('.pb.on');
+    if (!reduce && on){
+      hscroll(pipeEl, on);
+      if (st.block !== prevBlock){
+        const loop = on.closest('.ploop'); let arrow = null;
+        if (loop){ const two = loop.querySelector('.parr.two');
+          if (!prevBlock) arrow = loop.previousElementSibling;
+          else if (two){ const back = st.block === 'decide' && BLK[prevBlock] && BLK[prevBlock].kind === 'tool'; two.classList.toggle('back', back); two.querySelector('em').textContent = back ? 'result' : 'query'; arrow = two; } }
+        else arrow = on.previousElementSibling;
+        if (arrow && arrow.classList.contains('parr')) restart(arrow, 'go');
+      }
+      if (step === steps.length - 1){ const ans = pipeEl.querySelector('.pend[data-end="a"]'); later(() => restart(ans && ans.previousElementSibling, 'go'), 900); later(() => restart(ans, 'fed'), 1500); }
+      if (flies) later(() => { reads.forEach((rid, i) => later(() => fly(docEl[rid].querySelector('.doc-id'), on, 650), i * 130)); later(() => restart(on, 'fed'), 650 + reads.length * 130); }, 380);
+      if (d.rw === RW.s4b || d.rw === RW.s5b) later(() => fly(docEl.D1.querySelector('.sp'), lensEl.querySelector('.rw-to mark'), 850, 'fw'), 450);
+    }
+    renderBar();
+  }
+  // The step bar: where you are, and arrows that also cross into the next or previous system
+  function renderBar(){
+    const n = STEPS[sys].length, i = IDS.indexOf(sys), pv = IDS[i - 1], nx = IDS[i + 1];
+    lstep.innerHTML = sys + ' · Step ' + (step + 1) + ' of ' + n + ' <span>· ' + BLK[STEPS[sys][step].block].n + '</span>'; restart(lstep, 'in');
+    let h = ''; for (let j = 0; j < n; j++) h += '<button type="button" data-step="' + j + '" class="' + (j < step ? 'done' : j === step ? 'cur' : '') + '" aria-label="Step ' + (j + 1) + '"><span><i></i></span></button>';
+    progEl.innerHTML = h;
+    const toPrev = step === 0, toNext = step === n - 1;
+    bprev.disabled = toPrev && !pv; bnext.disabled = toNext && !nx;
+    bprev.querySelector('.sb-x').textContent = toPrev && pv ? pv : '';
+    bnext.querySelector('.sb-x').textContent = toNext && nx ? 'Next: ' + nx : '';
+    bprev.setAttribute('aria-label', toPrev && pv ? 'Back to ' + pv + ', ' + NAME[pv] : 'Previous step');
+    bnext.setAttribute('aria-label', toNext && nx ? 'Go on to ' + nx + ', ' + NAME[nx] : 'Next step');
+  }
+  function go(i){ step = Math.max(0, Math.min(STEPS[sys].length - 1, i)); applyStep(); }
+  let crossT = null;
+  function crossTo(id, at){
+    clearTimeout(crossT); syscEl.classList.add('cross'); crossT = setTimeout(() => syscEl.classList.remove('cross'), 1000);
+    select(id); if (at) go(at);
+    const r = $('#rdiff').getBoundingClientRect(); if (r.top < 60) scrollTo('#rdiff');
+  }
+  function stepBy(dir){
+    const n = STEPS[sys].length, i = IDS.indexOf(sys);
+    syscEl.style.setProperty('--dx', dir); syscEl.classList.toggle('back', dir < 0);
+    if (dir > 0){ if (step < n - 1) go(step + 1); else if (IDS[i + 1]) crossTo(IDS[i + 1], 0); }
+    else { if (step > 0) go(step - 1); else if (IDS[i - 1]) crossTo(IDS[i - 1], STEPS[IDS[i - 1]].length - 1); }
+    syscEl.classList.add('moved');
+  }
+  bprev.addEventListener('click', () => stepBy(-1));
+  bnext.addEventListener('click', () => stepBy(1));
+  progEl.addEventListener('click', e => { const b = e.target.closest('[data-step]'); if (b){ const t = +b.dataset.step; syscEl.style.setProperty('--dx', t >= step ? 1 : -1); syscEl.classList.toggle('back', t < step); go(t); syscEl.classList.add('moved'); } });
+  pipeEl.addEventListener('click', e => { const b = e.target.closest('.pb[data-block]'); if (!b) return;
+    const i = STEPS[sys].findIndex(s => s.block === b.dataset.block);
+    if (i >= 0) go(i); else { renderExplain(b.dataset.block); lastBlock = b.dataset.block; pipeEl.querySelectorAll('.pb[data-block]').forEach(p => p.classList.toggle('on', p === b)); } });
+
+  const bxt = $('#bxt'); bxt.addEventListener('click', () => bxt.setAttribute('aria-expanded', syscEl.classList.toggle('bx-open') ? 'true' : 'false'));
+  $('#seg').addEventListener('click', e => { const b = e.target.closest('[data-pane]'); if (!b) return; syscEl.dataset.pane = b.dataset.pane; $('#seg').querySelectorAll('[data-pane]').forEach(x => x.setAttribute('aria-selected', x === b ? 'true' : 'false')); });
+
+  /* ---------- The diff pills point at the blocks they name ---------- */
+  const rdiffEl = $('#rdiff'), PC = {add:'var(--good)', swap:'var(--model)', big:'var(--mag)'};
+  function hint(pill, on){ const kind = Object.keys(PC).find(c => pill.classList.contains(c));
+    (pill.dataset.blocks || '').split(' ').filter(Boolean).forEach(b => { const el = pipeEl.querySelector('.pb[data-block="' + b + '"]'); if (el){ el.classList.toggle('hint', on); if (kind) el.style.setProperty('--pc', PC[kind]); } }); }
+  rdiffEl.addEventListener('pointerover', e => { const p = e.target.closest('.dpill'); if (p) hint(p, true); });
+  rdiffEl.addEventListener('pointerout', e => { const p = e.target.closest('.dpill'); if (p) hint(p, false); });
+  rdiffEl.addEventListener('focusin', e => { const p = e.target.closest('.dpill'); if (p) hint(p, true); });
+  rdiffEl.addEventListener('focusout', e => { const p = e.target.closest('.dpill'); if (p) hint(p, false); });
+  rdiffEl.addEventListener('click', e => { const p = e.target.closest('.dpill'); if (!p) return; const b = (p.dataset.blocks || '').split(' ')[0]; if (!b) return;
+    const i = STEPS[sys].findIndex(s => s.block === b);
+    if (i >= 0) go(i); else if (pipeEl.querySelector('.pb[data-block="' + b + '"]')){ renderExplain(b); lastBlock = b; } });
+
+  function renderSystem(id){
+    const g = GROUP[id], r = RESULT[id];
+    syscEl.className = 'sysc g-' + g + (syscEl.classList.contains('moved') ? ' moved' : '') + (syscEl.classList.contains('bx-open') ? ' bx-open' : '') + (syscEl.classList.contains('back') ? ' back' : '') + (syscEl.classList.contains('cross') ? ' cross' : '');
+    railEl.querySelectorAll('.rnode').forEach(b => { const on = b.dataset.sys === id; b.setAttribute('aria-selected', on ? 'true' : 'false'); b.tabIndex = on ? 0 : -1; });
+    rdiffEl.innerHTML = '<p class="in">' + DIFF[id].p + '</p><div class="pills">' + DIFF[id].pills.map((p, i) => '<button type="button" class="dpill ' + p[0] + '" data-blocks="' + p[2].join(' ') + '" style="animation-delay:' + (280 + i * 90) + 'ms"' + (p[2].length ? '' : ' tabindex="-1"') + '>' + (p[0] === 'add' ? '+ ' : p[0] === 'rem' ? '− ' : '') + esc(p[1]) + '</button>').join('') + '</div>';
+    $('#syshead').innerHTML = '<div class="in"><h3><span>' + id + '</span> · ' + NAME[id] + ' <span class="kind2">' + KIND2[g] + '</span></h3><p class="nick">' + NICK[id] + '</p></div>' +
+      '<div class="hstats in" style="animation-delay:.08s"><div><b>' + WHO[g] + '</b><span>decides how to search</span></div><div><b>' + CHANCES[id] + '</b><span>how often it searches</span></div><div><b>' + (r[1] ? OK : KO) + esc(r[0]) + '</b><span>answer to our question</span></div></div>';
+    morphPipe(id);
+  }
+  function select(id){
+    sys = id; step = 0; lastBlock = null;
+    renderSystem(id); applyStep();
+    IDS.forEach(i => laneEl[i] && laneEl[i].classList.toggle('cur', i === id));
+    hscroll(railEl, $('#rn-' + IDS.indexOf(id)));
+    try { localStorage.setItem('klc7-system', id); } catch(e){}
+  }
+
+  /* ================= All seven at once, one step at a time ================= */
+  const laneEl = {}, TAG = Object.fromEntries(DOCS.map(x => [x.id, x.tag]));
+  const LOOKUP = {bm25:1, cos:1, hyb:2, vec:1, kw:1, page:1, tab:1}, RANK = {scored:1, pick:2, read:3};
+  const boardEl = $('#board'), lanesEl = $('#lanes'), rprev = $('#rprev'), rnext = $('#rnext'), rprog = $('#rprog');
+  // Fold each system's steps into events: consecutive steps on the same block become one event
+  function raceEvents(id){ const ev = [];
+    STEPS[id].forEach((st, i) => { const L = ev[ev.length - 1];
+      if (L && L.block === st.block){ Object.assign(L.docs, st.docs || {}); Object.assign(L.badges, st.badges || {}); if (st.docs || st.badges) L.cap = st.cap; L.search = L.search || !!st.scan; return; }
+      ev.push({block:st.block, step:i, docs:Object.assign({}, st.docs || {}), badges:Object.assign({}, st.badges || {}), cap:st.cap, search:!!st.scan}); });
+    return ev; }
+  const RACE = Object.fromEntries(IDS.map(id => [id, raceEvents(id)]));
+  const BEATS = Math.max(...IDS.map(id => RACE[id].length)) + 1;
+  // What happens across the seven systems at each step (checked against the events above)
+  const BEAT_CAP = [
+    'All seven get the same question. Press the arrow to move every system forward by one step.',
+    'S0 answers from memory. The pipelines search with the question exactly as written. The agents first rewrite it into their own query.',
+    'S0 is done: “unknown”. The others get their first results back: passages for most of them, a table position for S5+.',
+    'S3’s filter drops last season’s table (D2). S4 and S5+ learn that Lecce is the team just above Cremonese.',
+    'S1 and S2 are done: “unknown”. The agents now search for Lecce’s coach, a name the question never mentions.',
+    'The agents reach D3, the passage with the coach. S3 still has only D1 and D4 to read.',
+    'S3 is done: “unknown”. S4 and S5+ answer Eusebio Di Francesco.',
+    'S5 answers too, after reading a whole page. 3 of 7 find the coach, and all three are agents.'
+  ];
+  let beat = 0;
+  function laneState(id, k){
+    const s = {chips:{}, badge:{}, n:0, cap:''};
+    RACE[id].slice(0, k + 1).forEach(e => {
+      Object.keys(e.badges).forEach(x => { if (!s.chips[x]) s.chips[x] = 'scored'; s.badge[x] = e.badges[x]; });
+      Object.keys(e.docs).forEach(x => { const c = e.docs[x]; if (c === 'out') s.chips[x] = 'out'; else if (RANK[c] && s.chips[x] !== 'out' && RANK[c] > (RANK[s.chips[x]] || 0)) s.chips[x] = c; });
+      s.n += LOOKUP[e.block] || 0; s.cap = e.cap; });
+    return s; }
+  function paintLane(id, k, verdict, anim){
+    const L = laneEl[id], s = laneState(id, k), r = RESULT[id];
+    L.querySelectorAll('.ev').forEach((b, j) => { b.classList.toggle('on', j === k && !verdict); b.classList.toggle('done', j < k || (verdict && j <= k)); });
+    L.querySelectorAll('.cn').forEach((c, j) => { c.classList.toggle('lit', j < k); if (anim && !verdict && j === k - 1) restart(c, 'go'); else c.classList.remove('go'); });
+    L.querySelectorAll('.dc').forEach((c, ci) => { const x = c.dataset.d, st = s.chips[x] || '';
+      if ((c.dataset.st || '') !== st){ c.dataset.st = st; c.classList.remove('scored', 'pick', 'read', 'out'); if (st) c.classList.add(st); if (anim && st){ c.style.animationDelay = (300 + ci * 90) + 'ms'; restart(c, 'bump'); } else c.classList.remove('bump'); }
+      const bd = s.badge[x]; c.title = x + ' · ' + TAG[x] + (bd ? ' · ' + MLAB[bd[2]] + ' ' + bd[0].toFixed(bd[1]) : ''); });
+    const cnt = L.querySelector('.cnt'), cb = cnt.querySelector('b');
+    clearTimeout(L._t); if (cb.textContent !== String(s.n)){ if (anim && !reduce) L._t = setTimeout(() => { cb.textContent = s.n; restart(cb, 'tick'); }, 420); else cb.textContent = s.n; }
+    cnt.dataset.u = s.n === 1 ? ' lookup' : ' lookups';
+    L._cap = k < 0 ? '' : s.cap; L.querySelector('.rcap').textContent = L._cap;
+    const a = L.querySelector('.lans');
+    a.className = 'lans' + (verdict ? (r[1] ? ' ok' : ' no') : ' wait');
+    a.innerHTML = verdict ? (r[1] ? OK : KO) + '<b>' + esc(r[0]) + '</b>' : '<b>' + (k < 0 ? '' : '…') + '</b>';
+    if (verdict && anim) restart(a, 'bump');
+    L.classList.toggle('fin', !!verdict);
+    L.setAttribute('aria-label', id + ' ' + NAME[id] + ', ' + s.n + (s.n === 1 ? ' lookup' : ' lookups') + (verdict ? ', answer: ' + r[0] + (r[1] ? ', right' : ', wrong') : ''));
+  }
+  function renderBoard(){
+    lanesEl.innerHTML = IDS.map(id => { const ev = RACE[id], g = GROUP[id];
+      const track = ev.map((e, k) => (k ? '<i class="cn"></i>' : '') + '<button type="button" class="ev" data-k="' + k + '" aria-label="' + esc(id + ', step ' + (k + 1) + ' of ' + ev.length + ': ' + BLK[e.block].n + '. Open it in the lab below.') + '">' + ICON[BLK[e.block].i] + '</button>').join('');
+      return '<div class="lane g-' + g + '" role="group" data-sys="' + id + '"><button type="button" class="lname" aria-label="Open ' + id + ' ' + NAME[id] + ' in the lab below"><span class="gdot"></span><b>' + id + '</b><span>' + NAME[id] + '</span></button>' +
+        '<div class="track' + (g === 'model' ? ' loop' : '') + '">' + track + '</div>' +
+        '<div class="chips' + (id === 'S0' ? ' off' : '') + '"' + (id === 'S0' ? ' title="This system never looks at the passages"' : '') + '>' + ORIG.map(x => '<span class="dc' + (x === 'D3' ? ' ans' : '') + '" data-d="' + x + '">' + x + '</span>').join('') + '</div>' +
+        '<div class="cnt"><b>0</b></div><div class="lans"></div><p class="rcap"></p></div>'; }).join('');
+    IDS.forEach(id => { laneEl[id] = lanesEl.querySelector('.lane[data-sys="' + id + '"]'); });
+  }
+  function paintBeat(b, anim){
+    beat = Math.max(0, Math.min(BEATS, b));
+    IDS.forEach(id => { const n = RACE[id].length;
+      const L = laneEl[id]; L.classList.toggle('act', anim && beat >= 1 && beat <= n); L.classList.toggle('rest', beat > n + 1 && beat < BEATS);
+      if (beat === 0) paintLane(id, -1, false, false);
+      else if (beat <= n){ paintLane(id, beat - 1, false, anim); if (anim && RACE[id][beat - 1].search) restart(laneEl[id].querySelector('.chips'), 'scan'); }
+      else paintLane(id, n - 1, true, anim && beat === n + 1); });
+    $('#rstep').innerHTML = beat === 0 ? 'Start <span>· 7 steps</span>' : 'Step ' + beat + ' of ' + BEATS; restart($('#rstep'), 'in');
+    const cap = $('#rcapall'); cap.textContent = BEAT_CAP[beat]; restart(cap, 'in');
+    let h = ''; for (let j = 1; j <= BEATS; j++) h += '<button type="button" data-beat="' + j + '" class="' + (j < beat ? 'done' : j === beat ? 'cur' : '') + '" aria-label="Step ' + j + '"><span><i></i></span></button>';
+    rprog.innerHTML = h;
+    rprev.disabled = beat === 0; rnext.disabled = beat === BEATS;
+    $('#bstatus').textContent = beat === BEATS ? '3 of 7 find the coach (' + IDS.filter(id => RESULT[id][1]).join(', ') + ').' : '';
+  }
+  function beatBy(dir){ boardEl.style.setProperty('--dx', dir); boardEl.classList.toggle('back', dir < 0); paintBeat(beat + dir, dir > 0); boardEl.classList.add('moved'); }
+  rprev.addEventListener('click', () => beatBy(-1));
+  rnext.addEventListener('click', () => beatBy(1));
+  rprog.addEventListener('click', e => { const b = e.target.closest('[data-beat]'); if (b){ const t = +b.dataset.beat; boardEl.style.setProperty('--dx', t > beat ? 1 : -1); boardEl.classList.toggle('back', t < beat); paintBeat(t, t === beat + 1); boardEl.classList.add('moved'); } });
+  function openAt(id, at){ select(id); if (at) go(at); scrollTo('#sysc'); }
+  lanesEl.addEventListener('click', e => { const L = e.target.closest('.lane'); if (!L) return; const b = e.target.closest('.ev');
+    if (b) openAt(L.dataset.sys, RACE[L.dataset.sys][+b.dataset.k].step); else if (e.target.closest('.lname')) openAt(L.dataset.sys, 0); });
+  const peek = (e, on) => { const b = e.target.closest('.ev'); if (!b) return; const L = b.closest('.lane'); L.querySelector('.rcap').textContent = on ? RACE[L.dataset.sys][+b.dataset.k].cap : L._cap; };
+  lanesEl.addEventListener('pointerover', e => peek(e, true)); lanesEl.addEventListener('pointerout', e => peek(e, false));
+  lanesEl.addEventListener('focusin', e => peek(e, true)); lanesEl.addEventListener('focusout', e => peek(e, false));
+
+  // ← and → move whichever of the two is more on screen
+  document.addEventListener('keydown', e => {
+    if ((e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    if (e.target.closest && e.target.closest('#rail, input, textarea, select, [contenteditable]')) return;
+    e.preventDefault(); const dir = e.key === 'ArrowRight' ? 1 : -1;
+    if (visible(boardEl) > visible(syscEl)) beatBy(dir); else stepBy(dir);
+  });
+
+  /* ================= Start ================= */
+  renderBoard(); paintBeat(0, false);
+  select(sys);
+})();
+</script>
+</body>
+</html>
