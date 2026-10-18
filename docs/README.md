@@ -9,5 +9,3 @@ published with GitHub Pages (Settings → Pages → Deploy from a branch → mai
 
 - index.html: the whole page, a single file with no dependencies
 - preview.png: the screenshot shown here, in the main README and in link previews
-
-To change the page, replace index.html and push to main: the site updates in a minute or two.
