@@ -4,8 +4,8 @@
 
 [![Seven Systems Compared: click to open the interactive page](preview.png)](https://alexcambier.github.io/seriea-agentic-search/)
 
-Click the link or the picture. GitHub shows index.html as code: the page itself opens at the link above,
-published with GitHub Pages (Settings → Pages → Deploy from a branch → main → /docs).
+Click the link or the picture to open the page. It follows one question, "Who coaches the team directly above
+Cremonese in the Serie A table right now?", through all seven systems, first side by side and then block by block.
+Use the arrows or the ← → keys.
 
-- index.html: the whole page, a single file with no dependencies
-- preview.png: the screenshot shown here, in the main README and in link previews
+The page is index.html in this folder. GitHub shows it as code, so open it from the link above.
